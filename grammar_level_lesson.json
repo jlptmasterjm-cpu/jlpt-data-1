@@ -1,0 +1,112 @@
+{
+  "N1": {
+    "Lesson13": [],
+    "Lesson 1": [],
+    "Lesson5": [],
+    "Lesson8": [],
+    "Lesson3": [],
+    "Lesson10": [],
+    "Lesson6": [],
+    "Lesson9": [],
+    "Lesson7": [],
+    "Lesson2": [],
+    "Lesson14": [],
+    "Lesson1": [],
+    "Lesson11": [],
+    "Lesson15": [],
+    "Lesson12": [],
+    "Lesson4": []
+  },
+  "N4": {
+    "Lesson2": [],
+    "Lesson9": [],
+    "Lesson13": [],
+    "Lesson5": [],
+    "Lesson14": [],
+    "Lesson8": [],
+    "Lesson10": [],
+    "Lesson7": [],
+    "Lesson1": [],
+    "Lesson12": [],
+    "Lesson11": [],
+    "Lesson3": [],
+    "Lesson15": [],
+    "Lesson6": [],
+    "Lesson4": []
+  },
+  "N2": {
+    "Lesson13": [],
+    "Lesson14": [],
+    "Lesson10": [],
+    "Lesson3": [],
+    "Lesson12": [],
+    "Lesson6": [],
+    "Lesson4": [],
+    "Lesson15": [],
+    "Lesson2": [],
+    "Lesson9": [],
+    "Lesson11": [],
+    "Lesson5": [],
+    "Lesson8": [],
+    "Lesson7": [],
+    "Lesson1": []
+  },
+  "N5": {
+    "Lesson3": [],
+    "Lesson6": [],
+    "Lesson5": [],
+    "Lesson15": [],
+    "Lesson12": [],
+    "Lesson11": [],
+    "Lesson8": [],
+    "Lesson14": [],
+    "Lesson 2": [],
+    "Lesson1": [],
+    "Lesson9": [],
+    "Lesson7": [],
+    "Lesson2": [],
+    "Lesson4": [],
+    "Lesson13": [],
+    "Lesson 1": [
+      {
+        "explanation": "N1 သည် N2 ဖြစ်ပါသည်။ (အတည်ပြု ဝါကျ)",
+        "example": "1. わたしは かんこくじん です。\n(ကျွန်တော်သည် ကိုရီးယားလူမျိုး ဖြစ်ပါသည်။)\n\n2. わたしは にほんじん です。\n(ကျွန်တော်သည် ဂျပန်လူမျိုး ဖြစ်ပါသည်။)",
+        "structure": "N1 は N2 です",
+        "grammarPoint": "N1 は N2 です",
+        "id": 1789420107104.8982
+      },
+      {
+        "example": "1. わたしは かんこくじん じゃ ありません。\n(ကျွန်တော်သည် ကိုရီးယားလူမျိုး မဟုတ်ပါ။)\n\n2. わたしは にほんじん では ありません。\n(ကျွန်တော်သည် ဂျပန်လူမျိုး မဟုတ်ပါ။)",
+        "explanation": "N1 သည် N2 မဟုတ်ပါ။ (အငြင်း ဝါကျ)",
+        "grammarPoint": "N1 は N2 じゃ ありません / では ありません",
+        "structure": "N1 は N2 じゃ ありません / では ありません",
+        "id": 1789420107104.6514
+      },
+      {
+        "structure": "N1 は N2 の N3 です",
+        "example": "1. わたしは さくらだいがく の せんせい です。\n(ကျွန်တော်သည် ဆာကူရာတက္ကသိုလ်၏ ဆရာ ဖြစ်ပါသည်။)",
+        "id": 1789420107104.2937,
+        "explanation": "N1 ၏ N2 (ပိုင်ဆိုင်ခြင်း သို့မဟုတ် ဆက်နွှယ်မှုကို ပြသော ပစ္စည်း)",
+        "grammarPoint": "N1 の N2"
+      }
+    ],
+    "Lesson10": []
+  },
+  "N3": {
+    "Lesson2": [],
+    "Lesson15": [],
+    "Lesson7": [],
+    "Lesson8": [],
+    "Lesson11": [],
+    "Lesson1": [],
+    "Lesson9": [],
+    "Lesson5": [],
+    "Lesson14": [],
+    "Lesson3": [],
+    "Lesson13": [],
+    "Lesson12": [],
+    "Lesson10": [],
+    "Lesson6": [],
+    "Lesson4": []
+  }
+}
