@@ -1,19 +1,5 @@
 {
-  "Lesson3": [],
-  "Lesson6": [],
-  "Lesson5": [],
-  "Lesson15": [],
-  "Lesson12": [],
-  "Lesson11": [],
-  "Lesson8": [],
-  "Lesson14": [],
-  "Lesson 2": [],
   "Lesson1": [],
-  "Lesson9": [],
-  "Lesson7": [],
-  "Lesson2": [],
-  "Lesson4": [],
-  "Lesson13": [],
   "Lesson 1": [
     {
       "explanation": "N1 သည် N2 ဖြစ်ပါသည်။ (အတည်ပြု ဝါကျ)",
@@ -37,5 +23,19 @@
       "grammarPoint": "N1 の N2"
     }
   ],
-  "Lesson10": []
+  "Lesson 2": [],
+  "Lesson2": [],
+  "Lesson3": [],
+  "Lesson4": [],
+  "Lesson5": [],
+  "Lesson6": [],
+  "Lesson7": [],
+  "Lesson8": [],
+  "Lesson9": [],
+  "Lesson10": [],
+  "Lesson11": [],
+  "Lesson12": [],
+  "Lesson13": [],
+  "Lesson14": [],
+  "Lesson15": []
 }
