@@ -1,19 +1,5 @@
 {
-  "Lesson 1": [
-    {
-      "id": 1789784488394.013,
-      "category": "Reading",
-      "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>1 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br><ruby>私<rt>わたし</rt></ruby>たちは、いろいろな<ruby>場面<rt>ばめん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>服<rt>ふく</rt></ruby>を<ruby>着替<rt>きが</rt></ruby>える。たとえばふだんはTシャツにジーンズの<ruby>人<rt>ひと</rt></ruby>も、パーティーのときはスーツがきれいに<ruby>服<rt>ふく</rt></ruby>を<sub>①</sub><ruby>着<rt>き</rt></ruby>るのではないだろうか。<ruby>言葉<rt>ことば</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じで、それぞれの<ruby>場面<rt>ばめん</rt></ruby>などによって<sub>②</sub><ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<br><br>たとえば、<ruby>日本語<rt>にほんご</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>すときと<ruby>書<rt>か</rt></ruby>くときで<ruby>文体<rt>ぶんたい</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>う。また、<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には「です・ます<ruby>体<rt>たい</rt></ruby>」「だ<ruby>体<rt>たい</rt></ruby>」「である<ruby>体<rt>たい</rt></ruby>」などの<ruby>文体<rt>ぶんたい</rt></ruby>がある。<ruby>初級<rt>しょきゅう</rt></ruby>では、<ruby>話<rt>はな</rt></ruby>し<ruby>言葉<rt>ことば</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<sub>③</sub><ruby>勉強<rt>べんきょう</rt></ruby>してきた。<ruby>中級<rt>ちゅうきゅう</rt></ruby>では<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶことも<ruby>増<rt>ふ</rt></ruby>えてくる。「だ<ruby>体<rt>たい</rt></ruby>」「である<ruby>体<rt>たい</rt></ruby>」という<ruby>文体<rt>ぶんたい</rt></ruby>も<ruby>知<rt>し</rt></ruby>っておけば、<ruby>文章<rt>ぶんしょう</rt></ruby>が<sub>④</sub><ruby>読<rt>よ</rt></ruby>みやすくなるだろう。",
-      "question": "<b>【問い】</b> この<ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>と<ruby>合<rt>あ</rt></ruby>っているものはどれか。",
-      "options": [
-        "1. 日本語にはさまざまな文体があり、場面などによって変えている。",
-        "2. 中級の日本語では、書き言葉より話し言葉を中心に勉強する。",
-        "3. 日本語では、書き言葉と話し言葉の文体がよく似ている。",
-        "4. 日本語の話し言葉には、「です・ます体」「だ体」「である体」の文体がある。"
-      ],
-      "correct": "1. 日本語にはさまざまな文体があり、場面などによって変えている。"
-    }
-  ],
+  "Lesson 1": [],
   "Lesson 2": [],
   "Lesson 3": [],
   "Lesson 4": [],
