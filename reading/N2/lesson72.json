@@ -1,0 +1,15 @@
+[
+  {
+    "mondai": "問題2 次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "correct": "1. 問題(もんだい)を考える(かんがえる)ことに夢中(むちゅう)になっているとき、人は(ひと)はその状態(じょうたい)を楽しんでいる(たのしんでいる)。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><div style=\"font-size: 14px;\"><ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱えた<rt>かかえた</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>は、なにもしんどいことばかりではない。たとえば、なにかものを<ruby>作っている<rt>つくっている</rt></ruby>ときのことを<ruby>考えて<rt>かんがえて</rt></ruby>みよう。<br><ruby>小説<rt>しょうせつ</rt></ruby>でもマンガでも<ruby>音楽<rt>おんがく</rt></ruby>でもゲームでも<ruby>椅子<rt>いす</rt></ruby>でも、なにかを<ruby>作っている<rt>つくっている</rt></ruby><ruby>最中に<rt>さいちゅうに</rt></ruby>は、なにをしていても<ruby>作っている<rt>つくっている</rt></ruby>もののことを<ruby>考えたり<rt>かんがえたり</rt></ruby>することがある。「あそこはどういうふうにしよう」とか「ここはもっと<ruby>改良<rt>かいりょう</rt></ruby>の<ruby>余地<rt>よち</rt></ruby>がある」だなんて、そのものに<ruby>夢中に<rt>むちゅうに</rt></ruby>なっているとき、<ruby>人<rt>ひと</rt></ruby>は<ruby>問題<rt>もんだい</rt></ruby>が<ruby>解決<rt>かいけつ</rt></ruby>されずに<ruby>問題<rt>もんだい</rt></ruby>としてとどまっている<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>楽しんでいる<rt>たのしんでいる</rt></ruby>。<br><div style=\"text-align: right; margin-top: 10px; font-size: 12px;\">（山本貴光、吉川浩満『問題がモンダイなのだ』筑摩書房）</div></div></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">2</div> この<ruby>文章<rt>ぶんしょう</rt></ruby>で<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>最も<rt>もっとも</rt></ruby><ruby>言いたい<rt>いいたい</rt></ruby>ことは<ruby>何<rt>なに</rt></ruby>か。",
+    "options": [
+      "1. 問題(もんだい)を考える(かんがえる)ことに夢中(むちゅう)になっているとき、人は(ひと)はその状態(じょうたい)を楽しんでいる(たのしんでいる)。",
+      "2. 人は(ひと)、問題(もんだい)を自分の(じぶんの)力(ちから)で変えたり(かえたり)、改良(かいりょう)したりできたときに、喜びを(よろこびを)感じる(かんじる)。",
+      "3. 人は(ひと)、なにかを作っている(つくっている)とき、その完成を(かんせい)楽しみ(たのしみ)にして取り組んでいる(とりくんでいる)。",
+      "4. 問題(もんだい)があっても、なにかほかに夢中(むちゅう)になれることがあれば、苦しい(くるしい)ことが減る(へる)。"
+    ],
+    "id": 1788780812363.4438,
+    "category": "Reading"
+  }
+]
