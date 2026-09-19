@@ -1,0 +1,15 @@
+[
+  {
+    "options": [
+      "1. 本(ほん)を返(かえ)して、リンさんの作文(さくぶん)を出(だ)します。",
+      "2. 本(ほん)を返(かえ)して、花(はな)に水(みず)をやります。",
+      "3. リンさんの作文(さくぶん)を出(だ)して、花(はな)に水(みず)をやります。",
+      "4. 本(ほん)を返(かえ)して、リンさんの作文(さくぶん)を出(だ)して、花(はな)に水(みず)をやります。"
+    ],
+    "id": 1789286591241.2231,
+    "question": "<b>【問い】</b> オウさんは<ruby>今週<rt>こんしゅう</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。",
+    "correct": "2. 本(ほん)を返(かえ)して、花(はな)に水(みず)をやります。",
+    "mondai": "■ もんだい22 <ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてください。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から、いちばんいいものを1つ<ruby>選<rt>えら</rt></ruby>んでください。<br><br>オウさんが<ruby>帰<rt>かえ</rt></ruby>ると、<ruby>同<rt>おな</rt></ruby>じ<ruby>部屋<rt>へや</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいるリンさんからのメモが<ruby>置<rt>お</rt></ruby>いてありました。<br><br><table style=\"border: 1px solid #333; width: 100%; border-collapse: collapse; padding: 10px; background-color: #fafafa;\"><tr><td>オウさんへ<br><br><ruby>国<rt>くに</rt></ruby>の<ruby>友<rt>とも</rt></ruby>だちが<ruby>遊<rt>あそ</rt></ruby>みに<ruby>来<rt>き</rt></ruby>たので、<ruby>急<rt>きゅう</rt></ruby>にきょうから<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことになりました。<ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>の<ruby>水曜日<rt>すいようび</rt></ruby>には<ruby>帰<rt>かえ</rt></ruby>りますが、ちょっとオウさんにお<ruby>願<rt>ねが</rt></ruby>いがあります。<br>あさって(<ruby>金曜日<rt>きんようび</rt></ruby>)までに、<ruby>図書館<rt>としょかん</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>してもらえませんか。それから、<ruby>来<rt>らい</rt></ruby><ruby>週月曜日<rt>しゅうげつようび</rt></ruby>に<ruby>田中先生<rt>たなかせんせい</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>の<ruby>書<rt>か</rt></ruby>いた<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください。2つとも<ruby>私<rt>わたし</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。<br>それから、<ruby>毎日<rt>まいにち</rt></ruby><ruby>花<rt>はな</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をやってください。<br>すみません！たくさんおみやげ<ruby>買<rt>か</rt></ruby>ってきますね！<br><br>リン</td></tr></table>",
+    "category": "Reading"
+  }
+]
