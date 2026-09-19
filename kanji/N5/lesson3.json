@@ -1,0 +1,261 @@
+[
+  {
+    "kotoba": [
+      {
+        "meaning": "ဆရာ/ဆရာမ",
+        "word": "先生",
+        "reading": "せんせい"
+      },
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": "ပြီးခဲ့သည့်လ"
+      },
+      {
+        "word": "先に",
+        "meaning": "အရင်ဆုံး",
+        "reading": "さきに"
+      }
+    ],
+    "character": "先",
+    "onyomi": "セン",
+    "meaning": "အရှေ့၊ ရှေးဦး၊ အရင်",
+    "kunyomi": "さき、まず",
+    "id": 1788047180375.5122
+  },
+  {
+    "kunyomi": "-",
+    "onyomi": "コウ",
+    "character": "校",
+    "meaning": "ကျောင်း",
+    "id": 1788047180375.8984,
+    "kotoba": [
+      {
+        "word": "学校",
+        "meaning": "ကျောင်း",
+        "reading": "がっこう"
+      },
+      {
+        "meaning": "ကျောင်းအုပ်ဆရာကြီး",
+        "reading": "こうちょう",
+        "word": "校長"
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "အထက်တန်းကျောင်း"
+      }
+    ]
+  },
+  {
+    "id": 1788047180375.327,
+    "kunyomi": "まな（ぶ）",
+    "kotoba": [
+      {
+        "meaning": "ကျောင်းသား",
+        "word": "学生",
+        "reading": "がくせい"
+      },
+      {
+        "reading": "がっこう",
+        "meaning": "ကျောင်း",
+        "word": "学校"
+      },
+      {
+        "meaning": "တက္ကသိုလ်",
+        "word": "大学",
+        "reading": "だいがく"
+      }
+    ],
+    "meaning": "လေ့လာသည်၊ သင်ယူသည်",
+    "onyomi": "ガク",
+    "character": "学"
+  },
+  {
+    "meaning": "အလယ်၊ အထဲ၊ အလယ်ဗဟို",
+    "character": "中",
+    "id": 1788047111554.0435,
+    "onyomi": "チュウ",
+    "kotoba": [
+      {
+        "meaning": "အထဲ",
+        "reading": "なか",
+        "word": "中"
+      },
+      {
+        "reading": "ちゅうがっこう",
+        "meaning": "အလယ်တန်းကျောင်း",
+        "word": "中学校"
+      },
+      {
+        "meaning": "တစ်နေကုန်",
+        "word": "一日中",
+        "reading": "いちにちじゅう"
+      }
+    ],
+    "kunyomi": "なか"
+  },
+  {
+    "id": 1788047111553.5928,
+    "kunyomi": "みぎ",
+    "character": "右",
+    "onyomi": "ウ、ユウ",
+    "meaning": "ညာဘက်",
+    "kotoba": [
+      {
+        "reading": "みぎ",
+        "word": "右",
+        "meaning": "ညာဘက်"
+      },
+      {
+        "reading": "みぎて",
+        "meaning": "ညာလက်",
+        "word": "右手"
+      },
+      {
+        "reading": "みぎがわ",
+        "word": "右側",
+        "meaning": "ညာဘက်ခြမ်း"
+      }
+    ]
+  },
+  {
+    "kunyomi": "ひだり",
+    "kotoba": [
+      {
+        "reading": "ひだり",
+        "word": "左",
+        "meaning": "ဘယ်ဘက်"
+      },
+      {
+        "reading": "ひだりて",
+        "meaning": "ဘယ်လက်",
+        "word": "左手"
+      },
+      {
+        "word": "左側",
+        "reading": "ひだりがわ",
+        "meaning": "ဘယ်ဘက်ခြမ်း"
+      }
+    ],
+    "onyomi": "サ",
+    "character": "左",
+    "id": 1788047111553.29,
+    "meaning": "ဘယ်ဘက်"
+  },
+  {
+    "kunyomi": "うえ、あ（がる）、のぼ（る）",
+    "id": 1788047111553.1448,
+    "character": "上",
+    "kotoba": [
+      {
+        "word": "上",
+        "reading": "うえ",
+        "meaning": "အပေါ်"
+      },
+      {
+        "meaning": "တော်သော/ကျွမ်းကျင်သော",
+        "reading": "じょうず",
+        "word": "上手"
+      },
+      {
+        "meaning": "တက်သည်",
+        "word": "上がる",
+        "reading": "あがる"
+      }
+    ],
+    "meaning": "အပေါ်၊ အထက်",
+    "onyomi": "ジョウ、ショウ"
+  },
+  {
+    "kotoba": [
+      {
+        "meaning": "ပန်း",
+        "word": "花",
+        "reading": "はな"
+      },
+      {
+        "meaning": "မီးရှူးမီးပန်း",
+        "word": "花火",
+        "reading": "はなび"
+      },
+      {
+        "meaning": "ဂျပန်ရိုးရာပန်းအလှပြင်ခြင်း",
+        "reading": "いけばな",
+        "word": "生け花"
+      }
+    ],
+    "onyomi": "カ、ケ",
+    "meaning": "ပန်း",
+    "character": "花",
+    "kunyomi": "はな",
+    "id": 1788047060468.5085
+  },
+  {
+    "meaning": "စပါးခင်း၊ လယ်ကွင်း",
+    "id": 1788047060467.2188,
+    "onyomi": "デン",
+    "kunyomi": "た、-だ",
+    "kotoba": [
+      {
+        "meaning": "ရေသွင်းလယ်ကွင်း",
+        "word": "水田",
+        "reading": "すいでん"
+      },
+      {
+        "meaning": "လယ်ကွင်း",
+        "word": "田んぼ",
+        "reading": "たんぼ"
+      },
+      {
+        "meaning": "လယ်ယာမြေ",
+        "word": "田畑",
+        "reading": "たはた"
+      }
+    ],
+    "character": "田"
+  },
+  {
+    "id": 1788047060467.2314,
+    "meaning": "တောင်၊ တောင်တန်း",
+    "character": "山",
+    "kotoba": [
+      {
+        "meaning": "တောင်",
+        "word": "山",
+        "reading": "やま"
+      },
+      {
+        "meaning": "ဖူဂျီတောင်",
+        "reading": "ふじさん",
+        "word": "富士山"
+      },
+      {
+        "word": "火山",
+        "reading": "かざん",
+        "meaning": "မီးတောင်"
+      }
+    ],
+    "kunyomi": "やま",
+    "onyomi": "サン、ザン"
+  },
+  {
+    "kunyomi": "みみ",
+    "onyomi": "ジ",
+    "kotoba": [
+      {
+        "meaning": "နား",
+        "word": "耳",
+        "reading": "みみ"
+      },
+      {
+        "reading": "じびか",
+        "word": "耳鼻科",
+        "meaning": "နား၊ နှာခေါင်း၊ လည်ချောင်း ဌာန"
+      }
+    ],
+    "id": 1788046988036.6787,
+    "meaning": "နား",
+    "character": "耳"
+  }
+]
