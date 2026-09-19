@@ -1,5 +1,4 @@
 {
-  "Lesson 4": [],
   "Lesson 1": [
     {
       "correct": "ほうそう",
@@ -340,198 +339,6 @@
       "category": "Kanji Chart"
     }
   ],
-  "Lesson 6": [],
-  "Lesson 13": [],
-  "Lesson 3": [
-    {
-      "question": "",
-      "mondai": "道路の<span style=\"color: #ff4757;\">幅</span>が広くなった。",
-      "category": "Kanji Chart",
-      "options": [
-        "ぱば",
-        "はば",
-        "はぱ",
-        "ふば"
-      ],
-      "correct": "はば(Kanji: 幅)",
-      "id": 9014
-    },
-    {
-      "category": "Kanji Chart",
-      "correct": "あらわ(Kanji: 著)",
-      "question": "",
-      "options": [
-        "あらわした",
-        "ちらす",
-        "あらわ",
-        "ちらした"
-      ],
-      "id": 9013,
-      "mondai": "彼は有名な小説を<span style=\"color: #ff4757;\">著</span>した。"
-    },
-    {
-      "category": "Kanji Chart",
-      "id": 9012,
-      "options": [
-        "うらな",
-        "しめ",
-        "じめ",
-        "うらなう"
-      ],
-      "correct": "しめ(Kanji: 占)",
-      "question": "",
-      "mondai": "新しい部屋を<span style=\"color: #ff4757;\">占</span>める。"
-    },
-    {
-      "question": "",
-      "options": [
-        "ぐらべて",
-        "くら",
-        "くらべる",
-        "ぐら"
-      ],
-      "category": "Kanji Chart",
-      "id": 9011,
-      "mondai": "2つの製品を<span style=\"color: #ff4757;\">較</span>べてみる。",
-      "correct": "くら(Kanji: 較)"
-    },
-    {
-      "question": "",
-      "category": "Kanji Chart",
-      "mondai": "太陽が明るく地上を<span style=\"color: #ff4757;\">照</span>らす。",
-      "options": [
-        "てら",
-        "でら",
-        "てる",
-        "でる"
-      ],
-      "id": 9010,
-      "correct": "てら(Kanji: 照)"
-    },
-    {
-      "id": 9009,
-      "category": "Kanji Chart",
-      "mondai": "この机の表面はとても<span style=\"color: #ff4757;\">硬</span>い。",
-      "correct": "かた(Kanji: 硬)",
-      "question": "",
-      "options": [
-        "がたい",
-        "かたる",
-        "かた",
-        "がたる"
-      ]
-    },
-    {
-      "category": "Kanji Chart",
-      "id": 9008,
-      "mondai": "外国から色々な物資を<span style=\"color: #ff4757;\">貨</span>物として輸入する。",
-      "options": [
-        "か",
-        "が",
-        "かあ",
-        "があ"
-      ],
-      "question": "",
-      "correct": "か(Kanji: 貨)"
-    },
-    {
-      "mondai": "朝になって太陽が空に<span style=\"color: #ff4757;\">昇</span>る。",
-      "category": "Kanji Chart",
-      "id": 9007,
-      "question": "",
-      "options": [
-        "のぼ",
-        "のぽる",
-        "のぽ",
-        "のぼる"
-      ],
-      "correct": "のぼ(Kanji: 昇)"
-    },
-    {
-      "mondai": "病院で医療の<span style=\"color: #ff4757;\">療</span>法を受ける。",
-      "options": [
-        "りょうう",
-        "りょう",
-        "りょ",
-        "りょうか"
-      ],
-      "category": "Kanji Chart",
-      "correct": "りょう(Kanji: 療)",
-      "id": 9006,
-      "question": ""
-    },
-    {
-      "id": 9005,
-      "question": "",
-      "mondai": "バナナの<span style=\"color: #ff4757;\">皮</span>をゴミ箱に捨てる。",
-      "options": [
-        "かば",
-        "がわ",
-        "かわ",
-        "がば"
-      ],
-      "category": "Kanji Chart",
-      "correct": "かわ(Kanji: 皮)"
-    },
-    {
-      "category": "Kanji Chart",
-      "mondai": "冬になると、肌の<span style=\"color: #ff4757;\">膚</span>が乾燥する。",
-      "options": [
-        "ふう",
-        "ふ",
-        "ぶう",
-        "ぶ"
-      ],
-      "id": 9004,
-      "correct": "ふ(Kanji: 膚)",
-      "question": ""
-    },
-    {
-      "correct": "かた(Kanji: 片)",
-      "options": [
-        "かたん",
-        "かた",
-        "がた",
-        "がたん"
-      ],
-      "question": "",
-      "mondai": "りんごを<span style=\"color: #ff4757;\">片</span>方だけ食べる。",
-      "id": 9003,
-      "category": "Kanji Chart"
-    },
-    {
-      "correct": "たくわえ(Kanji: 貯)",
-      "options": [
-        "たまる",
-        "たくわえ",
-        "だまる",
-        "だくわえ"
-      ],
-      "question": "",
-      "mondai": "将来のために毎月お金を<span style=\"color: #ff4757;\">貯</span>める。",
-      "category": "Kanji Chart",
-      "id": 9002
-    },
-    {
-      "mondai": "プレゼントをきれいに<span style=\"color: #ff4757;\">包</span>む。",
-      "category": "Kanji Chart",
-      "options": [
-        "づつ",
-        "つつま",
-        "つつ",
-        "づつま"
-      ],
-      "id": 9001,
-      "correct": "つつ(Kanji: 包)",
-      "question": ""
-    }
-  ],
-  "Lesson 12": [],
-  "Lesson 15": [],
-  "Lesson 10": [],
-  "Lesson 11": [],
-  "Lesson 9": [],
-  "Lesson 8": [],
   "Lesson 2": [
     {
       "category": "Kanji Chart",
@@ -742,7 +549,200 @@
       "correct": "きふ"
     }
   ],
+  "Lesson 3": [
+    {
+      "question": "",
+      "mondai": "道路の<span style=\"color: #ff4757;\">幅</span>が広くなった。",
+      "category": "Kanji Chart",
+      "options": [
+        "ぱば",
+        "はば",
+        "はぱ",
+        "ふば"
+      ],
+      "correct": "はば(Kanji: 幅)",
+      "id": 9014
+    },
+    {
+      "category": "Kanji Chart",
+      "correct": "あらわ(Kanji: 著)",
+      "question": "",
+      "options": [
+        "あらわした",
+        "ちらす",
+        "あらわ",
+        "ちらした"
+      ],
+      "id": 9013,
+      "mondai": "彼は有名な小説を<span style=\"color: #ff4757;\">著</span>した。"
+    },
+    {
+      "category": "Kanji Chart",
+      "id": 9012,
+      "options": [
+        "うらな",
+        "しめ",
+        "じめ",
+        "うらなう"
+      ],
+      "correct": "しめ(Kanji: 占)",
+      "question": "",
+      "mondai": "新しい部屋を<span style=\"color: #ff4757;\">占</span>める。"
+    },
+    {
+      "question": "",
+      "options": [
+        "ぐらべて",
+        "くら",
+        "くらべる",
+        "ぐら"
+      ],
+      "category": "Kanji Chart",
+      "id": 9011,
+      "mondai": "2つの製品を<span style=\"color: #ff4757;\">較</span>べてみる。",
+      "correct": "くら(Kanji: 較)"
+    },
+    {
+      "question": "",
+      "category": "Kanji Chart",
+      "mondai": "太陽が明るく地上を<span style=\"color: #ff4757;\">照</span>らす。",
+      "options": [
+        "てら",
+        "でら",
+        "てる",
+        "でる"
+      ],
+      "id": 9010,
+      "correct": "てら(Kanji: 照)"
+    },
+    {
+      "id": 9009,
+      "category": "Kanji Chart",
+      "mondai": "この机の表面はとても<span style=\"color: #ff4757;\">硬</span>い。",
+      "correct": "かた(Kanji: 硬)",
+      "question": "",
+      "options": [
+        "がたい",
+        "かたる",
+        "かた",
+        "がたる"
+      ]
+    },
+    {
+      "category": "Kanji Chart",
+      "id": 9008,
+      "mondai": "外国から色々な物資を<span style=\"color: #ff4757;\">貨</span>物として輸入する。",
+      "options": [
+        "か",
+        "が",
+        "かあ",
+        "があ"
+      ],
+      "question": "",
+      "correct": "か(Kanji: 貨)"
+    },
+    {
+      "mondai": "朝になって太陽が空に<span style=\"color: #ff4757;\">昇</span>る。",
+      "category": "Kanji Chart",
+      "id": 9007,
+      "question": "",
+      "options": [
+        "のぼ",
+        "のぽる",
+        "のぽ",
+        "のぼる"
+      ],
+      "correct": "のぼ(Kanji: 昇)"
+    },
+    {
+      "mondai": "病院で医療の<span style=\"color: #ff4757;\">療</span>法を受ける。",
+      "options": [
+        "りょうう",
+        "りょう",
+        "りょ",
+        "りょうか"
+      ],
+      "category": "Kanji Chart",
+      "correct": "りょう(Kanji: 療)",
+      "id": 9006,
+      "question": ""
+    },
+    {
+      "id": 9005,
+      "question": "",
+      "mondai": "バナナの<span style=\"color: #ff4757;\">皮</span>をゴミ箱に捨てる。",
+      "options": [
+        "かば",
+        "がわ",
+        "かわ",
+        "がば"
+      ],
+      "category": "Kanji Chart",
+      "correct": "かわ(Kanji: 皮)"
+    },
+    {
+      "category": "Kanji Chart",
+      "mondai": "冬になると、肌の<span style=\"color: #ff4757;\">膚</span>が乾燥する。",
+      "options": [
+        "ふう",
+        "ふ",
+        "ぶう",
+        "ぶ"
+      ],
+      "id": 9004,
+      "correct": "ふ(Kanji: 膚)",
+      "question": ""
+    },
+    {
+      "correct": "かた(Kanji: 片)",
+      "options": [
+        "かたん",
+        "かた",
+        "がた",
+        "がたん"
+      ],
+      "question": "",
+      "mondai": "りんごを<span style=\"color: #ff4757;\">片</span>方だけ食べる。",
+      "id": 9003,
+      "category": "Kanji Chart"
+    },
+    {
+      "correct": "たくわえ(Kanji: 貯)",
+      "options": [
+        "たまる",
+        "たくわえ",
+        "だまる",
+        "だくわえ"
+      ],
+      "question": "",
+      "mondai": "将来のために毎月お金を<span style=\"color: #ff4757;\">貯</span>める。",
+      "category": "Kanji Chart",
+      "id": 9002
+    },
+    {
+      "mondai": "プレゼントをきれいに<span style=\"color: #ff4757;\">包</span>む。",
+      "category": "Kanji Chart",
+      "options": [
+        "づつ",
+        "つつま",
+        "つつ",
+        "づつま"
+      ],
+      "id": 9001,
+      "correct": "つつ(Kanji: 包)",
+      "question": ""
+    }
+  ],
+  "Lesson 4": [],
   "Lesson 5": [],
+  "Lesson 6": [],
+  "Lesson 7": [],
+  "Lesson 8": [],
+  "Lesson 9": [],
+  "Lesson 10": [],
+  "Lesson 11": [],
+  "Lesson 12": [],
+  "Lesson 13": [],
   "Lesson 14": [],
-  "Lesson 7": []
+  "Lesson 15": []
 }
