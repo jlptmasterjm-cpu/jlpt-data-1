@@ -1,0 +1,41 @@
+[
+  {
+    "category": "Reading",
+    "id": 1788565817963.5432,
+    "question": "<b>【問1】</b> なぜ<sub>①</sub><u>人間の能力が失われる</u>のか。",
+    "correct": "1. 今は、昔よりも生活に役立つ機械や道具が増えてきたから。",
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>38 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br><table style=\"border: 1px solid #ccc; width: 100%; border-collapse: collapse; padding: 10px;\"><tr><td><ruby>科学技術<rt>かがくぎじゅつ</rt></ruby>の<ruby>進歩<rt>しんぽ</rt></ruby>によって、わたしたちの<ruby>生活<rt>せいかつ</rt></ruby>はより<ruby>快適<rt>かいてき</rt></ruby>で<ruby>便利<rt>べんり</rt></ruby>になっている。しかし、<ruby>便利<rt>べんり</rt></ruby>になると言いうことは、<sub>①</sub><ruby>人間<rt>にんげん</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>が<ruby>失<rt>うしな</rt></ruby>われることだとも言われている。<br>たとえば、<ruby>重<rt>おも</rt></ruby>いものを<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げて<ruby>運<rt>はこ</rt></ruby>ぶとき、<ruby>機械<rt>きかい</rt></ruby>がなかった<ruby>時代<rt>じだい</rt></ruby>には<ruby>人<rt>ひと</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>っていた。<ruby>昔<rt>むかし</rt></ruby>の<ruby>武道<rt>ぶどう</rt></ruby>（注1）を<ruby>研究<rt>けんきゅう</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>によると、これはそのころの<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>よりずっと<ruby>力<rt>ちから</rt></ruby>があったというわけではなく、どのように<ruby>体<rt>からだ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば<ruby>重<rt>おも</rt></ruby>いものを<ruby>運<rt>はこ</rt></ruby>べるかがわかっていたので、できたのだという。だが、<ruby>今<rt>いま</rt></ruby>は<sub>②</sub>それが<ruby>伝<rt>つた</rt></ruby>えられることもなくなりつつある。<br>また、<ruby>文字<rt>もじ</rt></ruby>を<ruby>持<rt>も</rt></ruby>たない<ruby>社会<rt>しゃかい</rt></ruby>には、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い<ruby>物語<rt>ものがたり</rt></ruby>や<ruby>詩<rt>し</rt></ruby>などでも、<ruby>覚<rt>おぼ</rt></ruby>えて<ruby>伝<rt>つた</rt></ruby>えられる<ruby>人<rt>ひと</rt></ruby>いた。しかし、<ruby>今<rt>いま</rt></ruby>、そのような<ruby>人<rt>ひと</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>少<rt>すく</rt></ruby>なくなっている。こうしたことを<ruby>考<rt>かんが</rt></ruby>えると、<ruby>自分<rt>じぶん</rt></ruby>たちがなくしたものの<ruby>存在<rt>そんざい</rt></ruby>に<ruby>気<rt>き</rt></ruby>づかされる。<br>これから、わたしたちはどのような<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>うのだろうか。<br><br><div style=\"font-size: 12px; color: #555;\">（注1）武道：武士が戦いのために身につけなければならない技術や精神</div></td></tr></table>",
+    "options": [
+      "1. 今は、昔よりも生活に役立つ機械や道具が増えてきたから。",
+      "2. 今の人々は昔のことを思い出そうとしなくなったから。",
+      "3. 昔の人々はいつも能力を高めようとしていたが、今はしないから。",
+      "4. 昔と違い、今の人々は快適で便利な生活を求めなくなったから。"
+    ]
+  },
+  {
+    "question": "<b>【問2】</b> <sub>②</sub><u>それ</u>とは何を指すか。",
+    "options": [
+      "1. 機械（きかい）",
+      "2. 力（ちから）のある体（からだ）",
+      "3. 体（からだ）の使い方（つかいかた）",
+      "4. 人々（ひとびと）の協力（きょうりょく）"
+    ],
+    "id": 1788565817963.076,
+    "correct": "3. 体（からだ）の使い方（つかいかた）",
+    "category": "Reading",
+    "mondai": ""
+  },
+  {
+    "category": "Reading",
+    "mondai": "",
+    "question": "<b>【問3】</b> この文章では科学技術の進歩について、どう言っているか。",
+    "options": [
+      "1. 進歩（しんぽ）によってよりよい生活（せいかつ）が送れる（おくれる）が、人が（ひとが）やっていた仕事が（しごとが）なくなる。",
+      "2. 進歩（しんぽ）はすばらしいが、それによって人と（ひとと）人との（ひととの）つながりが失われて（うしなわれて）いく。",
+      "3. 進歩（しんぽ）すると、機械（きかい）や道具に（どうぐに）頼って（たよって）、さまざまなことが自分（じぶん）でできなくなる。",
+      "4. 進歩（しんぽ）するにしたがって、昔の（むかしの）ことは伝えられず（つたえられず）、どんどん忘れられて（わすれられて）しまう。"
+    ],
+    "id": 1788565817963.3867,
+    "correct": "3. 進歩（しんぽ）すると、機械（きかい）や道具に（どうぐに）頼って（たよって）、さまざまなことが自分（じぶん）でできなくなる。"
+  }
+]
