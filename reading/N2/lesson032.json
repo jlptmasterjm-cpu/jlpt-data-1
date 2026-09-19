@@ -1,0 +1,15 @@
+[
+  {
+    "question": "<b>【問い】</b> <sub>①</sub><u>救われているのは決して彼らだけではない</u>とはどういうことか。",
+    "mondai": "■ <ruby>練習<rt>れんしゅう</rt></ruby>32 <ruby>問<rt>と</rt></ruby>いに対する<ruby>答<rt>こた</rt></ruby>えとして<ruby>最<rt>もっと</rt></ruby>もよいものを一つ<ruby>選<rt>えら</rt></ruby>びなさい。<br><br>ペットが<ruby>子供同様<rt>こどもどうよう</rt></ruby>に<ruby>扱われ<rt>あつかわれ</rt></ruby>、<ruby>深い<rt>ふかい</rt></ruby><ruby>愛情<rt>あいじょう</rt></ruby>を<ruby>受ける<rt>うける</rt></ruby>こと、それは<ruby>稀薄<rt>きはく</rt></rubyになり<ruby>続ける<rt>つづける</rt></ruby><ruby>人間関係<rt>にんげんかんけい</rt></ruby>やストレスにさらされることの<ruby>多い<rt>おおい</rt></ruby><ruby>現代<rt>げんだい</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby>と言えるのではないだろうか。<br><br><ruby>他人<rt>たにん</rt></ruby>の<ruby>干渉<rt>かんしょう</rt></sub<sub>（<ruby>注<rt>ちゅう</rt></ruby>1）</sub>から<ruby>離れ<rt>はなれ</rt></ruby>、<ruby>煩わしさ<rt>わずらわしさ</rt></sub<sub>（<ruby>注<rt>ちゅう</rt></ruby>2）</sub>から<ruby>解かれた<rt>とかれた</rt></ruby><ruby>分<rt>ぶん</rt></ruby>、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>消化<rt>しょうか</rt></ruby>しにくい<ruby>思い<rt>おもい</rt></ruby>を<ruby>抱える<rt>かかえる</rt></ruby>ことが<ruby>増え<rt>ふえ</rt></ruby>、<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>は<ruby>大きな<rt>おおきな</rt></ruby><ruby>癒し<rt>いやし</rt></sub<sub>（<ruby>注<rt>ちゅう</rt></ruby>3）</sub>の<ruby>力<rt>ちから</rt></ruby>を<ruby>持ち<rt>もち</rt></ruby>はじめた。<ruby>私<rt>わたし</rt></ruby>はそれを、<ruby>昔<rt>むかし</rt></ruby>から<ruby>身近<rt>みぢか</rt></ruby>にいた<ruby>彼ら<rt>かれら</rt></ruby>が<ruby>変わった<rt>かわった</rt></ruby>のではなく、<ruby>人<rt>ひと</rt></ruby>の<ruby>求める<rt>もとめる</rt></ruby>ものが<ruby>変化<rt>へんか</rt></ruby>したためだと<ruby>考えている<rt>かんがえている</rt></ruby>。<br><br><ruby>動物たち<rt>どうぶつたち</rt></ruby>は<ruby>生きていく<rt>生きていく</rt></ruby>ために、いくつかのことを<ruby>人<rt>ひと</rt></ruby>に<ruby>頼っている<rt>たよっている</rt></ruby>が、<sub>①</sub><u><ruby>救われている<rt>すくわれている</rt></ruby>のは<ruby>決して<rt>けっして</rt></ruby><ruby>彼ら<rt>かれら</rt></ruby>だけではない</u>。<br><br><p style=\"text-align: right; font-size: 0.9em;\">（<ruby>宇都宮直子<rt>うつのみやなおこ</rt></ruby>『ペットと<ruby>日本人<rt>にほんじん</rt></ruby>』<ruby>文藝春秋<rt>ぶんげいしゅんじゅう</rt></ruby>）</p><hr style=\"border-dash: 1px dashed #ccc;\"><p style=\"font-size: 0.9em;\">（<ruby>注<rt>ちゅう</rt></ruby>1）<ruby>干渉<rt>かんしょう</rt></ruby>：<ruby>関係<rt>かんけい</rt></ruby>のない<ruby>人<rt>ひと</rt></ruby>からうるさく<ruby>指示<rt>しじ</rt></ruby>されること<br>（<ruby>注<rt>ちゅう</rt></ruby>2）<ruby>煩わしさ<rt>わずらわしさ</rt></ruby>：<ruby>気<rt>き</rt></ruby>が<ruby>重く<rt>おもく</rt></ruby>、めんどうなこと<br>（<ruby>注<rt>ちゅう</rt></ruby>3）<ruby>癒し<rt>いやし</rt></ruby>：<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治したり<rt>なおしたり</rt></ruby>、<ruby>苦しみ<rt>くるしみ</rt></ruby>などを<ruby>軽く<rt>かるく</rt></ruby>すること</p>",
+    "correct": "1. 犬(いぬ)や猫(ねこ)は人間(にんげん)の世話(せわ)を受けて(うけて)生きている(いきている)が、人間(にんげん)は彼ら(かれら)によって癒され(いやされ)、救われている(すくわれている)。",
+    "category": "Reading",
+    "options": [
+      "1. 犬(いぬ)や猫(ねこ)は人間(にんげん)の世話(せわ)を受けて(うけて)生きている(いきている)が、人間(にんげん)は彼ら(かれら)によって癒され(いやされ)、救われている(すくわれている)。",
+      "2. 最近(さいきん)は犬(いぬ)や猫(ねこ)が癒し(いやし)の力(ちから)を持ち(もち)はじめ、人間(にんげん)だけでなくほかの動物(どうぶつ)も救われる(すくわれる)ようになった。",
+      "3. ペットを飼っている(かっている)人(ひと)ばかりではなく、周り(まわり)にいる人々(ひとびと)もストレスから解放される(かいほうされる)。",
+      "4. 人間(にんげん)だけでなく、犬(いぬ)や猫(ねこ)も煩わしさ(わずらわしさ)から解放されて(かいほうされて)、自由(じゆう)になりたいと思っている(おもっている)。"
+    ],
+    "id": 1788600837705.2202
+  }
+]
