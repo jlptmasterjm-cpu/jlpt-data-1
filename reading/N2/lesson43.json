@@ -1,0 +1,15 @@
+[
+  {
+    "category": "Reading",
+    "mondai": "/// <ruby>練習<rt>れんしゅう</rt></ruby>43 <ruby>問<rt>と</rt></ruby>いに対する<ruby>答<rt>こた</rt></ruby>えとして<ruby>最<rt>もっと</rt></ruby>もよいものを一つ<ruby>選<rt>えら</rt></ruby>びなさい。<br><br><div style=\"border: 1px solid #000; padding: 20px; font-family: serif;\"><div style=\"text-align: right;\">2012年3月8日</div><div style=\"text-align: left;\">渋谷ハウス居住者の皆様</div><div style=\"text-align: right; margin-top: 10px;\">渋谷ハウス管理組合</div><div style=\"text-align: center; font-weight: bold; font-size: 1.1em; margin: 15px 0;\">『電気設備の定期点検』のお知らせ</div><p>拝啓 時下ますますご清祥のこととお慶び申し上げます。</p><p>さて、来る３月15日、渋谷ハウス共用部分電気設備の定期点検を行いますので、ご連絡申し上げます。</p><p>つきましては、下記の時間、共用部分が停電となり、エレベーターも停止いたします。ご不便をおかけいたしますが、ご協力、よろしくお願いいたします。</p><p>尚、この点検による各戸の停電はございません。</p><div style=\"text-align: right;\">敬具</div><div style=\"border: 1px solid #000; padding: 10px; margin-top: 15px;\"><div style=\"font-weight: bold; text-align: left;\">『電気設備点検』</div><p style=\"margin: 5px 0;\"><b>実施日時：</b>３月15日 ９：００～１１：００</p><p style=\"margin: 5px 0;\"><b>実施業者：</b>スターサービス㈱</p></div></div>",
+    "options": [
+      "1. 3月15日の9時から11時まで渋谷ハウス全体が停電する。",
+      "2. 3月15日の9時から11時まで電気設備を点検するが、停電はしない。",
+      "3. 3月15日の9時から11時まで共用部分が停電して、エレベーターが使えなくなる。",
+      "4. 3月15日の9時から11時まで電気設備の点検で、自分の住んでいる部屋が停電する。"
+    ],
+    "id": 1788603878796.6116,
+    "question": "<b>【問】</b> <ruby>渋谷<rt>しぶや</rt></ruby>ハウスに住んでいるリンさんは、上のようなお知らせを受け取った。内容として最も適切なものはどれか。",
+    "correct": "3. 3月15日の9時から11時まで共用部分が停電して、エレベーターが使えなくなる。"
+  }
+]
