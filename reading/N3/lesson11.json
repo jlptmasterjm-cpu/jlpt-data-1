@@ -1,0 +1,15 @@
+[
+  {
+    "question": "<b>【問い】</b> この<ruby>文章<rt>ぶんしょう</rt></ruby>によると、<ruby>活性酸素<rt>かっせいさんそ</rt></ruby>とはどんな<ruby>物質<rt>ぶっしつ</rt></ruby>か。",
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>11 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br>コーヒーを<ruby>多<rt>おお</rt></ruby>く<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>ほど、<ruby>肌<rt>はだ</rt></ruby>のしみ（注1）ができにくいという<ruby>研究結果<rt>けんきゅうけっか</rt></ruby>がある。なぜコーヒーにそのような<ruby>効果<rt>こうか</rt></ruby>があるのだろうか。<br><br>その<ruby>仕組み<rt>しくみ</rt></ruby>は、こうである。<br><ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>にあたると、<ruby>人間<rt>にんげん</rt></ruby>の<ruby>体内<rt>たいない</rt></ruby>で「<ruby>活性酸素<rt>かっせいさんそ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>物質<rt>ぶっしつ</rt></ruby>ができる。これは、しみの<ruby>原因<rt>げんいん</rt></ruby>となる<ruby>物質<rt>ぶっしつ</rt></ruby>「メラニン」を<ruby>増<rt>ふ</rt></ruby>やしてしまう。しかし、コーヒーにたくさん<ruby>含<rt>ふく</rt></ruby>まれる「ポリフェノール」という<ruby>物質<rt>ぶっしつ</rt></ruby>は<ruby>活性酸素<rt>かっせいさんそ</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>きを<ruby>小<rt>ちい</rt></ruby>さくしてくれるという。それで、コーヒーを<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>もしみができにくいというわけだ。<br><br>ポリフェノールをたくさん<ruby>含<rt>ふく</rt></ruby>むコーヒーは、<ruby>美容<rt>びよう</rt></ruby>にいい<ruby>飲み物<rt>のみもの</rt></ruby>だと言えそうだ。<br><br><div style=\"font-size: 12px; color: #555;\">（注1）しみ：<ruby>顔<rt>かお</rt></ruby>や<ruby>手<rt>て</rt></ruby>などにできる<ruby>茶色<rt>ちゃいろ</rt></ruby>い<ruby>点<rt>てん</rt></ruby></div>",
+    "id": 1788560051106.231,
+    "correct": "3. メラニンを増やす物質",
+    "category": "Reading",
+    "options": [
+      "1. しみをできにくくする物質",
+      "2. ポリフェノールを増やす物質",
+      "3. メラニンを増やす物質",
+      "4. コーヒーの中に多く含まれる物質"
+    ]
+  }
+]
