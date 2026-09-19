@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1789290466289.7666,
+    "question": "<b>【問1】</b> 12月31日までにどんなことをしますか。",
+    "options": [
+      "1. 黒豆(くろまめ)を食(た)べます。",
+      "2. お節料理(せちりょうり)を作(つく)ります。",
+      "3. 初詣(はつもうで)をします。",
+      "4. まじめに生活(せいかつ)します。"
+    ],
+    "correct": "2. お節料理(せちりょうり)を作(つく)ります。",
+    "mondai": "■ もんだい36 <ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてください。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から、いちばんいいものを1つ<ruby>選<rt>えら</rt></ruby>んでください。<br><br><div style=\"border: 1px solid black; padding: 10px;\"><ruby>日本<rt>にほん</rt></ruby>では、1<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>います。それを<ruby>お正月<rt>しょうがつ</rt></ruby>と言います。<ruby>お正月<rt>しょうがつ</rt></ruby>はとても<ruby>特別<rt>とくべつ</rt></ruby>なもので、いろいろな<ruby>習慣<rt>しゅうかん</rt></ruby>があります。<br><ruby>お正月<rt>しょうがつ</rt></ruby>のために、12<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>までにいろいろな<ruby>準備<rt>じゅんび</rt></ruby>をします。<ruby>部屋<rt>へや</rt></ruby>に「かがみもち」というおもちを置いたり、<ruby>玄関<rt>げんかん</rt></ruby>のドアに<ruby>特別<rt>とくべつ</rt></ruby>なかざり(注)をかけます。また、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>「お<ruby>節料理<rt>せちりょうり</rt></ruby>」を<ruby>作<rt>つく</rt></ruby>ります。お<ruby>節料理<rt>せちりょうり</rt></ruby>にはいろいろな<ruby>意味<rt>いみ</rt></ruby>があります。例えば「<ruby>黒豆<rt>くろまめ</rt></ruby>」は<ruby>甘<rt>あま</rt></ruby>く<ruby>煮<rt>に</rt></ruby>た<ruby>豆<rt>まめ</rt></ruby>ですが、これは「まめに<ruby>暮<rt>く</rt></ruby>らす」、つまり、まじめに<ruby>働<rt>はたら</rt></ruby>き<ruby>元気<rt>げんき</rt></ruby>に<ruby>生活<rt>せいかつ</rt></ruby>することを<ruby>意味<rt>いみ</rt></ruby>しています。<br><ruby>お正月<rt>しょうがつ</rt></ruby>にはお<ruby>寺<rt>てら</rt></ruby>や<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>き、いい1<ruby>年<rt>ねん</rt></ruby>になることをお<ruby>願<rt>ねが</rt></ruby>いします。これを「<ruby>初詣<rt>はつもうで</rt></ruby>」と言います。そして、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>親<rt>おや</rt></ruby>せきが<ruby>家<rt>いえ</rt></ruby>やレストランに<ruby>集<rt>あつ</rt></ruby>まって、お<ruby>酒<rt>さけ</rt></ruby>を飲んだりお<ruby>節料理<rt>せちりょうり</rt></ruby>をべたりします。いつもは会うことがない<ruby>親<rt>おや</rt></ruby>せきにもお<ruby>正月<rt>しょうがつ</rt></ruby>には会えます。そのときに、子どもはおとなに「お年玉」をもらいます。お年玉は小さい<ruby>封筒<rt>ふうとう</rt></ruby>に入ったお金です。<br><ruby>お正月<rt>しょうがつ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>ではいちばん<ruby>大事<rt>だいじ</rt></ruby>な日です。これからの1<ruby>年<rt>ねん</rt></ruby>が<ruby>素晴<rt>すば</rt></ruby>らしくなることを<ruby>願<rt>ねが</rt></ruby>って、<ruby>昔<rt>むかし</rt></ruby>からいろいろな<ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>けられているのです。<br><br>(注) かざり</div>",
+    "category": "Reading"
+  },
+  {
+    "options": [
+      "1. 甘(あま)くておいしいから。",
+      "2. まじめに元気に生きたいから。",
+      "3. 1年に1回しか食べられないから。",
+      "4. 大事(だいじ)な豆(まめ)だから。"
+    ],
+    "correct": "2. まじめに元気に生きたいから。",
+    "category": "Reading",
+    "id": 1789290466289.6406,
+    "question": "<b>【問2】</b> どうして「黒豆(くろまめ)」を食(た)べますか。",
+    "mondai": ""
+  },
+  {
+    "question": "<b>【問3】</b> お正月(しょうがつ)にはどんなことをしますか。",
+    "correct": "3. おとなが子どもにお年玉(としだま)をあげます。",
+    "options": [
+      "1. 家族(かぞく)や親(おや)せきがお寺(てら)や神社(じんじゃ)に集(あつ)まります。",
+      "2. 親(おや)せきが集(あつ)まってお節料理(せちりょうり)を作(つく)ります。",
+      "3. おとなが子どもにお年玉(としだま)をあげます。",
+      "4. おとなが子どもから封筒(ふうとう)をもらいます。"
+    ],
+    "mondai": "",
+    "id": 1789290466289.974,
+    "category": "Reading"
+  },
+  {
+    "correct": "4. いい1年にしたいから。",
+    "category": "Reading",
+    "id": 1789290466289.779,
+    "options": [
+      "1. お節料理(せちりょうり)が食(た)べたいから。",
+      "2. 親(おや)せきに会(あ)いたいから。",
+      "3. お年玉(としだま)をもらいたいから。",
+      "4. いい1年にしたいから。"
+    ],
+    "mondai": "",
+    "question": "<b>【問4】</b> どうしていろいろな習慣(しゅうかん)がありますか。"
+  }
+]
