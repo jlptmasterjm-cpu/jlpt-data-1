@@ -1,0 +1,15 @@
+[
+  {
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>24 右のページの<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br><table style=\"border: 1px solid #ccc; width: 100%; border-collapse: collapse; padding: 10px;\"><tr><td><h3 style=\"text-align: center;\">ミニ・コンサートのご<ruby>案内<rt>あんない</rt></ruby></h3><ruby>秋<rt>あき</rt></ruby>も<ruby>日一日<rt>ひいちにち</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>まり、<ruby>紅葉<rt>こうよう</rt></ruby>も<ruby>美<rt>うつく</rt></ruby>しくなり<ruby>始<rt>はじ</rt></ruby>めました。<br><ruby>私<rt>わたし</rt></ruby>たち「さくら<ruby>合唱<rt>がっしょう</rt></ruby>（注1）クラブ」は<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>する<ruby>社会人<rt>しゃかいじん</rt></ruby><ruby>混声<rt>こんせい</rt></ruby>（注2）<ruby>合唱<rt>がっしょう</rt></ruby>のクラブです。このたび<ruby>秋<rt>あき</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めて、ミニ・コンサートを<ruby>開催<rt>かいさい</rt></ruby>することになりました。<br>どうぞ<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさをお<ruby>楽<rt>たの</rt></ruby>しみください。ご<ruby>来場<rt>らいじょう</rt></ruby>をお<ruby>待<rt>ま</rt></ruby>ちしています。<br><div style=\"text-align: right;\"><ruby>平成<rt>へいせい</rt></ruby>XX年10月25日<br>さくら<ruby>合唱<rt>がっしょう</rt></ruby>クラブ<ruby>発表会実行委員<rt>はっぴょうかいじっこういいん</rt></ruby></div><br><b>日時：</b> 11月12日（土） <ruby>開場<rt>かいじょう</rt></ruby> 15:00 / <ruby>開演<rt>かいえん</rt></ruby> 15:30<br><b><ruby>場所<rt>ばしょ</rt></ruby>：</b> ○○<ruby>市民<rt>しみん</rt></ruby>ホール<br><b><ruby>入場料<rt>にゅうじょうりょう</rt></ruby>：</b> 300円<br><br><b>☆お<ruby>願<rt>ねが</rt></ruby>い☆</b><br>• <ruby>自転車<rt>じてんしゃ</rt></ruby>・<ruby>車<rt>くるま</rt></ruby>でのご<ruby>来場<rt>らいじょう</rt></ruby>はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。<br>• <ruby>上演中<rt>じょうえんちゅう</rt></ruby>のフラッシュ<ruby>撮影<rt>さつえい</rt></ruby>はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。<br>• ビデオ<ruby>撮影<rt>さつえい</rt></ruby>はビデオ<ruby>席<rt>せき</rt></ruby>でお<ruby>願<rt>ねが</rt></ruby>いします。<br>• <ruby>小<rt>ちい</rt></ruby>さいお<ruby>子様<rt>こさま</rt></ruby>をお<ruby>連<rt>つ</rt></ruby>れの方は、<ruby>他<rt>ほか</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>のご<ruby>迷惑<rt>めいわく</rt></ruby>にならないようにご注意ください。<br>• <ruby>携帯電話等<rt>けいたいでんわとう</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>はお<ruby>切<rt>き</rt></ruby>りください。<br><br><b>☆メンバー<ruby>募集<rt>ぼしゅう</rt></ruby>☆</b> <ruby>私<rt>わたし</rt></ruby>たちと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歌<rt>うた</rt></ruby>いませんか？<br><ruby>参加<rt>さんか</rt></ruby>ご<ruby>希望<rt>きぼう</rt></ruby>の方は<ruby>山田<rt>やまだ</rt></ruby>（tel: 090-9387-○○○○）までご<ruby>連絡<rt>れんらく</rt></ruby>ください。<hr><div style=\"font-size: 12px; color: #555;\">（注1）合唱：大ぜいで歌うこと<br>（注2）混声：男性と女性の声の</div></td></tr></table>",
+    "correct": "4. 携帯電話でメールをする。",
+    "options": [
+      "1. ビデオを撮る。",
+      "2. 写真を撮る。",
+      "3. 子どもと一緒に行く。",
+      "4. 携帯電話でメールをする。"
+    ],
+    "question": "<b>【問い】</b> このコンサートで、してはいけないことは何か。",
+    "id": 1788563437706.325,
+    "category": "Reading"
+  }
+]
