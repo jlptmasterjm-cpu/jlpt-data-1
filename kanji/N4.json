@@ -448,6 +448,2126 @@
       "meaning": "အကြောင်းပြချက်၊ သဘောတရား"
     }
   ],
+  "Lesson 2": [
+    {
+      "meaning": "မွန်းတည့် (မြင်းနှစ်)",
+      "character": "午",
+      "id": 1788045169352.662,
+      "onyomi": "ゴ",
+      "kotoba": [
+        {
+          "meaning": "နံနက်ပိုင်း",
+          "word": "午前",
+          "reading": "ごぜん"
+        },
+        {
+          "reading": "ごご",
+          "word": "午後",
+          "meaning": "မွန်းလွဲပိုင်း"
+        },
+        {
+          "word": "正午",
+          "reading": "しょうご",
+          "meaning": "မွန်းတည့် ၁၂ နာရီ"
+        }
+      ],
+      "kunyomi": ""
+    },
+    {
+      "onyomi": "ゼン",
+      "meaning": "ရှေ့၊ မတိုင်မီ",
+      "kotoba": [
+        {
+          "reading": "まえ",
+          "word": "前",
+          "meaning": "ရှေ့ / မတိုင်မီ"
+        },
+        {
+          "meaning": "နံနက်ပိုင်း",
+          "word": "午前",
+          "reading": "ごぜん"
+        },
+        {
+          "reading": "ぜんはん",
+          "meaning": "ပထမပိုင်း",
+          "word": "前半"
+        },
+        {
+          "meaning": "အမည်",
+          "reading": "なまえ",
+          "word": "名前"
+        }
+      ],
+      "id": 1788045169352.1577,
+      "character": "前",
+      "kunyomi": "まえ"
+    },
+    {
+      "character": "昼",
+      "meaning": "နေ့ခင်း",
+      "kotoba": [
+        {
+          "word": "昼",
+          "reading": "ひる",
+          "meaning": "နေ့ခင်း"
+        },
+        {
+          "meaning": "နေ့ခင်းဘက်နားချိန်",
+          "word": "昼休み",
+          "reading": "ひるやすみ"
+        },
+        {
+          "meaning": "နေ့လယ်စာ",
+          "word": "昼食",
+          "reading": "ちゅうしょく"
+        },
+        {
+          "word": "昼間",
+          "reading": "ひるま",
+          "meaning": "နေ့ဘက်"
+        }
+      ],
+      "id": 1788045169352.022,
+      "kunyomi": "ひる",
+      "onyomi": "チュウ"
+    },
+    {
+      "id": 1788045169352.5452,
+      "meaning": "မနက်ခင်း",
+      "kunyomi": "あさ",
+      "kotoba": [
+        {
+          "reading": "あさ",
+          "word": "朝",
+          "meaning": "မနက်ခင်း"
+        },
+        {
+          "word": "朝食",
+          "meaning": "မနက်စာ",
+          "reading": "ちょうしょく"
+        },
+        {
+          "reading": "けさ",
+          "word": "今朝",
+          "meaning": "ဒီမနက်"
+        },
+        {
+          "reading": "まいあさ",
+          "word": "毎朝",
+          "meaning": "မနက်တိုင်း"
+        }
+      ],
+      "onyomi": "チョウ",
+      "character": "朝"
+    },
+    {
+      "character": "黒",
+      "kotoba": [
+        {
+          "reading": "くろい",
+          "meaning": "အနက်ရောင်",
+          "word": "黒い"
+        },
+        {
+          "reading": "こくばん",
+          "word": "黒板",
+          "meaning": "ကျောက်သင်ပုန်း"
+        },
+        {
+          "reading": "しろくろ",
+          "meaning": "အဖြူအမည်း",
+          "word": "白黒"
+        },
+        {
+          "word": "黒字",
+          "reading": "くろじ",
+          "meaning": "အမြတ်ထွက်ခြင်း"
+        }
+      ],
+      "kunyomi": "くろ、くろい",
+      "onyomi": "コク",
+      "meaning": "အနက်ရောင်",
+      "id": 1788045137654.1504
+    },
+    {
+      "character": "銀",
+      "meaning": "ငွေ (Silver)",
+      "id": 1788045137654.733,
+      "kotoba": [
+        {
+          "reading": "ぎんこう",
+          "meaning": "ဘဏ်",
+          "word": "銀行"
+        },
+        {
+          "word": "銀",
+          "reading": "ぎん",
+          "meaning": "ငွေ (Silver)"
+        },
+        {
+          "word": "銀座",
+          "reading": "ぎんざ",
+          "meaning": "ဂင်းဇာ (နေရာဒေသအမည်)"
+        },
+        {
+          "reading": "ぎんこういん",
+          "word": "銀行員",
+          "meaning": "ဘဏ်ဝန်ထမ်း"
+        }
+      ],
+      "onyomi": "ギン",
+      "kunyomi": ""
+    },
+    {
+      "meaning": "ရောင်းချသည်",
+      "character": "売",
+      "id": 1788045101643.6946,
+      "onyomi": "バイ",
+      "kunyomi": "うる、うれる",
+      "kotoba": [
+        {
+          "meaning": "ရောင်းသည်",
+          "reading": "うる",
+          "word": "売る"
+        },
+        {
+          "reading": "ばいてん",
+          "word": "売店",
+          "meaning": "အရောင်းဆိုင်"
+        },
+        {
+          "meaning": "အရောင်းဌာန",
+          "reading": "うりば",
+          "word": "売り場"
+        },
+        {
+          "reading": "うりきれ",
+          "word": "売り切れ",
+          "meaning": "ပစ္စည်းကုန်သွားခြင်း"
+        }
+      ]
+    },
+    {
+      "character": "店",
+      "onyomi": "テン",
+      "kunyomi": "みせ",
+      "id": 1788045101642.1138,
+      "kotoba": [
+        {
+          "reading": "みせ",
+          "word": "店",
+          "meaning": "ဆိုင်"
+        },
+        {
+          "reading": "てんいん",
+          "word": "店員",
+          "meaning": "ဆိုင်ဝန်ထမ်း"
+        },
+        {
+          "reading": "ばいてん",
+          "word": "売店",
+          "meaning": "အရောင်းဆိုင် / ကန်တင်း"
+        },
+        {
+          "meaning": "ဆိုင်ပိတ်ခြင်း",
+          "word": "閉店",
+          "reading": "へいてん"
+        }
+      ],
+      "meaning": "ဆိုင်၊ စားသောက်ဆိုင်"
+    },
+    {
+      "kunyomi": "",
+      "onyomi": "フク",
+      "kotoba": [
+        {
+          "word": "洋服",
+          "meaning": "အနောက်တိုင်းဝတ်စုံ",
+          "reading": "ようふく"
+        },
+        {
+          "meaning": "ယူနီဖောင်း",
+          "word": "制服",
+          "reading": "せいふく"
+        },
+        {
+          "word": "衣服",
+          "reading": "いふく",
+          "meaning": "အဝတ်အစား"
+        }
+      ],
+      "character": "服",
+      "meaning": "အဝတ်အစား",
+      "id": 1787988167189.0244
+    },
+    {
+      "meaning": "သမုဒ္ဒရာ၊ အနောက်တိုင်းပုံစံ",
+      "character": "洋",
+      "onyomi": "ヨウ",
+      "id": 1787988167189.8967,
+      "kunyomi": "",
+      "kotoba": [
+        {
+          "meaning": "အနောက်တိုင်းဝတ်စုံ",
+          "reading": "ようふく",
+          "word": "洋服"
+        },
+        {
+          "reading": "せいよう",
+          "meaning": "အနောက်နိုင်ငံများ",
+          "word": "西洋"
+        },
+        {
+          "meaning": "အနောက်တိုင်းအစားအစာ",
+          "reading": "ようしょく",
+          "word": "洋食"
+        },
+        {
+          "word": "海洋",
+          "meaning": "သမုဒ္ဒရာ",
+          "reading": "かいよう"
+        }
+      ]
+    },
+    {
+      "meaning": "လှိမ့်သည်၊ လဲကျသည်၊ ပြောင်းလဲသည်",
+      "kotoba": [
+        {
+          "meaning": "စက်ဘီး",
+          "word": "自転車",
+          "reading": "じてんしゃ"
+        },
+        {
+          "word": "運転",
+          "meaning": "မောင်းနှင်ခြင်း",
+          "reading": "うんてん"
+        },
+        {
+          "meaning": "ယာဉ်မောင်း",
+          "reading": "うんてんしゅ",
+          "word": "運転手"
+        },
+        {
+          "meaning": "လဲကျသည်",
+          "word": "転ぶ",
+          "reading": "ころぶ"
+        },
+        {
+          "word": "転がる",
+          "meaning": "လှိမ့်သည်",
+          "reading": "ころがる"
+        },
+        {
+          "meaning": "လည်ပတ်ခြင်း",
+          "word": "回転",
+          "reading": "かいてん"
+        },
+        {
+          "reading": "てんしょく",
+          "word": "転職",
+          "meaning": "အလုပ်ပြောင်းခြင်း"
+        },
+        {
+          "word": "転校",
+          "reading": "てんこう",
+          "meaning": "ကျောင်းပြောင်းခြင်း"
+        }
+      ],
+      "character": "転",
+      "kunyomi": "ころがる、ころげる、ころぶ、まろぶ",
+      "id": 1787988167188.6975,
+      "onyomi": "テン"
+    },
+    {
+      "character": "歌",
+      "onyomi": "カ",
+      "meaning": "သီချင်း၊ သီဆိုသည်",
+      "kotoba": [
+        {
+          "reading": "うた",
+          "word": "歌",
+          "meaning": "သီချင်း"
+        },
+        {
+          "meaning": "သီဆိုသည်",
+          "reading": "うたう",
+          "word": "歌う"
+        },
+        {
+          "reading": "かしゅ",
+          "meaning": "အဆိုတော်",
+          "word": "歌手"
+        },
+        {
+          "reading": "かし",
+          "word": "歌詞",
+          "meaning": "သီချင်းစာသား"
+        },
+        {
+          "reading": "たんか",
+          "meaning": "ဂျပန်ကဗျာအတို",
+          "word": "短歌"
+        },
+        {
+          "word": "国歌",
+          "reading": "こっか",
+          "meaning": "နိုင်ငံတော်သီချင်း"
+        },
+        {
+          "reading": "こうか",
+          "word": "校歌",
+          "meaning": "ကျောင်းသီချင်း"
+        }
+      ],
+      "kunyomi": "うた、うたう",
+      "id": 1787988167188.3655
+    },
+    {
+      "character": "楽",
+      "kunyomi": "たのしい、たのしむ",
+      "meaning": "ပျော်ရွှင်သော၊ သက်တောင့်သက်သာရှိသော",
+      "onyomi": "ガク、ラク",
+      "id": 1787988167188.0059,
+      "kotoba": [
+        {
+          "meaning": "ဂီတ",
+          "word": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "reading": "たのしい",
+          "word": "楽しい",
+          "meaning": "ပျော်စရာကောင်းသော"
+        },
+        {
+          "word": "楽しみ",
+          "reading": "たのしみ",
+          "meaning": "ပျော်ရွှင်မှု"
+        },
+        {
+          "meaning": "ပျော်ရွှင်သည်",
+          "reading": "たのしむ",
+          "word": "楽しむ"
+        },
+        {
+          "word": "楽",
+          "meaning": "လွယ်ကူသော",
+          "reading": "らくな"
+        },
+        {
+          "meaning": "ဂီတတူရိယာ",
+          "reading": "がっき",
+          "word": "楽器"
+        },
+        {
+          "reading": "ごらく",
+          "word": "娯楽",
+          "meaning": "ဖျော်ဖြေရေး"
+        }
+      ]
+    }
+  ],
+  "Lesson 3": [
+    {
+      "kotoba": [
+        {
+          "word": "今週",
+          "reading": "こんしゅう",
+          "meaning": "ဒီအပတ်"
+        },
+        {
+          "reading": "らいしゅう",
+          "word": "来週",
+          "meaning": "နောက်အပတ်"
+        },
+        {
+          "reading": "せんしゅう",
+          "meaning": "ပြီးခဲ့သောအပတ်",
+          "word": "先週"
+        },
+        {
+          "reading": "しゅうまつ",
+          "word": "週末",
+          "meaning": "စနေ၊ တနင်္ဂနွေ (ရက်သတ္တပတ်ပိတ်ရက်)"
+        }
+      ],
+      "meaning": "ရက်သတ္တပတ် / အပတ်",
+      "onyomi": "シュウ",
+      "id": 1788045314591.205,
+      "kunyomi": "",
+      "character": "週"
+    },
+    {
+      "kunyomi": "",
+      "id": 1788045314591.8684,
+      "meaning": "တိုင်း",
+      "kotoba": [
+        {
+          "meaning": "ရက်တိုင်း",
+          "reading": "まいにち",
+          "word": "毎日"
+        },
+        {
+          "reading": "まいしゅう",
+          "word": "毎週",
+          "meaning": "အပတ်တိုင်း"
+        },
+        {
+          "word": "毎月",
+          "reading": "まいつき / まいげつ",
+          "meaning": "လတိုင်း"
+        },
+        {
+          "reading": "まいとし / まいねん",
+          "word": "毎年",
+          "meaning": "နှစ်တိုင်း"
+        }
+      ],
+      "character": "毎",
+      "onyomi": "マイ"
+    },
+    {
+      "kunyomi": "かみ",
+      "id": 1787988406727.0178,
+      "onyomi": "シ",
+      "character": "紙",
+      "meaning": "စက္ကူ",
+      "kotoba": [
+        {
+          "meaning": "စက္ကူ",
+          "word": "紙",
+          "reading": "かみ"
+        },
+        {
+          "reading": "てがみ",
+          "word": "手紙",
+          "meaning": "စာ"
+        },
+        {
+          "reading": "ひょうし",
+          "word": "表紙",
+          "meaning": "မျက်နှာဖုံး"
+        },
+        {
+          "meaning": "ငွေစက္ကူ",
+          "word": "紙幣",
+          "reading": "しへい"
+        },
+        {
+          "reading": "わし",
+          "word": "和紙",
+          "meaning": "ဂျပန်စက္ကူ"
+        },
+        {
+          "word": "紙くず",
+          "reading": "かみくず",
+          "meaning": "စက္ကူအမှိုက်"
+        },
+        {
+          "reading": "おりがみ",
+          "meaning": "စက္ကူခေါက်",
+          "word": "折り紙"
+        },
+        {
+          "word": "紙コップ",
+          "meaning": "စက္ကူခွက်",
+          "reading": "かみコップ"
+        }
+      ]
+    },
+    {
+      "kunyomi": "ぬし、おも",
+      "character": "主",
+      "kotoba": [
+        {
+          "word": "主人",
+          "meaning": "ခင်ပွန်း / သခင်",
+          "reading": "しゅじん"
+        },
+        {
+          "meaning": "အိမ်ရှင်မ",
+          "reading": "しゅふ",
+          "word": "主婦"
+        },
+        {
+          "word": "主語",
+          "meaning": "ဝါကျ၏အကြောင်းခံ",
+          "reading": "しゅご"
+        },
+        {
+          "reading": "しゅぎ",
+          "word": "主義",
+          "meaning": "အယူဝါဒ"
+        },
+        {
+          "word": "主題",
+          "reading": "しゅだい",
+          "meaning": "အကြောင်းအရာ"
+        },
+        {
+          "reading": "しゅしょく",
+          "word": "主食",
+          "meaning": "အဓိကစားနပ်ရိက္ခာ"
+        },
+        {
+          "reading": "おもに",
+          "meaning": "အဓိကအားဖြင့်",
+          "word": "主に"
+        },
+        {
+          "reading": "もちぬし",
+          "word": "持ち主",
+          "meaning": "ပိုင်ရှင်"
+        }
+      ],
+      "onyomi": "シュ、ス",
+      "id": 1787988406727.737,
+      "meaning": "အဓိက၊ သခင်/ပိုင်ရှင်"
+    },
+    {
+      "character": "私",
+      "kunyomi": "わたくし、わたし",
+      "id": 1787988406726.8298,
+      "onyomi": "シ",
+      "meaning": "ကျွန်တော်/ကျွန်မ၊ ကိုယ်ပိုင်",
+      "kotoba": [
+        {
+          "meaning": "ကျွန်တော် / ကျွန်မ",
+          "word": "私",
+          "reading": "わたし"
+        },
+        {
+          "meaning": "ပုဂ္ဂလိကတက္ကသိုလ်",
+          "word": "私立大学",
+          "reading": "しりつだいがく"
+        },
+        {
+          "reading": "してつ",
+          "word": "私鉄",
+          "meaning": "ပုဂ္ဂလိကမီးရထားလမ်း"
+        },
+        {
+          "reading": "しよう",
+          "meaning": "ကိုယ်ရေးသုံး",
+          "word": "私用"
+        },
+        {
+          "word": "私有",
+          "reading": "しゆう",
+          "meaning": "ပုဂ္ဂလိကပိုင်"
+        },
+        {
+          "reading": "しせいかつ",
+          "word": "私生活",
+          "meaning": "ကိုယ်ရေးကိုယ်တာဘဝ"
+        },
+        {
+          "reading": "ししょばこ",
+          "meaning": "စာတိုက်သေတ္တာ",
+          "word": "私書箱"
+        }
+      ]
+    },
+    {
+      "kotoba": [
+        {
+          "word": "妹",
+          "reading": "いもうと",
+          "meaning": "နှမ"
+        },
+        {
+          "meaning": "ညီအစ်မ",
+          "reading": "しまい",
+          "word": "姉妹"
+        }
+      ],
+      "id": 1787988406726.6667,
+      "kunyomi": "いもうと",
+      "onyomi": "マイ",
+      "character": "妹",
+      "meaning": "ညီမ/နှမ"
+    },
+    {
+      "kotoba": [
+        {
+          "meaning": "ကျွန်မရဲ့အစ်မ",
+          "word": "姉",
+          "reading": "あね"
+        },
+        {
+          "word": "お姉さん",
+          "meaning": "အစ်မ",
+          "reading": "おねえさん"
+        },
+        {
+          "meaning": "ညီအစ်မ",
+          "reading": "しまい",
+          "word": "姉妹"
+        },
+        {
+          "reading": "しまいとし",
+          "word": "姉妹都市",
+          "meaning": "အစ်မမြို့တော်"
+        }
+      ],
+      "kunyomi": "あね",
+      "character": "姉",
+      "onyomi": "シ",
+      "id": 1787988406726.4204,
+      "meaning": "အစ်မ"
+    },
+    {
+      "meaning": "အစ်ကို",
+      "onyomi": "ケイ、キョウ",
+      "kotoba": [
+        {
+          "word": "兄",
+          "reading": "あに",
+          "meaning": "ကျွန်တော့်အစ်ကို"
+        },
+        {
+          "word": "お兄さん",
+          "meaning": "အစ်ကို",
+          "reading": "おにいさん"
+        },
+        {
+          "meaning": "မောင်နှမ",
+          "word": "兄弟",
+          "reading": "きょうだい"
+        },
+        {
+          "reading": "ぎけい",
+          "word": "義兄",
+          "meaning": "ခမောက်"
+        }
+      ],
+      "id": 1787988406726.128,
+      "character": "兄",
+      "kunyomi": "あに"
+    },
+    {
+      "onyomi": "シン",
+      "id": 1787988406726.3333,
+      "meaning": "မိဘ၊ ရင်းနှီးသော",
+      "kotoba": [
+        {
+          "word": "親",
+          "meaning": "မိဘ",
+          "reading": "おや"
+        },
+        {
+          "word": "親切な",
+          "meaning": "ကြင်နာသော",
+          "reading": "しんせつな"
+        },
+        {
+          "reading": "りょうしん",
+          "word": "両親",
+          "meaning": "မိဘနှစ်ပါး"
+        },
+        {
+          "reading": "しんゆう",
+          "word": "親友",
+          "meaning": "အရင်းနှီးဆုံးမိတ်ဆွေ"
+        },
+        {
+          "word": "父親",
+          "reading": "ちちおや",
+          "meaning": "ဖခင်"
+        },
+        {
+          "reading": "ははおや",
+          "word": "母親",
+          "meaning": "မိခင်"
+        },
+        {
+          "word": "親子",
+          "reading": "おやこ",
+          "meaning": "မိဘနှင့်ကလေး"
+        },
+        {
+          "reading": "したしい",
+          "word": "親しい",
+          "meaning": "ရင်းနှီးသော"
+        }
+      ],
+      "kunyomi": "おや、したしい",
+      "character": "親"
+    },
+    {
+      "onyomi": "ゾク",
+      "kunyomi": "",
+      "kotoba": [
+        {
+          "reading": "かぞく",
+          "word": "家族",
+          "meaning": "မိသားစု"
+        },
+        {
+          "reading": "しんぞく",
+          "word": "親族",
+          "meaning": "ဆွေမျိုးသားချင်း"
+        },
+        {
+          "word": "貴族",
+          "meaning": "မင်းမျိုးအနွယ်",
+          "reading": "きぞく"
+        },
+        {
+          "meaning": "လူမျိုးစု",
+          "word": "民族",
+          "reading": "みんぞく"
+        },
+        {
+          "word": "水族館",
+          "reading": "すいぞくかん",
+          "meaning": "ရေနေသတ္တဝါပြတိုက်"
+        }
+      ],
+      "character": "族",
+      "meaning": "မိသားစု၊ မျိုးနွယ်",
+      "id": 1787988406726.7534
+    },
+    {
+      "character": "家",
+      "kotoba": [
+        {
+          "reading": "いえ",
+          "word": "家",
+          "meaning": "အိမ်"
+        },
+        {
+          "meaning": "မိသားစု",
+          "word": "家族",
+          "reading": "かぞく"
+        },
+        {
+          "word": "家庭",
+          "reading": "かてい",
+          "meaning": "အိမ်ထောင်စု"
+        },
+        {
+          "word": "家内",
+          "meaning": "ကျွန်တော့်ဇနီး",
+          "reading": "かない"
+        },
+        {
+          "meaning": "အိမ်မှုကိစ္စ",
+          "word": "家事",
+          "reading": "かじ"
+        },
+        {
+          "reading": "やちん",
+          "meaning": "အိမ်ငှားခ",
+          "word": "家賃"
+        },
+        {
+          "reading": "やまだけ",
+          "word": "山田家",
+          "meaning": "ယာမာဒါမိသားစု"
+        }
+      ],
+      "onyomi": "カ、ケ",
+      "meaning": "အိမ်၊ မိသားစု",
+      "kunyomi": "いえ、や",
+      "id": 1787988406726.8154
+    }
+  ],
+  "Lesson 4": [
+    {
+      "character": "説",
+      "id": 1787988495067.3416,
+      "kunyomi": "とく",
+      "onyomi": "セツ、ゼイ",
+      "meaning": "ရှင်းလင်းသည်၊ အယူအဆ",
+      "kotoba": [
+        {
+          "meaning": "ရှင်းလင်းချက်",
+          "word": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "reading": "しょうせつ",
+          "meaning": "ဝတ္ထု",
+          "word": "小説"
+        },
+        {
+          "meaning": "မှတ်ချက်ပေးခြင်း",
+          "word": "解説",
+          "reading": "かいせつ"
+        },
+        {
+          "reading": "せっとくする",
+          "word": "説得する",
+          "meaning": "ဆွဲဆောင်သည်"
+        },
+        {
+          "word": "説教する",
+          "meaning": "တရားဟောသည်",
+          "reading": "せっきょうする"
+        },
+        {
+          "meaning": "ယူဆချက်",
+          "word": "仮説",
+          "reading": "かせつ"
+        },
+        {
+          "meaning": "ရှင်းလင်းပြောဆိုသည်",
+          "word": "説く",
+          "reading": "とく"
+        },
+        {
+          "word": "遊説",
+          "reading": "ゆうぜい",
+          "meaning": "မဲဆွယ်စည်းရုံးရေးခရီးစဉ်"
+        }
+      ]
+    },
+    {
+      "character": "問",
+      "meaning": "မေးမြန်းသည်",
+      "kotoba": [
+        {
+          "meaning": "ပြဿနာ / မေးခွန်း",
+          "reading": "もんだい",
+          "word": "問題"
+        },
+        {
+          "word": "質問",
+          "reading": "しつもん",
+          "meaning": "မေးခွန်း"
+        },
+        {
+          "reading": "とい",
+          "word": "問い",
+          "meaning": "မေးခွန်း"
+        },
+        {
+          "reading": "といあわせ",
+          "word": "問い合わせ",
+          "meaning": "စုံစမ်းမေးမြန်းခြင်း"
+        },
+        {
+          "meaning": "လည်ပတ်ခြင်း",
+          "word": "訪問",
+          "reading": "ほうもん"
+        },
+        {
+          "reading": "ぎもん",
+          "word": "疑問",
+          "meaning": "သံသယ"
+        },
+        {
+          "reading": "がくもん",
+          "word": "学問",
+          "meaning": "ပညာသင်ကြားမှု"
+        },
+        {
+          "reading": "とんや",
+          "meaning": "လက်ကားဆိုင်",
+          "word": "問屋"
+        }
+      ],
+      "id": 1787988495066.6587,
+      "kunyomi": "とう、問い",
+      "onyomi": "モン"
+    },
+    {
+      "character": "英",
+      "meaning": "အင်္ဂလိပ်၊ ထက်မြက်သော",
+      "onyomi": "エイ",
+      "id": 1787988495066.8267,
+      "kotoba": [
+        {
+          "word": "英語",
+          "reading": "えいご",
+          "meaning": "အင်္ဂလိပ်စာ"
+        },
+        {
+          "meaning": "သူရဲကောင်း",
+          "word": "英雄",
+          "reading": "えいゆう"
+        },
+        {
+          "reading": "えいこく",
+          "word": "英国",
+          "meaning": "ဗြိတိန်"
+        },
+        {
+          "word": "英会話",
+          "meaning": "အင်္ဂလိပ်စကားပြော",
+          "reading": "えいかいわ"
+        }
+      ],
+      "kunyomi": "はな"
+    },
+    {
+      "character": "題",
+      "kunyomi": "",
+      "id": 1787988495066.3093,
+      "onyomi": "ダイ",
+      "meaning": "ခေါင်းစဉ်၊ မေးခွန်း/ပြဿနာ",
+      "kotoba": [
+        {
+          "reading": "しゅくだい",
+          "word": "宿題",
+          "meaning": "အိမ်စာ"
+        },
+        {
+          "word": "問題",
+          "meaning": "ပြဿနာ / မေးခွန်း",
+          "reading": "もんだい"
+        },
+        {
+          "reading": "だい",
+          "word": "題",
+          "meaning": "ခေါင်းစဉ်"
+        },
+        {
+          "word": "題名",
+          "reading": "だいめい",
+          "meaning": "အမည်"
+        },
+        {
+          "meaning": "စကားအကြောင်းအရာ",
+          "word": "話題",
+          "reading": "わだい"
+        },
+        {
+          "meaning": "တာဝန်",
+          "word": "課題",
+          "reading": "かだい"
+        },
+        {
+          "meaning": "အဓိကအကြောင်းအရာ",
+          "word": "主題",
+          "reading": "しゅだい"
+        }
+      ]
+    },
+    {
+      "meaning": "စမ်းသပ်သည်၊ စမ်းကြည့်သည်",
+      "id": 1787988495066.3096,
+      "character": "試",
+      "onyomi": "シ",
+      "kotoba": [
+        {
+          "reading": "しけん",
+          "word": "試験",
+          "meaning": "စာမေးပွဲ"
+        },
+        {
+          "word": "試合",
+          "reading": "しあい",
+          "meaning": "ပြိုင်ပွဲ"
+        },
+        {
+          "word": "試す",
+          "meaning": "စမ်းကြည့်သည်",
+          "reading": "ためす"
+        },
+        {
+          "reading": "こころみる",
+          "word": "試みる",
+          "meaning": "ကြိုးစားသည်"
+        },
+        {
+          "reading": "にゅうがくしけん",
+          "word": "入学試験",
+          "meaning": "ဝင်ခွင့်စာမေးပွဲ"
+        },
+        {
+          "reading": "ししょく",
+          "word": "試食",
+          "meaning": "အစားအစာမြည်းစမ်းခြင်း"
+        }
+      ],
+      "kunyomi": "こころみる、ためす"
+    },
+    {
+      "character": "字",
+      "kunyomi": "あざ",
+      "id": 1787988495066.6406,
+      "meaning": "စာလုံး၊ ဂဏန်း",
+      "onyomi": "ジ",
+      "kotoba": [
+        {
+          "reading": "じ",
+          "meaning": "စာလုံး",
+          "word": "字"
+        },
+        {
+          "meaning": "တရုတ်စာလုံး",
+          "word": "漢字",
+          "reading": "かんじ"
+        },
+        {
+          "reading": "もじ",
+          "word": "文字",
+          "meaning": "စာလုံး"
+        },
+        {
+          "word": "名字",
+          "reading": "みょうじ",
+          "meaning": "ရိုးရာအမည်"
+        },
+        {
+          "reading": "すうじ",
+          "word": "数字",
+          "meaning": "နံပါတ်"
+        }
+      ]
+    },
+    {
+      "meaning": "တရုတ်၊ တရုတ်စာလုံး",
+      "onyomi": "カン",
+      "id": 1787988495066.3276,
+      "character": "漢",
+      "kotoba": [
+        {
+          "meaning": "တရုတ်စာလုံး / ကန်ဂျီ",
+          "reading": "かんじ",
+          "word": "漢字"
+        },
+        {
+          "word": "漢和辞典",
+          "reading": "かんわじてん",
+          "meaning": "ဂျပန်-တရုတ်အဘိဓာန်"
+        },
+        {
+          "reading": "かんぽうやく",
+          "meaning": "တရုတ်ဆေးဖက်ဝင်ပစ္စည်း",
+          "word": "漢方薬"
+        }
+      ],
+      "kunyomi": ""
+    },
+    {
+      "character": "習",
+      "kunyomi": "ならう",
+      "kotoba": [
+        {
+          "word": "習う",
+          "meaning": "သင်ယူသည်",
+          "reading": "ならう"
+        },
+        {
+          "reading": "れんしゅう",
+          "meaning": "လေ့ကျင့်ခြင်း",
+          "word": "練習"
+        },
+        {
+          "meaning": "အလေ့အထ",
+          "reading": "しゅうかん",
+          "word": "習慣"
+        },
+        {
+          "word": "復習",
+          "meaning": "ပြန်လည်လေ့လာခြင်း",
+          "reading": "ふくしゅう"
+        },
+        {
+          "reading": "がくしゅう",
+          "word": "学習",
+          "meaning": "သင်ယူမှု"
+        },
+        {
+          "reading": "じしゅう",
+          "word": "自習",
+          "meaning": "ကိုယ်တိုင်လေ့လာခြင်း"
+        },
+        {
+          "word": "習字",
+          "meaning": "လက်ရေးလှကျင့်ခြင်း",
+          "reading": "しゅうじ"
+        }
+      ],
+      "onyomi": "シュウ",
+      "meaning": "သင်ယူသည်၊ လေ့ကျင့်သည်",
+      "id": 1787988495066.8555
+    },
+    {
+      "kunyomi": "むろ",
+      "id": 1787988495065.0889,
+      "character": "室",
+      "kotoba": [
+        {
+          "word": "研究室",
+          "meaning": "သုတေသနခန်း",
+          "reading": "けんきゅうしつ"
+        },
+        {
+          "meaning": "အစည်းအဝေးခန်း",
+          "word": "会議室",
+          "reading": "かいぎしつ"
+        },
+        {
+          "meaning": "စောင့်ဆိုင်းခန်း",
+          "word": "待合室",
+          "reading": "まちあいしつ"
+        },
+        {
+          "reading": "おんしつ",
+          "word": "温室",
+          "meaning": "ဖန်လုံအိမ်"
+        },
+        {
+          "reading": "ちかしつ",
+          "word": "地下室",
+          "meaning": "မြေအောက်ခန်း"
+        },
+        {
+          "meaning": "ဂျပန်ပုံစံအခန်း",
+          "word": "和室",
+          "reading": "わしつ"
+        },
+        {
+          "meaning": "ရေချိုးခန်း",
+          "word": "浴室",
+          "reading": "よくしつ"
+        }
+      ],
+      "meaning": "အခန်း",
+      "onyomi": "シツ"
+    },
+    {
+      "kunyomi": "おしえる、おそわる",
+      "kotoba": [
+        {
+          "meaning": "သင်ကြားပေးသည်",
+          "word": "教える",
+          "reading": "おしえる"
+        },
+        {
+          "reading": "きょうしつ",
+          "word": "教室",
+          "meaning": "စာသင်ခန်း"
+        },
+        {
+          "meaning": "ဘုရားရှိခိုးကျောင်း",
+          "word": "教会",
+          "reading": "きょうかい"
+        },
+        {
+          "meaning": "ပညာရေး",
+          "reading": "きょういく",
+          "word": "教育"
+        },
+        {
+          "word": "教授",
+          "meaning": "ပါမောက္ခ",
+          "reading": "きょうじゅ"
+        },
+        {
+          "meaning": "ဆရာ",
+          "word": "教師",
+          "reading": "きょうし"
+        },
+        {
+          "word": "教科書",
+          "reading": "きょうかしょ",
+          "meaning": "ဖတ်စာ"
+        },
+        {
+          "meaning": "ဘာသာ",
+          "reading": "しゅうきょう",
+          "word": "宗教"
+        },
+        {
+          "meaning": "သင်ကြားခံရသည်",
+          "word": "教わる",
+          "reading": "おそわる"
+        }
+      ],
+      "character": "教",
+      "id": 1787988495065.924,
+      "onyomi": "キョウ",
+      "meaning": "သင်ကြားသည်၊ ဘာသာရေး"
+    }
+  ],
+  "Lesson 5": [
+    {
+      "onyomi": "フウ",
+      "character": "風",
+      "kunyomi": "かぜ、かざ",
+      "id": 1788043483752.2446,
+      "kotoba": [
+        {
+          "word": "風",
+          "meaning": "လေ",
+          "reading": "かぜ"
+        },
+        {
+          "meaning": "မုန်တိုင်း",
+          "word": "台風",
+          "reading": "たいふう"
+        },
+        {
+          "word": "風邪",
+          "reading": "かぜ",
+          "meaning": "အအေးမိနာ"
+        },
+        {
+          "reading": "おふろ",
+          "word": "お風呂",
+          "meaning": "ရေချိုးခြင်း"
+        },
+        {
+          "word": "風船",
+          "meaning": "မီးပုံးပျံ",
+          "reading": "ふうせん"
+        },
+        {
+          "reading": "ふうけい",
+          "meaning": "ရှုခင်း",
+          "word": "風景"
+        },
+        {
+          "meaning": "အနောက်တိုင်းပုံစံ",
+          "word": "洋風",
+          "reading": "ようふう"
+        },
+        {
+          "reading": "わふう",
+          "meaning": "ဂျပန်ပုံစံ",
+          "word": "和風"
+        }
+      ],
+      "meaning": "လေ၊ ပုံစံ"
+    },
+    {
+      "id": 1788043483752.1228,
+      "kotoba": [
+        {
+          "reading": "みじかい",
+          "meaning": "တိုသော",
+          "word": "短い"
+        },
+        {
+          "word": "短所",
+          "meaning": "အားနည်းချက်",
+          "reading": "たんしょ"
+        },
+        {
+          "meaning": "ရေတိုကာလ",
+          "reading": "たんき",
+          "word": "短期"
+        },
+        {
+          "meaning": "ဒီပလိုမာကောလိပ်",
+          "word": "短期大学",
+          "reading": "たんきだいがく"
+        },
+        {
+          "word": "短編",
+          "reading": "たんぺん",
+          "meaning": "ဝတ္ထုတို"
+        },
+        {
+          "meaning": "စိတ်တိုခြင်း",
+          "word": "短気",
+          "reading": "たんき"
+        },
+        {
+          "word": "短歌",
+          "reading": "たんか",
+          "meaning": "ဂျပန်ကဗျာအတို"
+        }
+      ],
+      "kunyomi": "みじかい",
+      "onyomi": "タン",
+      "meaning": "တိုသော",
+      "character": "短"
+    },
+    {
+      "meaning": "ထူသော၊ ဝသော",
+      "character": "太",
+      "kotoba": [
+        {
+          "meaning": "ထူသော",
+          "reading": "ふとい",
+          "word": "太い"
+        },
+        {
+          "reading": "ふとる",
+          "word": "太る",
+          "meaning": "ကိုယ်အလေးချိန်တက်သည်"
+        },
+        {
+          "meaning": "နေ",
+          "reading": "たいよう",
+          "word": "太陽"
+        },
+        {
+          "word": "太鼓",
+          "reading": "たいこ",
+          "meaning": "ဂျပန်စည်"
+        },
+        {
+          "meaning": "အိမ်ရှေ့မင်းသား",
+          "word": "皇太子",
+          "reading": "こうたいし"
+        },
+        {
+          "meaning": "ပစိဖိတ်သမုဒ္ဒရာ",
+          "reading": "たいへいよう",
+          "word": "太平洋"
+        },
+        {
+          "word": "丸太",
+          "meaning": "သစ်လုံး",
+          "reading": "まるた"
+        }
+      ],
+      "kunyomi": "ふとい、ふとる",
+      "id": 1788043483752.8386,
+      "onyomi": "タイ"
+    },
+    {
+      "id": 1788043483752.7395,
+      "kunyomi": "くらい",
+      "onyomi": "アン",
+      "meaning": "မှောင်မိုက်သော",
+      "character": "暗",
+      "kotoba": [
+        {
+          "reading": "くらい",
+          "meaning": "မှောင်မိုက်သော",
+          "word": "暗い"
+        },
+        {
+          "reading": "まっくら",
+          "word": "真っ暗",
+          "meaning": "လုံးဝမှောင်မိုက်"
+        },
+        {
+          "meaning": "ကျက်မှတ်သည်",
+          "reading": "あんきする",
+          "word": "暗記する"
+        },
+        {
+          "reading": "あんさつ",
+          "meaning": "လုပ်ကြံသတ်ဖြတ်ခြင်း",
+          "word": "暗殺"
+        },
+        {
+          "word": "暗証番号",
+          "reading": "あんしょうばんごう",
+          "meaning": "ကိုယ်ရေးနံပါတ်"
+        }
+      ]
+    },
+    {
+      "onyomi": "アク、オ",
+      "character": "悪",
+      "id": 1788043483752.5442,
+      "kotoba": [
+        {
+          "meaning": "မကောင်းသော",
+          "reading": "わるい",
+          "word": "悪い"
+        },
+        {
+          "reading": "わるぐち",
+          "word": "悪口",
+          "meaning": "သူ့ကျောသူပြော"
+        },
+        {
+          "word": "意地悪な",
+          "reading": "いじわるな",
+          "meaning": "သဘောဆိုးသော"
+        },
+        {
+          "meaning": "အဆိုးဆုံး",
+          "word": "最悪",
+          "reading": "さいあく"
+        },
+        {
+          "reading": "わるもの",
+          "meaning": "လူဆိုး",
+          "word": "悪者"
+        },
+        {
+          "meaning": "မာရ်နတ်",
+          "reading": "あくま",
+          "word": "悪魔"
+        },
+        {
+          "reading": "あく",
+          "word": "悪",
+          "meaning": "အပြစ်"
+        },
+        {
+          "reading": "おかん",
+          "word": "悪寒",
+          "meaning": "ချမ်းတုန်ခြင်း"
+        }
+      ],
+      "kunyomi": "わるい",
+      "meaning": "မကောင်းသော၊ ဆိုးသော"
+    },
+    {
+      "onyomi": "ジャク",
+      "kotoba": [
+        {
+          "word": "弱い",
+          "reading": "よわい",
+          "meaning": "အားနည်းသော"
+        },
+        {
+          "reading": "じゃくてん",
+          "meaning": "အားနည်းချက်",
+          "word": "弱点"
+        },
+        {
+          "word": "弱る",
+          "reading": "よわる",
+          "meaning": "အားနည်းလာသည်"
+        },
+        {
+          "reading": "びょうじゃく",
+          "word": "病弱",
+          "meaning": "ကိုယ်ခံအားနည်းခြင်း"
+        },
+        {
+          "meaning": "အားကြီးသူနိုင်စကြဝဠာ",
+          "word": "弱肉強食",
+          "reading": "じゃくにくきょうしょく"
+        },
+        {
+          "word": "弱気",
+          "reading": "よわき",
+          "meaning": "စိတ်အားငယ်ခြင်း"
+        }
+      ],
+      "kunyomi": "よわい、よわる",
+      "meaning": "အားနည်းသော",
+      "character": "弱",
+      "id": 1788043483752.4626
+    },
+    {
+      "character": "寒",
+      "kotoba": [
+        {
+          "word": "寒い",
+          "meaning": "အေးသော (ရာသီဥတု)",
+          "reading": "さむい"
+        },
+        {
+          "meaning": "ချမ်းအေးမှု",
+          "word": "寒気",
+          "reading": "さむけ"
+        },
+        {
+          "meaning": "အအေးဓာတ်",
+          "word": "寒気",
+          "reading": "かんき"
+        },
+        {
+          "word": "寒帯",
+          "meaning": "အအေးပိုင်းဒေသ",
+          "reading": "かんたい"
+        },
+        {
+          "reading": "かんぷう",
+          "meaning": "လေအေး",
+          "word": "寒風"
+        }
+      ],
+      "kunyomi": "さむい",
+      "onyomi": "カン",
+      "meaning": "အေးသော (ရာသီဥတု)",
+      "id": 1788043483751.3623
+    },
+    {
+      "kunyomi": "もの",
+      "kotoba": [
+        {
+          "word": "学者",
+          "meaning": "ပညာရှင်",
+          "reading": "がくしゃ"
+        },
+        {
+          "reading": "さくしゃ",
+          "word": "作者",
+          "meaning": "စာရေးဆရာ"
+        },
+        {
+          "word": "医者",
+          "reading": "いしゃ",
+          "meaning": "ဆရာဝန်"
+        },
+        {
+          "meaning": "သုတေသီ",
+          "reading": "けんきゅうしゃ",
+          "word": "研究者"
+        },
+        {
+          "meaning": "သွားဆရာဝန်",
+          "reading": "はいしゃ",
+          "word": "歯医者"
+        },
+        {
+          "reading": "きしゃ",
+          "word": "記者",
+          "meaning": "သတင်းထောက်"
+        },
+        {
+          "word": "読者",
+          "meaning": "စာဖတ်သူ",
+          "reading": "どくしゃ"
+        },
+        {
+          "meaning": "လူငယ်",
+          "reading": "わかもの",
+          "word": "若者"
+        }
+      ],
+      "onyomi": "シャ",
+      "character": "者",
+      "meaning": "လူ၊ ပုဂ္ဂိုလ်",
+      "id": 1788043483751.072
+    },
+    {
+      "onyomi": "キン",
+      "meaning": "နီးသော",
+      "kotoba": [
+        {
+          "word": "近い",
+          "meaning": "နီးသော",
+          "reading": "ちかい"
+        },
+        {
+          "reading": "ちかく",
+          "meaning": "အနီး",
+          "word": "近く"
+        },
+        {
+          "word": "近所",
+          "reading": "きんじょ",
+          "meaning": "ရပ်ကွက်"
+        },
+        {
+          "reading": "さいきん",
+          "word": "最近",
+          "meaning": "မကြာသေးမီက"
+        },
+        {
+          "meaning": "မကြာသေးမီက",
+          "word": "近ごろ",
+          "reading": "ちかごろ"
+        },
+        {
+          "meaning": "ခေတ်မီသော",
+          "reading": "きんだいてきな",
+          "word": "近代的な"
+        },
+        {
+          "reading": "きんし",
+          "word": "近視",
+          "meaning": "အဝေးမမြင်သော"
+        },
+        {
+          "reading": "ちゅうきんとう",
+          "word": "中近東",
+          "meaning": "အရှေ့အလယ်ပိုင်းနှင့် အရှေ့အနီးပိုင်း"
+        }
+      ],
+      "character": "近",
+      "kunyomi": "ちかい",
+      "id": 1788043483751.5974
+    },
+    {
+      "meaning": "ဝေးသော",
+      "character": "遠",
+      "kotoba": [
+        {
+          "meaning": "ဝေးသော",
+          "word": "遠い",
+          "reading": "とおい"
+        },
+        {
+          "reading": "とおく",
+          "word": "遠く",
+          "meaning": "ဝေးရာ"
+        },
+        {
+          "word": "遠慮する",
+          "meaning": "ရှောင်ကြဉ်သည်",
+          "reading": "えんりょする"
+        },
+        {
+          "meaning": "ကျောင်းလေ့လာရေးခရီး",
+          "word": "遠足",
+          "reading": "えんそく"
+        }
+      ],
+      "id": 1788043483751.357,
+      "onyomi": "エン",
+      "kunyomi": "とおい"
+    }
+  ],
+  "Lesson 6": [
+    {
+      "id": 1788043570742.4856,
+      "kunyomi": "しぬ",
+      "onyomi": "シ",
+      "meaning": "သေဆုံးသည်",
+      "kotoba": [
+        {
+          "word": "死ぬ",
+          "meaning": "သေသည်",
+          "reading": "しぬ"
+        },
+        {
+          "reading": "し",
+          "word": "死",
+          "meaning": "သေခြင်း"
+        },
+        {
+          "meaning": "အလောင်း",
+          "reading": "したい",
+          "word": "死体"
+        },
+        {
+          "meaning": "အသက်စွန့်",
+          "word": "必死",
+          "reading": "ひっし"
+        },
+        {
+          "word": "死亡",
+          "reading": "しぼう",
+          "meaning": "သေဆုံးခြင်း"
+        },
+        {
+          "meaning": "သနားကရုဏာသတ်ဖြတ်ခြင်း",
+          "reading": "あんらくし",
+          "word": "安楽死"
+        },
+        {
+          "word": "死者",
+          "meaning": "သေဆုံးသူ",
+          "reading": "ししゃ"
+        },
+        {
+          "word": "死語",
+          "reading": "しご",
+          "meaning": "သုံးစွဲမှုမရှိတော့သောဘာသာစကား"
+        }
+      ],
+      "character": "死"
+    },
+    {
+      "onyomi": "チ",
+      "kunyomi": "しる",
+      "kotoba": [
+        {
+          "meaning": "သိသည်",
+          "word": "知る",
+          "reading": "しる"
+        },
+        {
+          "word": "知らせる",
+          "reading": "しらせる",
+          "meaning": "အသိပေးသည်"
+        },
+        {
+          "meaning": "သိကျွမ်းသူ",
+          "word": "知り合い",
+          "reading": "しりあい"
+        },
+        {
+          "reading": "しょうちする",
+          "word": "承知する",
+          "meaning": "သဘောတူသည်"
+        },
+        {
+          "meaning": "သိသူ",
+          "word": "知人",
+          "reading": "ちじん"
+        },
+        {
+          "meaning": "အသိပညာ",
+          "word": "知識",
+          "reading": "ちしき"
+        },
+        {
+          "reading": "ちせい",
+          "meaning": "ဉာဏ်ရည်",
+          "word": "知性"
+        },
+        {
+          "word": "知事",
+          "meaning": "အုပ်ချုပ်ရေးမှူး",
+          "reading": "ちじ"
+        }
+      ],
+      "meaning": "သိသည်၊ အသိပညာ",
+      "id": 1788043570742.5793,
+      "character": "知"
+    },
+    {
+      "character": "思",
+      "kunyomi": "おもう",
+      "kotoba": [
+        {
+          "word": "思う",
+          "meaning": "ထင်သည် / စဉ်းစားသည်",
+          "reading": "おもう"
+        },
+        {
+          "meaning": "ပြန်အမှတ်ရသည်",
+          "word": "思い出す",
+          "reading": "おもいだす"
+        },
+        {
+          "reading": "おもいで",
+          "meaning": "အမှတ်တရ",
+          "word": "思い出"
+        },
+        {
+          "word": "思いがけない",
+          "meaning": "မမျှော်လင့်သော",
+          "reading": "おもいがけない"
+        },
+        {
+          "meaning": "စိတ်ကြိုက်",
+          "reading": "おもいきり",
+          "word": "思いきり"
+        },
+        {
+          "reading": "ふしぎな",
+          "meaning": "ထူးဆန်းသော",
+          "word": "不思議な"
+        },
+        {
+          "reading": "しそう",
+          "word": "思想",
+          "meaning": "အတွေးအခေါ်"
+        }
+      ],
+      "meaning": "ထင်သည်၊ စဉ်းစားသည်",
+      "onyomi": "シ",
+      "id": 1788043570742.666
+    },
+    {
+      "kunyomi": "ひく",
+      "id": 1788043570742.1992,
+      "character": "引",
+      "kotoba": [
+        {
+          "meaning": "ဆွဲသည်",
+          "word": "引く",
+          "reading": "ひく"
+        },
+        {
+          "meaning": "အံဆွဲ",
+          "reading": "ひきだし",
+          "word": "引き出し"
+        },
+        {
+          "word": "引き出す",
+          "reading": "ひきだす",
+          "meaning": "ထုတ်ယူသည် / ဆွဲထုတ်သည်"
+        },
+        {
+          "word": "引っ越す",
+          "meaning": "အိမ်ပြောင်းသည်",
+          "reading": "ひっこす"
+        },
+        {
+          "meaning": "သရေကျသည်",
+          "word": "引き分け",
+          "reading": "ひきわけ"
+        },
+        {
+          "meaning": "လျှော့စျေး",
+          "word": "割り引き",
+          "reading": "わりびき"
+        },
+        {
+          "meaning": "ကိုးကားချက်",
+          "word": "引用",
+          "reading": "いんよう"
+        },
+        {
+          "word": "引力",
+          "reading": "いんりょく",
+          "meaning": "ဆွဲအား"
+        }
+      ],
+      "onyomi": "イン",
+      "meaning": "ဆွဲသည်"
+    },
+    {
+      "meaning": "ဖွင့်သည်၊ စတင်သည်",
+      "character": "開",
+      "kotoba": [
+        {
+          "reading": "あく",
+          "meaning": "ဖွင့်သည် (အလိုအလျောက်)",
+          "word": "開く"
+        },
+        {
+          "reading": "あける",
+          "meaning": "ဖွင့်သည် (ကိုယ်တိုင်)",
+          "word": "開ける"
+        },
+        {
+          "reading": "ひらく",
+          "word": "開く",
+          "meaning": "ဖွင့်သည် / စတင်သည်"
+        },
+        {
+          "meaning": "စတင်သည်",
+          "reading": "かいしする",
+          "word": "開始する"
+        },
+        {
+          "reading": "かいてん",
+          "word": "開店",
+          "meaning": "ဆိုင်ဖွင့်ခြင်း"
+        },
+        {
+          "reading": "こうかい",
+          "word": "公開",
+          "meaning": "လူထုသို့ဖွင့်လှစ်ခြင်း"
+        },
+        {
+          "word": "開会式",
+          "reading": "かいかいしき",
+          "meaning": "ဖွင့်ပွဲအခမ်းအနား"
+        }
+      ],
+      "id": 1788043570741.8804,
+      "kunyomi": "あく、あける、ひらく",
+      "onyomi": "カイ"
+    },
+    {
+      "onyomi": "キュウ",
+      "kunyomi": "いそぐ",
+      "kotoba": [
+        {
+          "word": "急に",
+          "reading": "きゅうに",
+          "meaning": "ရုတ်တရက်"
+        },
+        {
+          "reading": "いそぐ",
+          "word": "急ぐ",
+          "meaning": "အလျင်စလိုလုပ်သည်"
+        },
+        {
+          "meaning": "အမြန်ရထား",
+          "word": "急行",
+          "reading": "きゅうこう"
+        },
+        {
+          "word": "特急",
+          "meaning": "အထူးအမြန်ရထား",
+          "reading": "とっきゅう"
+        },
+        {
+          "word": "至急",
+          "reading": "しきゅう",
+          "meaning": "ချက်ချင်း / အမြန်ဆုံး"
+        }
+      ],
+      "id": 1788043570741.0205,
+      "meaning": "အလျင်လိုသည်၊ ရုတ်တရက်",
+      "character": "急"
+    },
+    {
+      "onyomi": "セン",
+      "kunyomi": "あらう",
+      "kotoba": [
+        {
+          "word": "洗う",
+          "meaning": "လျှော်သည် / ဆေးသည်",
+          "reading": "あらう"
+        },
+        {
+          "meaning": "အိမ်သာ",
+          "word": "お手洗い",
+          "reading": "おてあらい"
+        },
+        {
+          "meaning": "အဝတ်လျှော်သည်",
+          "reading": "せんたくする",
+          "word": "洗濯する"
+        },
+        {
+          "reading": "せんざい",
+          "word": "洗剤",
+          "meaning": "ဆပ်ပြာ / ဆေးရည်"
+        }
+      ],
+      "character": "洗",
+      "meaning": "လျှော်သည်၊ ဆေးကြောသည်",
+      "id": 1788043570741.6746
+    },
+    {
+      "id": 1788043570741.366,
+      "kunyomi": "おくると",
+      "meaning": "ပေးပို့သည်",
+      "kotoba": [
+        {
+          "word": "送る",
+          "reading": "おくる",
+          "meaning": "ပေးပို့သည်"
+        },
+        {
+          "reading": "ほうそう",
+          "meaning": "ထုတ်လွှင့်ခြင်း",
+          "word": "放送"
+        },
+        {
+          "meaning": "စာတိုက်ဖြင့်ပို့သည်",
+          "word": "郵送する",
+          "reading": "ゆうそうする"
+        },
+        {
+          "word": "送料",
+          "reading": "そうりょう",
+          "meaning": "စာပို့ခ"
+        },
+        {
+          "meaning": "နှုတ်ဆက်ပွဲ",
+          "reading": "そうべつかい",
+          "word": "送別会"
+        }
+      ],
+      "character": "送",
+      "onyomi": "ソウ"
+    },
+    {
+      "meaning": "သုံးစွဲသည်၊ စေလွှတ်သည်",
+      "character": "使",
+      "id": 1788043570741.2556,
+      "onyomi": "シ",
+      "kunyomi": "つかう",
+      "kotoba": [
+        {
+          "meaning": "သုံးစွဲသည်",
+          "word": "使う",
+          "reading": "つかう"
+        },
+        {
+          "meaning": "သံရုံး",
+          "reading": "たいしかん",
+          "word": "大使館"
+        },
+        {
+          "word": "大使",
+          "meaning": "သံအမတ်ကြီး",
+          "reading": "たいし"
+        },
+        {
+          "meaning": "သုံးစွဲနေသည်",
+          "word": "使用中",
+          "reading": "しようちゅう"
+        },
+        {
+          "word": "使命",
+          "reading": "しめい",
+          "meaning": "တာဝန် / မန်ဒိတ်"
+        },
+        {
+          "reading": "てんし",
+          "word": "天使",
+          "meaning": "ကောင်းကင်တမန်"
+        },
+        {
+          "reading": "おつかい",
+          "word": "お使い",
+          "meaning": "စေလွှတ်ခြင်း / အလုပ်အမှုဆောင်"
+        }
+      ]
+    },
+    {
+      "id": 1788043570741.8152,
+      "kunyomi": "あるく、あゆむ",
+      "meaning": "လမ်းလျှောက်သည်",
+      "onyomi": "ホ、フ",
+      "kotoba": [
+        {
+          "meaning": "လမ်းလျှောက်သည်",
+          "word": "歩く",
+          "reading": "あるく"
+        },
+        {
+          "word": "散歩する",
+          "reading": "さんぽする",
+          "meaning": "လမ်းလျှောက်သည် / အပန်းဖြေလျှောက်သည်"
+        },
+        {
+          "meaning": "တစ်လှမ်း",
+          "reading": "いっぽ",
+          "word": "一歩"
+        },
+        {
+          "word": "進歩",
+          "meaning": "တိုးတက်မှု",
+          "reading": "しんぽ"
+        },
+        {
+          "meaning": "လူသွားလမ်း",
+          "reading": "ほどう",
+          "word": "歩道"
+        }
+      ],
+      "character": "歩"
+    },
+    {
+      "kotoba": [
+        {
+          "reading": "うごく",
+          "word": "動く",
+          "meaning": "လှုပ်ရှားသည်"
+        },
+        {
+          "reading": "うんどう",
+          "word": "運動",
+          "meaning": "လေ့ကျင့်ခန်း"
+        },
+        {
+          "reading": "じどうしゃ",
+          "word": "自動車",
+          "meaning": "ကား"
+        },
+        {
+          "reading": "どうぶつ",
+          "word": "動物",
+          "meaning": "တိရစ္ဆာန်"
+        },
+        {
+          "meaning": "လှုပ်ရှားမှု",
+          "reading": "かつどう",
+          "word": "活動"
+        },
+        {
+          "reading": "かんどうする",
+          "word": "感動する",
+          "meaning": "စိတ်လှုပ်ရှားသည် / စိတ်ထိခိုက်သည်"
+        },
+        {
+          "meaning": "ကြိယာ",
+          "word": "動詞",
+          "reading": "どうし"
+        },
+        {
+          "reading": "じどうドア",
+          "word": "自動ドア",
+          "meaning": "အလိုအလျောက်တံခါး"
+        }
+      ],
+      "id": 1788043570740.1465,
+      "character": "動",
+      "onyomi": "ドウ",
+      "meaning": "လှုပ်ရှားသည်",
+      "kunyomi": "うごく"
+    }
+  ],
   "Lesson 7": [
     {
       "onyomi": "シ",
@@ -1265,413 +3385,6 @@
       "character": "館"
     }
   ],
-  "Lesson 14": [],
-  "Lesson 3": [
-    {
-      "kotoba": [
-        {
-          "word": "今週",
-          "reading": "こんしゅう",
-          "meaning": "ဒီအပတ်"
-        },
-        {
-          "reading": "らいしゅう",
-          "word": "来週",
-          "meaning": "နောက်အပတ်"
-        },
-        {
-          "reading": "せんしゅう",
-          "meaning": "ပြီးခဲ့သောအပတ်",
-          "word": "先週"
-        },
-        {
-          "reading": "しゅうまつ",
-          "word": "週末",
-          "meaning": "စနေ၊ တနင်္ဂနွေ (ရက်သတ္တပတ်ပိတ်ရက်)"
-        }
-      ],
-      "meaning": "ရက်သတ္တပတ် / အပတ်",
-      "onyomi": "シュウ",
-      "id": 1788045314591.205,
-      "kunyomi": "",
-      "character": "週"
-    },
-    {
-      "kunyomi": "",
-      "id": 1788045314591.8684,
-      "meaning": "တိုင်း",
-      "kotoba": [
-        {
-          "meaning": "ရက်တိုင်း",
-          "reading": "まいにち",
-          "word": "毎日"
-        },
-        {
-          "reading": "まいしゅう",
-          "word": "毎週",
-          "meaning": "အပတ်တိုင်း"
-        },
-        {
-          "word": "毎月",
-          "reading": "まいつき / まいげつ",
-          "meaning": "လတိုင်း"
-        },
-        {
-          "reading": "まいとし / まいねん",
-          "word": "毎年",
-          "meaning": "နှစ်တိုင်း"
-        }
-      ],
-      "character": "毎",
-      "onyomi": "マイ"
-    },
-    {
-      "kunyomi": "かみ",
-      "id": 1787988406727.0178,
-      "onyomi": "シ",
-      "character": "紙",
-      "meaning": "စက္ကူ",
-      "kotoba": [
-        {
-          "meaning": "စက္ကူ",
-          "word": "紙",
-          "reading": "かみ"
-        },
-        {
-          "reading": "てがみ",
-          "word": "手紙",
-          "meaning": "စာ"
-        },
-        {
-          "reading": "ひょうし",
-          "word": "表紙",
-          "meaning": "မျက်နှာဖုံး"
-        },
-        {
-          "meaning": "ငွေစက္ကူ",
-          "word": "紙幣",
-          "reading": "しへい"
-        },
-        {
-          "reading": "わし",
-          "word": "和紙",
-          "meaning": "ဂျပန်စက္ကူ"
-        },
-        {
-          "word": "紙くず",
-          "reading": "かみくず",
-          "meaning": "စက္ကူအမှိုက်"
-        },
-        {
-          "reading": "おりがみ",
-          "meaning": "စက္ကူခေါက်",
-          "word": "折り紙"
-        },
-        {
-          "word": "紙コップ",
-          "meaning": "စက္ကူခွက်",
-          "reading": "かみコップ"
-        }
-      ]
-    },
-    {
-      "kunyomi": "ぬし、おも",
-      "character": "主",
-      "kotoba": [
-        {
-          "word": "主人",
-          "meaning": "ခင်ပွန်း / သခင်",
-          "reading": "しゅじん"
-        },
-        {
-          "meaning": "အိမ်ရှင်မ",
-          "reading": "しゅふ",
-          "word": "主婦"
-        },
-        {
-          "word": "主語",
-          "meaning": "ဝါကျ၏အကြောင်းခံ",
-          "reading": "しゅご"
-        },
-        {
-          "reading": "しゅぎ",
-          "word": "主義",
-          "meaning": "အယူဝါဒ"
-        },
-        {
-          "word": "主題",
-          "reading": "しゅだい",
-          "meaning": "အကြောင်းအရာ"
-        },
-        {
-          "reading": "しゅしょく",
-          "word": "主食",
-          "meaning": "အဓိကစားနပ်ရိက္ခာ"
-        },
-        {
-          "reading": "おもに",
-          "meaning": "အဓိကအားဖြင့်",
-          "word": "主に"
-        },
-        {
-          "reading": "もちぬし",
-          "word": "持ち主",
-          "meaning": "ပိုင်ရှင်"
-        }
-      ],
-      "onyomi": "シュ、ス",
-      "id": 1787988406727.737,
-      "meaning": "အဓိက၊ သခင်/ပိုင်ရှင်"
-    },
-    {
-      "character": "私",
-      "kunyomi": "わたくし、わたし",
-      "id": 1787988406726.8298,
-      "onyomi": "シ",
-      "meaning": "ကျွန်တော်/ကျွန်မ၊ ကိုယ်ပိုင်",
-      "kotoba": [
-        {
-          "meaning": "ကျွန်တော် / ကျွန်မ",
-          "word": "私",
-          "reading": "わたし"
-        },
-        {
-          "meaning": "ပုဂ္ဂလိကတက္ကသိုလ်",
-          "word": "私立大学",
-          "reading": "しりつだいがく"
-        },
-        {
-          "reading": "してつ",
-          "word": "私鉄",
-          "meaning": "ပုဂ္ဂလိကမီးရထားလမ်း"
-        },
-        {
-          "reading": "しよう",
-          "meaning": "ကိုယ်ရေးသုံး",
-          "word": "私用"
-        },
-        {
-          "word": "私有",
-          "reading": "しゆう",
-          "meaning": "ပုဂ္ဂလိကပိုင်"
-        },
-        {
-          "reading": "しせいかつ",
-          "word": "私生活",
-          "meaning": "ကိုယ်ရေးကိုယ်တာဘဝ"
-        },
-        {
-          "reading": "ししょばこ",
-          "meaning": "စာတိုက်သေတ္တာ",
-          "word": "私書箱"
-        }
-      ]
-    },
-    {
-      "kotoba": [
-        {
-          "word": "妹",
-          "reading": "いもうと",
-          "meaning": "နှမ"
-        },
-        {
-          "meaning": "ညီအစ်မ",
-          "reading": "しまい",
-          "word": "姉妹"
-        }
-      ],
-      "id": 1787988406726.6667,
-      "kunyomi": "いもうと",
-      "onyomi": "マイ",
-      "character": "妹",
-      "meaning": "ညီမ/နှမ"
-    },
-    {
-      "kotoba": [
-        {
-          "meaning": "ကျွန်မရဲ့အစ်မ",
-          "word": "姉",
-          "reading": "あね"
-        },
-        {
-          "word": "お姉さん",
-          "meaning": "အစ်မ",
-          "reading": "おねえさん"
-        },
-        {
-          "meaning": "ညီအစ်မ",
-          "reading": "しまい",
-          "word": "姉妹"
-        },
-        {
-          "reading": "しまいとし",
-          "word": "姉妹都市",
-          "meaning": "အစ်မမြို့တော်"
-        }
-      ],
-      "kunyomi": "あね",
-      "character": "姉",
-      "onyomi": "シ",
-      "id": 1787988406726.4204,
-      "meaning": "အစ်မ"
-    },
-    {
-      "meaning": "အစ်ကို",
-      "onyomi": "ケイ、キョウ",
-      "kotoba": [
-        {
-          "word": "兄",
-          "reading": "あに",
-          "meaning": "ကျွန်တော့်အစ်ကို"
-        },
-        {
-          "word": "お兄さん",
-          "meaning": "အစ်ကို",
-          "reading": "おにいさん"
-        },
-        {
-          "meaning": "မောင်နှမ",
-          "word": "兄弟",
-          "reading": "きょうだい"
-        },
-        {
-          "reading": "ぎけい",
-          "word": "義兄",
-          "meaning": "ခမောက်"
-        }
-      ],
-      "id": 1787988406726.128,
-      "character": "兄",
-      "kunyomi": "あに"
-    },
-    {
-      "onyomi": "シン",
-      "id": 1787988406726.3333,
-      "meaning": "မိဘ၊ ရင်းနှီးသော",
-      "kotoba": [
-        {
-          "word": "親",
-          "meaning": "မိဘ",
-          "reading": "おや"
-        },
-        {
-          "word": "親切な",
-          "meaning": "ကြင်နာသော",
-          "reading": "しんせつな"
-        },
-        {
-          "reading": "りょうしん",
-          "word": "両親",
-          "meaning": "မိဘနှစ်ပါး"
-        },
-        {
-          "reading": "しんゆう",
-          "word": "親友",
-          "meaning": "အရင်းနှီးဆုံးမိတ်ဆွေ"
-        },
-        {
-          "word": "父親",
-          "reading": "ちちおや",
-          "meaning": "ဖခင်"
-        },
-        {
-          "reading": "ははおや",
-          "word": "母親",
-          "meaning": "မိခင်"
-        },
-        {
-          "word": "親子",
-          "reading": "おやこ",
-          "meaning": "မိဘနှင့်ကလေး"
-        },
-        {
-          "reading": "したしい",
-          "word": "親しい",
-          "meaning": "ရင်းနှီးသော"
-        }
-      ],
-      "kunyomi": "おや、したしい",
-      "character": "親"
-    },
-    {
-      "onyomi": "ゾク",
-      "kunyomi": "",
-      "kotoba": [
-        {
-          "reading": "かぞく",
-          "word": "家族",
-          "meaning": "မိသားစု"
-        },
-        {
-          "reading": "しんぞく",
-          "word": "親族",
-          "meaning": "ဆွေမျိုးသားချင်း"
-        },
-        {
-          "word": "貴族",
-          "meaning": "မင်းမျိုးအနွယ်",
-          "reading": "きぞく"
-        },
-        {
-          "meaning": "လူမျိုးစု",
-          "word": "民族",
-          "reading": "みんぞく"
-        },
-        {
-          "word": "水族館",
-          "reading": "すいぞくかん",
-          "meaning": "ရေနေသတ္တဝါပြတိုက်"
-        }
-      ],
-      "character": "族",
-      "meaning": "မိသားစု၊ မျိုးနွယ်",
-      "id": 1787988406726.7534
-    },
-    {
-      "character": "家",
-      "kotoba": [
-        {
-          "reading": "いえ",
-          "word": "家",
-          "meaning": "အိမ်"
-        },
-        {
-          "meaning": "မိသားစု",
-          "word": "家族",
-          "reading": "かぞく"
-        },
-        {
-          "word": "家庭",
-          "reading": "かてい",
-          "meaning": "အိမ်ထောင်စု"
-        },
-        {
-          "word": "家内",
-          "meaning": "ကျွန်တော့်ဇနီး",
-          "reading": "かない"
-        },
-        {
-          "meaning": "အိမ်မှုကိစ္စ",
-          "word": "家事",
-          "reading": "かじ"
-        },
-        {
-          "reading": "やちん",
-          "meaning": "အိမ်ငှားခ",
-          "word": "家賃"
-        },
-        {
-          "reading": "やまだけ",
-          "word": "山田家",
-          "meaning": "ယာမာဒါမိသားစု"
-        }
-      ],
-      "onyomi": "カ、ケ",
-      "meaning": "အိမ်၊ မိသားစု",
-      "kunyomi": "いえ、や",
-      "id": 1787988406726.8154
-    }
-  ],
   "Lesson 9": [
     {
       "character": "走",
@@ -2093,468 +3806,6 @@
       "character": "顔"
     }
   ],
-  "Lesson 15": [],
-  "Lesson 6": [
-    {
-      "id": 1788043570742.4856,
-      "kunyomi": "しぬ",
-      "onyomi": "シ",
-      "meaning": "သေဆုံးသည်",
-      "kotoba": [
-        {
-          "word": "死ぬ",
-          "meaning": "သေသည်",
-          "reading": "しぬ"
-        },
-        {
-          "reading": "し",
-          "word": "死",
-          "meaning": "သေခြင်း"
-        },
-        {
-          "meaning": "အလောင်း",
-          "reading": "したい",
-          "word": "死体"
-        },
-        {
-          "meaning": "အသက်စွန့်",
-          "word": "必死",
-          "reading": "ひっし"
-        },
-        {
-          "word": "死亡",
-          "reading": "しぼう",
-          "meaning": "သေဆုံးခြင်း"
-        },
-        {
-          "meaning": "သနားကရုဏာသတ်ဖြတ်ခြင်း",
-          "reading": "あんらくし",
-          "word": "安楽死"
-        },
-        {
-          "word": "死者",
-          "meaning": "သေဆုံးသူ",
-          "reading": "ししゃ"
-        },
-        {
-          "word": "死語",
-          "reading": "しご",
-          "meaning": "သုံးစွဲမှုမရှိတော့သောဘာသာစကား"
-        }
-      ],
-      "character": "死"
-    },
-    {
-      "onyomi": "チ",
-      "kunyomi": "しる",
-      "kotoba": [
-        {
-          "meaning": "သိသည်",
-          "word": "知る",
-          "reading": "しる"
-        },
-        {
-          "word": "知らせる",
-          "reading": "しらせる",
-          "meaning": "အသိပေးသည်"
-        },
-        {
-          "meaning": "သိကျွမ်းသူ",
-          "word": "知り合い",
-          "reading": "しりあい"
-        },
-        {
-          "reading": "しょうちする",
-          "word": "承知する",
-          "meaning": "သဘောတူသည်"
-        },
-        {
-          "meaning": "သိသူ",
-          "word": "知人",
-          "reading": "ちじん"
-        },
-        {
-          "meaning": "အသိပညာ",
-          "word": "知識",
-          "reading": "ちしき"
-        },
-        {
-          "reading": "ちせい",
-          "meaning": "ဉာဏ်ရည်",
-          "word": "知性"
-        },
-        {
-          "word": "知事",
-          "meaning": "အုပ်ချုပ်ရေးမှူး",
-          "reading": "ちじ"
-        }
-      ],
-      "meaning": "သိသည်၊ အသိပညာ",
-      "id": 1788043570742.5793,
-      "character": "知"
-    },
-    {
-      "character": "思",
-      "kunyomi": "おもう",
-      "kotoba": [
-        {
-          "word": "思う",
-          "meaning": "ထင်သည် / စဉ်းစားသည်",
-          "reading": "おもう"
-        },
-        {
-          "meaning": "ပြန်အမှတ်ရသည်",
-          "word": "思い出す",
-          "reading": "おもいだす"
-        },
-        {
-          "reading": "おもいで",
-          "meaning": "အမှတ်တရ",
-          "word": "思い出"
-        },
-        {
-          "word": "思いがけない",
-          "meaning": "မမျှော်လင့်သော",
-          "reading": "おもいがけない"
-        },
-        {
-          "meaning": "စိတ်ကြိုက်",
-          "reading": "おもいきり",
-          "word": "思いきり"
-        },
-        {
-          "reading": "ふしぎな",
-          "meaning": "ထူးဆန်းသော",
-          "word": "不思議な"
-        },
-        {
-          "reading": "しそう",
-          "word": "思想",
-          "meaning": "အတွေးအခေါ်"
-        }
-      ],
-      "meaning": "ထင်သည်၊ စဉ်းစားသည်",
-      "onyomi": "シ",
-      "id": 1788043570742.666
-    },
-    {
-      "kunyomi": "ひく",
-      "id": 1788043570742.1992,
-      "character": "引",
-      "kotoba": [
-        {
-          "meaning": "ဆွဲသည်",
-          "word": "引く",
-          "reading": "ひく"
-        },
-        {
-          "meaning": "အံဆွဲ",
-          "reading": "ひきだし",
-          "word": "引き出し"
-        },
-        {
-          "word": "引き出す",
-          "reading": "ひきだす",
-          "meaning": "ထုတ်ယူသည် / ဆွဲထုတ်သည်"
-        },
-        {
-          "word": "引っ越す",
-          "meaning": "အိမ်ပြောင်းသည်",
-          "reading": "ひっこす"
-        },
-        {
-          "meaning": "သရေကျသည်",
-          "word": "引き分け",
-          "reading": "ひきわけ"
-        },
-        {
-          "meaning": "လျှော့စျေး",
-          "word": "割り引き",
-          "reading": "わりびき"
-        },
-        {
-          "meaning": "ကိုးကားချက်",
-          "word": "引用",
-          "reading": "いんよう"
-        },
-        {
-          "word": "引力",
-          "reading": "いんりょく",
-          "meaning": "ဆွဲအား"
-        }
-      ],
-      "onyomi": "イン",
-      "meaning": "ဆွဲသည်"
-    },
-    {
-      "meaning": "ဖွင့်သည်၊ စတင်သည်",
-      "character": "開",
-      "kotoba": [
-        {
-          "reading": "あく",
-          "meaning": "ဖွင့်သည် (အလိုအလျောက်)",
-          "word": "開く"
-        },
-        {
-          "reading": "あける",
-          "meaning": "ဖွင့်သည် (ကိုယ်တိုင်)",
-          "word": "開ける"
-        },
-        {
-          "reading": "ひらく",
-          "word": "開く",
-          "meaning": "ဖွင့်သည် / စတင်သည်"
-        },
-        {
-          "meaning": "စတင်သည်",
-          "reading": "かいしする",
-          "word": "開始する"
-        },
-        {
-          "reading": "かいてん",
-          "word": "開店",
-          "meaning": "ဆိုင်ဖွင့်ခြင်း"
-        },
-        {
-          "reading": "こうかい",
-          "word": "公開",
-          "meaning": "လူထုသို့ဖွင့်လှစ်ခြင်း"
-        },
-        {
-          "word": "開会式",
-          "reading": "かいかいしき",
-          "meaning": "ဖွင့်ပွဲအခမ်းအနား"
-        }
-      ],
-      "id": 1788043570741.8804,
-      "kunyomi": "あく、あける、ひらく",
-      "onyomi": "カイ"
-    },
-    {
-      "onyomi": "キュウ",
-      "kunyomi": "いそぐ",
-      "kotoba": [
-        {
-          "word": "急に",
-          "reading": "きゅうに",
-          "meaning": "ရုတ်တရက်"
-        },
-        {
-          "reading": "いそぐ",
-          "word": "急ぐ",
-          "meaning": "အလျင်စလိုလုပ်သည်"
-        },
-        {
-          "meaning": "အမြန်ရထား",
-          "word": "急行",
-          "reading": "きゅうこう"
-        },
-        {
-          "word": "特急",
-          "meaning": "အထူးအမြန်ရထား",
-          "reading": "とっきゅう"
-        },
-        {
-          "word": "至急",
-          "reading": "しきゅう",
-          "meaning": "ချက်ချင်း / အမြန်ဆုံး"
-        }
-      ],
-      "id": 1788043570741.0205,
-      "meaning": "အလျင်လိုသည်၊ ရုတ်တရက်",
-      "character": "急"
-    },
-    {
-      "onyomi": "セン",
-      "kunyomi": "あらう",
-      "kotoba": [
-        {
-          "word": "洗う",
-          "meaning": "လျှော်သည် / ဆေးသည်",
-          "reading": "あらう"
-        },
-        {
-          "meaning": "အိမ်သာ",
-          "word": "お手洗い",
-          "reading": "おてあらい"
-        },
-        {
-          "meaning": "အဝတ်လျှော်သည်",
-          "reading": "せんたくする",
-          "word": "洗濯する"
-        },
-        {
-          "reading": "せんざい",
-          "word": "洗剤",
-          "meaning": "ဆပ်ပြာ / ဆေးရည်"
-        }
-      ],
-      "character": "洗",
-      "meaning": "လျှော်သည်၊ ဆေးကြောသည်",
-      "id": 1788043570741.6746
-    },
-    {
-      "id": 1788043570741.366,
-      "kunyomi": "おくると",
-      "meaning": "ပေးပို့သည်",
-      "kotoba": [
-        {
-          "word": "送る",
-          "reading": "おくる",
-          "meaning": "ပေးပို့သည်"
-        },
-        {
-          "reading": "ほうそう",
-          "meaning": "ထုတ်လွှင့်ခြင်း",
-          "word": "放送"
-        },
-        {
-          "meaning": "စာတိုက်ဖြင့်ပို့သည်",
-          "word": "郵送する",
-          "reading": "ゆうそうする"
-        },
-        {
-          "word": "送料",
-          "reading": "そうりょう",
-          "meaning": "စာပို့ခ"
-        },
-        {
-          "meaning": "နှုတ်ဆက်ပွဲ",
-          "reading": "そうべつかい",
-          "word": "送別会"
-        }
-      ],
-      "character": "送",
-      "onyomi": "ソウ"
-    },
-    {
-      "meaning": "သုံးစွဲသည်၊ စေလွှတ်သည်",
-      "character": "使",
-      "id": 1788043570741.2556,
-      "onyomi": "シ",
-      "kunyomi": "つかう",
-      "kotoba": [
-        {
-          "meaning": "သုံးစွဲသည်",
-          "word": "使う",
-          "reading": "つかう"
-        },
-        {
-          "meaning": "သံရုံး",
-          "reading": "たいしかん",
-          "word": "大使館"
-        },
-        {
-          "word": "大使",
-          "meaning": "သံအမတ်ကြီး",
-          "reading": "たいし"
-        },
-        {
-          "meaning": "သုံးစွဲနေသည်",
-          "word": "使用中",
-          "reading": "しようちゅう"
-        },
-        {
-          "word": "使命",
-          "reading": "しめい",
-          "meaning": "တာဝန် / မန်ဒိတ်"
-        },
-        {
-          "reading": "てんし",
-          "word": "天使",
-          "meaning": "ကောင်းကင်တမန်"
-        },
-        {
-          "reading": "おつかい",
-          "word": "お使い",
-          "meaning": "စေလွှတ်ခြင်း / အလုပ်အမှုဆောင်"
-        }
-      ]
-    },
-    {
-      "id": 1788043570741.8152,
-      "kunyomi": "あるく、あゆむ",
-      "meaning": "လမ်းလျှောက်သည်",
-      "onyomi": "ホ、フ",
-      "kotoba": [
-        {
-          "meaning": "လမ်းလျှောက်သည်",
-          "word": "歩く",
-          "reading": "あるく"
-        },
-        {
-          "word": "散歩する",
-          "reading": "さんぽする",
-          "meaning": "လမ်းလျှောက်သည် / အပန်းဖြေလျှောက်သည်"
-        },
-        {
-          "meaning": "တစ်လှမ်း",
-          "reading": "いっぽ",
-          "word": "一歩"
-        },
-        {
-          "word": "進歩",
-          "meaning": "တိုးတက်မှု",
-          "reading": "しんぽ"
-        },
-        {
-          "meaning": "လူသွားလမ်း",
-          "reading": "ほどう",
-          "word": "歩道"
-        }
-      ],
-      "character": "歩"
-    },
-    {
-      "kotoba": [
-        {
-          "reading": "うごく",
-          "word": "動く",
-          "meaning": "လှုပ်ရှားသည်"
-        },
-        {
-          "reading": "うんどう",
-          "word": "運動",
-          "meaning": "လေ့ကျင့်ခန်း"
-        },
-        {
-          "reading": "じどうしゃ",
-          "word": "自動車",
-          "meaning": "ကား"
-        },
-        {
-          "reading": "どうぶつ",
-          "word": "動物",
-          "meaning": "တိရစ္ဆာန်"
-        },
-        {
-          "meaning": "လှုပ်ရှားမှု",
-          "reading": "かつどう",
-          "word": "活動"
-        },
-        {
-          "reading": "かんどうする",
-          "word": "感動する",
-          "meaning": "စိတ်လှုပ်ရှားသည် / စိတ်ထိခိုက်သည်"
-        },
-        {
-          "meaning": "ကြိယာ",
-          "word": "動詞",
-          "reading": "どうし"
-        },
-        {
-          "reading": "じどうドア",
-          "word": "自動ドア",
-          "meaning": "အလိုအလျောက်တံခါး"
-        }
-      ],
-      "id": 1788043570740.1465,
-      "character": "動",
-      "onyomi": "ドウ",
-      "meaning": "လှုပ်ရှားသည်",
-      "kunyomi": "うごく"
-    }
-  ],
   "Lesson 10": [
     {
       "character": "院",
@@ -2876,1743 +4127,6 @@
       "character": "場"
     }
   ],
-  "Lesson 2": [
-    {
-      "meaning": "မွန်းတည့် (မြင်းနှစ်)",
-      "character": "午",
-      "id": 1788045169352.662,
-      "onyomi": "ゴ",
-      "kotoba": [
-        {
-          "meaning": "နံနက်ပိုင်း",
-          "word": "午前",
-          "reading": "ごぜん"
-        },
-        {
-          "reading": "ごご",
-          "word": "午後",
-          "meaning": "မွန်းလွဲပိုင်း"
-        },
-        {
-          "word": "正午",
-          "reading": "しょうご",
-          "meaning": "မွန်းတည့် ၁၂ နာရီ"
-        }
-      ],
-      "kunyomi": ""
-    },
-    {
-      "onyomi": "ゼン",
-      "meaning": "ရှေ့၊ မတိုင်မီ",
-      "kotoba": [
-        {
-          "reading": "まえ",
-          "word": "前",
-          "meaning": "ရှေ့ / မတိုင်မီ"
-        },
-        {
-          "meaning": "နံနက်ပိုင်း",
-          "word": "午前",
-          "reading": "ごぜん"
-        },
-        {
-          "reading": "ぜんはん",
-          "meaning": "ပထမပိုင်း",
-          "word": "前半"
-        },
-        {
-          "meaning": "အမည်",
-          "reading": "なまえ",
-          "word": "名前"
-        }
-      ],
-      "id": 1788045169352.1577,
-      "character": "前",
-      "kunyomi": "まえ"
-    },
-    {
-      "character": "昼",
-      "meaning": "နေ့ခင်း",
-      "kotoba": [
-        {
-          "word": "昼",
-          "reading": "ひる",
-          "meaning": "နေ့ခင်း"
-        },
-        {
-          "meaning": "နေ့ခင်းဘက်နားချိန်",
-          "word": "昼休み",
-          "reading": "ひるやすみ"
-        },
-        {
-          "meaning": "နေ့လယ်စာ",
-          "word": "昼食",
-          "reading": "ちゅうしょく"
-        },
-        {
-          "word": "昼間",
-          "reading": "ひるま",
-          "meaning": "နေ့ဘက်"
-        }
-      ],
-      "id": 1788045169352.022,
-      "kunyomi": "ひる",
-      "onyomi": "チュウ"
-    },
-    {
-      "id": 1788045169352.5452,
-      "meaning": "မနက်ခင်း",
-      "kunyomi": "あさ",
-      "kotoba": [
-        {
-          "reading": "あさ",
-          "word": "朝",
-          "meaning": "မနက်ခင်း"
-        },
-        {
-          "word": "朝食",
-          "meaning": "မနက်စာ",
-          "reading": "ちょうしょく"
-        },
-        {
-          "reading": "けさ",
-          "word": "今朝",
-          "meaning": "ဒီမနက်"
-        },
-        {
-          "reading": "まいあさ",
-          "word": "毎朝",
-          "meaning": "မနက်တိုင်း"
-        }
-      ],
-      "onyomi": "チョウ",
-      "character": "朝"
-    },
-    {
-      "character": "黒",
-      "kotoba": [
-        {
-          "reading": "くろい",
-          "meaning": "အနက်ရောင်",
-          "word": "黒い"
-        },
-        {
-          "reading": "こくばん",
-          "word": "黒板",
-          "meaning": "ကျောက်သင်ပုန်း"
-        },
-        {
-          "reading": "しろくろ",
-          "meaning": "အဖြူအမည်း",
-          "word": "白黒"
-        },
-        {
-          "word": "黒字",
-          "reading": "くろじ",
-          "meaning": "အမြတ်ထွက်ခြင်း"
-        }
-      ],
-      "kunyomi": "くろ、くろい",
-      "onyomi": "コク",
-      "meaning": "အနက်ရောင်",
-      "id": 1788045137654.1504
-    },
-    {
-      "character": "銀",
-      "meaning": "ငွေ (Silver)",
-      "id": 1788045137654.733,
-      "kotoba": [
-        {
-          "reading": "ぎんこう",
-          "meaning": "ဘဏ်",
-          "word": "銀行"
-        },
-        {
-          "word": "銀",
-          "reading": "ぎん",
-          "meaning": "ငွေ (Silver)"
-        },
-        {
-          "word": "銀座",
-          "reading": "ぎんざ",
-          "meaning": "ဂင်းဇာ (နေရာဒေသအမည်)"
-        },
-        {
-          "reading": "ぎんこういん",
-          "word": "銀行員",
-          "meaning": "ဘဏ်ဝန်ထမ်း"
-        }
-      ],
-      "onyomi": "ギン",
-      "kunyomi": ""
-    },
-    {
-      "meaning": "ရောင်းချသည်",
-      "character": "売",
-      "id": 1788045101643.6946,
-      "onyomi": "バイ",
-      "kunyomi": "うる、うれる",
-      "kotoba": [
-        {
-          "meaning": "ရောင်းသည်",
-          "reading": "うる",
-          "word": "売る"
-        },
-        {
-          "reading": "ばいてん",
-          "word": "売店",
-          "meaning": "အရောင်းဆိုင်"
-        },
-        {
-          "meaning": "အရောင်းဌာန",
-          "reading": "うりば",
-          "word": "売り場"
-        },
-        {
-          "reading": "うりきれ",
-          "word": "売り切れ",
-          "meaning": "ပစ္စည်းကုန်သွားခြင်း"
-        }
-      ]
-    },
-    {
-      "character": "店",
-      "onyomi": "テン",
-      "kunyomi": "みせ",
-      "id": 1788045101642.1138,
-      "kotoba": [
-        {
-          "reading": "みせ",
-          "word": "店",
-          "meaning": "ဆိုင်"
-        },
-        {
-          "reading": "てんいん",
-          "word": "店員",
-          "meaning": "ဆိုင်ဝန်ထမ်း"
-        },
-        {
-          "reading": "ばいてん",
-          "word": "売店",
-          "meaning": "အရောင်းဆိုင် / ကန်တင်း"
-        },
-        {
-          "meaning": "ဆိုင်ပိတ်ခြင်း",
-          "word": "閉店",
-          "reading": "へいてん"
-        }
-      ],
-      "meaning": "ဆိုင်၊ စားသောက်ဆိုင်"
-    },
-    {
-      "kunyomi": "",
-      "onyomi": "フク",
-      "kotoba": [
-        {
-          "word": "洋服",
-          "meaning": "အနောက်တိုင်းဝတ်စုံ",
-          "reading": "ようふく"
-        },
-        {
-          "meaning": "ယူနီဖောင်း",
-          "word": "制服",
-          "reading": "せいふく"
-        },
-        {
-          "word": "衣服",
-          "reading": "いふく",
-          "meaning": "အဝတ်အစား"
-        }
-      ],
-      "character": "服",
-      "meaning": "အဝတ်အစား",
-      "id": 1787988167189.0244
-    },
-    {
-      "meaning": "သမုဒ္ဒရာ၊ အနောက်တိုင်းပုံစံ",
-      "character": "洋",
-      "onyomi": "ヨウ",
-      "id": 1787988167189.8967,
-      "kunyomi": "",
-      "kotoba": [
-        {
-          "meaning": "အနောက်တိုင်းဝတ်စုံ",
-          "reading": "ようふく",
-          "word": "洋服"
-        },
-        {
-          "reading": "せいよう",
-          "meaning": "အနောက်နိုင်ငံများ",
-          "word": "西洋"
-        },
-        {
-          "meaning": "အနောက်တိုင်းအစားအစာ",
-          "reading": "ようしょく",
-          "word": "洋食"
-        },
-        {
-          "word": "海洋",
-          "meaning": "သမုဒ္ဒရာ",
-          "reading": "かいよう"
-        }
-      ]
-    },
-    {
-      "meaning": "လှိမ့်သည်၊ လဲကျသည်၊ ပြောင်းလဲသည်",
-      "kotoba": [
-        {
-          "meaning": "စက်ဘီး",
-          "word": "自転車",
-          "reading": "じてんしゃ"
-        },
-        {
-          "word": "運転",
-          "meaning": "မောင်းနှင်ခြင်း",
-          "reading": "うんてん"
-        },
-        {
-          "meaning": "ယာဉ်မောင်း",
-          "reading": "うんてんしゅ",
-          "word": "運転手"
-        },
-        {
-          "meaning": "လဲကျသည်",
-          "word": "転ぶ",
-          "reading": "ころぶ"
-        },
-        {
-          "word": "転がる",
-          "meaning": "လှိမ့်သည်",
-          "reading": "ころがる"
-        },
-        {
-          "meaning": "လည်ပတ်ခြင်း",
-          "word": "回転",
-          "reading": "かいてん"
-        },
-        {
-          "reading": "てんしょく",
-          "word": "転職",
-          "meaning": "အလုပ်ပြောင်းခြင်း"
-        },
-        {
-          "word": "転校",
-          "reading": "てんこう",
-          "meaning": "ကျောင်းပြောင်းခြင်း"
-        }
-      ],
-      "character": "転",
-      "kunyomi": "ころがる、ころげる、ころぶ、まろぶ",
-      "id": 1787988167188.6975,
-      "onyomi": "テン"
-    },
-    {
-      "character": "歌",
-      "onyomi": "カ",
-      "meaning": "သီချင်း၊ သီဆိုသည်",
-      "kotoba": [
-        {
-          "reading": "うた",
-          "word": "歌",
-          "meaning": "သီချင်း"
-        },
-        {
-          "meaning": "သီဆိုသည်",
-          "reading": "うたう",
-          "word": "歌う"
-        },
-        {
-          "reading": "かしゅ",
-          "meaning": "အဆိုတော်",
-          "word": "歌手"
-        },
-        {
-          "reading": "かし",
-          "word": "歌詞",
-          "meaning": "သီချင်းစာသား"
-        },
-        {
-          "reading": "たんか",
-          "meaning": "ဂျပန်ကဗျာအတို",
-          "word": "短歌"
-        },
-        {
-          "word": "国歌",
-          "reading": "こっか",
-          "meaning": "နိုင်ငံတော်သီချင်း"
-        },
-        {
-          "reading": "こうか",
-          "word": "校歌",
-          "meaning": "ကျောင်းသီချင်း"
-        }
-      ],
-      "kunyomi": "うた、うたう",
-      "id": 1787988167188.3655
-    },
-    {
-      "character": "楽",
-      "kunyomi": "たのしい、たのしむ",
-      "meaning": "ပျော်ရွှင်သော၊ သက်တောင့်သက်သာရှိသော",
-      "onyomi": "ガク、ラク",
-      "id": 1787988167188.0059,
-      "kotoba": [
-        {
-          "meaning": "ဂီတ",
-          "word": "音楽",
-          "reading": "おんがく"
-        },
-        {
-          "reading": "たのしい",
-          "word": "楽しい",
-          "meaning": "ပျော်စရာကောင်းသော"
-        },
-        {
-          "word": "楽しみ",
-          "reading": "たのしみ",
-          "meaning": "ပျော်ရွှင်မှု"
-        },
-        {
-          "meaning": "ပျော်ရွှင်သည်",
-          "reading": "たのしむ",
-          "word": "楽しむ"
-        },
-        {
-          "word": "楽",
-          "meaning": "လွယ်ကူသော",
-          "reading": "らくな"
-        },
-        {
-          "meaning": "ဂီတတူရိယာ",
-          "reading": "がっき",
-          "word": "楽器"
-        },
-        {
-          "reading": "ごらく",
-          "word": "娯楽",
-          "meaning": "ဖျော်ဖြေရေး"
-        }
-      ]
-    }
-  ],
-  "Lesson 12": [
-    {
-      "id": 1788049000581.072,
-      "character": "案内",
-      "onyomi": "アン、ナイ",
-      "kotoba": [
-        {
-          "word": "案内",
-          "meaning": "လမ်းညွှန်ပြသခြင်း",
-          "reading": "あんない"
-        },
-        {
-          "reading": "あんないじょう",
-          "word": "案内状",
-          "meaning": "ဖိတ်စာ"
-        },
-        {
-          "word": "国内",
-          "reading": "こくない",
-          "meaning": "နိုင်ငံတွင်း"
-        }
-      ],
-      "meaning": "လမ်းညွှန်ပြသခြင်း / လိုက်လံပြသခြင်း",
-      "kunyomi": "あんない"
-    },
-    {
-      "character": "経験",
-      "kunyomi": "-",
-      "meaning": "အတွေ့အကြုံ",
-      "onyomi": "ケイ、ケン",
-      "id": 1788049000580.0647,
-      "kotoba": [
-        {
-          "meaning": "အတွေ့အကြုံ",
-          "word": "経験",
-          "reading": "けいけん"
-        },
-        {
-          "reading": "けいざい",
-          "word": "経済",
-          "meaning": "စီးပွားရေး"
-        },
-        {
-          "reading": "けいひ",
-          "word": "経費",
-          "meaning": "ကုန်ကျစရိတ်"
-        }
-      ]
-    },
-    {
-      "kotoba": [
-        {
-          "meaning": "တိရစ္ဆာန်",
-          "word": "動物",
-          "reading": "どうぶつ"
-        },
-        {
-          "reading": "どうぶつえん",
-          "word": "動物園",
-          "meaning": "တိရစ္ဆာန်ဥယျာဉ်"
-        },
-        {
-          "meaning": "အဆောက်အဦ",
-          "word": "建物",
-          "reading": "たてもの"
-        }
-      ],
-      "onyomi": "ドウ、ブツ",
-      "kunyomi": "どうぶつ",
-      "id": 1788048781352.0496,
-      "meaning": "တိရစ္ဆာန်",
-      "character": "動物"
-    },
-    {
-      "meaning": "သစ်သီးဝလံ",
-      "character": "果物",
-      "onyomi": "カ、ブツ",
-      "id": 1788048781352.9978,
-      "kotoba": [
-        {
-          "meaning": "သစ်သီး",
-          "word": "果物",
-          "reading": "くだもの"
-        },
-        {
-          "reading": "けっか",
-          "word": "結果",
-          "meaning": "ရလဒ်"
-        },
-        {
-          "reading": "たてもの",
-          "meaning": "အဆောက်အဦ",
-          "word": "建物"
-        }
-      ],
-      "kunyomi": "くだもの"
-    },
-    {
-      "character": "手紙",
-      "meaning": "စာ (ပေးစာ)",
-      "kunyomi": "てがみ",
-      "id": 1788048781352.344,
-      "kotoba": [
-        {
-          "meaning": "ပေးစာ",
-          "word": "手紙",
-          "reading": "てがみ"
-        },
-        {
-          "reading": "きって",
-          "meaning": "တံဆိပ်ခေါင်း",
-          "word": "切手"
-        },
-        {
-          "reading": "じょうず",
-          "word": "上手",
-          "meaning": "ကျွမ်းကျင်သော"
-        }
-      ],
-      "onyomi": "シュ、カミ"
-    },
-    {
-      "meaning": "စက်ဘီး",
-      "character": "自転車",
-      "onyomi": "ジ、テン、シャ",
-      "kunyomi": "じてんしゃ",
-      "id": 1788048781352.7593,
-      "kotoba": [
-        {
-          "meaning": "စက်ဘီး",
-          "word": "自転車",
-          "reading": "じてんしゃ"
-        },
-        {
-          "reading": "じぶんで",
-          "word": "自分で",
-          "meaning": "ကိုယ်တိုင်"
-        },
-        {
-          "word": "自動車",
-          "meaning": "ကား",
-          "reading": "じどうしゃ"
-        }
-      ]
-    },
-    {
-      "kotoba": [
-        {
-          "reading": "としょかん",
-          "word": "図書館",
-          "meaning": "စာကြည့်တိုက်"
-        },
-        {
-          "meaning": "အဘိဓာန်",
-          "word": "辞書",
-          "reading": "じしょ"
-        },
-        {
-          "meaning": "သံရုံး",
-          "reading": "たいしかん",
-          "word": "大使館"
-        }
-      ],
-      "onyomi": "ト、ショ、カン",
-      "meaning": "စာကြည့်တိုက်",
-      "kunyomi": "としょかん",
-      "id": 1788048781352.1997,
-      "character": "図書館"
-    },
-    {
-      "kunyomi": "れいぞうこ",
-      "meaning": "ရေခဲသေတ္တာ",
-      "kotoba": [
-        {
-          "meaning": "ရေခဲသေတ္တာ",
-          "word": "冷蔵庫",
-          "reading": "れいぞうこ"
-        },
-        {
-          "meaning": "အေးမြသော",
-          "reading": "つめたい",
-          "word": "冷たい"
-        },
-        {
-          "reading": "れいぼう",
-          "meaning": "အဲကွန်းအအေးပေးစနစ်",
-          "word": "冷房"
-        }
-      ],
-      "id": 1788048781352.5884,
-      "onyomi": "レイ、ゾウ、コ",
-      "character": "冷蔵庫"
-    },
-    {
-      "kotoba": [
-        {
-          "reading": "ちかてつ",
-          "word": "地下鉄",
-          "meaning": "မြေအောက်ရထား"
-        },
-        {
-          "reading": "ちか",
-          "meaning": "မြေအောက်",
-          "word": "地下"
-        },
-        {
-          "word": "鉄道",
-          "reading": "てつどう",
-          "meaning": "မီးရထားလမ်း"
-        }
-      ],
-      "onyomi": "チ、カ、テツ",
-      "meaning": "မြေအောက်ရထား",
-      "character": "地下鉄",
-      "kunyomi": "ちかてつ",
-      "id": 1788048781351.3325
-    },
-    {
-      "meaning": "လျှပ်စစ်ရထား",
-      "id": 1788048781351.1616,
-      "kotoba": [
-        {
-          "reading": "でんしゃ",
-          "meaning": "ရထား",
-          "word": "電車"
-        },
-        {
-          "word": "電気",
-          "reading": "でんき",
-          "meaning": "လျှပ်စစ်မီး"
-        },
-        {
-          "reading": "でんわ",
-          "meaning": "ဖုန်း",
-          "word": "電話"
-        }
-      ],
-      "character": "電車",
-      "onyomi": "デン、シャ",
-      "kunyomi": "でんしゃ"
-    }
-  ],
-  "Lesson 5": [
-    {
-      "onyomi": "フウ",
-      "character": "風",
-      "kunyomi": "かぜ、かざ",
-      "id": 1788043483752.2446,
-      "kotoba": [
-        {
-          "word": "風",
-          "meaning": "လေ",
-          "reading": "かぜ"
-        },
-        {
-          "meaning": "မုန်တိုင်း",
-          "word": "台風",
-          "reading": "たいふう"
-        },
-        {
-          "word": "風邪",
-          "reading": "かぜ",
-          "meaning": "အအေးမိနာ"
-        },
-        {
-          "reading": "おふろ",
-          "word": "お風呂",
-          "meaning": "ရေချိုးခြင်း"
-        },
-        {
-          "word": "風船",
-          "meaning": "မီးပုံးပျံ",
-          "reading": "ふうせん"
-        },
-        {
-          "reading": "ふうけい",
-          "meaning": "ရှုခင်း",
-          "word": "風景"
-        },
-        {
-          "meaning": "အနောက်တိုင်းပုံစံ",
-          "word": "洋風",
-          "reading": "ようふう"
-        },
-        {
-          "reading": "わふう",
-          "meaning": "ဂျပန်ပုံစံ",
-          "word": "和風"
-        }
-      ],
-      "meaning": "လေ၊ ပုံစံ"
-    },
-    {
-      "id": 1788043483752.1228,
-      "kotoba": [
-        {
-          "reading": "みじかい",
-          "meaning": "တိုသော",
-          "word": "短い"
-        },
-        {
-          "word": "短所",
-          "meaning": "အားနည်းချက်",
-          "reading": "たんしょ"
-        },
-        {
-          "meaning": "ရေတိုကာလ",
-          "reading": "たんき",
-          "word": "短期"
-        },
-        {
-          "meaning": "ဒီပလိုမာကောလိပ်",
-          "word": "短期大学",
-          "reading": "たんきだいがく"
-        },
-        {
-          "word": "短編",
-          "reading": "たんぺん",
-          "meaning": "ဝတ္ထုတို"
-        },
-        {
-          "meaning": "စိတ်တိုခြင်း",
-          "word": "短気",
-          "reading": "たんき"
-        },
-        {
-          "word": "短歌",
-          "reading": "たんか",
-          "meaning": "ဂျပန်ကဗျာအတို"
-        }
-      ],
-      "kunyomi": "みじかい",
-      "onyomi": "タン",
-      "meaning": "တိုသော",
-      "character": "短"
-    },
-    {
-      "meaning": "ထူသော၊ ဝသော",
-      "character": "太",
-      "kotoba": [
-        {
-          "meaning": "ထူသော",
-          "reading": "ふとい",
-          "word": "太い"
-        },
-        {
-          "reading": "ふとる",
-          "word": "太る",
-          "meaning": "ကိုယ်အလေးချိန်တက်သည်"
-        },
-        {
-          "meaning": "နေ",
-          "reading": "たいよう",
-          "word": "太陽"
-        },
-        {
-          "word": "太鼓",
-          "reading": "たいこ",
-          "meaning": "ဂျပန်စည်"
-        },
-        {
-          "meaning": "အိမ်ရှေ့မင်းသား",
-          "word": "皇太子",
-          "reading": "こうたいし"
-        },
-        {
-          "meaning": "ပစိဖိတ်သမုဒ္ဒရာ",
-          "reading": "たいへいよう",
-          "word": "太平洋"
-        },
-        {
-          "word": "丸太",
-          "meaning": "သစ်လုံး",
-          "reading": "まるた"
-        }
-      ],
-      "kunyomi": "ふとい、ふとる",
-      "id": 1788043483752.8386,
-      "onyomi": "タイ"
-    },
-    {
-      "id": 1788043483752.7395,
-      "kunyomi": "くらい",
-      "onyomi": "アン",
-      "meaning": "မှောင်မိုက်သော",
-      "character": "暗",
-      "kotoba": [
-        {
-          "reading": "くらい",
-          "meaning": "မှောင်မိုက်သော",
-          "word": "暗い"
-        },
-        {
-          "reading": "まっくら",
-          "word": "真っ暗",
-          "meaning": "လုံးဝမှောင်မိုက်"
-        },
-        {
-          "meaning": "ကျက်မှတ်သည်",
-          "reading": "あんきする",
-          "word": "暗記する"
-        },
-        {
-          "reading": "あんさつ",
-          "meaning": "လုပ်ကြံသတ်ဖြတ်ခြင်း",
-          "word": "暗殺"
-        },
-        {
-          "word": "暗証番号",
-          "reading": "あんしょうばんごう",
-          "meaning": "ကိုယ်ရေးနံပါတ်"
-        }
-      ]
-    },
-    {
-      "onyomi": "アク、オ",
-      "character": "悪",
-      "id": 1788043483752.5442,
-      "kotoba": [
-        {
-          "meaning": "မကောင်းသော",
-          "reading": "わるい",
-          "word": "悪い"
-        },
-        {
-          "reading": "わるぐち",
-          "word": "悪口",
-          "meaning": "သူ့ကျောသူပြော"
-        },
-        {
-          "word": "意地悪な",
-          "reading": "いじわるな",
-          "meaning": "သဘောဆိုးသော"
-        },
-        {
-          "meaning": "အဆိုးဆုံး",
-          "word": "最悪",
-          "reading": "さいあく"
-        },
-        {
-          "reading": "わるもの",
-          "meaning": "လူဆိုး",
-          "word": "悪者"
-        },
-        {
-          "meaning": "မာရ်နတ်",
-          "reading": "あくま",
-          "word": "悪魔"
-        },
-        {
-          "reading": "あく",
-          "word": "悪",
-          "meaning": "အပြစ်"
-        },
-        {
-          "reading": "おかん",
-          "word": "悪寒",
-          "meaning": "ချမ်းတုန်ခြင်း"
-        }
-      ],
-      "kunyomi": "わるい",
-      "meaning": "မကောင်းသော၊ ဆိုးသော"
-    },
-    {
-      "onyomi": "ジャク",
-      "kotoba": [
-        {
-          "word": "弱い",
-          "reading": "よわい",
-          "meaning": "အားနည်းသော"
-        },
-        {
-          "reading": "じゃくてん",
-          "meaning": "အားနည်းချက်",
-          "word": "弱点"
-        },
-        {
-          "word": "弱る",
-          "reading": "よわる",
-          "meaning": "အားနည်းလာသည်"
-        },
-        {
-          "reading": "びょうじゃく",
-          "word": "病弱",
-          "meaning": "ကိုယ်ခံအားနည်းခြင်း"
-        },
-        {
-          "meaning": "အားကြီးသူနိုင်စကြဝဠာ",
-          "word": "弱肉強食",
-          "reading": "じゃくにくきょうしょく"
-        },
-        {
-          "word": "弱気",
-          "reading": "よわき",
-          "meaning": "စိတ်အားငယ်ခြင်း"
-        }
-      ],
-      "kunyomi": "よわい、よわる",
-      "meaning": "အားနည်းသော",
-      "character": "弱",
-      "id": 1788043483752.4626
-    },
-    {
-      "character": "寒",
-      "kotoba": [
-        {
-          "word": "寒い",
-          "meaning": "အေးသော (ရာသီဥတု)",
-          "reading": "さむい"
-        },
-        {
-          "meaning": "ချမ်းအေးမှု",
-          "word": "寒気",
-          "reading": "さむけ"
-        },
-        {
-          "meaning": "အအေးဓာတ်",
-          "word": "寒気",
-          "reading": "かんき"
-        },
-        {
-          "word": "寒帯",
-          "meaning": "အအေးပိုင်းဒေသ",
-          "reading": "かんたい"
-        },
-        {
-          "reading": "かんぷう",
-          "meaning": "လေအေး",
-          "word": "寒風"
-        }
-      ],
-      "kunyomi": "さむい",
-      "onyomi": "カン",
-      "meaning": "အေးသော (ရာသီဥတု)",
-      "id": 1788043483751.3623
-    },
-    {
-      "kunyomi": "もの",
-      "kotoba": [
-        {
-          "word": "学者",
-          "meaning": "ပညာရှင်",
-          "reading": "がくしゃ"
-        },
-        {
-          "reading": "さくしゃ",
-          "word": "作者",
-          "meaning": "စာရေးဆရာ"
-        },
-        {
-          "word": "医者",
-          "reading": "いしゃ",
-          "meaning": "ဆရာဝန်"
-        },
-        {
-          "meaning": "သုတေသီ",
-          "reading": "けんきゅうしゃ",
-          "word": "研究者"
-        },
-        {
-          "meaning": "သွားဆရာဝန်",
-          "reading": "はいしゃ",
-          "word": "歯医者"
-        },
-        {
-          "reading": "きしゃ",
-          "word": "記者",
-          "meaning": "သတင်းထောက်"
-        },
-        {
-          "word": "読者",
-          "meaning": "စာဖတ်သူ",
-          "reading": "どくしゃ"
-        },
-        {
-          "meaning": "လူငယ်",
-          "reading": "わかもの",
-          "word": "若者"
-        }
-      ],
-      "onyomi": "シャ",
-      "character": "者",
-      "meaning": "လူ၊ ပုဂ္ဂိုလ်",
-      "id": 1788043483751.072
-    },
-    {
-      "onyomi": "キン",
-      "meaning": "နီးသော",
-      "kotoba": [
-        {
-          "word": "近い",
-          "meaning": "နီးသော",
-          "reading": "ちかい"
-        },
-        {
-          "reading": "ちかく",
-          "meaning": "အနီး",
-          "word": "近く"
-        },
-        {
-          "word": "近所",
-          "reading": "きんじょ",
-          "meaning": "ရပ်ကွက်"
-        },
-        {
-          "reading": "さいきん",
-          "word": "最近",
-          "meaning": "မကြာသေးမီက"
-        },
-        {
-          "meaning": "မကြာသေးမီက",
-          "word": "近ごろ",
-          "reading": "ちかごろ"
-        },
-        {
-          "meaning": "ခေတ်မီသော",
-          "reading": "きんだいてきな",
-          "word": "近代的な"
-        },
-        {
-          "reading": "きんし",
-          "word": "近視",
-          "meaning": "အဝေးမမြင်သော"
-        },
-        {
-          "reading": "ちゅうきんとう",
-          "word": "中近東",
-          "meaning": "အရှေ့အလယ်ပိုင်းနှင့် အရှေ့အနီးပိုင်း"
-        }
-      ],
-      "character": "近",
-      "kunyomi": "ちかい",
-      "id": 1788043483751.5974
-    },
-    {
-      "meaning": "ဝေးသော",
-      "character": "遠",
-      "kotoba": [
-        {
-          "meaning": "ဝေးသော",
-          "word": "遠い",
-          "reading": "とおい"
-        },
-        {
-          "reading": "とおく",
-          "word": "遠く",
-          "meaning": "ဝေးရာ"
-        },
-        {
-          "word": "遠慮する",
-          "meaning": "ရှောင်ကြဉ်သည်",
-          "reading": "えんりょする"
-        },
-        {
-          "meaning": "ကျောင်းလေ့လာရေးခရီး",
-          "word": "遠足",
-          "reading": "えんそく"
-        }
-      ],
-      "id": 1788043483751.357,
-      "onyomi": "エン",
-      "kunyomi": "とおい"
-    }
-  ],
-  "Lesson 4": [
-    {
-      "character": "説",
-      "id": 1787988495067.3416,
-      "kunyomi": "とく",
-      "onyomi": "セツ、ゼイ",
-      "meaning": "ရှင်းလင်းသည်၊ အယူအဆ",
-      "kotoba": [
-        {
-          "meaning": "ရှင်းလင်းချက်",
-          "word": "説明",
-          "reading": "せつめい"
-        },
-        {
-          "reading": "しょうせつ",
-          "meaning": "ဝတ္ထု",
-          "word": "小説"
-        },
-        {
-          "meaning": "မှတ်ချက်ပေးခြင်း",
-          "word": "解説",
-          "reading": "かいせつ"
-        },
-        {
-          "reading": "せっとくする",
-          "word": "説得する",
-          "meaning": "ဆွဲဆောင်သည်"
-        },
-        {
-          "word": "説教する",
-          "meaning": "တရားဟောသည်",
-          "reading": "せっきょうする"
-        },
-        {
-          "meaning": "ယူဆချက်",
-          "word": "仮説",
-          "reading": "かせつ"
-        },
-        {
-          "meaning": "ရှင်းလင်းပြောဆိုသည်",
-          "word": "説く",
-          "reading": "とく"
-        },
-        {
-          "word": "遊説",
-          "reading": "ゆうぜい",
-          "meaning": "မဲဆွယ်စည်းရုံးရေးခရီးစဉ်"
-        }
-      ]
-    },
-    {
-      "character": "問",
-      "meaning": "မေးမြန်းသည်",
-      "kotoba": [
-        {
-          "meaning": "ပြဿနာ / မေးခွန်း",
-          "reading": "もんだい",
-          "word": "問題"
-        },
-        {
-          "word": "質問",
-          "reading": "しつもん",
-          "meaning": "မေးခွန်း"
-        },
-        {
-          "reading": "とい",
-          "word": "問い",
-          "meaning": "မေးခွန်း"
-        },
-        {
-          "reading": "といあわせ",
-          "word": "問い合わせ",
-          "meaning": "စုံစမ်းမေးမြန်းခြင်း"
-        },
-        {
-          "meaning": "လည်ပတ်ခြင်း",
-          "word": "訪問",
-          "reading": "ほうもん"
-        },
-        {
-          "reading": "ぎもん",
-          "word": "疑問",
-          "meaning": "သံသယ"
-        },
-        {
-          "reading": "がくもん",
-          "word": "学問",
-          "meaning": "ပညာသင်ကြားမှု"
-        },
-        {
-          "reading": "とんや",
-          "meaning": "လက်ကားဆိုင်",
-          "word": "問屋"
-        }
-      ],
-      "id": 1787988495066.6587,
-      "kunyomi": "とう、問い",
-      "onyomi": "モン"
-    },
-    {
-      "character": "英",
-      "meaning": "အင်္ဂလိပ်၊ ထက်မြက်သော",
-      "onyomi": "エイ",
-      "id": 1787988495066.8267,
-      "kotoba": [
-        {
-          "word": "英語",
-          "reading": "えいご",
-          "meaning": "အင်္ဂလိပ်စာ"
-        },
-        {
-          "meaning": "သူရဲကောင်း",
-          "word": "英雄",
-          "reading": "えいゆう"
-        },
-        {
-          "reading": "えいこく",
-          "word": "英国",
-          "meaning": "ဗြိတိန်"
-        },
-        {
-          "word": "英会話",
-          "meaning": "အင်္ဂလိပ်စကားပြော",
-          "reading": "えいかいわ"
-        }
-      ],
-      "kunyomi": "はな"
-    },
-    {
-      "character": "題",
-      "kunyomi": "",
-      "id": 1787988495066.3093,
-      "onyomi": "ダイ",
-      "meaning": "ခေါင်းစဉ်၊ မေးခွန်း/ပြဿနာ",
-      "kotoba": [
-        {
-          "reading": "しゅくだい",
-          "word": "宿題",
-          "meaning": "အိမ်စာ"
-        },
-        {
-          "word": "問題",
-          "meaning": "ပြဿနာ / မေးခွန်း",
-          "reading": "もんだい"
-        },
-        {
-          "reading": "だい",
-          "word": "題",
-          "meaning": "ခေါင်းစဉ်"
-        },
-        {
-          "word": "題名",
-          "reading": "だいめい",
-          "meaning": "အမည်"
-        },
-        {
-          "meaning": "စကားအကြောင်းအရာ",
-          "word": "話題",
-          "reading": "わだい"
-        },
-        {
-          "meaning": "တာဝန်",
-          "word": "課題",
-          "reading": "かだい"
-        },
-        {
-          "meaning": "အဓိကအကြောင်းအရာ",
-          "word": "主題",
-          "reading": "しゅだい"
-        }
-      ]
-    },
-    {
-      "meaning": "စမ်းသပ်သည်၊ စမ်းကြည့်သည်",
-      "id": 1787988495066.3096,
-      "character": "試",
-      "onyomi": "シ",
-      "kotoba": [
-        {
-          "reading": "しけん",
-          "word": "試験",
-          "meaning": "စာမေးပွဲ"
-        },
-        {
-          "word": "試合",
-          "reading": "しあい",
-          "meaning": "ပြိုင်ပွဲ"
-        },
-        {
-          "word": "試す",
-          "meaning": "စမ်းကြည့်သည်",
-          "reading": "ためす"
-        },
-        {
-          "reading": "こころみる",
-          "word": "試みる",
-          "meaning": "ကြိုးစားသည်"
-        },
-        {
-          "reading": "にゅうがくしけん",
-          "word": "入学試験",
-          "meaning": "ဝင်ခွင့်စာမေးပွဲ"
-        },
-        {
-          "reading": "ししょく",
-          "word": "試食",
-          "meaning": "အစားအစာမြည်းစမ်းခြင်း"
-        }
-      ],
-      "kunyomi": "こころみる、ためす"
-    },
-    {
-      "character": "字",
-      "kunyomi": "あざ",
-      "id": 1787988495066.6406,
-      "meaning": "စာလုံး၊ ဂဏန်း",
-      "onyomi": "ジ",
-      "kotoba": [
-        {
-          "reading": "じ",
-          "meaning": "စာလုံး",
-          "word": "字"
-        },
-        {
-          "meaning": "တရုတ်စာလုံး",
-          "word": "漢字",
-          "reading": "かんじ"
-        },
-        {
-          "reading": "もじ",
-          "word": "文字",
-          "meaning": "စာလုံး"
-        },
-        {
-          "word": "名字",
-          "reading": "みょうじ",
-          "meaning": "ရိုးရာအမည်"
-        },
-        {
-          "reading": "すうじ",
-          "word": "数字",
-          "meaning": "နံပါတ်"
-        }
-      ]
-    },
-    {
-      "meaning": "တရုတ်၊ တရုတ်စာလုံး",
-      "onyomi": "カン",
-      "id": 1787988495066.3276,
-      "character": "漢",
-      "kotoba": [
-        {
-          "meaning": "တရုတ်စာလုံး / ကန်ဂျီ",
-          "reading": "かんじ",
-          "word": "漢字"
-        },
-        {
-          "word": "漢和辞典",
-          "reading": "かんわじてん",
-          "meaning": "ဂျပန်-တရုတ်အဘိဓာန်"
-        },
-        {
-          "reading": "かんぽうやく",
-          "meaning": "တရုတ်ဆေးဖက်ဝင်ပစ္စည်း",
-          "word": "漢方薬"
-        }
-      ],
-      "kunyomi": ""
-    },
-    {
-      "character": "習",
-      "kunyomi": "ならう",
-      "kotoba": [
-        {
-          "word": "習う",
-          "meaning": "သင်ယူသည်",
-          "reading": "ならう"
-        },
-        {
-          "reading": "れんしゅう",
-          "meaning": "လေ့ကျင့်ခြင်း",
-          "word": "練習"
-        },
-        {
-          "meaning": "အလေ့အထ",
-          "reading": "しゅうかん",
-          "word": "習慣"
-        },
-        {
-          "word": "復習",
-          "meaning": "ပြန်လည်လေ့လာခြင်း",
-          "reading": "ふくしゅう"
-        },
-        {
-          "reading": "がくしゅう",
-          "word": "学習",
-          "meaning": "သင်ယူမှု"
-        },
-        {
-          "reading": "じしゅう",
-          "word": "自習",
-          "meaning": "ကိုယ်တိုင်လေ့လာခြင်း"
-        },
-        {
-          "word": "習字",
-          "meaning": "လက်ရေးလှကျင့်ခြင်း",
-          "reading": "しゅうじ"
-        }
-      ],
-      "onyomi": "シュウ",
-      "meaning": "သင်ယူသည်၊ လေ့ကျင့်သည်",
-      "id": 1787988495066.8555
-    },
-    {
-      "kunyomi": "むろ",
-      "id": 1787988495065.0889,
-      "character": "室",
-      "kotoba": [
-        {
-          "word": "研究室",
-          "meaning": "သုတေသနခန်း",
-          "reading": "けんきゅうしつ"
-        },
-        {
-          "meaning": "အစည်းအဝေးခန်း",
-          "word": "会議室",
-          "reading": "かいぎしつ"
-        },
-        {
-          "meaning": "စောင့်ဆိုင်းခန်း",
-          "word": "待合室",
-          "reading": "まちあいしつ"
-        },
-        {
-          "reading": "おんしつ",
-          "word": "温室",
-          "meaning": "ဖန်လုံအိမ်"
-        },
-        {
-          "reading": "ちかしつ",
-          "word": "地下室",
-          "meaning": "မြေအောက်ခန်း"
-        },
-        {
-          "meaning": "ဂျပန်ပုံစံအခန်း",
-          "word": "和室",
-          "reading": "わしつ"
-        },
-        {
-          "meaning": "ရေချိုးခန်း",
-          "word": "浴室",
-          "reading": "よくしつ"
-        }
-      ],
-      "meaning": "အခန်း",
-      "onyomi": "シツ"
-    },
-    {
-      "kunyomi": "おしえる、おそわる",
-      "kotoba": [
-        {
-          "meaning": "သင်ကြားပေးသည်",
-          "word": "教える",
-          "reading": "おしえる"
-        },
-        {
-          "reading": "きょうしつ",
-          "word": "教室",
-          "meaning": "စာသင်ခန်း"
-        },
-        {
-          "meaning": "ဘုရားရှိခိုးကျောင်း",
-          "word": "教会",
-          "reading": "きょうかい"
-        },
-        {
-          "meaning": "ပညာရေး",
-          "reading": "きょういく",
-          "word": "教育"
-        },
-        {
-          "word": "教授",
-          "meaning": "ပါမောက္ခ",
-          "reading": "きょうじゅ"
-        },
-        {
-          "meaning": "ဆရာ",
-          "word": "教師",
-          "reading": "きょうし"
-        },
-        {
-          "word": "教科書",
-          "reading": "きょうかしょ",
-          "meaning": "ဖတ်စာ"
-        },
-        {
-          "meaning": "ဘာသာ",
-          "reading": "しゅうきょう",
-          "word": "宗教"
-        },
-        {
-          "meaning": "သင်ကြားခံရသည်",
-          "word": "教わる",
-          "reading": "おそわる"
-        }
-      ],
-      "character": "教",
-      "id": 1787988495065.924,
-      "onyomi": "キョウ",
-      "meaning": "သင်ကြားသည်၊ ဘာသာရေး"
-    }
-  ],
-  "Lesson 13": [
-    {
-      "onyomi": "ソウ、ダン",
-      "kunyomi": "そうだん",
-      "kotoba": [
-        {
-          "reading": "そうだん",
-          "meaning": "တိုင်ပင်ဆွေးနွေးခြင်း",
-          "word": "相談"
-        },
-        {
-          "word": "相談相手",
-          "meaning": "တိုင်ပင်ဆွေးနွေးဖက်",
-          "reading": "そうだんあいて"
-        },
-        {
-          "reading": "たんとう",
-          "meaning": "တာဝန်ယူမှု",
-          "word": "担当"
-        }
-      ],
-      "character": "相談",
-      "meaning": "တိုင်ပင်ဆွေးနွေးခြင်း",
-      "id": 1788049020710.5164
-    },
-    {
-      "onyomi": "ジュン、ビ",
-      "id": 1788049020710.8591,
-      "meaning": "ပြင်ဆင်ခြင်း",
-      "kotoba": [
-        {
-          "word": "準備",
-          "meaning": "ပြင်ဆင်ခြင်း",
-          "reading": "じゅんび"
-        },
-        {
-          "word": "基準",
-          "reading": "きじゅん",
-          "meaning": "စံနှုန်း"
-        },
-        {
-          "word": "予習",
-          "meaning": "ကြိုတင်သင်ခန်းစာဖတ်ခြင်း",
-          "reading": "よしゅう"
-        }
-      ],
-      "kunyomi": "-",
-      "character": "準備"
-    },
-    {
-      "character": "写真",
-      "onyomi": "シャ、シン",
-      "kotoba": [
-        {
-          "word": "写真",
-          "reading": "しゃしん",
-          "meaning": "ဓာတ်ပုံ"
-        },
-        {
-          "meaning": "ဓာတ်ပုံရိုက်သည်/ကူးယူသည်",
-          "word": "写す",
-          "reading": "う写す"
-        },
-        {
-          "meaning": "လေးနက်ရိုးသားသော",
-          "word": "真面目",
-          "reading": "まじめ"
-        }
-      ],
-      "meaning": "ဓာတ်ပုံ",
-      "kunyomi": "しゃしん",
-      "id": 1788048815501.071
-    },
-    {
-      "character": "荷物",
-      "kotoba": [
-        {
-          "word": "荷物",
-          "reading": "にもつ",
-          "meaning": "ပစ္စည်း/အိတ်"
-        },
-        {
-          "meaning": "ကုန်စပို့ခြင်း",
-          "word": "出荷",
-          "reading": "しゅっか"
-        },
-        {
-          "word": "建物",
-          "meaning": "အဆောက်အဦ",
-          "reading": "たてもの"
-        }
-      ],
-      "meaning": "ခရီးဆောင်အိတ် / ပစ္စည်းအလေးချိန်",
-      "onyomi": "カ、モツ",
-      "kunyomi": "にもつ",
-      "id": 1788048815501.6853
-    },
-    {
-      "onyomi": "セツ、テ",
-      "kunyomi": "きって",
-      "character": "切手",
-      "kotoba": [
-        {
-          "word": "切手",
-          "meaning": "တံဆိပ်ခေါင်း",
-          "reading": "きって"
-        },
-        {
-          "word": "切る",
-          "reading": "きる",
-          "meaning": "ဖြတ်သည်"
-        },
-        {
-          "meaning": "အရေးကြီးသော",
-          "word": "大切",
-          "reading": "たいせつ"
-        }
-      ],
-      "id": 1788048815501.318,
-      "meaning": "တံဆိပ်ခေါင်း"
-    },
-    {
-      "meaning": "နိုင်ငံခြားဝတ်စုံ / အနောက်တိုင်းဝတ်စုံ",
-      "kunyomi": "ようふく",
-      "onyomi": "ヨウ、フク",
-      "id": 1788048815501.7268,
-      "character": "洋服",
-      "kotoba": [
-        {
-          "reading": "ようふく",
-          "word": "洋服",
-          "meaning": "အနောက်တိုင်းဝတ်စုံ"
-        },
-        {
-          "meaning": "သမုဒ္ဒရာ",
-          "word": "海洋",
-          "reading": "かいよう"
-        },
-        {
-          "reading": "せいふく",
-          "word": "制服",
-          "meaning": "ယူနီဖောင်း"
-        }
-      ]
-    },
-    {
-      "kunyomi": "さくぶん",
-      "kotoba": [
-        {
-          "word": "作文",
-          "meaning": "စာစီစာကုံး",
-          "reading": "さくぶん"
-        },
-        {
-          "reading": "さくしゃ",
-          "word": "作者",
-          "meaning": "စာရေးဆရာ/ဖန်တီးသူ"
-        },
-        {
-          "meaning": "ဖန်တီးသည်/လုပ်သည်",
-          "word": "作る",
-          "reading": "つくる"
-        }
-      ],
-      "character": "作文",
-      "id": 1788048815500.9292,
-      "onyomi": "サク、ブン",
-      "meaning": "စာစီစာကုံး"
-    },
-    {
-      "kotoba": [
-        {
-          "reading": "じしょ",
-          "word": "辞書",
-          "meaning": "အဘိဓာန်"
-        },
-        {
-          "meaning": "ဂျပန်အဘိဓာန်",
-          "reading": "じてん",
-          "word": "辞典"
-        },
-        {
-          "reading": "やめる",
-          "word": "辞める",
-          "meaning": "အလုပ်ထွက်သည်/စွန့်လွှတ်သည်"
-        }
-      ],
-      "onyomi": "ジ、ショ",
-      "meaning": "အဘိဓာန်",
-      "kunyomi": "じしょ",
-      "character": "辞書",
-      "id": 1788048815500.7327
-    },
-    {
-      "onyomi": "シュク、ダイ",
-      "kotoba": [
-        {
-          "meaning": "အိမ်စာ",
-          "word": "宿題",
-          "reading": "しゅくだい"
-        },
-        {
-          "word": "宿泊",
-          "reading": "しゅくはく",
-          "meaning": "တည်းခိုခြင်း"
-        },
-        {
-          "meaning": "ပြဿနာ/မေးခွန်း",
-          "reading": "もんだい",
-          "word": "問題"
-        }
-      ],
-      "meaning": "အိမ်စာ",
-      "character": "宿題",
-      "kunyomi": "しゅくだい",
-      "id": 1788048815500.0806
-    },
-    {
-      "id": 1788048815500.3274,
-      "kotoba": [
-        {
-          "word": "教科書",
-          "meaning": "ကျောင်းသုံးစာအုပ်",
-          "reading": "きょうかしょ"
-        },
-        {
-          "reading": "きょうしつ",
-          "word": "教室",
-          "meaning": "စာသင်ခန်း"
-        },
-        {
-          "meaning": "အစစအရာရာ/ပေါင်းစပ်",
-          "word": "総合",
-          "reading": "そうごう"
-        }
-      ],
-      "character": "教科書",
-      "onyomi": "キョウ、カ、ショ",
-      "meaning": "ကျောင်းသုံးစာအုပ်",
-      "kunyomi": "きょうかしょ"
-    }
-  ],
   "Lesson 11": [
     {
       "meaning": "ကြိုးစားအားထုတ်သည်",
@@ -4864,5 +4378,491 @@
       "onyomi": "シン",
       "meaning": "နှလုံးသား၊ စိတ်ဓာတ်"
     }
-  ]
+  ],
+  "Lesson 12": [
+    {
+      "id": 1788049000581.072,
+      "character": "案内",
+      "onyomi": "アン、ナイ",
+      "kotoba": [
+        {
+          "word": "案内",
+          "meaning": "လမ်းညွှန်ပြသခြင်း",
+          "reading": "あんない"
+        },
+        {
+          "reading": "あんないじょう",
+          "word": "案内状",
+          "meaning": "ဖိတ်စာ"
+        },
+        {
+          "word": "国内",
+          "reading": "こくない",
+          "meaning": "နိုင်ငံတွင်း"
+        }
+      ],
+      "meaning": "လမ်းညွှန်ပြသခြင်း / လိုက်လံပြသခြင်း",
+      "kunyomi": "あんない"
+    },
+    {
+      "character": "経験",
+      "kunyomi": "-",
+      "meaning": "အတွေ့အကြုံ",
+      "onyomi": "ケイ、ケン",
+      "id": 1788049000580.0647,
+      "kotoba": [
+        {
+          "meaning": "အတွေ့အကြုံ",
+          "word": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "reading": "けいざい",
+          "word": "経済",
+          "meaning": "စီးပွားရေး"
+        },
+        {
+          "reading": "けいひ",
+          "word": "経費",
+          "meaning": "ကုန်ကျစရိတ်"
+        }
+      ]
+    },
+    {
+      "kotoba": [
+        {
+          "meaning": "တိရစ္ဆာန်",
+          "word": "動物",
+          "reading": "どうぶつ"
+        },
+        {
+          "reading": "どうぶつえん",
+          "word": "動物園",
+          "meaning": "တိရစ္ဆာန်ဥယျာဉ်"
+        },
+        {
+          "meaning": "အဆောက်အဦ",
+          "word": "建物",
+          "reading": "たてもの"
+        }
+      ],
+      "onyomi": "ドウ、ブツ",
+      "kunyomi": "どうぶつ",
+      "id": 1788048781352.0496,
+      "meaning": "တိရစ္ဆာန်",
+      "character": "動物"
+    },
+    {
+      "meaning": "သစ်သီးဝလံ",
+      "character": "果物",
+      "onyomi": "カ、ブツ",
+      "id": 1788048781352.9978,
+      "kotoba": [
+        {
+          "meaning": "သစ်သီး",
+          "word": "果物",
+          "reading": "くだもの"
+        },
+        {
+          "reading": "けっか",
+          "word": "結果",
+          "meaning": "ရလဒ်"
+        },
+        {
+          "reading": "たてもの",
+          "meaning": "အဆောက်အဦ",
+          "word": "建物"
+        }
+      ],
+      "kunyomi": "くだもの"
+    },
+    {
+      "character": "手紙",
+      "meaning": "စာ (ပေးစာ)",
+      "kunyomi": "てがみ",
+      "id": 1788048781352.344,
+      "kotoba": [
+        {
+          "meaning": "ပေးစာ",
+          "word": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "reading": "きって",
+          "meaning": "တံဆိပ်ခေါင်း",
+          "word": "切手"
+        },
+        {
+          "reading": "じょうず",
+          "word": "上手",
+          "meaning": "ကျွမ်းကျင်သော"
+        }
+      ],
+      "onyomi": "シュ、カミ"
+    },
+    {
+      "meaning": "စက်ဘီး",
+      "character": "自転車",
+      "onyomi": "ジ、テン、シャ",
+      "kunyomi": "じてんしゃ",
+      "id": 1788048781352.7593,
+      "kotoba": [
+        {
+          "meaning": "စက်ဘီး",
+          "word": "自転車",
+          "reading": "じてんしゃ"
+        },
+        {
+          "reading": "じぶんで",
+          "word": "自分で",
+          "meaning": "ကိုယ်တိုင်"
+        },
+        {
+          "word": "自動車",
+          "meaning": "ကား",
+          "reading": "じどうしゃ"
+        }
+      ]
+    },
+    {
+      "kotoba": [
+        {
+          "reading": "としょかん",
+          "word": "図書館",
+          "meaning": "စာကြည့်တိုက်"
+        },
+        {
+          "meaning": "အဘိဓာန်",
+          "word": "辞書",
+          "reading": "じしょ"
+        },
+        {
+          "meaning": "သံရုံး",
+          "reading": "たいしかん",
+          "word": "大使館"
+        }
+      ],
+      "onyomi": "ト、ショ、カン",
+      "meaning": "စာကြည့်တိုက်",
+      "kunyomi": "としょかん",
+      "id": 1788048781352.1997,
+      "character": "図書館"
+    },
+    {
+      "kunyomi": "れいぞうこ",
+      "meaning": "ရေခဲသေတ္တာ",
+      "kotoba": [
+        {
+          "meaning": "ရေခဲသေတ္တာ",
+          "word": "冷蔵庫",
+          "reading": "れいぞうこ"
+        },
+        {
+          "meaning": "အေးမြသော",
+          "reading": "つめたい",
+          "word": "冷たい"
+        },
+        {
+          "reading": "れいぼう",
+          "meaning": "အဲကွန်းအအေးပေးစနစ်",
+          "word": "冷房"
+        }
+      ],
+      "id": 1788048781352.5884,
+      "onyomi": "レイ、ゾウ、コ",
+      "character": "冷蔵庫"
+    },
+    {
+      "kotoba": [
+        {
+          "reading": "ちかてつ",
+          "word": "地下鉄",
+          "meaning": "မြေအောက်ရထား"
+        },
+        {
+          "reading": "ちか",
+          "meaning": "မြေအောက်",
+          "word": "地下"
+        },
+        {
+          "word": "鉄道",
+          "reading": "てつどう",
+          "meaning": "မီးရထားလမ်း"
+        }
+      ],
+      "onyomi": "チ、カ、テツ",
+      "meaning": "မြေအောက်ရထား",
+      "character": "地下鉄",
+      "kunyomi": "ちかてつ",
+      "id": 1788048781351.3325
+    },
+    {
+      "meaning": "လျှပ်စစ်ရထား",
+      "id": 1788048781351.1616,
+      "kotoba": [
+        {
+          "reading": "でんしゃ",
+          "meaning": "ရထား",
+          "word": "電車"
+        },
+        {
+          "word": "電気",
+          "reading": "でんき",
+          "meaning": "လျှပ်စစ်မီး"
+        },
+        {
+          "reading": "でんわ",
+          "meaning": "ဖုန်း",
+          "word": "電話"
+        }
+      ],
+      "character": "電車",
+      "onyomi": "デン、シャ",
+      "kunyomi": "でんしゃ"
+    }
+  ],
+  "Lesson 13": [
+    {
+      "onyomi": "ソウ、ダン",
+      "kunyomi": "そうだん",
+      "kotoba": [
+        {
+          "reading": "そうだん",
+          "meaning": "တိုင်ပင်ဆွေးနွေးခြင်း",
+          "word": "相談"
+        },
+        {
+          "word": "相談相手",
+          "meaning": "တိုင်ပင်ဆွေးနွေးဖက်",
+          "reading": "そうだんあいて"
+        },
+        {
+          "reading": "たんとう",
+          "meaning": "တာဝန်ယူမှု",
+          "word": "担当"
+        }
+      ],
+      "character": "相談",
+      "meaning": "တိုင်ပင်ဆွေးနွေးခြင်း",
+      "id": 1788049020710.5164
+    },
+    {
+      "onyomi": "ジュン、ビ",
+      "id": 1788049020710.8591,
+      "meaning": "ပြင်ဆင်ခြင်း",
+      "kotoba": [
+        {
+          "word": "準備",
+          "meaning": "ပြင်ဆင်ခြင်း",
+          "reading": "じゅんび"
+        },
+        {
+          "word": "基準",
+          "reading": "きじゅん",
+          "meaning": "စံနှုန်း"
+        },
+        {
+          "word": "予習",
+          "meaning": "ကြိုတင်သင်ခန်းစာဖတ်ခြင်း",
+          "reading": "よしゅう"
+        }
+      ],
+      "kunyomi": "-",
+      "character": "準備"
+    },
+    {
+      "character": "写真",
+      "onyomi": "シャ、シン",
+      "kotoba": [
+        {
+          "word": "写真",
+          "reading": "しゃしん",
+          "meaning": "ဓာတ်ပုံ"
+        },
+        {
+          "meaning": "ဓာတ်ပုံရိုက်သည်/ကူးယူသည်",
+          "word": "写す",
+          "reading": "う写す"
+        },
+        {
+          "meaning": "လေးနက်ရိုးသားသော",
+          "word": "真面目",
+          "reading": "まじめ"
+        }
+      ],
+      "meaning": "ဓာတ်ပုံ",
+      "kunyomi": "しゃしん",
+      "id": 1788048815501.071
+    },
+    {
+      "character": "荷物",
+      "kotoba": [
+        {
+          "word": "荷物",
+          "reading": "にもつ",
+          "meaning": "ပစ္စည်း/အိတ်"
+        },
+        {
+          "meaning": "ကုန်စပို့ခြင်း",
+          "word": "出荷",
+          "reading": "しゅっか"
+        },
+        {
+          "word": "建物",
+          "meaning": "အဆောက်အဦ",
+          "reading": "たてもの"
+        }
+      ],
+      "meaning": "ခရီးဆောင်အိတ် / ပစ္စည်းအလေးချိန်",
+      "onyomi": "カ、モツ",
+      "kunyomi": "にもつ",
+      "id": 1788048815501.6853
+    },
+    {
+      "onyomi": "セツ、テ",
+      "kunyomi": "きって",
+      "character": "切手",
+      "kotoba": [
+        {
+          "word": "切手",
+          "meaning": "တံဆိပ်ခေါင်း",
+          "reading": "きって"
+        },
+        {
+          "word": "切る",
+          "reading": "きる",
+          "meaning": "ဖြတ်သည်"
+        },
+        {
+          "meaning": "အရေးကြီးသော",
+          "word": "大切",
+          "reading": "たいせつ"
+        }
+      ],
+      "id": 1788048815501.318,
+      "meaning": "တံဆိပ်ခေါင်း"
+    },
+    {
+      "meaning": "နိုင်ငံခြားဝတ်စုံ / အနောက်တိုင်းဝတ်စုံ",
+      "kunyomi": "ようふく",
+      "onyomi": "ヨウ、フク",
+      "id": 1788048815501.7268,
+      "character": "洋服",
+      "kotoba": [
+        {
+          "reading": "ようふく",
+          "word": "洋服",
+          "meaning": "အနောက်တိုင်းဝတ်စုံ"
+        },
+        {
+          "meaning": "သမုဒ္ဒရာ",
+          "word": "海洋",
+          "reading": "かいよう"
+        },
+        {
+          "reading": "せいふく",
+          "word": "制服",
+          "meaning": "ယူနီဖောင်း"
+        }
+      ]
+    },
+    {
+      "kunyomi": "さくぶん",
+      "kotoba": [
+        {
+          "word": "作文",
+          "meaning": "စာစီစာကုံး",
+          "reading": "さくぶん"
+        },
+        {
+          "reading": "さくしゃ",
+          "word": "作者",
+          "meaning": "စာရေးဆရာ/ဖန်တီးသူ"
+        },
+        {
+          "meaning": "ဖန်တီးသည်/လုပ်သည်",
+          "word": "作る",
+          "reading": "つくる"
+        }
+      ],
+      "character": "作文",
+      "id": 1788048815500.9292,
+      "onyomi": "サク、ブン",
+      "meaning": "စာစီစာကုံး"
+    },
+    {
+      "kotoba": [
+        {
+          "reading": "じしょ",
+          "word": "辞書",
+          "meaning": "အဘိဓာန်"
+        },
+        {
+          "meaning": "ဂျပန်အဘိဓာန်",
+          "reading": "じてん",
+          "word": "辞典"
+        },
+        {
+          "reading": "やめる",
+          "word": "辞める",
+          "meaning": "အလုပ်ထွက်သည်/စွန့်လွှတ်သည်"
+        }
+      ],
+      "onyomi": "ジ、ショ",
+      "meaning": "အဘိဓာန်",
+      "kunyomi": "じしょ",
+      "character": "辞書",
+      "id": 1788048815500.7327
+    },
+    {
+      "onyomi": "シュク、ダイ",
+      "kotoba": [
+        {
+          "meaning": "အိမ်စာ",
+          "word": "宿題",
+          "reading": "しゅくだい"
+        },
+        {
+          "word": "宿泊",
+          "reading": "しゅくはく",
+          "meaning": "တည်းခိုခြင်း"
+        },
+        {
+          "meaning": "ပြဿနာ/မေးခွန်း",
+          "reading": "もんだい",
+          "word": "問題"
+        }
+      ],
+      "meaning": "အိမ်စာ",
+      "character": "宿題",
+      "kunyomi": "しゅくだい",
+      "id": 1788048815500.0806
+    },
+    {
+      "id": 1788048815500.3274,
+      "kotoba": [
+        {
+          "word": "教科書",
+          "meaning": "ကျောင်းသုံးစာအုပ်",
+          "reading": "きょうかしょ"
+        },
+        {
+          "reading": "きょうしつ",
+          "word": "教室",
+          "meaning": "စာသင်ခန်း"
+        },
+        {
+          "meaning": "အစစအရာရာ/ပေါင်းစပ်",
+          "word": "総合",
+          "reading": "そうごう"
+        }
+      ],
+      "character": "教科書",
+      "onyomi": "キョウ、カ、ショ",
+      "meaning": "ကျောင်းသုံးစာအုပ်",
+      "kunyomi": "きょうかしょ"
+    }
+  ],
+  "Lesson 14": [],
+  "Lesson 15": []
 }
