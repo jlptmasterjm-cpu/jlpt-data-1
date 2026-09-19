@@ -1,0 +1,41 @@
+[
+  {
+    "options": [
+      "1. 大山さんと南ゆかりさん",
+      "2. 大山さんと先生と南ゆかりさん",
+      "3. 先生と南ゆかりさん",
+      "4. 南ゆかりさんと特別ゲスト"
+    ],
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>41 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>を読んで、質問に答えなさい。答えは、1・2・3・4から最もよいものを一つえらびなさい。",
+    "category": "Reading",
+    "id": 1788567863385.3005,
+    "correct": "3. 先生と南ゆかりさん",
+    "question": "<div style=\"border: 2px solid #000; padding: 20px; font-family: 'MS Mincho', 'Sawarabi Mincho', serif; writing-mode: vertical-rl; -webkit-writing-mode: vertical-rl; height: 380px; line-height: 2.2; overflow-x: auto; margin: 0 auto; background-color: #fff;\"><ruby>拝啓<rt>はいけい</rt></ruby><br><ruby>桜<rt>さくら</rt></ruby>が<ruby>満開<rt>まんかい</rt></ruby>になり、すっかり<ruby>春<rt>はる</rt></ruby>らしくなりました。いかがお過ごしでしょうか。<br>さて、このたび、私が<ruby>習<rt>なら</rt></ruby>っているギターの<ruby>先生<rt>せんせい</rt></ruby>のコンサートが六月十日に<ruby>開<rt>ひら</rt></ruby>かれることになりました。今回は、<ruby>先生<rt>せんせい</rt></ruby>のお<ruby>友達<rt>ともだち</rt></ruby>であるプロのギタリスト、<ruby>南<rt>みなみ</rt></ruby>ゆかりさんが<ruby>特別<rt>とくべつ</rt></ruby>ゲストとして<ruby>出演<rt>しゅつえん</rt></ruby>されます。<ruby>詳細<rt>しょうさい</rt></ruby><sup>(注1)</sup>は<ruby>同封<rt>どうふう</rt></ruby>のチラシをご覧ください。<br>お<ruby>忙<rt>いそが</rt></ruby>しいことと思いますが、ご<ruby>来場<rt>らいじょう</rt></ruby>いただければ<ruby>幸<rt>さいわ</rt></ruby>いです。なお、<ruby>席<rt>せき</rt></ruby>が<ruby>限<rt>かぎ</rt></ruby>られていますので、<ruby>来<rt>き</rt></ruby>ていただけるのでしたら、私にあてて<ruby>前日<rt>ぜんじつ</rt></ruby>までにメールかお<ruby>電話<rt>でんわ</rt></ruby>で<ruby>人数<rt>にんずう</rt></ruby>をご<ruby>連絡<rt>れんらく</rt></ruby>いただけますか。<ruby>入場券<rt>にゅうじょうけん</rt></ruby>を<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>用意<rt>ようい</rt></ruby>しておきます。<ruby>代金<rt>だいきん</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>です。<br>まだ、<ruby>気温<rt>きおん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>が大きい<ruby>日々<rt>ひび</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きます。どうぞお<ruby>体<rt>からだ</rt></ruby>にお<ruby>気<rt>き</rt></ruby>をつけて<ruby>過<rt>す</rt></ruby>ごされますように。<br><div style=\"text-align: right; margin-top: 20px;\"><ruby>敬具<rt>けいぐ</rt></ruby></div><br>二〇二三年四月三日<br><div style=\"text-align: right; margin-top: 50px;\"><ruby>大山春樹<rt>おおやまはるき</rt></ruby></div><br>ヘンドラ・ミラン<ruby>様<rt>さま</rt></ruby></div><div style=\"margin-top: 15px; font-size: 12px; line-height: 1.5;\">(注1) <ruby>詳細<rt>しょうさい</rt></ruby>：くわしいこと</div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">問1</div> このコンサートに<ruby>出演<rt>しゅつえん</rt></ruby>するのはだれか。"
+  },
+  {
+    "options": [
+      "1. 大山さんにメールで2人分の券をお願いする。",
+      "2. 大山さんにメールで2人分の券をお願いし、受付にお金を送る。",
+      "3. 会場にメールで2人分の券をお願いする。",
+      "4. 会場にメールで2人分の券をお願いし、当日、受付でお金を払う。"
+    ],
+    "category": "Reading",
+    "id": 1788567863385.61,
+    "mondai": "",
+    "correct": "1. 大山さんにメールで2人分の券をお願いする。",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">問2</div> ヘンドラさんは、<ruby>妻<rt>つま</rt></ruby>とこのコンサートに行きたい。どうしたらよいか。"
+  },
+  {
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">問3</div> 行く<ruby>連絡<rt>れんらく</rt></ruby>は、いつまでにしなければならないか。",
+    "mondai": "",
+    "id": 1788567863385.924,
+    "category": "Reading",
+    "correct": "3. 6月9日",
+    "options": [
+      "1. 4月2日",
+      "2. 4月3日",
+      "3. 6月9日",
+      "4. 6月10日"
+    ]
+  }
+]
