@@ -1,0 +1,15 @@
+[
+  {
+    "question": "<b>【問】</b> この文章で筆者が最も言いたいことは何か。",
+    "id": 1788591565682.81,
+    "category": "Reading",
+    "mondai": "/// <ruby>練習<rt>れんしゅう</rt></ruby>2 <ruby>問<rt>と</rt></ruby>いに対する<ruby>答<rt>こた</rt></ruby>えとして<ruby>最<rt>もっと</rt></ruby>もよいものを一つ<ruby>選<rt>えら</rt></ruby>びなさい。<br><br><ruby>現在<rt>げんざい</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>部活動<rt>ぶかつどう</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby>の<ruby>少年<rt>しょうねん</rt></ruby>スポーツチーム、クラブには、<ruby>参加<rt>さんか</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>さえあれば<ruby>誰<rt>だれ</rt></ruby>でも<ruby>参加<rt>さんか</rt></ruby>できるようになっています。それでいて、<ruby>万が一<rt>まんがいち</rt></ruby><ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>こった<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>現場<rt>げんば</rt></ruby>にいる<ruby>指導者<rt>しどうしゃ</rt></ruby>や、<ruby>施設管理者<rt>しせつかんりしゃ</rt></ruby>だけに<ruby>責任<rt>せきにん</rt></ruby>があるかのように<ruby>思<rt>おも</rt></ruby>われています。<ruby>一般<rt>いっぱん</rt></ruby>に、ひとつ<ruby>部<rt>ぶ</rt></ruby>やクラブ、チームの<ruby>部員数<rt>ぶいんすう</rt></ruby>が30～40<ruby>人<rt>にん</rt></ruby>くらいになることは、それほど<ruby>珍<rt>めずら</rt></ruby>しいことではありません。しかし、それだけの<ruby>大人数<rt>おおにんずう</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>や<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>を<ruby>完璧<rt>かんぺき</rt></ruby>に<sub>（注1）</sub><ruby>観察<rt>かんさつ</rt></ruby>し、<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>をたったひとり、もしくは<ruby>数人<rt>すうにん</rt></ruby>の<ruby>指導者<rt>しどうしゃ</rt></ruby>でおこなうことは<ruby>不可能<rt>ふかのう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>いことです。<br><p style=\"text-align: right; font-size: 0.9em;\">（佐保豊『日本のスポーツはあぶない』小学館）</p><hr style=\"border: none; border-top: 1px dashed #ccc; margin-top: 15px;\"><p style=\"font-size: 0.9em;\">(注1) <ruby>完璧<rt>かんぺき</rt></ruby>に：<ruby>欠点<rt>けってん</rt></ruby>が<ruby>全<rt>まった</rt></ruby>くなく、<ruby>完全<rt>かんぜん</rt></ruby>に</p>",
+    "options": [
+      "1. 指導者は、指導中の事故にもっと責任を持つ必要がある。",
+      "2. 部員は、指導者に自分の健康状態を報告する義務がある。",
+      "3. 自分の意志に参加しているので、事故の責任は部員本人にある。",
+      "4. 少人数の指導者や管理者で数十人の部員の安全を守ることはできない。"
+    ],
+    "correct": "4. 少人数の指導者や管理者で数十人の部員の安全を守ることはできない。"
+  }
+]
