@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1788049000581.072,
+    "character": "案内",
+    "onyomi": "アン、ナイ",
+    "kotoba": [
+      {
+        "word": "案内",
+        "meaning": "လမ်းညွှန်ပြသခြင်း",
+        "reading": "あんない"
+      },
+      {
+        "reading": "あんないじょう",
+        "word": "案内状",
+        "meaning": "ဖိတ်စာ"
+      },
+      {
+        "word": "国内",
+        "reading": "こくない",
+        "meaning": "နိုင်ငံတွင်း"
+      }
+    ],
+    "meaning": "လမ်းညွှန်ပြသခြင်း / လိုက်လံပြသခြင်း",
+    "kunyomi": "あんない"
+  },
+  {
+    "character": "経験",
+    "kunyomi": "-",
+    "meaning": "အတွေ့အကြုံ",
+    "onyomi": "ケイ、ケン",
+    "id": 1788049000580.0647,
+    "kotoba": [
+      {
+        "meaning": "အတွေ့အကြုံ",
+        "word": "経験",
+        "reading": "けいけん"
+      },
+      {
+        "reading": "けいざい",
+        "word": "経済",
+        "meaning": "စီးပွားရေး"
+      },
+      {
+        "reading": "けいひ",
+        "word": "経費",
+        "meaning": "ကုန်ကျစရိတ်"
+      }
+    ]
+  },
+  {
+    "kotoba": [
+      {
+        "meaning": "တိရစ္ဆာန်",
+        "word": "動物",
+        "reading": "どうぶつ"
+      },
+      {
+        "reading": "どうぶつえん",
+        "word": "動物園",
+        "meaning": "တိရစ္ဆာန်ဥယျာဉ်"
+      },
+      {
+        "meaning": "အဆောက်အဦ",
+        "word": "建物",
+        "reading": "たてもの"
+      }
+    ],
+    "onyomi": "ドウ、ブツ",
+    "kunyomi": "どうぶつ",
+    "id": 1788048781352.0496,
+    "meaning": "တိရစ္ဆာန်",
+    "character": "動物"
+  },
+  {
+    "meaning": "သစ်သီးဝလံ",
+    "character": "果物",
+    "onyomi": "カ、ブツ",
+    "id": 1788048781352.9978,
+    "kotoba": [
+      {
+        "meaning": "သစ်သီး",
+        "word": "果物",
+        "reading": "くだもの"
+      },
+      {
+        "reading": "けっか",
+        "word": "結果",
+        "meaning": "ရလဒ်"
+      },
+      {
+        "reading": "たてもの",
+        "meaning": "အဆောက်အဦ",
+        "word": "建物"
+      }
+    ],
+    "kunyomi": "くだもの"
+  },
+  {
+    "character": "手紙",
+    "meaning": "စာ (ပေးစာ)",
+    "kunyomi": "てがみ",
+    "id": 1788048781352.344,
+    "kotoba": [
+      {
+        "meaning": "ပေးစာ",
+        "word": "手紙",
+        "reading": "てがみ"
+      },
+      {
+        "reading": "きって",
+        "meaning": "တံဆိပ်ခေါင်း",
+        "word": "切手"
+      },
+      {
+        "reading": "じょうず",
+        "word": "上手",
+        "meaning": "ကျွမ်းကျင်သော"
+      }
+    ],
+    "onyomi": "シュ、カミ"
+  },
+  {
+    "meaning": "စက်ဘီး",
+    "character": "自転車",
+    "onyomi": "ジ、テン、シャ",
+    "kunyomi": "じてんしゃ",
+    "id": 1788048781352.7593,
+    "kotoba": [
+      {
+        "meaning": "စက်ဘီး",
+        "word": "自転車",
+        "reading": "じてんしゃ"
+      },
+      {
+        "reading": "じぶんで",
+        "word": "自分で",
+        "meaning": "ကိုယ်တိုင်"
+      },
+      {
+        "word": "自動車",
+        "meaning": "ကား",
+        "reading": "じどうしゃ"
+      }
+    ]
+  },
+  {
+    "kotoba": [
+      {
+        "reading": "としょかん",
+        "word": "図書館",
+        "meaning": "စာကြည့်တိုက်"
+      },
+      {
+        "meaning": "အဘိဓာန်",
+        "word": "辞書",
+        "reading": "じしょ"
+      },
+      {
+        "meaning": "သံရုံး",
+        "reading": "たいしかん",
+        "word": "大使館"
+      }
+    ],
+    "onyomi": "ト、ショ、カン",
+    "meaning": "စာကြည့်တိုက်",
+    "kunyomi": "としょかん",
+    "id": 1788048781352.1997,
+    "character": "図書館"
+  },
+  {
+    "kunyomi": "れいぞうこ",
+    "meaning": "ရေခဲသေတ္တာ",
+    "kotoba": [
+      {
+        "meaning": "ရေခဲသေတ္တာ",
+        "word": "冷蔵庫",
+        "reading": "れいぞうこ"
+      },
+      {
+        "meaning": "အေးမြသော",
+        "reading": "つめたい",
+        "word": "冷たい"
+      },
+      {
+        "reading": "れいぼう",
+        "meaning": "အဲကွန်းအအေးပေးစနစ်",
+        "word": "冷房"
+      }
+    ],
+    "id": 1788048781352.5884,
+    "onyomi": "レイ、ゾウ、コ",
+    "character": "冷蔵庫"
+  },
+  {
+    "kotoba": [
+      {
+        "reading": "ちかてつ",
+        "word": "地下鉄",
+        "meaning": "မြေအောက်ရထား"
+      },
+      {
+        "reading": "ちか",
+        "meaning": "မြေအောက်",
+        "word": "地下"
+      },
+      {
+        "word": "鉄道",
+        "reading": "てつどう",
+        "meaning": "မီးရထားလမ်း"
+      }
+    ],
+    "onyomi": "チ、カ、テツ",
+    "meaning": "မြေအောက်ရထား",
+    "character": "地下鉄",
+    "kunyomi": "ちかてつ",
+    "id": 1788048781351.3325
+  },
+  {
+    "meaning": "လျှပ်စစ်ရထား",
+    "id": 1788048781351.1616,
+    "kotoba": [
+      {
+        "reading": "でんしゃ",
+        "meaning": "ရထား",
+        "word": "電車"
+      },
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "meaning": "လျှပ်စစ်မီး"
+      },
+      {
+        "reading": "でんわ",
+        "meaning": "ဖုန်း",
+        "word": "電話"
+      }
+    ],
+    "character": "電車",
+    "onyomi": "デン、シャ",
+    "kunyomi": "でんしゃ"
+  }
+]
