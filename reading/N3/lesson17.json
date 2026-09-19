@@ -1,0 +1,15 @@
+[
+  {
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.6; background-color: #fff; max-width: 600px; margin: 0 auto; box-sizing: border-box;\"><div style=\"text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 15px;\"><ruby>親子丼<rt>おやこどん</rt></ruby>の作り方</div><div style=\"display: flex; justify-content: space-between; margin-bottom: 15px;\"><div style=\"width: 48%; padding-right: 10px;\"><div style=\"font-weight: bold; font-size: 14px; margin-bottom: 5px;\"><ruby>材料<rt>ざいりょう</rt></ruby>（2人分）</div><div style=\"font-size: 13px; line-height: 1.8;\">ごはん ・・・ どんぶり2<ruby>杯分<rt>はいぶん</rt></ruby><br>とり肉 ・・・ 1<ruby>枚<rt>まい</rt></ruby>（<ruby>約<rt>やく</rt></ruby>150g）<br>たまご ・・・ 4コ<br>たまねぎ ・・・ 1/4コ<br>だし<ruby>汁<rt>じる</rt></ruby> ・・・ カップ1<ruby>杯<rt>はい</rt></ruby>（200cc）</div></div><div style=\"width: 48%; padding-left: 10px; border-left: 1px dashed #ccc;\"><div style=\"font-weight: bold; font-size: 14px; margin-bottom: 5px;\"><ruby>調味料<rt>ちょうみりょう</rt></ruby></div><div style=\"font-size: 13px; line-height: 1.8;\">みりん ・・・ 大さじ2<br><ruby>酒<rt>さけ</rt></ruby> ・・・ 大さじ1<br>しょうゆ ・・・ 大さじ2<br>さとう ・・・ 大さじ1</div></div></div></div><br><div style=\"font-family: sans-serif; line-height: 1.6;\"><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">作り方</div><ol style=\"padding-left: 20px; margin: 0; font-size: 14px; line-height: 1.8;\"><li>まず、とり肉を<ruby>一口大<rt>ひとくちだい</rt></ruby>に切り、たまねぎをうす切りにします。ボールにたまごを<ruby>割<rt>わ</rt></ruby>って<ruby>混<rt>ま</rt></ruby>ぜておきます。</li><li>なべにだし<ruby>汁<rt>じる</rt></ruby>、みりん、<ruby>酒<rt>さけ</rt></ruby>、しょうゆ、さとうを入れて火にかけます。</li><li><ruby>沸騰<rt>ふっとう</rt></ruby>したら、たまねぎ、とり肉を入れて、<ruby>中火<rt>ちゅうび</rt></ruby>〜<ruby>弱火<rt>よわび</rt></ruby>で<ruby>煮<rt>に</rt></ruby>ます。</li><li>とり肉が<ruby>煮<rt>に</rt></ruby>えたら、たまごを<ruby>回<rt>まわ</rt></ruby>し入れます。固まり始めたら、火をとめます。</li><li>ごはんの上にのせて、出来あがり！</li></ol><br><div style=\"border: 1px dashed #f00; padding: 10px; margin-bottom: 15px; font-size: 13px; background-color: #fff5f5;\"><b style=\"color: #d00;\">ここに注意！</b><br>最後にたまごを入れたら、あまり<ruby>混<rt>ま</rt></ruby>ぜないこと。そして長く<ruby>煮<rt>に</rt></ruby>ないこと。</div><div style=\"font-size: 11px; line-height: 1.4; color: #555;\">(注1) <ruby>一口大<rt>ひとくちだい</rt></ruby>：口に入るくらいの大きさ<br>(注2) だし<ruby>汁<rt>じる</rt></ruby>：こんぶやかつおぶしで作ったスープ<br>(注3) <ruby>回<rt>まわ</rt></ruby>し入れる：まるをかくようにして入れる</div></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">問い</div> <ruby>親子丼<rt>おやこどん</rt></ruby>の作り方の<ruby>順番<rt>じゅんばん</rt></ruby>で、正しいものはどれか。",
+    "options": [
+      "1. なべにだし汁、とり肉、たまねぎ、たまごを入れてから火にかける。",
+      "2. なべにだし汁、調味料、とり肉を入れ、沸騰したら、たまねぎとたまごを入れる。",
+      "3. なべにだし汁、調味料を入れ、沸騰したら、はじめにたまごを入れる。",
+      "4. なべにだし汁、調味料を入れ、沸騰したら、とり肉とたまねぎを入れる。"
+    ],
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>17 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>を読んで、下の質問に答えなさい。答えは、1・2・3・4から最もよいものを一つえらびなさい。",
+    "id": 1788561656840.982,
+    "category": "Reading",
+    "correct": "4. なべにだし汁、調味料を入れ、沸騰したら、とり肉とたまねぎを入れる。"
+  }
+]
