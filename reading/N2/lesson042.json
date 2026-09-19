@@ -1,0 +1,15 @@
+[
+  {
+    "mondai": "/// <ruby>練習<rt>れんしゅう</rt></ruby>42 <ruby>問<rt>と</rt></ruby>いに対する<ruby>答<rt>こた</rt></ruby>えとして<ruby>最<rt>もっと</rt></ruby>もよいものを一つ<ruby>選<rt>えら</rt></ruby>びなさい。<br><br><div style=\"border: 1px solid #000; padding: 20px; font-family: sans-serif;\"><div style=\"border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-bottom: 15px;\">件名：ご注文ありがとうございます</div><p>マリア・ロジャーズ様</p><p>イーオフィスの田中力でございます。<br>この度は本棚のご注文ありがとうございました。<br>以下ご注文内容をご確認ください。<br>併せて発送予定日のご確認もお願いいたします。<br>尚、発送が完了いたしましたら送り状番号をお知らせいたします。</p><div style=\"border-top: 1px dashed #ccc; border-bottom: 1px dashed #ccc; padding: 10px 0; margin: 15px 0;\"><table style=\"width: 100%; border-collapse: collapse;\"><tr><td style=\"width: 100px;\">［ご依頼主］</td><td>マリア・ロジャーズ様</td></tr><tr><td>［受注番号］</td><td>31690</td></tr><tr><td>［お支払方法］</td><td>クレジットカード</td></tr><tr><td>［配送方法］</td><td>しろくまエキスプレス</td></tr><tr><td>［お届け先］</td><td>ご本人様宛<br>〒111-1111 東京都新宿区やよい 1－1－1－101</td></tr><tr><td>［発送予定日］</td><td>2012/04/07</td></tr><tr><td>［購入品］</td><td>組み立て式本棚 52887<br>価格 ¥9,625 × 2 ＝ ¥19,250</td></tr></table><table style=\"width: 100%; border-collapse: collapse; margin-top: 10px;\"><tr><td style=\"width: 100px;\">小計</td><td>¥19,250</td></tr><tr><td>消費税</td><td>¥   962</td></tr><tr><td style=\"border-top: 1px solid #000; font-weight: bold;\">合計</td><td style=\"border-top: 1px solid #000; font-weight: bold;\">¥20,212</td></tr></table></div><p>ご不明な点がございましたら、お問い合わせください。</p><div style=\"border-top: 1px dashed #ccc; padding-top: 10px; margin-top: 15px; font-size: 0.9em;\"><p style=\"margin: 2px 0;\">有限会社イーオフィス 田中友子</p><p style=\"margin: 2px 0;\">〒562-0035</p><p style=\"margin: 2px 0;\">大阪府箕面市山崎 10-10-10 箕面フレールビル３階</p><p style=\"margin: 2px 0;\">(TEL) 072-000-0000 (FAX) 072-000-000X</p><p style=\"margin: 2px 0;\">mailto:shop@e-officexx.co.jp</p></div></div>",
+    "question": "<b>【問】</b> この文章の目的として最も適切なものはどれか。",
+    "id": 1788603972526.79,
+    "options": [
+      "1. 受けた注文の確認と発送予定日の通知",
+      "2. 発送が完了したことの確認",
+      "3. 代金支払いのお願い",
+      "4. 送り状番号の通知"
+    ],
+    "correct": "1. 受けた注文の確認と発送予定日の通知",
+    "category": "Reading"
+  }
+]
