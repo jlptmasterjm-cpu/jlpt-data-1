@@ -1,0 +1,452 @@
+[
+  {
+    "meaning": "ဆယ်ခု၊ ဆယ်",
+    "character": "十",
+    "id": 1781428007231.746,
+    "onyomi": "ジュウ",
+    "kotoba": [
+      {
+        "reading": "じゅう",
+        "word": "十",
+        "meaning": "ဆယ်"
+      },
+      {
+        "meaning": "ဆယ်ခု",
+        "word": "十",
+        "reading": "とお"
+      },
+      {
+        "meaning": "ဆယ်နာရီ",
+        "reading": "じゅうじ",
+        "word": "十時"
+      },
+      {
+        "meaning": "အောက်တိုဘာလ",
+        "word": "十月",
+        "reading": "じゅうがつ"
+      },
+      {
+        "reading": "とおか",
+        "word": "十日",
+        "meaning": "ဆယ်ရက်နေ့"
+      },
+      {
+        "meaning": "ဆယ်ယောက်",
+        "reading": "じゅうにん",
+        "word": "十人"
+      },
+      {
+        "meaning": "လုံလောက်သော",
+        "word": "十分",
+        "reading": "じゅうぶん"
+      }
+    ],
+    "kunyomi": "とお"
+  },
+  {
+    "character": "九",
+    "kotoba": [
+      {
+        "meaning": "ကိုး",
+        "reading": "きゅう/く",
+        "word": "九"
+      },
+      {
+        "meaning": "ကိုးခု",
+        "word": "九つ",
+        "reading": "ここのつ"
+      },
+      {
+        "reading": "くじ",
+        "word": "九時",
+        "meaning": "ကိုးနာရီ"
+      },
+      {
+        "meaning": "စက်တင်ဘာလ",
+        "word": "九月",
+        "reading": "くがつ"
+      },
+      {
+        "word": "九日",
+        "meaning": "ကိုးရက်နေ့",
+        "reading": "ここのか"
+      },
+      {
+        "reading": "きゅうにん",
+        "meaning": "ကိုးယောက်",
+        "word": "九人"
+      },
+      {
+        "meaning": "ကျူရှူးကျွန်း",
+        "word": "九州",
+        "reading": "きゅうしゅう"
+      }
+    ],
+    "id": 1781428007231.3933,
+    "onyomi": "キュウ、ク",
+    "meaning": "ကိုးခု၊ ကိုး",
+    "kunyomi": "ここの"
+  },
+  {
+    "id": 1781428007231.2961,
+    "kunyomi": "や",
+    "meaning": "ရှစ်ခု၊ ရှစ်",
+    "kotoba": [
+      {
+        "word": "八",
+        "reading": "はち",
+        "meaning": "ရှစ်"
+      },
+      {
+        "meaning": "ရှစ်ခု",
+        "reading": "やっつ",
+        "word": "八つ"
+      },
+      {
+        "meaning": "ရှစ်နာရီ",
+        "reading": "はちじ",
+        "word": "八時"
+      },
+      {
+        "meaning": "ဩဂုတ်လ",
+        "word": "八月",
+        "reading": "はちがつ"
+      },
+      {
+        "reading": "ようか",
+        "word": "八日",
+        "meaning": "ရှစ်ရက်နေ့"
+      },
+      {
+        "word": "八人",
+        "meaning": "ရှစ်ယောက်",
+        "reading": "はちにん"
+      },
+      {
+        "word": "八百屋",
+        "reading": "やおや",
+        "meaning": "ဟင်းသီးဟင်းရွက်ဆိုင်"
+      }
+    ],
+    "onyomi": "ハチ",
+    "character": "八"
+  },
+  {
+    "onyomi": "シチ",
+    "character": "七",
+    "meaning": "ခုနစ်ခု၊ ခုနစ်",
+    "kotoba": [
+      {
+        "reading": "なな/しち",
+        "word": "七",
+        "meaning": "ခုနစ်"
+      },
+      {
+        "meaning": "ခုနစ်ခု",
+        "reading": "ななつ",
+        "word": "七つ"
+      },
+      {
+        "word": "七時",
+        "meaning": "ခုနစ်နာရီ",
+        "reading": "しちじ"
+      },
+      {
+        "meaning": "ဇူလိုင်လ",
+        "word": "七月",
+        "reading": "しちがつ"
+      },
+      {
+        "meaning": "ခုနစ်ရက်နေ့",
+        "word": "七日",
+        "reading": "なのか"
+      },
+      {
+        "meaning": "ခုနစ်ယောက်",
+        "word": "七人",
+        "reading": "ななにん"
+      },
+      {
+        "word": "七夕",
+        "reading": "たなばた",
+        "meaning": "တာနာဘာတာပွဲတော်"
+      }
+    ],
+    "id": 1781428007231.2158,
+    "kunyomi": "なな"
+  },
+  {
+    "onyomi": "ロク",
+    "kunyomi": "む",
+    "kotoba": [
+      {
+        "word": "六",
+        "meaning": "ခြောက်",
+        "reading": "ろく"
+      },
+      {
+        "word": "六つ",
+        "reading": "むっつ",
+        "meaning": "ခြောက်ခု"
+      },
+      {
+        "word": "六時",
+        "meaning": "ခြောက်နာရီ",
+        "reading": "ろくじ"
+      },
+      {
+        "word": "六月",
+        "meaning": "ဇွန်လ",
+        "reading": "ろくがつ"
+      },
+      {
+        "reading": "むいか",
+        "word": "六日",
+        "meaning": "ခြောက်ရက်နေ့"
+      },
+      {
+        "meaning": "ခြောက်ယောက်",
+        "word": "六人",
+        "reading": "ろくにん"
+      },
+      {
+        "reading": "ろっぱい",
+        "word": "六百",
+        "meaning": "ခြောက်ရာ"
+      }
+    ],
+    "id": 1781428007231.306,
+    "meaning": "ခြောက်ခု၊ ခြောက်",
+    "character": "六"
+  },
+  {
+    "meaning": "ငါးခု၊ ငါး",
+    "id": 1781428007231.9001,
+    "character": "五",
+    "onyomi": "ゴ",
+    "kotoba": [
+      {
+        "reading": "ご",
+        "word": "五",
+        "meaning": "ငါး"
+      },
+      {
+        "reading": "いつつ",
+        "meaning": "ငါးခု",
+        "word": "五つ"
+      },
+      {
+        "reading": "ごじ",
+        "word": "五時",
+        "meaning": "ငါးနာရီ"
+      },
+      {
+        "reading": "ごがつ",
+        "word": "五月",
+        "meaning": "မေလ"
+      },
+      {
+        "meaning": "ငါးရက်နေ့",
+        "word": "五日",
+        "reading": "いつか"
+      },
+      {
+        "reading": "ごにん",
+        "meaning": "ငါးယောက်",
+        "word": "五人"
+      },
+      {
+        "meaning": "ငါးယန်း",
+        "word": "五円",
+        "reading": "ごえん"
+      }
+    ],
+    "kunyomi": "いつ"
+  },
+  {
+    "id": 1781428007231.081,
+    "meaning": "လေးခု၊ လေး",
+    "kunyomi": "よ、よん",
+    "kotoba": [
+      {
+        "meaning": "လေး",
+        "word": "四",
+        "reading": "よん/し"
+      },
+      {
+        "meaning": "လေးခု",
+        "word": "四つ",
+        "reading": "よっつ"
+      },
+      {
+        "meaning": "လေးနာရီ",
+        "word": "四時",
+        "reading": "よじ"
+      },
+      {
+        "reading": "しがつ",
+        "word": "四月",
+        "meaning": "ဧပြီလ"
+      },
+      {
+        "meaning": "လေးရက်နေ့",
+        "word": "四日",
+        "reading": "よっか"
+      },
+      {
+        "reading": "よにん",
+        "word": "四人",
+        "meaning": "လေးယောက်"
+      },
+      {
+        "word": "四季",
+        "meaning": "ရာသီလေးခု",
+        "reading": "しき"
+      }
+    ],
+    "character": "四",
+    "onyomi": "シ"
+  },
+  {
+    "meaning": "သုံးခု၊ သုံး",
+    "id": 1781428007231.8855,
+    "character": "三",
+    "kunyomi": "み",
+    "onyomi": "サン",
+    "kotoba": [
+      {
+        "reading": "さん",
+        "meaning": "သုံး",
+        "word": "三"
+      },
+      {
+        "meaning": "သုံးခု",
+        "word": "三つ",
+        "reading": "みっつ"
+      },
+      {
+        "word": "三時",
+        "meaning": "သုံးနာရီ",
+        "reading": "さんじ"
+      },
+      {
+        "meaning": "မတ်လ",
+        "reading": "さんがつ",
+        "word": "三月"
+      },
+      {
+        "reading": "みっか",
+        "word": "三日",
+        "meaning": "သုံးရက်နေ့"
+      },
+      {
+        "meaning": "သုံးယောက်",
+        "word": "三人",
+        "reading": "さんにん"
+      },
+      {
+        "reading": "さんかく",
+        "word": "三角",
+        "meaning": "တြိဂံ"
+      }
+    ]
+  },
+  {
+    "onyomi": "ニ",
+    "kunyomi": "ふた",
+    "id": 1781428007231.9119,
+    "kotoba": [
+      {
+        "word": "二",
+        "meaning": "နှစ်",
+        "reading": "に"
+      },
+      {
+        "reading": "ふたつ",
+        "meaning": "နှစ်ခု",
+        "word": "二つ"
+      },
+      {
+        "reading": "にじ",
+        "meaning": "နှစ်နာရီ",
+        "word": "二時"
+      },
+      {
+        "word": "二月",
+        "meaning": "ဖေဖော်ဝါရီလ",
+        "reading": "にがつ"
+      },
+      {
+        "reading": "ふたり",
+        "meaning": "နှစ်ယောက်",
+        "word": "二人"
+      },
+      {
+        "reading": "ふつか",
+        "word": "二日",
+        "meaning": "နှစ်ရက်/ဒုတိယရက်"
+      },
+      {
+        "reading": "はつか",
+        "word": "二十日",
+        "meaning": "ရက် ၂၀"
+      },
+      {
+        "reading": "はたち",
+        "meaning": "အသက် ၂၀ အရွယ်",
+        "word": "二十歳"
+      }
+    ],
+    "meaning": "နှစ်ခု၊ နှစ်",
+    "character": "二"
+  },
+  {
+    "kunyomi": "ひと",
+    "kotoba": [
+      {
+        "meaning": "တစ်",
+        "word": "一",
+        "reading": "いち"
+      },
+      {
+        "word": "一つ",
+        "reading": "ひとつ",
+        "meaning": "တစ်ခု"
+      },
+      {
+        "word": "一時",
+        "meaning": "တစ်နာရီ",
+        "reading": "いちじ"
+      },
+      {
+        "meaning": "တစ်မိနစ်",
+        "reading": "いっぷん",
+        "word": "一分"
+      },
+      {
+        "word": "一月",
+        "reading": "いちがつ",
+        "meaning": "ဇန်နဝါရီလ"
+      },
+      {
+        "reading": "いちにち",
+        "word": "一日",
+        "meaning": "တစ်ရက်"
+      },
+      {
+        "word": "一人",
+        "meaning": "တစ်ယောက်",
+        "reading": "ひとり"
+      },
+      {
+        "reading": "いちばん",
+        "word": "一番",
+        "meaning": "နံပါတ်တစ်"
+      }
+    ],
+    "onyomi": "イチ、イツ",
+    "id": 1781428007230.3962,
+    "character": "一",
+    "meaning": "တစ်ခု၊ တစ်"
+  }
+]
