@@ -1,0 +1,28 @@
+[
+  {
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>53 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>求人募集広告<rt>きゅうじんぼしゅうこうこく</rt></ruby>である。<ruby>右<rt>みぎ</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br><table style=\"border: 1px solid #ccc; width: 100%; border-collapse: collapse; padding: 10px;\"><tr><td><p style=\"text-align: center;\"><ruby>一緒<rt>いっしょ</rt></ruby>にすし<ruby>屋<rt>や</rt></ruby>で<ruby>働きませんか<rt>はたらきませんか</rt></ruby>！<br><b>アルバイト<ruby>大募集<rt>だいぼしゅう</rt></ruby>！</b></p><ruby>職種<rt>しょくしゅ</rt></ruby><sub>(注1)</sub>：<ruby>調理<rt>ちょうり</rt></ruby>の<ruby>手伝い<rt>てつだい</rt></ruby><br><ruby>勤務時間<rt>きんむじかん</rt></ruby>・<ruby>給与<rt>きゅうよ</rt></ruby>：① 8:00 - 15:00 <ruby>時給<rt>じきゅう</rt></ruby> 900<ruby>円<rt>えん</rt></ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 15:00 - 24:00 <ruby>時給<rt>じきゅう</rt></ruby> 1,000<ruby>円<rt>えん</rt></ruby> (<ruby>時給<rt>じきゅう</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby>を<ruby>考慮<rt>こうりょ</rt></ruby><sub>(注2)</sub>)<br>＊<ruby>週<rt>しゅう</rt></ruby>2<ruby>日<rt>にち</rt></ruby>、1<ruby>日<rt>にち</rt></ruby>5<ruby>時間以上<rt>じかんいじょう</rt></ruby><ruby>働ける<rt>はたらける</rt></ruby><ruby>方<rt>かた</rt></ruby>。<br>＊<ruby>曜日<rt>ようび</rt></ruby>、<ruby>時間<rt>じかん</rt></ruby>は<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応じます<rt>おうじます</rt></ruby>。<br>＊<ruby>経験<rt>けいけん</rt></ruby>のない<ruby>方<rt>かた</rt></ruby>もOK！<br>＊<ruby>主婦<rt>しゅふ</rt></ruby>・<ruby>学生<rt>がくせい</rt></ruby>の<ruby>方歓迎<rt>かたかんげい</rt></ruby>。（<ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>不可<rt>ふか</rt></ruby>）<br><br><ruby>応募方法<rt>おうぼほうほう</rt></ruby>：お<ruby>電話<rt>でんわ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>履歴書<rt>りれきしょ</rt></ruby>（<ruby>写真付<rt>しゃしんつき</rt></ruby>）を<ruby>持って<rt>もって</rt></ruby><ruby>面接<rt>めんせつ</rt></ruby>にお<ruby>越しください<rt>こしください</rt></ruby>。<br><ruby>勤務地<rt>きんむち</rt></ruby>・<ruby>連絡先<rt>れんらくさき</rt></ruby>：A<ruby>市山田町<rt>しやまだちょう</rt></ruby> 2-2-1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;すしの<ruby>吉野<rt>よしの</rt></ruby>（<ruby>山田店<rt>やまだてん</rt></ruby>） TEL: 1111-3333<br><br>(注1) <ruby>職種<rt>しょくしゅ</rt></ruby>：<ruby>職業の順類<rt>しょくぎょうのしゅるい</rt></ruby><br>(注2) <ruby>考慮<rt>こうりょ</rt></ruby>：よく<ruby>考えること<rt>かんがえること</rt></ruby></td></tr></table>",
+    "question": "<b>【問1】</b> ホンさんは、火(か)・木(もく)・金曜日(きんようび)に夕方(ゆうがた)5時(じ)から夜(よる)10時(じ)まで働く(はたらく)ことになった。1週間(しゅうかん)で給料(きゅうりょう)がいくらもらえるか。",
+    "correct": "4. 15,000円(えん)",
+    "id": 1788570558728.4575,
+    "options": [
+      "1. 9,000円(えん)",
+      "2. 9,500円(えん)",
+      "3. 13,500円(えん)",
+      "4. 15,000円(えん)"
+    ],
+    "category": "Reading"
+  },
+  {
+    "id": 1788570558728.3518,
+    "correct": "4. 経験(けいけん)がない大学生(だいがくせい)。水曜日(すいようび)と土曜日(どようび)に午後(ごご)5時(じ)から夜(よる)10時(じ)まで働ける(はたらける)。",
+    "mondai": "",
+    "options": [
+      "1. 経験(けいけん)がある主婦(しゅふ)。月曜日(げつようび)と火曜日(かようび)に9時(じ)から12時(じ)まで働ける(はたらける)。",
+      "2. 経験(けいけん)がない大学生(だいがくせい)。水曜日(すいようび)に午後(ごご)6時(じ)から午後(ごご)11時(じ)まで働ける(はたらける)。",
+      "3. 経験(けいけん)がある高校生(こうこうせい)。火曜日(かようび)と木曜日(もくようび)に午後(ごご)3時(じ)から午後(ごご)9時(じ)まで働ける(はたらける)。",
+      "4. 経験(けいけん)がない大学生(だいがくせい)。水曜日(すいようび)と土曜日(どようび)に午後(ごご)5時(じ)から夜(よる)10時(じ)まで働ける(はたらける)。"
+    ],
+    "category": "Reading",
+    "question": "<b>【問2】</b> このすし屋(や)で働ける(はたらける)人は(ひと)はだれか。"
+  }
+]
