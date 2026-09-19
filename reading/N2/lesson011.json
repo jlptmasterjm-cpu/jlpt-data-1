@@ -1,0 +1,15 @@
+[
+  {
+    "question": "<b>【問い】</b> この文章(ぶんしょう)で筆者(ひっしゃ)が最も(もっとも)言いたい(いいたい)ことは何か(なにか)。",
+    "mondai": "■ <ruby>練習<rt>れんしゅう</rt></ruby>11 <ruby>問<rt>と</rt></ruby>いに対する<ruby>答<rt>こた</rt></ruby>えとして<ruby>最<rt>もっと</rt></ruby>もよいものを一つ<ruby>選<rt>えら</rt></ruby>びなさい。<br><br><ruby>足<rt>あし</rt></ruby>が<ruby>速い<rt>はやい</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、生まれつき<ruby>速い<rt>はやい</rt></ruby>。<ruby>遅い<rt>おそい</rt></ruby><ruby>人<rt>ひと</rt></ruby>は、生まれながらにして<ruby>遅い<rt>おそい</rt></ruby>。特に<ruby>短距離走<rt>たんきょりそう</rt></ruby>はポテンシャルの<ruby>勝負<rt>しょうぶ</rt></ruby>――。<br><br>そう思っている<ruby>方<rt>かた</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>でしょうし、私もつい<ruby>数年前<rt>すうねんまえ</rt></ruby>まではそう思っていました。そして、ある<ruby>面<rt>めん</rt></ruby>ではやはりその通りなのです。生まれ持った<ruby>骨格<rt>こっかく</rt></ruby>や<ruby>腱<rt>けん</rt></ruby>、<ruby>筋肉<rt>きんにく</rt></ruby>などの<ruby>質<rt>しつ</rt></ruby>によって、<ruby>足<rt>あし</rt></ruby>の<ruby>速さ<rt>はやさ</rt></ruby>はかなりの部分まで決まってしまいます。<br><br><ruby>車<rt>くるま</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>で、エンジンの<ruby>性能<rt>せいのう</rt></ruby>を超えた<ruby>走り<rt>はしり</rt></ruby>はできません。<br><br>ただし、<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>性能<rt>せいのう</rt></ruby>を<ruby>限界<rt>げんかい</rt></ruby>まで<ruby>引き出して<rt>ひきだして</rt></ruby>いないのです。また、エンジンの<ruby>性能<rt>せいのう</rt></ruby>がアップしなくても、タイヤを<ruby>履き替えたり<rt>はきかえたり</rt></ruby>、<ruby>運転<rt>うんてん</rt></ruby>テクニックを<ruby>上達<rt>じょうたつ</rt></ruby>させたりと、スピードをアップさせる<ruby>方法<rt>ほうほう</rt></ruby>はほかにいくらでもあるのです。<br><br><p style=\"text-align: right; font-size: 0.9em;\">（<ruby>為末大<rt>ためすえだい</rt></ruby>『日本人の<ruby>足<rt>あし</rt></ruby>を<ruby>速く<rt>はやく</rt></ruby>する』<ruby>新潮社<rt>しんちょうしゃ</rt></ruby>）</p>",
+    "correct": "4. 足(あし)が遅い(おそい)と思って(おもって)いる人も(ひと)、工夫(くふう)すればもっと速く(はやく)なれる。",
+    "category": "Reading",
+    "options": [
+      "1. 車(くるま)の速さ(はやさ)は、エンジンの性能(せいのう)によって決まる(きまる)。",
+      "2. 足(あし)が速い(はやい)か遅い(おそい)かは、生まれながらにして決まって(きまって)いる。",
+      "3. 車(くるま)のスピードをアップさせる方法(ほうほう)は、いろいろある。",
+      "4. 足(あし)が遅い(おそい)と思って(おもって)いる人も(ひと)、工夫(くふう)すればもっと速く(はやく)なれる。"
+    ],
+    "id": 1788593331410.913
+  }
+]
