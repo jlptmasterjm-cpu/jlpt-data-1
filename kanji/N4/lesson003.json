@@ -1,0 +1,406 @@
+[
+  {
+    "kotoba": [
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "ဒီအပတ်"
+      },
+      {
+        "reading": "らいしゅう",
+        "word": "来週",
+        "meaning": "နောက်အပတ်"
+      },
+      {
+        "reading": "せんしゅう",
+        "meaning": "ပြီးခဲ့သောအပတ်",
+        "word": "先週"
+      },
+      {
+        "reading": "しゅうまつ",
+        "word": "週末",
+        "meaning": "စနေ၊ တနင်္ဂနွေ (ရက်သတ္တပတ်ပိတ်ရက်)"
+      }
+    ],
+    "meaning": "ရက်သတ္တပတ် / အပတ်",
+    "onyomi": "シュウ",
+    "id": 1788045314591.205,
+    "kunyomi": "",
+    "character": "週"
+  },
+  {
+    "kunyomi": "",
+    "id": 1788045314591.8684,
+    "meaning": "တိုင်း",
+    "kotoba": [
+      {
+        "meaning": "ရက်တိုင်း",
+        "reading": "まいにち",
+        "word": "毎日"
+      },
+      {
+        "reading": "まいしゅう",
+        "word": "毎週",
+        "meaning": "အပတ်တိုင်း"
+      },
+      {
+        "word": "毎月",
+        "reading": "まいつき / まいげつ",
+        "meaning": "လတိုင်း"
+      },
+      {
+        "reading": "まいとし / まいねん",
+        "word": "毎年",
+        "meaning": "နှစ်တိုင်း"
+      }
+    ],
+    "character": "毎",
+    "onyomi": "マイ"
+  },
+  {
+    "kunyomi": "かみ",
+    "id": 1787988406727.0178,
+    "onyomi": "シ",
+    "character": "紙",
+    "meaning": "စက္ကူ",
+    "kotoba": [
+      {
+        "meaning": "စက္ကူ",
+        "word": "紙",
+        "reading": "かみ"
+      },
+      {
+        "reading": "てがみ",
+        "word": "手紙",
+        "meaning": "စာ"
+      },
+      {
+        "reading": "ひょうし",
+        "word": "表紙",
+        "meaning": "မျက်နှာဖုံး"
+      },
+      {
+        "meaning": "ငွေစက္ကူ",
+        "word": "紙幣",
+        "reading": "しへい"
+      },
+      {
+        "reading": "わし",
+        "word": "和紙",
+        "meaning": "ဂျပန်စက္ကူ"
+      },
+      {
+        "word": "紙くず",
+        "reading": "かみくず",
+        "meaning": "စက္ကူအမှိုက်"
+      },
+      {
+        "reading": "おりがみ",
+        "meaning": "စက္ကူခေါက်",
+        "word": "折り紙"
+      },
+      {
+        "word": "紙コップ",
+        "meaning": "စက္ကူခွက်",
+        "reading": "かみコップ"
+      }
+    ]
+  },
+  {
+    "kunyomi": "ぬし、おも",
+    "character": "主",
+    "kotoba": [
+      {
+        "word": "主人",
+        "meaning": "ခင်ပွန်း / သခင်",
+        "reading": "しゅじん"
+      },
+      {
+        "meaning": "အိမ်ရှင်မ",
+        "reading": "しゅふ",
+        "word": "主婦"
+      },
+      {
+        "word": "主語",
+        "meaning": "ဝါကျ၏အကြောင်းခံ",
+        "reading": "しゅご"
+      },
+      {
+        "reading": "しゅぎ",
+        "word": "主義",
+        "meaning": "အယူဝါဒ"
+      },
+      {
+        "word": "主題",
+        "reading": "しゅだい",
+        "meaning": "အကြောင်းအရာ"
+      },
+      {
+        "reading": "しゅしょく",
+        "word": "主食",
+        "meaning": "အဓိကစားနပ်ရိက္ခာ"
+      },
+      {
+        "reading": "おもに",
+        "meaning": "အဓိကအားဖြင့်",
+        "word": "主に"
+      },
+      {
+        "reading": "もちぬし",
+        "word": "持ち主",
+        "meaning": "ပိုင်ရှင်"
+      }
+    ],
+    "onyomi": "シュ、ス",
+    "id": 1787988406727.737,
+    "meaning": "အဓိက၊ သခင်/ပိုင်ရှင်"
+  },
+  {
+    "character": "私",
+    "kunyomi": "わたくし、わたし",
+    "id": 1787988406726.8298,
+    "onyomi": "シ",
+    "meaning": "ကျွန်တော်/ကျွန်မ၊ ကိုယ်ပိုင်",
+    "kotoba": [
+      {
+        "meaning": "ကျွန်တော် / ကျွန်မ",
+        "word": "私",
+        "reading": "わたし"
+      },
+      {
+        "meaning": "ပုဂ္ဂလိကတက္ကသိုလ်",
+        "word": "私立大学",
+        "reading": "しりつだいがく"
+      },
+      {
+        "reading": "してつ",
+        "word": "私鉄",
+        "meaning": "ပုဂ္ဂလိကမီးရထားလမ်း"
+      },
+      {
+        "reading": "しよう",
+        "meaning": "ကိုယ်ရေးသုံး",
+        "word": "私用"
+      },
+      {
+        "word": "私有",
+        "reading": "しゆう",
+        "meaning": "ပုဂ္ဂလိကပိုင်"
+      },
+      {
+        "reading": "しせいかつ",
+        "word": "私生活",
+        "meaning": "ကိုယ်ရေးကိုယ်တာဘဝ"
+      },
+      {
+        "reading": "ししょばこ",
+        "meaning": "စာတိုက်သေတ္တာ",
+        "word": "私書箱"
+      }
+    ]
+  },
+  {
+    "kotoba": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "နှမ"
+      },
+      {
+        "meaning": "ညီအစ်မ",
+        "reading": "しまい",
+        "word": "姉妹"
+      }
+    ],
+    "id": 1787988406726.6667,
+    "kunyomi": "いもうと",
+    "onyomi": "マイ",
+    "character": "妹",
+    "meaning": "ညီမ/နှမ"
+  },
+  {
+    "kotoba": [
+      {
+        "meaning": "ကျွန်မရဲ့အစ်မ",
+        "word": "姉",
+        "reading": "あね"
+      },
+      {
+        "word": "お姉さん",
+        "meaning": "အစ်မ",
+        "reading": "おねえさん"
+      },
+      {
+        "meaning": "ညီအစ်မ",
+        "reading": "しまい",
+        "word": "姉妹"
+      },
+      {
+        "reading": "しまいとし",
+        "word": "姉妹都市",
+        "meaning": "အစ်မမြို့တော်"
+      }
+    ],
+    "kunyomi": "あね",
+    "character": "姉",
+    "onyomi": "シ",
+    "id": 1787988406726.4204,
+    "meaning": "အစ်မ"
+  },
+  {
+    "meaning": "အစ်ကို",
+    "onyomi": "ケイ、キョウ",
+    "kotoba": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "ကျွန်တော့်အစ်ကို"
+      },
+      {
+        "word": "お兄さん",
+        "meaning": "အစ်ကို",
+        "reading": "おにいさん"
+      },
+      {
+        "meaning": "မောင်နှမ",
+        "word": "兄弟",
+        "reading": "きょうだい"
+      },
+      {
+        "reading": "ぎけい",
+        "word": "義兄",
+        "meaning": "ခမောက်"
+      }
+    ],
+    "id": 1787988406726.128,
+    "character": "兄",
+    "kunyomi": "あに"
+  },
+  {
+    "onyomi": "シン",
+    "id": 1787988406726.3333,
+    "meaning": "မိဘ၊ ရင်းနှီးသော",
+    "kotoba": [
+      {
+        "word": "親",
+        "meaning": "မိဘ",
+        "reading": "おや"
+      },
+      {
+        "word": "親切な",
+        "meaning": "ကြင်နာသော",
+        "reading": "しんせつな"
+      },
+      {
+        "reading": "りょうしん",
+        "word": "両親",
+        "meaning": "မိဘနှစ်ပါး"
+      },
+      {
+        "reading": "しんゆう",
+        "word": "親友",
+        "meaning": "အရင်းနှီးဆုံးမိတ်ဆွေ"
+      },
+      {
+        "word": "父親",
+        "reading": "ちちおや",
+        "meaning": "ဖခင်"
+      },
+      {
+        "reading": "ははおや",
+        "word": "母親",
+        "meaning": "မိခင်"
+      },
+      {
+        "word": "親子",
+        "reading": "おやこ",
+        "meaning": "မိဘနှင့်ကလေး"
+      },
+      {
+        "reading": "したしい",
+        "word": "親しい",
+        "meaning": "ရင်းနှီးသော"
+      }
+    ],
+    "kunyomi": "おや、したしい",
+    "character": "親"
+  },
+  {
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "kotoba": [
+      {
+        "reading": "かぞく",
+        "word": "家族",
+        "meaning": "မိသားစု"
+      },
+      {
+        "reading": "しんぞく",
+        "word": "親族",
+        "meaning": "ဆွေမျိုးသားချင်း"
+      },
+      {
+        "word": "貴族",
+        "meaning": "မင်းမျိုးအနွယ်",
+        "reading": "きぞく"
+      },
+      {
+        "meaning": "လူမျိုးစု",
+        "word": "民族",
+        "reading": "みんぞく"
+      },
+      {
+        "word": "水族館",
+        "reading": "すいぞくかん",
+        "meaning": "ရေနေသတ္တဝါပြတိုက်"
+      }
+    ],
+    "character": "族",
+    "meaning": "မိသားစု၊ မျိုးနွယ်",
+    "id": 1787988406726.7534
+  },
+  {
+    "character": "家",
+    "kotoba": [
+      {
+        "reading": "いえ",
+        "word": "家",
+        "meaning": "အိမ်"
+      },
+      {
+        "meaning": "မိသားစု",
+        "word": "家族",
+        "reading": "かぞく"
+      },
+      {
+        "word": "家庭",
+        "reading": "かてい",
+        "meaning": "အိမ်ထောင်စု"
+      },
+      {
+        "word": "家内",
+        "meaning": "ကျွန်တော့်ဇနီး",
+        "reading": "かない"
+      },
+      {
+        "meaning": "အိမ်မှုကိစ္စ",
+        "word": "家事",
+        "reading": "かじ"
+      },
+      {
+        "reading": "やちん",
+        "meaning": "အိမ်ငှားခ",
+        "word": "家賃"
+      },
+      {
+        "reading": "やまだけ",
+        "word": "山田家",
+        "meaning": "ယာမာဒါမိသားစု"
+      }
+    ],
+    "onyomi": "カ、ケ",
+    "meaning": "အိမ်၊ မိသားစု",
+    "kunyomi": "いえ、や",
+    "id": 1787988406726.8154
+  }
+]
