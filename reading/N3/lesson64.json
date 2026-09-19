@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1788573080454.6382,
+    "options": [
+      "1. 犬(いぬ)",
+      "2. パンダ",
+      "3. 馬(うま)",
+      "4. リス"
+    ],
+    "mondai": "■ <ruby>問題<rt>もんだい</rt></ruby>64 つぎの<ruby>文章<rt>ぶんしょう</rt></ruby>と<ruby>右<rt>みぎ</rt></ruby>のページのグラフを<ruby>見<rt>み</rt></ruby>て、<ruby>下<rt>した</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から<ruby>最<rt>もっと</rt></ruby>もよいものを一つえらびなさい。<br><br><ruby>右<rt>みぎ</rt></ruby>のグラフは、<ruby>好<rt>す</rt></ruby>きな<ruby>動物<rt>どうぶつ</rt></ruby>について<ruby>日本人<rt>にほんじん</rt></ruby>3,600<ruby>人<rt>にん</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>に<ruby>行っ<rt>おこなっ</rt></ruby>た<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>である。1983<ruby>年<rt>ねん</rt></ruby>と2007<ruby>年<rt>ねん</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>のうち、<ruby>上位<rt>じょうい</rt></ruby>1<ruby>位<rt>い</rt></ruby>から8<ruby>位<rt>い</rt></ruby>までを<ruby>示し<rt>しめし</rt></ruby>ている。<br><br><table style=\"border: 1px solid #ccc; width: 100%; border-collapse: collapse; padding: 10px;\"><tr><td style=\"padding: 8px;\"><p style=\"text-align: center; font-weight: bold;\"><ruby>好<rt>す</rt></ruby>きな<ruby>動物<rt>どうぶつ</rt></ruby><sub>（<ruby>複数回答結果<rt>ふくすうかいとうけっか</rt></ruby>）</sub></p><p style=\"text-align: center;\">[ グラフのデータ ]<br>■ 1983<ruby>年<rt>ねん</rt></ruby>&nbsp;&nbsp;&nbsp;&nbsp;▧ 2007<ruby>年<rt>ねん</rt></ruby></p><ul><li><b><ruby>犬<rt>いぬ</rt></ruby></b>：1983<ruby>年<rt>ねん</rt></ruby> (約60%) / 2007<ruby>年<rt>ねn</rt></ruby> (約63%)</li><li><b><ruby>猫<rt>ねこ</rt></ruby></b>：1983<ruby>年<rt>ねん</rt></ruby> (約37%) / 2007<ruby>年<rt>ねん</rt></ruby> (約34%)</li><li><b>イルカ</b>：1983<ruby>年<rt>ねん</rt></ruby> (約27%) / 2007<ruby>年<rt>ねん</rt></ruby> (約28%)</li><li><b><ruby>馬<rt>うま</rt></ruby></b>：1983<ruby>年<rt>ねん</rt></ruby> (約35%) / 2007<ruby>年<rt>ねん</rt></ruby> (約25%)</li><li><b>うさぎ</b>：1983<ruby>年<rt>ねん</rt></ruby> (約44%) / 2007<ruby>年<rt>ねん</rt></ruby> (約23%)</li><li><b>パンダ</b>：1983<ruby>年<rt>ねん</rt></ruby> (約51%) / 2007<ruby>年<rt>ねん</rt></ruby> (約23%)</li><li><b>コアラ</b>：1983<ruby>年<rt>ねん</rt></ruby> (約43%) / 2007<ruby>年<rt>ねん</rt></ruby> (約20%)</li><li><b>リス</b>：1983<ruby>年<rt>ねん</rt></ruby> (約42%) / 2007<ruby>年<rt>ねん</rt></ruby> (約19%)</li></ul><p style=\"font-size: 0.9em; text-align: right;\">（NHK<ruby>放送文化研究所<rt>ほうそうぶんかけんきゅうじょ</rt></ruby>「<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなもの」より<ruby>引用<rt>いんよう</rt></ruby>）</p></td></tr></table>",
+    "correct": "2. パンダ",
+    "category": "Reading",
+    "question": "<b>【問1】</b> 1983年(ねん)と2007年(ねん)で一番(いちばん)大きな(おおきな)差(さ)があらわれた動物(どうぶつ)はどれか。"
+  },
+  {
+    "correct": "4. コアラは2007年(ねん)の調査(ちょうさ)では1983年(ねん)より減少(げんしょう)している。",
+    "mondai": "",
+    "question": "<b>【問2】</b> グラフについて正しく(ただしく)述べて(のべて)いるのはどれか。",
+    "id": 1788573080454.178,
+    "options": [
+      "1. ねこは1983年(ねん)と2007年(ねん)で大きな(おおきな)差(さ)がある。",
+      "2. うさぎは2007年(ねん)の調査(ちょうさ)では3位(い)である。",
+      "3. パンダは1983年(ねん)の調査(ちょうさ)では1位(い)である。",
+      "4. コアラは2007年(ねん)の調査(ちょうさ)では1983年(ねん)より減少(げんしょう)している。"
+    ],
+    "category": "Reading"
+  }
+]
