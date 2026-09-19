@@ -1,0 +1,266 @@
+[
+  {
+    "kunyomi": "いぬ",
+    "meaning": "ခွေး",
+    "id": 1788047279631.3345,
+    "character": "犬",
+    "kotoba": [
+      {
+        "meaning": "ခွေး",
+        "word": "犬",
+        "reading": "いぬ"
+      },
+      {
+        "meaning": "ခွေးပေါက်စ",
+        "reading": "こいぬ",
+        "word": "子犬"
+      },
+      {
+        "word": "番犬",
+        "reading": "ばんけん",
+        "meaning": "အိမ်စောင့်ခွေး"
+      }
+    ],
+    "onyomi": "ケン"
+  },
+  {
+    "onyomi": "ジョ、ニョ",
+    "meaning": "မိန်းမ၊ အမျိုးသမီး",
+    "kotoba": [
+      {
+        "word": "女",
+        "meaning": "မိန်းမ",
+        "reading": "おんな"
+      },
+      {
+        "reading": "じょせい",
+        "word": "女性",
+        "meaning": "အမျိုးသမီး"
+      },
+      {
+        "word": "長女",
+        "meaning": "သမီးကြီး",
+        "reading": "ちょうじょ"
+      }
+    ],
+    "character": "女",
+    "id": 1788047279631.145,
+    "kunyomi": "おんな、め"
+  },
+  {
+    "meaning": "ယောက်ျား၊ အမျိုးသား",
+    "id": 1788047279631.6936,
+    "onyomi": "ダン、ナン",
+    "character": "男",
+    "kotoba": [
+      {
+        "word": "男",
+        "reading": "おとこ",
+        "meaning": "ယောက်ျား"
+      },
+      {
+        "word": "男性",
+        "reading": "だんせい",
+        "meaning": "အမျိုးသား"
+      },
+      {
+        "reading": "ちょうなん",
+        "meaning": "သားကြီး",
+        "word": "長男"
+      }
+    ],
+    "kunyomi": "おとこ"
+  },
+  {
+    "id": 1788047279631.8442,
+    "kunyomi": "こ",
+    "kotoba": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "meaning": "ကလေး"
+      },
+      {
+        "reading": "おとこのこ",
+        "word": "男の子",
+        "meaning": "ယောက်ျားလေး"
+      },
+      {
+        "meaning": "မိန်းကလေး",
+        "word": "女の子",
+        "reading": "おんなのこ"
+      }
+    ],
+    "meaning": "ကလေး၊ သားသမီး",
+    "onyomi": "シ、ス",
+    "character": "子"
+  },
+  {
+    "character": "母",
+    "meaning": "အမေ၊ မိခင်",
+    "kunyomi": "はは",
+    "onyomi": "ボ",
+    "id": 1788047279631.25,
+    "kotoba": [
+      {
+        "reading": "はは",
+        "meaning": "အမေ (မိမိ)",
+        "word": "母"
+      },
+      {
+        "meaning": "အမေ (သူတစ်ပါး)",
+        "word": "お母さん",
+        "reading": "おかあさん"
+      },
+      {
+        "meaning": "မိခင်",
+        "word": "母親",
+        "reading": "ははおや"
+      }
+    ]
+  },
+  {
+    "character": "父",
+    "meaning": "အဖေ၊ ခမည်းတော်",
+    "id": 1788047279631.7214,
+    "kotoba": [
+      {
+        "meaning": "အဖေ (မိမိ)",
+        "word": "父",
+        "reading": "ちち"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "အဖေ (သူတစ်ပါး)"
+      },
+      {
+        "meaning": "ဖခင်",
+        "word": "父親",
+        "reading": "ちちおや"
+      }
+    ],
+    "kunyomi": "ちち",
+    "onyomi": "フ"
+  },
+  {
+    "meaning": "တံခါးမကြီး၊ မုခ်ဦး",
+    "character": "門",
+    "onyomi": "モン",
+    "id": 1788047235089.806,
+    "kotoba": [
+      {
+        "meaning": "တံခါးမကြီး",
+        "word": "門",
+        "reading": "もん"
+      },
+      {
+        "reading": "せんもん",
+        "meaning": "အထူးပြု/ကျွမ်းကျင်ဘာသာရပ်",
+        "word": "専門"
+      },
+      {
+        "word": "正門",
+        "meaning": "ပင်မတံခါး",
+        "reading": "せいもん"
+      }
+    ],
+    "kunyomi": "かど"
+  },
+  {
+    "meaning": "ထွက်သည်၊ ထုတ်သည်",
+    "id": 1788047235089.3074,
+    "character": "出",
+    "onyomi": "シュツ、シュツ",
+    "kotoba": [
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "ထွက်သည်"
+      },
+      {
+        "meaning": "အထွက်ဝ",
+        "word": "出口",
+        "reading": "でぐち"
+      },
+      {
+        "meaning": "ထုတ်သည်/ပေးပို့သည်",
+        "reading": "だす",
+        "word": "出す"
+      }
+    ],
+    "kunyomi": "で（る）、だ（す）"
+  },
+  {
+    "kunyomi": "とも",
+    "onyomi": "ユウ",
+    "id": 1788047235089.3567,
+    "kotoba": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "သူငယ်ချင်း"
+      },
+      {
+        "reading": "ゆうじん",
+        "word": "友人",
+        "meaning": "မိတ်ဆွေ"
+      },
+      {
+        "meaning": "အရင်းနှီးဆုံးသူငယ်ချင်း",
+        "word": "親友",
+        "reading": "しんゆう"
+      }
+    ],
+    "character": "友",
+    "meaning": "သူငယ်ချင်း၊ မိတ်ဆွေ"
+  },
+  {
+    "onyomi": "コウ",
+    "meaning": "မြင့်သော၊ ဈေးကြီးသော",
+    "kotoba": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "မြင့်သော/ဈေးကြီးသော"
+      },
+      {
+        "reading": "こうこう",
+        "meaning": "အထက်တန်းကျောင်း",
+        "word": "高校"
+      },
+      {
+        "meaning": "အကောင်းဆုံး/အမြင့်ဆုံး",
+        "word": "最高",
+        "reading": "さいこう"
+      }
+    ],
+    "character": "高",
+    "kunyomi": "たか（い）、たか-、たか（まる）",
+    "id": 1788047235089.7305
+  },
+  {
+    "onyomi": "ショウ",
+    "meaning": "သေးငယ်သော",
+    "id": 1788047235089.636,
+    "kotoba": [
+      {
+        "meaning": "သေးသော",
+        "word": "小さい",
+        "reading": "ちいさい"
+      },
+      {
+        "meaning": "မူလတန်းကျောင်း",
+        "word": "小学校",
+        "reading": "しょうがっこう"
+      },
+      {
+        "reading": "ことり",
+        "meaning": "ငှက်ငယ်လေး",
+        "word": "小鳥"
+      }
+    ],
+    "character": "小",
+    "kunyomi": "ちい（さい）、こ-、お-"
+  }
+]
