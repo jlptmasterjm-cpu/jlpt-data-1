@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1788048942801.1653,
+    "kunyomi": "でぐち、で（る）",
+    "kotoba": [
+      {
+        "word": "出口",
+        "meaning": "ထွက်ပေါက်",
+        "reading": "でぐち"
+      },
+      {
+        "reading": "でる",
+        "meaning": "ထွက်သည်",
+        "word": "出る"
+      },
+      {
+        "reading": "しゅっぱつ",
+        "word": "出発",
+        "meaning": "ထွက်ခွာသည်"
+      }
+    ],
+    "meaning": "ထွက်ပေါက်",
+    "character": "出口",
+    "onyomi": "シュツ"
+  },
+  {
+    "kunyomi": "いりぐち、はい（る）",
+    "kotoba": [
+      {
+        "meaning": "ဝင်ပေါက်",
+        "word": "入口",
+        "reading": "いりぐち"
+      },
+      {
+        "meaning": "ဝင်သည်",
+        "reading": "はいいる",
+        "word": "入る"
+      },
+      {
+        "reading": "にゅういん",
+        "word": "入院",
+        "meaning": "ဆေးရုံတက်သည်"
+      }
+    ],
+    "onyomi": "ニュウ、ロク",
+    "id": 1788048942801.5488,
+    "meaning": "ဝင်ပေါက်",
+    "character": "入口"
+  },
+  {
+    "onyomi": "クウ、テ",
+    "meaning": "ကာရာတေး ကိုယ်ခံပညာ",
+    "id": 1788048897380.414,
+    "kotoba": [
+      {
+        "reading": "からて",
+        "word": "空手",
+        "meaning": "ကာရာတေး"
+      },
+      {
+        "reading": "くうき",
+        "meaning": "လေထု",
+        "word": "空気"
+      },
+      {
+        "meaning": "စာ",
+        "reading": "てがみ",
+        "word": "手紙"
+      }
+    ],
+    "kunyomi": "そら、から",
+    "character": "空手"
+  },
+  {
+    "character": "姉妹",
+    "meaning": "ညီအစ်မ",
+    "id": 1788048897380.3457,
+    "kotoba": [
+      {
+        "reading": "しまい",
+        "word": "姉妹",
+        "meaning": "ညီအစ်မ"
+      },
+      {
+        "reading": "あね",
+        "meaning": "အစ်မ",
+        "word": "姉"
+      },
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "ညီမ"
+      }
+    ],
+    "onyomi": "シ、マイ",
+    "kunyomi": "あね、しまい"
+  },
+  {
+    "id": 1788048897380.4382,
+    "kunyomi": "きょうだい",
+    "kotoba": [
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "ညီအစ်ကိုမောင်နှမ"
+      },
+      {
+        "reading": "あに",
+        "word": "兄",
+        "meaning": "အစ်ကို"
+      },
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "ညီ"
+      }
+    ],
+    "character": "兄弟",
+    "meaning": "ညီအစ်ကိုမောင်နှမ",
+    "onyomi": "ケイ、キョウ"
+  },
+  {
+    "onyomi": "ギュウ、ニク",
+    "meaning": "အမဲသား",
+    "character": "牛肉",
+    "id": 1788048897380.936,
+    "kotoba": [
+      {
+        "meaning": "အမဲသား",
+        "word": "牛肉",
+        "reading": "ぎゅうにく"
+      },
+      {
+        "meaning": "ဝက်သား",
+        "word": "豚肉",
+        "reading": "ぶたにく"
+      },
+      {
+        "reading": "きんにく",
+        "word": "筋肉",
+        "meaning": "ကြွက်သား"
+      }
+    ],
+    "kunyomi": "-"
+  },
+  {
+    "id": 1788048897380.7756,
+    "kunyomi": "-",
+    "kotoba": [
+      {
+        "word": "信号",
+        "meaning": "မီးပွိုင့်",
+        "reading": "しんごう"
+      },
+      {
+        "reading": "じしん",
+        "word": "自信",
+        "meaning": "ယုံကြည်မှု"
+      },
+      {
+        "word": "号車",
+        "meaning": "ရထားတွဲနံပါတ်",
+        "reading": "ごうしゃ"
+      }
+    ],
+    "meaning": "မီးပွိုင့် / အချက်ပြမီး",
+    "character": "信号",
+    "onyomi": "シン、ゴウ"
+  },
+  {
+    "character": "切符",
+    "kotoba": [
+      {
+        "reading": "きっぷ",
+        "word": "切符",
+        "meaning": "လက်မှတ်"
+      },
+      {
+        "word": "切る",
+        "meaning": "ဖြတ်သည်",
+        "reading": "きる"
+      },
+      {
+        "reading": "きって",
+        "word": "切手",
+        "meaning": "တံဆိပ်ခေါင်း"
+      }
+    ],
+    "meaning": "လက်မှတ် (ရထား/ဘတ်စ်ကား)",
+    "onyomi": "セツ、フ",
+    "kunyomi": "き（る）",
+    "id": 1788048897380.9631
+  },
+  {
+    "kunyomi": "た（てる）、もの",
+    "character": "建物",
+    "onyomi": "ケン、モツ",
+    "meaning": "အဆောက်အဦ",
+    "kotoba": [
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "meaning": "အဆောက်အဦ"
+      },
+      {
+        "reading": "けんせつ",
+        "word": "建設",
+        "meaning": "ဆောက်လုပ်ရေး"
+      },
+      {
+        "reading": "にもつ",
+        "word": "荷物",
+        "meaning": "ပစ္စည်း"
+      }
+    ],
+    "id": 1788048897380.5208
+  },
+  {
+    "kunyomi": "で（る）、は（る）",
+    "onyomi": "シュッ、チョウ",
+    "character": "出張",
+    "kotoba": [
+      {
+        "reading": "しゅっちょう",
+        "word": "出張",
+        "meaning": "လုပ်ငန်းခွင်ခရီးသွားခြင်း"
+      },
+      {
+        "reading": "でぐち",
+        "word": "出口",
+        "meaning": "ထွက်ပေါက်"
+      },
+      {
+        "meaning": "ဆန့်သည်/တန်းသည်",
+        "reading": "はる",
+        "word": "張る"
+      }
+    ],
+    "meaning": "လုပ်ငန်းခွင်ကိစ္စဖြင့် ခရီးထွက်ခြင်း",
+    "id": 1788048897379.0938
+  }
+]
