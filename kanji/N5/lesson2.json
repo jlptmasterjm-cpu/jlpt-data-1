@@ -1,0 +1,271 @@
+[
+  {
+    "kotoba": [
+      {
+        "meaning": "ဒီနှစ်",
+        "word": "今年",
+        "reading": "ことし"
+      },
+      {
+        "meaning": "နောက်နှစ်",
+        "reading": "らいねん",
+        "word": "来年"
+      },
+      {
+        "reading": "まいとし / まいねん",
+        "meaning": "နှစ်တိုင်း",
+        "word": "毎年"
+      }
+    ],
+    "onyomi": "ネン",
+    "meaning": "နှစ်၊ အသက်",
+    "kunyomi": "とし",
+    "character": "年",
+    "id": 1788046582345.112
+  },
+  {
+    "id": 1788046582345.2827,
+    "meaning": "မြေကြီး၊ မြေဆီလွှာ",
+    "onyomi": "ド、ト",
+    "character": "土",
+    "kunyomi": "つち",
+    "kotoba": [
+      {
+        "word": "土曜日",
+        "meaning": "စနေနေ့",
+        "reading": "どようび"
+      },
+      {
+        "reading": "つち",
+        "word": "土",
+        "meaning": "မြေကြီး"
+      },
+      {
+        "word": "土産",
+        "reading": "みやげ",
+        "meaning": "လက်ဆောင်"
+      }
+    ]
+  },
+  {
+    "onyomi": "ボク、モク",
+    "id": 1788046582344.7205,
+    "kunyomi": "き、こ-",
+    "character": "木",
+    "kotoba": [
+      {
+        "word": "木曜日",
+        "meaning": "ကြာသပတေးနေ့",
+        "reading": "もくようび"
+      },
+      {
+        "word": "木",
+        "reading": "き",
+        "meaning": "သစ်ပင်"
+      },
+      {
+        "meaning": "သစ်သား",
+        "word": "木材",
+        "reading": "もくざい"
+      }
+    ],
+    "meaning": "သစ်ပင်၊ သစ်သား"
+  },
+  {
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "kotoba": [
+      {
+        "meaning": "ဗုဒ္ဓဟူးနေ့",
+        "word": "水曜日",
+        "reading": "すいようび"
+      },
+      {
+        "meaning": "ရေ",
+        "reading": "みず",
+        "word": "水"
+      },
+      {
+        "meaning": "ရေကူးခြင်း",
+        "word": "水泳",
+        "reading": "すいえい"
+      }
+    ],
+    "character": "水",
+    "meaning": "ရေ",
+    "id": 1788046582344.504
+  },
+  {
+    "kotoba": [
+      {
+        "meaning": "အင်္ဂါနေ့",
+        "word": "火曜日",
+        "reading": "かようび"
+      },
+      {
+        "meaning": "မီးလောင်မှု",
+        "reading": "かじ",
+        "word": "火事"
+      },
+      {
+        "word": "သာမန်မီး",
+        "meaning": "မီး",
+        "reading": "ひ"
+      }
+    ],
+    "kunyomi": "ひ、-び、ほ",
+    "onyomi": "カ",
+    "id": 1788046582344.7954,
+    "character": "火",
+    "meaning": "မီး"
+  },
+  {
+    "kunyomi": "つき",
+    "meaning": "လ၊ လမင်း",
+    "onyomi": "ゲツ、ガツ",
+    "id": 1788046582344.6157,
+    "character": "月",
+    "kotoba": [
+      {
+        "word": "一月",
+        "reading": "いちがつ",
+        "meaning": "ဇန်နဝါရီလ"
+      },
+      {
+        "word": "今月",
+        "meaning": "ဒီလ",
+        "reading": "こんげつ"
+      },
+      {
+        "meaning": "တနင်္လာနေ့",
+        "reading": "げつようび",
+        "word": "月曜日"
+      }
+    ]
+  },
+  {
+    "kunyomi": "ひ、-び、-か",
+    "character": "日",
+    "kotoba": [
+      {
+        "reading": "ついたち",
+        "word": "一日",
+        "meaning": "၁ ရက်နေ့"
+      },
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "meaning": "နေ့တိုင်း"
+      },
+      {
+        "reading": "にちようび",
+        "meaning": "တနင်္ဂနွေနေ့",
+        "word": "日曜日"
+      }
+    ],
+    "id": 1788046582344.2925,
+    "onyomi": "ニチ、ジツ",
+    "meaning": "နေ့၊ နေ့ရက်၊ နေ"
+  },
+  {
+    "character": "円",
+    "id": 1788046344729.2734,
+    "meaning": "ယန်း (ဂျပန်ငွေကြေး)၊ စက်ဝိုင်း",
+    "onyomi": "エン",
+    "kunyomi": "まる（い）",
+    "kotoba": [
+      {
+        "reading": "えん",
+        "word": "円",
+        "meaning": "ယန်း"
+      },
+      {
+        "word": "円い",
+        "reading": "まるい",
+        "meaning": "ဝိုင်းသော"
+      },
+      {
+        "reading": "えんだか",
+        "word": "円高",
+        "meaning": "ယန်းငွေဈေးတက်ခြင်း"
+      }
+    ]
+  },
+  {
+    "onyomi": "マン、バン",
+    "id": 1788046344729.2437,
+    "kotoba": [
+      {
+        "meaning": "ယန်း ၁ သောင်း",
+        "reading": "いちまんえん",
+        "word": "一万円"
+      },
+      {
+        "reading": "ばんこく",
+        "meaning": "နိုင်ငံပေါင်းစုံ",
+        "word": "万国"
+      },
+      {
+        "reading": "まんいち",
+        "word": "万一",
+        "meaning": "မတော်တဆ"
+      }
+    ],
+    "character": "万",
+    "meaning": "သောင်း (၁၀,၀၀၀)",
+    "kunyomi": "-"
+  },
+  {
+    "meaning": "ထောင် (၁,၀၀၀)",
+    "id": 1788046344728.7913,
+    "character": "千",
+    "onyomi": "セン、ゼン",
+    "kotoba": [
+      {
+        "meaning": "တစ်ထောင်",
+        "reading": "せん",
+        "word": "千"
+      },
+      {
+        "meaning": "ယန်း ၁",
+        "reading": "せんえん",
+        "word": "千円"
+      },
+      {
+        "reading": "",
+        "word": "၀၀၀",
+        "meaning": ""
+      },
+      {
+        "word": "千葉",
+        "meaning": "ချိဘ (ပြည်နယ်/မြို့)",
+        "reading": "ちば"
+      }
+    ],
+    "kunyomi": "ち"
+  },
+  {
+    "id": 1788046344728.541,
+    "kotoba": [
+      {
+        "meaning": "တစ်ရာ",
+        "word": "百",
+        "reading": "ひゃく"
+      },
+      {
+        "meaning": "ယန်း ၁၀၀",
+        "word": "百円",
+        "reading": "ひゃくえん"
+      },
+      {
+        "word": "百貨店",
+        "meaning": "စုန်စေ့ကုန်တိုက်ကြီး",
+        "reading": "ひゃっかてん"
+      }
+    ],
+    "meaning": "ရာ (၁၀၀)",
+    "character": "百",
+    "onyomi": "ヒャク、ビャク、ピャク",
+    "kunyomi": "もも"
+  }
+]
