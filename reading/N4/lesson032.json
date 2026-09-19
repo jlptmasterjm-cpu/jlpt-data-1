@@ -1,0 +1,54 @@
+[
+  {
+    "question": "<b>【問1】</b> どうして①便利だと言っていますか。",
+    "mondai": "■ もんだい32 <ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてください。<ruby>答<rt>こた</rt></ruby>えは、1・2・3・4から、いちばんいいものを1つ<ruby>選<rt>えら</rt></ruby>んでください。<br><br><ruby>最近<rt>さいきん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>はとても①<ruby>便利<rt>べんり</rt></ruby>だ。<ruby>自分<rt>じぶん</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいる<ruby>市<rt>し</rt></ruby>や<ruby>区<rt>く</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>が１<ruby>時間<rt>じかん</rt></ruby>ご<br>とにわかる。だから、<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>くかどうかや、<ruby>午後<rt>ごご</rt></ruby>テニスをするかどうかとい<br>うことも<ruby>決<rt>き</rt></ruby>められる。<br>とても<ruby>親切<rt>しんせつ</rt></ruby>でもある。<ruby>天気<rt>てんき</rt></ruby>だけでなく、<ruby>洗濯<rt>せんたく</rt></ruby>をどうしたらいいかも<ruby>教<rt>おし</rt></ruby>えてくれる。<ruby>例<rt>たと</rt></ruby><br>えば「きょうは<ruby>午後<rt>ごご</rt></ruby>から<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ることがありますから、<ruby>洗濯物<rt>せんたくもの</rt></ruby>は<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>したまま<ruby>出<rt>で</rt></ruby><br>かけないほうがいいですね。」などと<ruby>天気予報<rt>てんきよほう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>言<rt>い</rt></ruby>う。<br>さらに、<ruby>洋服<rt>ようふく</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>までしてくれる。「きょうは、<ruby>昼間<rt>ひるま</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいですが、<ruby>夜<rt>よる</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いので、<br><ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おそ</rt></ruby>いときは、<ruby>暖<rt>あたた</rt></ruby>かいコートを<ruby>着<rt>き</rt></ruby>て<ruby>行<rt>い</rt></ruby>ったほうがいいですね。」などと言う。お母<br>さんのようだ。<br><ruby>昨年<rt>きょねん</rt></ruby><ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>若者<rt>わかもの</rt></ruby>たちを<ruby>連<rt>つ</rt></ruby>れて、アフリカに<ruby>行<rt>い</rt></ruby>ったときのことだ。ある日、私が「<ruby>雨<rt>あめ</rt></ruby><br>が<ruby>降<rt>ふ</rt></ruby>りそうだ。」と言って、レインコートを<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけようとした。すると、<ruby>若者<rt>わかもの</rt></ruby>の<ruby>一人<rt>ひとり</rt></ruby><br>が「どうして<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るとわかるのですか。」と聞いた。アフリカのその<ruby>地域<rt>ちいき</rt></ruby>には、<ruby>天<rt>てん</rt></ruby><br><ruby>気予報<rt>きよほう</rt></ruby>がなかったからだ。私は「そんなの、<ruby>空<rt>そら</rt></ruby>を<ruby>見<rt>み</rt></ruby>ればわかるだろう。」と言った。日本<br>では何でも<ruby>親切<rt>しんせつ</rt></ruby>すぎて、②<ruby>自分<rt>じぶん</rt></ruby>でものを<ruby>考<rt>かんが</rt></ruby>えなくなってきているのかもしれない。<br><br>(注) <ruby>地域<rt>ちいき</rt></ruby>：Region",
+    "correct": "4. 1時間(じかん)ごとに天気(てんき)がわかるから。",
+    "options": [
+      "1. 近所(きんじょ)に自転車(じてんしゃ)で行(い)けるから。",
+      "2. 午後(ごご)テニスができるから。",
+      "3. 市(し)や区(く)が天気(てんき)を予報(よほう)してくれるから。",
+      "4. 1時間(じかん)ごとに天気(てんき)がわかるから。"
+    ],
+    "id": 1789289236273.888,
+    "category": "Reading"
+  },
+  {
+    "category": "Reading",
+    "options": [
+      "1. 自分(じぶん)で天気(てんき)がどうなるか考(かんが)えること",
+      "2. アフリカにボランティアに行(い)くこと",
+      "3. 持(も)っていく物(もの)を自分(じぶん)で決(き)めること",
+      "4. 自分(じぶん)が将来(しょうらい)何(なに)になるか考(かんが)えること"
+    ],
+    "correct": "1. 自分(じぶん)で天気(てんき)がどうなるか考(かんが)えること",
+    "mondai": "",
+    "id": 1789289236273.3215,
+    "question": "<b>【問2】</b> ②自分でものを考えなくなってきているとありますが、「自分でものを考える」とはどういうことですか。"
+  },
+  {
+    "correct": "3. 日本人(にほんじん)",
+    "category": "Reading",
+    "options": [
+      "1. 天気予報(てんきよほう)の人(ひと)",
+      "2. アフリカの人(ひと)",
+      "3. 日本人(にほんじん)",
+      "4. 私(わたし)"
+    ],
+    "id": 1789289236273.4353,
+    "mondai": "",
+    "question": "<b>【問3】</b> ②自分でものを考えなくなってきているのはだれだと言っていますか。"
+  },
+  {
+    "id": 1789289236273.968,
+    "mondai": "",
+    "category": "Reading",
+    "correct": "3. 何(なん)でも教(おし)えてもらっていると自分(じぶん)で考(かんが)えなくなる。",
+    "options": [
+      "1. 親切(しんせつ)で便利(べんり)なことはいいことだ。",
+      "2. 日本(にほん)の天気予報(てんきよほう)を見(み)れば、アフリカの天気(てんき)もわかる。",
+      "3. 何(なん)でも教(おし)えてもらっていると自分(じぶん)で考(かんが)えなくなる。",
+      "4. 忙(いそが)しい日本人(にほんじん)もっと空(そら)を見(み)たほうがいい。"
+    ],
+    "question": "<b>【問4】</b> この文章を書いた人がいちばん言いたいことはどれですか。"
+  }
+]
