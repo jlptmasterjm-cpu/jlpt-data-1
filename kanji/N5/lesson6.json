@@ -1,0 +1,266 @@
+[
+  {
+    "onyomi": "セイ、サイ",
+    "kunyomi": "にし",
+    "character": "西",
+    "kotoba": [
+      {
+        "reading": "にし",
+        "word": "西",
+        "meaning": "အနောက်ဘက်"
+      },
+      {
+        "reading": "にしぐち",
+        "word": "西口",
+        "meaning": "အနောက်ဘက်ထွက်ပေါက်"
+      },
+      {
+        "meaning": "အနောက်နိုင်ငံများ",
+        "word": "西洋",
+        "reading": "せいよう"
+      }
+    ],
+    "id": 1788047541096.967,
+    "meaning": "အနောက်ဘက်"
+  },
+  {
+    "kotoba": [
+      {
+        "word": "南",
+        "reading": "みなみ",
+        "meaning": "တောင်ဘက်"
+      },
+      {
+        "word": "南口",
+        "reading": "みなみぐち",
+        "meaning": "တောင်ဘက်ထွက်ပေါက်"
+      },
+      {
+        "meaning": "အရှေ့တောင်အာရှ",
+        "reading": "とうなんアジア",
+        "word": "東南アジア"
+      }
+    ],
+    "id": 1788047541095.2783,
+    "onyomi": "ナン、ナ",
+    "meaning": "တောင်ဘက်",
+    "kunyomi": "みなみ",
+    "character": "南"
+  },
+  {
+    "character": "北",
+    "kotoba": [
+      {
+        "reading": "きた",
+        "word": "北",
+        "meaning": "မြောက်ဘက်"
+      },
+      {
+        "meaning": "ဟော့ကိုင်းဒိုး",
+        "word": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "word": "北口",
+        "meaning": "မြောက်ဘက်ထွက်ပေါက်",
+        "reading": "きたぐち"
+      }
+    ],
+    "onyomi": "ホク",
+    "meaning": "မြောက်ဘက်",
+    "kunyomi": "きた",
+    "id": 1788047541095.7183
+  },
+  {
+    "meaning": "ကား၊ ယာဉ်၊ ဘီး",
+    "character": "車",
+    "id": 1788047541095.9116,
+    "kotoba": [
+      {
+        "reading": "くるま",
+        "word": "車",
+        "meaning": "ကား"
+      },
+      {
+        "reading": "でんしゃ",
+        "word": "電車",
+        "meaning": "ရထား"
+      },
+      {
+        "meaning": "စက်ဘီး",
+        "word": "自転車",
+        "reading": "じてんしゃ"
+      }
+    ],
+    "kunyomi": "くるま",
+    "onyomi": "シャ"
+  },
+  {
+    "meaning": "လျှပ်စစ်၊ လျှပ်စီး",
+    "onyomi": "デン",
+    "character": "電",
+    "kotoba": [
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "ရထား"
+      },
+      {
+        "reading": "でんき",
+        "word": "電気",
+        "meaning": "လျှပ်စစ်/မီး"
+      },
+      {
+        "reading": "でんわ",
+        "meaning": "ဖုန်း",
+        "word": "電話"
+      }
+    ],
+    "id": 1788047541095.1096,
+    "kunyomi": "-"
+  },
+  {
+    "id": 1788047483144.2122,
+    "meaning": "ဝယ်သည်",
+    "character": "買",
+    "kunyomi": "か（う）",
+    "onyomi": "バイ",
+    "kotoba": [
+      {
+        "word": "買う",
+        "reading": "かう",
+        "meaning": "ဝယ်သည်"
+      },
+      {
+        "reading": "かいもの",
+        "meaning": "ဈေးဝယ်ခြင်း",
+        "word": "買い物"
+      },
+      {
+        "word": "売買",
+        "reading": "ばいばい",
+        "meaning": "အရောင်းအဝယ်"
+      }
+    ]
+  },
+  {
+    "kotoba": [
+      {
+        "meaning": "စကားပြောသည်",
+        "word": "話す",
+        "reading": "はなす"
+      },
+      {
+        "word": "話",
+        "meaning": "စကား/ပုံပြင်",
+        "reading": "はなし"
+      },
+      {
+        "word": "電話",
+        "meaning": "ဖုန်း",
+        "reading": "でんわ"
+      }
+    ],
+    "onyomi": "ワ",
+    "meaning": "စကားပြောသည်၊ အကြောင်းအရာ",
+    "id": 1788047483143.5862,
+    "kunyomi": "はな（す）、はなし",
+    "character": "話"
+  },
+  {
+    "character": "飲",
+    "meaning": "သောက်သည်",
+    "kotoba": [
+      {
+        "reading": "のむ",
+        "word": "飲む",
+        "meaning": "သောက်သည်"
+      },
+      {
+        "word": "飲み物",
+        "meaning": "အဖျော်ယမကာ",
+        "reading": "のみもの"
+      },
+      {
+        "reading": "いんしょくてん",
+        "word": "飲食店",
+        "meaning": "စားသောက်ဆိုင်"
+      }
+    ],
+    "id": 1788047483143.5164,
+    "onyomi": "イン",
+    "kunyomi": "の（む）"
+  },
+  {
+    "meaning": "စားသည်၊ အစားအစာ",
+    "id": 1788047483143.4905,
+    "character": "食",
+    "onyomi": "ショク、ジキ",
+    "kunyomi": "た（べる）、く（う）",
+    "kotoba": [
+      {
+        "meaning": "စားသည်",
+        "word": "食べる",
+        "reading": "たべる"
+      },
+      {
+        "reading": "たべもの",
+        "word": "食べ物",
+        "meaning": "အစားအစာ"
+      },
+      {
+        "meaning": "အစားအသောက်/ထမင်းစားခြင်း",
+        "word": "食事",
+        "reading": "しょくじ"
+      }
+    ]
+  },
+  {
+    "meaning": "ဖတ်သည်",
+    "character": "読",
+    "id": 1788047483143.677,
+    "onyomi": "ドク、トク、トウ",
+    "kotoba": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "meaning": "ဖတ်သည်"
+      },
+      {
+        "reading": "どくしょ",
+        "word": "読書",
+        "meaning": "စာဖတ်ခြင်း"
+      },
+      {
+        "reading": "よみかた",
+        "meaning": "ဖတ်နည်း",
+        "word": "読み方"
+      }
+    ],
+    "kunyomi": "よ（む）"
+  },
+  {
+    "meaning": "ရေးသည်၊ စာအုပ်",
+    "character": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か（く）",
+    "kotoba": [
+      {
+        "meaning": "ရေးသည်",
+        "word": "書く",
+        "reading": "かく"
+      },
+      {
+        "reading": "じしょ",
+        "word": "辞書",
+        "meaning": "အဘိဓာန်"
+      },
+      {
+        "reading": "しょどう",
+        "word": "書道",
+        "meaning": "ဂျပန်စုတ်တံစာရေးအနုပညာ"
+      }
+    ],
+    "id": 1788047483143.903
+  }
+]
