@@ -75,6 +75,7 @@
     "id": 1789883417416.455,
     "category": "Vocabulary",
     "imageLink": "",
+    "imagePublicId": "",
     "mondai": "問題2 ___ の言葉を漢字で書くとき、最もよいものを、1・2・3・4から一つ選びなさい。",
     "question": "6",
     "options": [
@@ -83,7 +84,8 @@
       "象微",
       "像微"
     ],
-    "correct": "象徴"
+    "correct": "象微",
+    "audioUrl": ""
   },
   {
     "id": 1789883417416.4392,
