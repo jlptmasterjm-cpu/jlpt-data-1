@@ -1,459 +1,457 @@
 [
   {
-    "id": 1789203488718.6902,
-    "question": "1. 誰にも<span class=\"underline\">憎んで</span>なんていませんから、心配しないでください。",
-    "correct": "にくんで",
+    "id": 1789865010932.903,
     "category": "Vocabulary",
     "imageLink": "",
     "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "1. 誰にも<span class=\"underline\">憎んで</span>なんていませんから、心配しないでください。",
     "options": [
       "なやんで",
       "くやんで",
       "うらんで",
       "にくんで"
-    ]
+    ],
+    "correct": "にくんで"
   },
   {
+    "id": 1789865010932.8074,
+    "category": "Vocabulary",
     "imageLink": "",
+    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "2. <span class=\"underline\">偶然</span>、駅で友達に会った。",
     "options": [
       "とつぜん",
       "ぐうぜん",
       "ぐぜん",
       "とぜん"
     ],
-    "question": "2. <span class=\"underline\">偶然</span>、駅で友達に会った。",
-    "category": "Vocabulary",
-    "correct": "ぐうぜん",
-    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789203488718.223
+    "correct": "ぐうぜん"
   },
   {
-    "question": "3. 大学のゼミではいろいろな<span class=\"underline\">刺激</span>を受けた。",
-    "correct": "しげき",
+    "id": 1789865010932.5156,
     "category": "Vocabulary",
-    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789203488718.7078,
     "imageLink": "",
+    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "3. 大学のゼミではいろいろな<span class=\"underline\">刺激</span>を受けた。",
     "options": [
       "さてき",
       "さげき",
       "しげき",
       "してき"
-    ]
+    ],
+    "correct": "しげき"
   },
   {
-    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "correct": "はじ",
-    "question": "4. 失敗して<span class=\"underline\">恥</span>をかいたが、先輩の優しい一言に慰められた。",
+    "id": 1789865010932.9749,
     "category": "Vocabulary",
     "imageLink": "",
-    "id": 1789203488718.2532,
+    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "4. 失敗して<span class=\"underline\">恥</span>をかいたが、先輩の優しい一言に慰められた。",
     "options": [
       "はし",
       "はじ",
       "はず",
       "はす"
-    ]
+    ],
+    "correct": "はじ"
   },
   {
+    "id": 1789865010932.8186,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "5. 彼の強さは<span class=\"underline\">圧倒的</span>だ。",
     "options": [
       "あっとうてき",
       "おっとうてき",
       "あつどうてき",
       "おつどうてき"
     ],
-    "question": "5. 彼の強さは<span class=\"underline\">圧倒的</span>だ。",
-    "mondai": "問題1 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "correct": "あっとうてき",
-    "id": 1789203488718.3093,
-    "imageLink": ""
+    "correct": "あっとうてき"
   },
   {
-    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "id": 1789865010932.2068,
+    "category": "Vocabulary",
     "imageLink": "",
-    "correct": "趣味",
+    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "6. 私の<span class=\"underline\">しゅみ</span>はピアノをひくことだ。",
     "options": [
       "趣味",
       "興味",
       "好味",
       "習味"
     ],
-    "category": "Vocabulary",
-    "id": 1789203488718.9893,
-    "question": "6. 私の<span class=\"underline\">しゅみ</span>はピアノをひくことだ。"
+    "correct": "趣味"
   },
   {
-    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789203488718.8613,
-    "correct": "濃い",
+    "id": 1789865010932.6914,
+    "category": "Vocabulary",
     "imageLink": "",
+    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "7. もう少し<span class=\"underline\">こい</span>鉛筆が欲しい。",
     "options": [
       "軟い",
       "薄い",
       "硬い",
       "濃い"
     ],
-    "question": "7. もう少し<span class=\"underline\">こい</span>鉛筆が欲しい。",
-    "category": "Vocabulary"
+    "correct": "濃い"
   },
   {
-    "id": 1789203488718.7073,
-    "question": "8. この皿は、真っ白ではなく、少し青が<span class=\"underline\">まじった</span>ような色をしている。",
-    "correct": "混じった",
+    "id": 1789865010932.0193,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "8. この皿は、真っ白ではなく、少し青が<span class=\"underline\">まじった</span>ような色をしている。",
     "options": [
       "組じった",
       "含じった",
       "混じった",
       "加じった"
     ],
-    "imageLink": "",
-    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "混じった"
   },
   {
-    "question": "9. 彼はいつも<span class=\"underline\">そん</span>になることばかりしている。",
-    "correct": "損",
+    "id": 1789865010932.716,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "9. 彼はいつも<span class=\"underline\">そん</span>になることばかりしている。",
     "options": [
       "罪",
       "害",
       "損",
       "毒"
     ],
-    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
-    "id": 1789203488718.3623
+    "correct": "損"
   },
   {
-    "question": "10. 素晴らしい<span class=\"underline\">えんぎ</span>に感動した。",
+    "id": 1789865010932.7683,
     "category": "Vocabulary",
-    "id": 1789203488718.7786,
     "imageLink": "",
+    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "10. 素晴らしい<span class=\"underline\">えんぎ</span>に感動した。",
     "options": [
       "演劇",
       "演技",
       "園技",
       "園劇"
     ],
-    "mondai": "問題2 ____ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
     "correct": "演技"
   },
   {
+    "id": 1789865010932.434,
+    "category": "Vocabulary",
+    "imageLink": "",
     "mondai": "問題3 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "11. ゲームのしすぎは目に (  ) 影響を与える。",
     "options": [
       "悪",
       "重",
       "高",
       "大"
     ],
-    "imageLink": "",
-    "category": "Vocabulary",
-    "question": "11. ゲームのしすぎは目に (  ) 影響を与える。",
-    "correct": "悪",
-    "id": 1789203488718.1296
+    "correct": "悪"
   },
   {
+    "id": 1789865010932.0166,
+    "category": "Vocabulary",
     "imageLink": "",
-    "imagePublicId": "",
-    "id": 1789203488718.6921,
-    "correct": "質",
+    "mondai": "問題3 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "12. 彼はアメリカ (  ) のビジネスで成功した。",
     "options": [
       "形",
       "流",
       "性",
       "質"
     ],
-    "audioUrl": "",
-    "mondai": "問題3 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
-    "question": "12. 彼はアメリカ (  ) のビジネスで成功した。",
-    "category": "Vocabulary"
+    "correct": "流"
   },
   {
-    "correct": "際",
+    "id": 1789865010932.6736,
+    "category": "Vocabulary",
     "imageLink": "",
-    "id": 1789203488718.4324,
     "mondai": "問題3 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "13. 別れ (  ) に、彼女は私に何か言ったが、聞こえなかった。",
     "options": [
       "刻",
       "際",
       "間",
       "期"
     ],
-    "category": "Vocabulary",
-    "question": "13. 別れ (  ) に、彼女は私に何か言ったが、聞こえなかった。"
+    "correct": "際"
   },
   {
-    "imageLink": "",
-    "id": 1789203488718.3264,
-    "correct": "プレッシャー",
+    "id": 1789865010932.5974,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "14. 予算もスタッフも希望通りにしたんだから成果を期待しているよと、上司に (  ) をかけられた。",
     "options": [
       "ショック",
       "プレッシャー",
       "ダメージ",
       "コンプレックス"
     ],
-    "question": "14. 予算もスタッフも希望通りにしたんだから成果を期待しているよと、上司に (  ) をかけられた。",
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。"
+    "correct": "プレッシャー"
   },
   {
+    "id": 1789865010932.3733,
+    "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "15. アルバイトの仕事は勤務が多い月と少ない月があって、毎月の収入が (  ) だ。",
     "options": [
       "不安定",
       "不自由",
       "不都合",
       "不公平"
     ],
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
-    "correct": "不安定",
-    "imageLink": "",
-    "category": "Vocabulary",
-    "question": "15. アルバイトの仕事は勤務が多い月と少ない月があって、毎月の収入が (  ) だ。",
-    "id": 1789203488718.2297
+    "correct": "不安定"
   },
   {
+    "id": 1789865010932.5007,
+    "category": "Vocabulary",
     "imageLink": "",
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "16. 彼は (  ) な返事をしていたから、パーティーに来るかどうかわからない。",
     "options": [
       "地味な",
       "かすかな",
       "あいまいな",
       "鈍感な"
     ],
-    "question": "16. 彼は (  ) な返事をしていたから、パーティーに来るかどうかわからない。",
-    "category": "Vocabulary",
-    "id": 1789203488718.8955,
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
     "correct": "あいまいな"
   },
   {
-    "correct": "おとろえた",
-    "question": "17. 新しいことがなかなか覚えられないのは記憶力が (  ) からだろうか。",
-    "imageLink": "",
+    "id": 1789865010932.3044,
     "category": "Vocabulary",
-    "id": 1789203488718.5686,
+    "imageLink": "",
     "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "17. 新しいことがなかなか覚えられないのは記憶力が (  ) からだろうか。",
     "options": [
       "傷んだ",
       "散った",
       "かれた",
       "おとろえた"
-    ]
+    ],
+    "correct": "おとろえた"
   },
   {
-    "correct": "油断",
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "id": 1789865010932.784,
     "category": "Vocabulary",
     "imageLink": "",
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
     "question": "18. 相手が弱いと思って (  ) したら、負けてしまった。",
-    "id": 1789203488718.1719,
     "options": [
       "納得",
       "油断",
       "失望",
       "覚悟"
-    ]
+    ],
+    "correct": "油断"
   },
   {
+    "id": 1789865010932.1775,
+    "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "19. 二人とも働いているので、家事や育児は夫婦で (  ) している。",
     "options": [
       "分別",
       "区別",
       "区分",
       "分担"
     ],
-    "id": 1789203488718.061,
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
-    "category": "Vocabulary",
-    "correct": "分担",
-    "question": "19. 二人とも働いているので、家事や育児は夫婦で (  ) している。"
+    "correct": "分担"
   },
   {
-    "question": "20. 次の社長に最も (  ) 人は、経験豊富な鈴木さんでしょう。",
-    "correct": "ふさわしい",
+    "id": 1789865010932.1284,
     "category": "Vocabulary",
     "imageLink": "",
-    "id": 1789203488718.0383,
+    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。",
+    "question": "20. 次の社長に最も (  ) 人は、経験豊富な鈴木さんでしょう。",
     "options": [
       "ふさわしい",
       "等しい",
       "ありがちな",
       "当たり前な"
     ],
-    "mondai": "問題4 (  ) に入れるのに最もよいを、1・2・3・4から一つ選びなさい。"
+    "correct": "ふさわしい"
   },
   {
-    "question": "21. この辺りも<span class=\"underline\">物騒に</span>なってきた気がする。",
+    "id": 1789865010932.4104,
     "category": "Vocabulary",
-    "id": 1789203488718.8489,
+    "imageLink": "",
+    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+    "question": "21. この辺りも<span class=\"underline\">物騒に</span>なってきた気がする。",
     "options": [
       "きれいじゃなくなってきた",
       "うるさくなってきた",
       "安全じゃなくなってきた",
       "さびしくなってきた"
     ],
-    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
     "correct": "安全じゃなくなってきた"
   },
   {
-    "id": 1789203488718.7793,
-    "question": "22. その話を聞いて<span class=\"underline\">落ち込んだ</span>。",
-    "correct": "がっかりした",
+    "id": 1789865010932.8423,
     "category": "Vocabulary",
     "imageLink": "",
     "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+    "question": "22. その話を聞いて<span class=\"underline\">落ち込んだ</span>。",
     "options": [
       "緊張した",
       "びっくりした",
       "がっかりした",
       "心配した"
-    ]
+    ],
+    "correct": "がっかりした"
   },
   {
+    "id": 1789865010932.9456,
+    "category": "Vocabulary",
     "imageLink": "",
-    "id": 1789203488718.7085,
     "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+    "question": "23. <span class=\"underline\">精いっぱい</span>やったのに、あまり評価されなかった。",
     "options": [
       "せっかく",
       "一生懸命",
       "いろいろ",
       "何回も"
     ],
-    "category": "Vocabulary",
-    "correct": "一生懸命",
-    "question": "23. <span class=\"underline\">精いっぱい</span>やったのに、あまり評価されなかった。"
+    "correct": "一生懸命"
   },
   {
-    "question": "24. その話を聞いて、みんな<span class=\"underline\">同情した</span>。",
+    "id": 1789865010932.7441,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+    "question": "24. その話を聞いて、みんな<span class=\"underline\">同情した</span>。",
     "options": [
       "仕方ないと思った",
       "うらやましいと思った",
       "なつかしいと思った",
       "かわいそうだと思った"
     ],
-    "imageLink": "",
-    "correct": "かわいそうだと思った",
-    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789203488718.7344
+    "correct": "かわいそうだと思った"
   },
   {
-    "correct": "決める",
-    "question": "25. 条件を<span class=\"underline\">定める</span>必要がある。",
-    "imageLink": "",
+    "id": 1789865010932.542,
     "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+    "question": "25. 条件を<span class=\"underline\">定める</span>必要がある。",
     "options": [
       "決める",
       "伝える",
       "調べる",
       "合わせる"
     ],
-    "id": 1789203488718.9863,
-    "mondai": "問題5 ____ の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。"
+    "correct": "決める"
   },
   {
+    "id": 1789865010932.4717,
+    "category": "Vocabulary",
+    "imageLink": "",
+    "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "26. <span class=\"underline\">廃止</span>",
     "options": [
       "予想以上のコストがかかることがわかり、新製品の開発を廃止した。",
       "石川さんは毎日ジョギングすることを廃止したらしい。",
       "ほかの人に話すことで、不安を廃止できることもある。",
       "あの銀行はATM手数料無料のサービスを廃止するそうだ。"
     ],
-    "imageLink": "",
-    "question": "26. <span class=\"underline\">廃止</span>",
-    "category": "Vocabulary",
-    "correct": "あの銀行はATM手数料無料のサービスを廃止するそうだ。",
-    "id": 1789203488718.4062,
-    "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "あの銀行はATM手数料無料のサービスを廃止するそうだ。"
   },
   {
+    "id": 1789865010932.968,
+    "category": "Vocabulary",
+    "imageLink": "",
     "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "27. <span class=\"underline\">初歩</span>",
     "options": [
       "3年前に英語を初歩から始め、今では自由に話せるようになった。",
       "バスケットボールの試合で、初歩から大量の点を取られた。",
       "今日の暑さはまだほんの初歩で、これからますます暑くなっていくだろう。",
       "兄とのけんかの初歩は、くだらないことだった。"
     ],
-    "id": 1789203488718.415,
-    "imageLink": "",
-    "correct": "3年前に英語を初歩から始め、今では自由に話せるようになった。",
-    "question": "27. <span class=\"underline\">初歩</span>",
-    "category": "Vocabulary"
+    "correct": "3年前に英語を初歩から始め、今では自由に話せるようになった。"
   },
   {
-    "correct": "先月までは、仕事もしないで遊んでばかりのだらしない生活をしていた。",
+    "id": 1789865010932.8118,
+    "category": "Vocabulary",
+    "imageLink": "",
     "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "28. <span class=\"underline\">だらしなく</span>",
     "options": [
       "昨日作ったスープは塩がたりなかったのか、とてもだらしなく味だった。",
       "この公園は管理する人がいないので、あちこちに草だらしなく生えている。",
       "知識がだらしなかったせいで、間違ったことを人に教えてしまった。",
       "先月までは、仕事もしないで遊んでばかりのだらしない生活をしていた。"
     ],
-    "imageLink": "",
-    "category": "Vocabulary",
-    "id": 1789203488718.6782,
-    "question": "28. <span class=\"underline\">だらしなく</span>"
+    "correct": "先月までは、仕事もしないで遊んでばかりのだらしない生活をしていた。"
   },
   {
+    "id": 1789865010932.375,
+    "category": "Vocabulary",
+    "imageLink": "",
     "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "29. <span class=\"underline\">即座に</span>",
     "options": [
       "私が駅に着くと即座に友人たちも来た。",
       "さっきまで晴れていたのに、即座に雲が出てきた。",
       "先生は学生からの質問に即座に答えた。",
       "一月になってから即座に仕事が忙しくなった。"
     ],
-    "category": "Vocabulary",
-    "question": "29. <span class=\"underline\">即座に</span>",
-    "imageLink": "",
-    "correct": "先生は学生からの質問に即座に答えた。",
-    "id": 1789203488718.237
+    "correct": "先生は学生からの質問に即座に答えた。"
   },
   {
-    "id": 1789203488718.2393,
+    "id": 1789865010932.302,
+    "category": "Vocabulary",
     "imageLink": "",
+    "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "30. <span class=\"underline\">尽きる</span>",
     "options": [
       "あしたで定期券の期限が尽きるので、新しいのを買いに行った。",
       "森さんと会うのは久しぶりだったので、いくら話しても話が尽きなかった。",
       "木村選手は、けがのせいで連続出場の記録が尽きてしまった。",
       "この作家の絵が好きなので、展示会が尽きないうちにもう一度見に来たい。"
     ],
-    "question": "30. <span class=\"underline\">尽きる</span>",
-    "category": "Vocabulary",
-    "correct": "森さんと会うのは久しぶりだったので、いくら話しても話が尽きなかった。",
-    "mondai": "問題6 次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "森さんと会うのは久しぶりだったので、いくら話しても話が尽きなかった。"
   },
   {
-    "id": 1789255917942.8604,
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "id": 1789869295579.5657,
     "category": "Grammar & Reading",
-    "correct": "だらけ",
-    "question": "31. テレビの後ろ側は、すぐほこり（ ）になってしまう。",
     "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "31. テレビの後ろ側は、すぐほこり（ ）になってしまう。",
     "options": [
       "きり",
       "じゅう",
       "ぐらい",
       "だらけ"
-    ]
+    ],
+    "correct": "だらけ"
   },
   {
-    "imageLink": "",
-    "correct": "としても",
-    "id": 1789255917942.2705,
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "id": 1789869295579.2563,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
     "question": "32. A「ねえ、明日、用事があるって言ってたけど、パーティーには来られそう？」\nB「用事が何時に終わるかわからないんだよ。行ける（ ）、多分、途中からになると思う。」",
     "options": [
       "からって",
       "ものなら",
       "どころか",
       "としても"
-    ]
+    ],
+    "correct": "としても"
   },
   {
-    "correct": "にあたって",
+    "id": 1789869295579.562,
     "category": "Grammar & Reading",
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
     "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
     "question": "33. X社は、新しい事業を始める（ ）、現在、社員を募集している。",
     "options": [
       "とする",
@@ -461,124 +459,125 @@
       "からには",
       "のだったら"
     ],
-    "id": 1789255917942.017
+    "correct": "にあたって"
   },
   {
-    "correct": "で／で",
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
-    "id": 1789255917942.69,
-    "question": "34. 私はピアノを弾くことが、好き（ ）好き（ ）たまらない。",
+    "id": 1789869295579.3464,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "34. 私はピアノを弾くことが、好き（ ）好き（ ）たまらない。",
     "options": [
       "が／が",
       "に／に",
       "で／で",
       "は／は"
-    ]
+    ],
+    "correct": "で／で"
   },
   {
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
-    "correct": "そう言う",
+    "id": 1789869295579.8147,
     "category": "Grammar & Reading",
-    "question": "35. (電話で)\n田中「ねえ、明日のイベントの準備、終わった？」\n小川「まだ終わってないけど、まあ、大丈夫だよ。」\n田中「（ ）小川さんの楽観的な性格がうらやましいよ。」",
     "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "35. (電話で)\n田中「ねえ、明日のイベントの準備、終わった？」\n小川「まだ終わってないけど、まあ、大丈夫だよ。」\n田中「（ ）小川さんの楽観的な性格がうらやましいよ。」",
     "options": [
       "そんなに",
       "あんなに",
       "そう言う",
       "ああいう"
     ],
-    "id": 1789255917942.975
+    "correct": "そう言う"
   },
   {
-    "correct": "走りきった",
+    "id": 1789869295579.3367,
+    "category": "Grammar & Reading",
+    "imageLink": "",
     "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "36. 日曜日に行われたマラソン大会に弟が参加して、10キロのコースを45分で（ ）",
     "options": [
       "走りきった",
       "走り始めた",
       "走ってばかりだ",
       "走るようにする"
     ],
-    "imageLink": "",
-    "id": 1789255917942.9902,
-    "category": "Grammar & Reading",
-    "question": "36. 日曜日に行われたマラソン大会に弟が参加して、10キロのコースを45分で（ ）"
+    "correct": "走りきった"
   },
   {
-    "question": "37. 子供のころ、海水浴に行く前の日はいつも「どうか明日は雨が（ ）」と祈りながら寝ていた。",
+    "id": 1789869295579.4639,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "37. 子供のころ、海水浴に行く前の日はいつも「どうか明日は雨が（ ）」と祈りながら寝ていた。",
     "options": [
       "降りることはありません",
       "降りませんように",
       "降らなくてもいいです",
       "降らないでしょうか"
     ],
-    "id": 1789255917942.2476,
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
     "correct": "降りませんように"
   },
   {
+    "id": 1789869295579.1409,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "38. 鈴木選手は、アマチュア時代に何度かこの大会に出場しているが、プロの選手（ ）今回が初めての出場だ。",
     "options": [
       "としては",
       "としても",
       "にとっても",
       "にとっても"
     ],
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789255917942.8955,
-    "imageLink": "",
-    "correct": "としては",
-    "category": "Grammar & Reading",
-    "question": "38. 鈴木選手は、アマチュア時代に何度かこの大会に出場しているが、プロの選手（ ）今回が初めての出場だ。"
+    "correct": "としては"
   },
   {
+    "id": 1789869295579.6084,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "39. 泣くのを我慢（ ）、逆に涙があふれ出した。",
     "options": [
       "しようとすることから",
       "しそうになることから",
       "しようとすればするほど",
       "しそうになればなるほど"
     ],
-    "imageLink": "",
-    "category": "Grammar & Reading",
-    "id": 1789255917942.526,
-    "question": "39. 泣くのを我慢（ ）、逆に涙があふれ出した。",
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
     "correct": "しようとすればするほど"
   },
   {
-    "id": 1789255917942.558,
-    "question": "40. 押し入れを片付けていたら、子供のころに大切にしていたぬいぐるみがでてきた。（ ）と思ったが、どうしても捨てられなかった。",
-    "correct": "捨ててしまおうか",
+    "id": 1789869295579.3477,
     "category": "Grammar & Reading",
     "imageLink": "",
     "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "40. 押し入れを片付けていたら、子供のころに大切にしていたぬいぐるみがでてきた。（ ）と思ったが、どうしても捨てられなかった。",
     "options": [
       "捨ててくるだろう",
       "捨てているのだ",
       "捨ててあるのか",
       "捨ててしまおうか"
-    ]
+    ],
+    "correct": "捨ててしまおうか"
   },
   {
-    "question": "41. 田中「昨日、息子がひろしくんに（ ）、ありがとうございます。」\nひろしの母「いいえ。」",
-    "imageLink": "",
-    "correct": "遊んでもらったそうで",
+    "id": 1789869295579.8804,
     "category": "Grammar & Reading",
-    "id": 1789255917942.2356,
+    "imageLink": "",
     "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "41. 田中「昨日、息子がひろしくんに（ ）、ありがとうございます。」\nひろしの母「いいえ。」",
     "options": [
       "遊んでもらえそうで",
       "遊んでくれそうで",
       "遊んでもらったそうで",
       "遊んでくれたそうで"
-    ]
+    ],
+    "correct": "遊んでもらったそうで"
   },
   {
-    "correct": "なったことがあっただろうか",
-    "id": 1789255917942.4495,
+    "id": 1789869295579.5208,
+    "category": "Grammar & Reading",
     "imageLink": "",
+    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
     "question": "42. この映画を見て、私はこれまでこれほど何かに夢中に（ ）と考えさせられた。",
     "options": [
       "なることがあるだろうか",
@@ -586,98 +585,97 @@
       "することがあるだろうか",
       "したことがあっただろうか"
     ],
-    "mondai": "問題7 次の文の（ ）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。",
-    "category": "Grammar & Reading"
+    "correct": "なったことがあっただろうか"
   },
   {
-    "question": "43. 料理の面白いところは、安い材料でも ＿＿ ＿＿ ＿★＿ ＿＿ ができるところです。\n(1：ごちそう 2：工夫 3：豪華な 4：次第で)",
+    "id": 1789869295579.4065,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "43. 料理の面白いところは、安い材料でも ＿＿ ＿＿ ＿★＿ ＿＿ ができるところです。\n(1：ごちそう 2：工夫 3：豪華な 4：次第で)",
     "options": [
       "ごちそう",
       "工夫",
       "豪華な",
       "次第で"
     ],
-    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
-    "imageLink": "",
-    "id": 1789256923424.9028,
     "correct": "豪華な"
   },
   {
-    "question": "44. 田中「昨日は、息子の高校の入学式だったんですよ。」\n山田「田中さんの ＿＿ ＿＿ ＿★＿ ＿＿ ですか。早いですね。」\n(1：もう 2：息子さん 3：高校生 4：も)",
+    "id": 1789869295579.2422,
     "category": "Grammar & Reading",
     "imageLink": "",
+    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "44. 田中「昨日は、息子の高校の入学式だったんですよ。」\n山田「田中さんの ＿＿ ＿＿ ＿★＿ ＿＿ ですか。早いですね。」\n(1：もう 2：息子さん 3：高校生 4：も)",
     "options": [
       "もう",
       "息子さん",
       "高校生",
       "も"
     ],
-    "id": 1789256923424.725,
-    "correct": "もう",
-    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "もう"
   },
   {
-    "correct": "相対的に低い",
+    "id": 1789869295579.3591,
     "category": "Grammar & Reading",
-    "id": 1789256923424.0715,
-    "question": "45. 世界各国の国会議員選挙における投票率を世代ごとに見ると、若い世代の ＿＿ ＿＿ ＿★＿ ＿＿ ことがわかる。\n(1：我が国に限らず 2：傾向がある 3：投票率は 4：相対的に低い)",
-    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
     "imageLink": "",
+    "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "45. 世界各国の国会議員選挙における投票率を世代ごとに見ると、若い世代の ＿＿ ＿＿ ＿★＿ ＿＿ ことがわかる。\n(1：我が国に限らず 2：傾向がある 3：投票率は 4：相対的に低い)",
     "options": [
       "我が国に限らず",
       "傾向がある",
       "投票率は",
       "相対的に低い"
-    ]
+    ],
+    "correct": "相対的に低い"
   },
   {
-    "correct": "そんなことを",
+    "id": 1789869295579.7737,
+    "category": "Grammar & Reading",
     "imageLink": "",
     "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "46. 5歳の娘は、私と同じ警察官になりたいと言っている。本当に将来 ＿＿ ＿＿ ＿★＿ ＿＿ 感激した。\n(1：別として 2：そんなことを 3：言ってくれたことに 4：なるかどうかは)",
     "options": [
       "別として",
       "そんなことを",
       "言ってくれたことに",
       "なるかどうかは"
     ],
-    "id": 1789256923424.8584,
-    "category": "Grammar & Reading",
-    "question": "46. 5歳の娘は、私と同じ警察官になりたいと言っている。本当に将来 ＿＿ ＿＿ ＿★＿ ＿＿ 感激した。\n(1：別として 2：そんなことを 3：言ってくれたことに 4：なるかどうかは)"
+    "correct": "そんなことを"
   },
   {
-    "id": 1789256923424.0398,
+    "id": 1789869295579.8662,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "correct": "悔しいはずの",
     "mondai": "問題8 次の文の__★__に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "47. 試合に負けて本当は ＿★＿ ＿＿ ＿＿ ＿＿ 表情だったのは、「つらいときこそ明るく」というのが監督の方針だからだそうだ。\n(1：悔しいはずの 2：明るい 3：なぜか 4：選手たちが)",
     "options": [
       "悔しいはずの",
       "明るい",
       "なぜか",
       "選手たちが"
     ],
-    "question": "47. 試合に負けて本当は ＿★＿ ＿＿ ＿＿ ＿＿ 表情だったのは、「つらいときこそ明るく」というのが監督の方針だからだそうだ。\n(1：悔しいはずの 2：明るい 3：なぜか 4：選手たちが)",
-    "category": "Grammar & Reading"
+    "correct": "悔しいはずの"
   },
   {
+    "id": 1789869295579.3538,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "correct": "4. 増えているそうです",
     "mondai": "問題9 次の文章を読んで、文章全体の内容を考えて、48から52の中に入る最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"text-align: center; font-weight: bold; font-size: 16px; margin-bottom: 15px;\">打ち水</p><p style=\"text-align: right; margin-bottom: 15px;\">ロバーツ アレン</p><p style=\"margin-bottom: 12px;\">夏休みに、友達に誘われて打ち水のイベントに参加しました。私はそのとき初めて打ち水というものを知りました。打ち水は、暑さ対策として道路や庭、<ruby>玄関先<rt>げんかんさき</rt></ruby>などに水をまくという、日本に昔から伝わる生活の知恵です。もともとは各家庭で行うものでしたが、節電や地球温暖化対策として打ち水のイベントを企画する自治体なども <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">48</span>。</p><p style=\"margin-bottom: 12px;\">打ち水をすると、確かに涼しく感じました。<span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">49</span>、気分の問題ではないかとも思いました。打ち水によって実際に気温は下がるのでしょうか。</p><p style=\"margin-bottom: 12px;\">調べてみたら、打ち水の効果を調べた実際結果を紹介している記事がありました。その記事によると、水をまいたところの気温が2度下がったということでした。これは水の性質によるものです。水は気体になるときに、周囲の熱を吸収します。水をまいたところの地面の熱は気体と<ruby>一緒に<rt>いっしょに</rt></ruby>逃げていき、気温が <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">50</span>。しかも、地面の温度は、水が蒸発しきった後も1時間は下がったままだったとも書かれていました。</p><p style=\"margin-bottom: 12px;\">打ち水の効果を十分に得るには、朝か夕方に<ruby>日陰<rt>ひかげ</rt></ruby>にまくこともポイントのようです。そうすることで水がすぐに蒸発せず、温度の下がった状態が持続します。私が参加したイベントも夕方からだったので、なぜだろうと思っていましたが、<span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">51</span> あったのだと知って、なるほどと思いました。</p><p style=\"margin-bottom: 0;\">打ち水の効果は、科学的に説明できるものでした。だから昔から今まで打ち水の文化が続いているのだと <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">52</span>。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">48</div>",
     "options": [
       "1. 増えたとします",
       "2. 増えたためです",
       "3. 増えてしまいます",
       "4. 増えているそうです"
     ],
-    "category": "Grammar & Reading",
-    "id": 1789257144296.8904,
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"text-align: center; font-weight: bold; font-size: 16px; margin-bottom: 15px;\">打ち水</p><p style=\"text-align: right; margin-bottom: 15px;\">ロバーツ アレン</p><p style=\"margin-bottom: 12px;\">夏休みに、友達に誘われて打ち水のイベントに参加しました。私はそのとき初めて打ち水というものを知りました。打ち水は、暑さ対策として道路や庭、<ruby>玄関先<rt>げんかんさき</rt></ruby>などに水をまくという、日本に昔から伝わる生活の知恵です。もともとは各家庭で行うものでしたが、節電や地球温暖化対策として打ち水のイベントを企画する自治体なども <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">48</span>。</p><p style=\"margin-bottom: 12px;\">打ち水をすると、確かに涼しく感じました。<span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">49</span>、気分の問題ではないかとも思いました。打ち水によって実際に気温は下がるのでしょうか。</p><p style=\"margin-bottom: 12px;\">調べてみたら、打ち水の効果を調べた実際結果を紹介している記事がありました。その記事によると、水をまいたところの気温が2度下がったということでした。これは水の性質によるものです。水は気体になるときに、周囲の熱を吸収します。水をまいたところの地面の熱は気体と<ruby>一緒に<rt>いっしょに</rt></ruby>逃げていき、気温が <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">50</span>。しかも、地面の温度は、水が蒸発しきった後も1時間は下がったままだったとも書かれていました。</p><p style=\"margin-bottom: 12px;\">打ち水の効果を十分に得るには、朝か夕方に<ruby>日陰<rt>ひかげ</rt></ruby>にまくこともポイントのようです。そうすることで水がすぐに蒸発せず、温度の下がった状態が持続します。私が参加したイベントも夕方からだったので、なぜだろうと思っていましたが、<span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">51</span> あったのだと知って、なるほどと思いました。</p><p style=\"margin-bottom: 0;\">打ち水の効果は、科学的に説明できるものでした。だから昔から今まで打ち水の文化が続いているのだと <span style=\"border: 1px solid #000; padding: 2px 8px; font-weight: bold; border-radius: 3px;\">52</span>。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">48</div>"
+    "correct": "4. 増えているそうです"
   },
   {
-    "mondai": "",
+    "id": 1789869295579.6736,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "correct": "1. ただ",
-    "id": 1789257144296.1987,
+    "mondai": "",
     "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">49</div>",
     "options": [
       "1. ただ",
@@ -685,9 +683,13 @@
       "3. つまり",
       "4. それどころか"
     ],
-    "category": "Grammar & Reading"
+    "correct": "1. ただ"
   },
   {
+    "id": 1789869295579.521,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
     "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">50</div>",
     "options": [
       "1. 下がるところです",
@@ -695,28 +697,27 @@
       "3. 下がるというわけです",
       "4. 下がることがありました"
     ],
-    "category": "Grammar & Reading",
-    "mondai": "",
-    "imageLink": "",
-    "id": 1789257144296.4521,
     "correct": "3. 下がるというわけです"
   },
   {
+    "id": 1789869295579.2905,
+    "category": "Grammar & Reading",
+    "imageLink": "",
     "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">51</div>",
     "options": [
       "1. ある理由が",
       "2. そのような理由が",
       "3. どの理由も",
       "4. あんな理由も"
     ],
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">51</div>",
-    "id": 1789257144296.8374,
-    "correct": "2. そのような理由が",
-    "imageLink": ""
+    "correct": "2. そのような理由が"
   },
   {
+    "id": 1789869295580.9072,
+    "category": "Grammar & Reading",
     "imageLink": "",
+    "mondai": "",
     "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">52</div>",
     "options": [
       "1. 納得させられました",
@@ -724,30 +725,27 @@
       "3. 納得させてほしかったです",
       "4. 納得してもらえました"
     ],
-    "category": "Grammar & Reading",
-    "id": 1789257144296.9739,
-    "correct": "1. 納得させられました",
-    "mondai": ""
+    "correct": "1. 納得させられました"
   },
   {
+    "id": 1789869295580.4329,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題10 次の（1）から（5）文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(1)</p><p style=\"margin-bottom: 10px;\">一般的に、表とグラフでは、グラフのほうがすぐに特徴をみつけやすいといえます。だからといって、そうしてみつけた特徴が本当に意味がある特徴かどうか。単なる<ruby>錯覚<rt>さっかく</rt></ruby>（注1）ではないのが、グラフをみたことで先入観（注2）をもってしまったあとでは、<ruby>検証<rt>けんしょう</rt></ruby>（注3）がむずかしいでしょう。</p><p style=\"margin-bottom: 15px;\">だからこそ、まずは、特徴を見つけにくい表をながめてデータ分析をすることが、データ読解力を高めるうえでは大切です。そうして表のデータを読む力を<ruby>磨く<rt>みがく</rt></ruby>ことで、やがてグラフでの<ruby>錯覚<rt>さっかく</rt></ruby>を避ける能力も高まります。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>錯覚<rt>さっかく</rt></ruby>：ここでは、勘違い</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）先入観：思い込み</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注3）<ruby>検証<rt>けんしょう</rt></ruby>：調べて、証明すること</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">53</div> 筆者によると、データ分析の力をつけるにはどうすればいいか。",
     "options": [
       "1 特徴がみつけやすいので、先に表をみるようにしたほうがいい。",
       "2 思い込みが避けられるので、先に表をみるようにしたほうがいい。",
       "3 思い込みに気づきやすいので、先にグラフをみるようにしたほうがいい。",
       "4 意味のある特徴がみつけられるので、先にグラフをみるようにしたほうがいい。"
     ],
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(1)</p><p style=\"margin-bottom: 10px;\">一般的に、表とグラフでは、グラフのほうがすぐに特徴をみつけやすいといえます。だからといって、そうしてみつけた特徴が本当に意味がある特徴かどうか。単なる<ruby>錯覚<rt>さっかく</rt></ruby>（注1）ではないのが、グラフをみたことで先入観（注2）をもってしまったあとでは、<ruby>検証<rt>けんしょう</rt></ruby>（注3）がむずかしいでしょう。</p><p style=\"margin-bottom: 15px;\">だからこそ、まずは、特徴を見つけにくい表をながめてデータ分析をすることが、データ読解力を高めるうえでは大切です。そうして表のデータを読む力を<ruby>磨く<rt>みがく</rt></ruby>ことで、やがてグラフでの<ruby>錯覚<rt>さっかく</rt></ruby>を避ける能力も高まります。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>錯覚<rt>さっかく</rt></ruby>：ここでは、勘違い</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）先入観：思い込み</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注3）<ruby>検証<rt>けんしょう</rt></ruby>：調べて、証明すること</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">53</div> 筆者によると、データ分析の力をつけるにはどうすればいいか。",
-    "imageLink": "",
-    "mondai": "問題10 次の（1）から（5）文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
-    "id": 1789257353457.4602,
     "correct": "2 思い込みが避けられるので、先に表をみるようにしたほうがいい。"
   },
   {
-    "mondai": "",
+    "id": 1789869295580.991,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "correct": "2 各施設に1回ずつ入場でき、さらに割引価額で特別展のうち一つに1回入場できる。",
-    "id": 1789257353457.5898,
+    "mondai": "",
     "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(2)</p><p style=\"margin-bottom: 15px;\">以下は、ある市のホームページに<ruby>掲載<rt>けいさい</rt></ruby>されたお知らせである。</p><div style=\"border: 1px solid #000; padding: 12px; margin-bottom: 10px;\"><p style=\"font-size: 13px; margin-bottom: 10px;\">今村市 ＞ 文化芸術施設 ＞ お知らせ</p><p style=\"text-align: right; font-size: 13px; margin-bottom: 5px;\">2019年5月29日</p><p style=\"text-align: center; font-weight: bold; margin-bottom: 15px;\">文化施設共通利用券および「特別展セット」販売のお知らせ</p><p style=\"margin-bottom: 8px;\">文化施設共通利用券を販売いたします。この券は、市内五つの<ruby>博物館<rt>はくぶつかん</rt></ruby>や美術館などの文化施設にそれぞれ1回ご入場できるチケットです。</p><p style=\"margin-bottom: 15px;\">また、文化施設共通利用券に特別展割引チケットを付けた「特別展セット」も販売いたします。特別展のご入場には通常1回1,000円かかりますが、「特別展セット」では各施設の特別展の中から一つに限り割引価額で1回ご入場できます。</p><p style=\"margin-bottom: 4px;\">販売場所：各施設のチケット売り場</p><p style=\"margin-bottom: 4px;\">販売価格：文化施設共通利用券 2,000円、「特別展セット」 2,800円</p><p style=\"margin-bottom: 4px;\">販売期間：2019年7月1日〜2019年10月31日</p><p style=\"margin-bottom: 15px;\">有効期間：2019年7月1日〜2019年12月27日</p><p style=\"margin-bottom: 0;\">どちらも大変お得になっております。この機会にぜひご利用ください。</p></div></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">54</div> 「特別展セット」を買うと何ができるか。",
     "options": [
       "1 各施設に1回ずつ入場でき、さらに割引価額で特別展に1回ずつ入場できる。",
@@ -755,152 +753,153 @@
       "3 各施設に何回でも入場でき、さらに割引価額で特別展に1回ずつ入場できる。",
       "4 各施設に何回でも入場でき、さらに割引価額で特別展のうち一つに1回入場できる。"
     ],
-    "category": "Grammar & Reading"
+    "correct": "2 各施設に1回ずつ入場でき、さらに割引価額で特別展のうち一つに1回入場できる。"
   },
   {
-    "id": 1789257353457.4521,
-    "mondai": "",
-    "correct": "4 日常使っている言葉の意味をたしかめながら使うこと",
-    "imageLink": "",
+    "id": 1789869295580.118,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
     "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(3)</p><p style=\"margin-bottom: 15px;\">論文というものは言葉で書くものである。あたりまえのことだが、これは<ruby>肝心<rt>かんじん</rt></ruby>（注1）なことである。ということは、よい論文を書くためには言葉に敏感でなければならないということである。しかし、それは必ずしも、なにか特別なもっともらしい（注2）言葉をうまく操れなければいけないということではない。むしろ、自分の身についた、ふだんはなにげなく（注3）使っているにすぎないような言葉を、いちいち、しっかりととらえなおし、その意味を自分にとってたしかな手応えのある（注4）ものにしてゆくということである。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>肝心<rt>かんじん</rt></ruby>な：とても大切な</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）もっともらしい：いかにも本物らしい</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）なにげなく：意識しないで</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注4）たしかな手応えのある：ここでは、確信の持てる</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">55</div> 筆者は、論文を書くのに大切なことは何だと考えているか。",
     "options": [
       "1 多くの言葉を正確に使えるようにすること",
       "2 特別な言葉を日常的に使えるようにすること",
       "3 新しい言葉の意味をしっかりとらえること",
       "4 日常使っている言葉の意味をたしかめながら使うこと"
-    ]
+    ],
+    "correct": "4 日常使っている言葉の意味をたしかめながら使うこと"
   },
   {
-    "correct": "3 「8QPSI」を指定の納品日に納品できないこと",
+    "id": 1789869295580.0137,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "id": 1789257353457.5134,
     "mondai": "",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(4)</p><p style=\"margin-bottom: 15px;\">以下は、ある会社が製品を注文してきた相手に出したメールである。</p><div style=\"border: 1px solid #000; padding: 12px; margin-bottom: 10px;\"><p style=\"margin-bottom: 4px;\">あて先：seiji_omore@matsufuku-shokai.co.jp</p><p style=\"margin-bottom: 4px;\">件名：スピーカー「8QPSI」のご注文につきまして</p><p style=\"margin-bottom: 15px;\">日時：2019年6月5日 10:30</p><p style=\"margin-bottom: 4px;\">マツフク商会</p><p style=\"margin-bottom: 12px;\">営業部 大村成次様</p><p style=\"margin-bottom: 8px;\">お世話になっております。</p><p style=\"margin-bottom: 8px;\">このたびは、スピーカー「8QPSI」20台をご注文いただきありがとうございました。同機は4月の発売以来、予想以上の売れ行きが続き、製造が追いついておりません。現在、海外の工場でも対応しておりますが、ご指定の期日（6月28日）での納品は難しい<ruby>状況<rt>じょうきょう</rt></ruby>です。</p><p style=\"margin-bottom: 15px;\">納品可能時期は今月中旬に改めてお知らせいたします。たいへん申し訳ございませんが、ご理解くださいますようお願いいたします。</p><p style=\"margin-bottom: 2px;\">オーシーサウンド</p><p style=\"margin-bottom: 0;\">販売部 川藤直広</p></div></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">56</div> このメールで最も伝えたいことは何か。",
     "options": [
       "1 「8QPSI」の納品日が今月中旬になること",
       "2 「8QPSI」の納品が可能かどうかを今月中旬に知らせること",
       "3 「8QPSI」を指定の納品日に納品できないこと",
       "4 「8QPSI」が予想以上に売れていて、注文を受けられないこと"
     ],
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(4)</p><p style=\"margin-bottom: 15px;\">以下は、ある会社が製品を注文してきた相手に出したメールである。</p><div style=\"border: 1px solid #000; padding: 12px; margin-bottom: 10px;\"><p style=\"margin-bottom: 4px;\">あて先：seiji_omore@matsufuku-shokai.co.jp</p><p style=\"margin-bottom: 4px;\">件名：スピーカー「8QPSI」のご注文につきまして</p><p style=\"margin-bottom: 15px;\">日時：2019年6月5日 10:30</p><p style=\"margin-bottom: 4px;\">マツフク商会</p><p style=\"margin-bottom: 12px;\">営業部 大村成次様</p><p style=\"margin-bottom: 8px;\">お世話になっております。</p><p style=\"margin-bottom: 8px;\">このたびは、スピーカー「8QPSI」20台をご注文いただきありがとうございました。同機は4月の発売以来、予想以上の売れ行きが続き、製造が追いついておりません。現在、海外の工場でも対応しておりますが、ご指定の期日（6月28日）での納品は難しい<ruby>状況<rt>じょうきょう</rt></ruby>です。</p><p style=\"margin-bottom: 15px;\">納品可能時期は今月中旬に改めてお知らせいたします。たいへん申し訳ございませんが、ご理解くださいますようお願いいたします。</p><p style=\"margin-bottom: 2px;\">オーシーサウンド</p><p style=\"margin-bottom: 0;\">販売部 川藤直広</p></div></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">56</div> このメールで最も伝えたいことは何か。",
-    "category": "Grammar & Reading"
+    "correct": "3 「8QPSI」を指定の納品日に納品できないこと"
   },
   {
+    "id": 1789869295580.6707,
     "category": "Grammar & Reading",
+    "imageLink": "",
     "mondai": "",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(5)</p><p style=\"margin-bottom: 10px;\">試合に出してもらえない。<ruby>監督<rt>かんとく</rt></ruby>やコーチと相性が悪い、他の選手のほうが<ruby>贔屓<rt>ひいき</rt></ruby>（注1）されている……。自分がうまくできない、試合で活躍できないのは、環境が悪いからだ。<ruby>監督<rt>かんとく</rt></ruby>のせいだ。他の選手とプレーがかみ合わない（注2）……。</p><p style=\"margin-bottom: 10px;\">自分がある程度頑張っているつもりの選手は、つい、こう考えてしまうものです。</p><p style=\"margin-bottom: 15px;\">うまくなるためには自分自身と向き合っているとすれば、そこに周りは<ruby>一切<rt>いっさい</rt></ruby>（注3）関係ありません。人のせい、物のせいにするのはラク（注4）、私から言わせれば、人のせい、物のせいにするのは、逃げているのと同じです。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>贔屓<rt>ひいき</rt></ruby>する：ここでは、気に入って特別に扱う</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）かみ合う：うまく合う</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）<ruby>一切<rt>いっさい</rt></ruby>：全く</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注4）ラク：「楽」とも書く</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">57</div> 筆者の考えに合うのはどれか。",
     "options": [
       "1 うまくなるためには、周りのせいにしてはいけない。",
       "2 うまくなりたいなら、周りに合わせてはいけない。",
       "3 周りから悪い評価を受けたら、<ruby>認め<rt>みと</rt></ruby>なければならない。",
       "4 <ruby>頑張っ<rt>がんば</rt></ruby>ていても、周りから<ruby>認め<rt>みと</rt></ruby>られないことがある。"
     ],
-    "id": 1789257353457.7275,
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(5)</p><p style=\"margin-bottom: 10px;\">試合に出してもらえない。<ruby>監督<rt>かんとく</rt></ruby>やコーチと相性が悪い、他の選手のほうが<ruby>贔屓<rt>ひいき</rt></ruby>（注1）されている……。自分がうまくできない、試合で活躍できないのは、環境が悪いからだ。<ruby>監督<rt>かんとく</rt></ruby>のせいだ。他の選手とプレーがかみ合わない（注2）……。</p><p style=\"margin-bottom: 10px;\">自分がある程度頑張っているつもりの選手は、つい、こう考えてしまうものです。</p><p style=\"margin-bottom: 15px;\">うまくなるためには自分自身と向き合っているとすれば、そこに周りは<ruby>一切<rt>いっさい</rt></ruby>（注3）関係ありません。人のせい、物のせいにするのはラク（注4）、私から言わせれば、人のせい、物のせいにするのは、逃げているのと同じです。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>贔屓<rt>ひいき</rt></ruby>する：ここでは、気に入って特別に扱う</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）かみ合う：うまく合う</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）<ruby>一切<rt>いっさい</rt></ruby>：全く</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注4）ラク：「楽」とも書く</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">57</div> 筆者の考えに合うのはどれか。",
-    "correct": "1 うまくなるためには、周りのせいにしてはいけない。",
-    "imageLink": ""
+    "correct": "1 うまくなるためには、周りのせいにしてはいけない。"
   },
   {
-    "mondai": "問題11 次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
-    "correct": "4 書かれていることを、話を聞いているような気持ちで読む。",
-    "id": 1789257611360.5276,
+    "id": 1789869295580.502,
+    "category": "Grammar & Reading",
     "imageLink": "",
+    "mondai": "問題11 次の（1）から（3）の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(1)</p><p style=\"margin-bottom: 10px;\">本を読むことは、かつて生きた優れた人の言葉を聞くということ、読むとは、基本的に人の話を聞くことです。</p><p style=\"margin-bottom: 10px;\">学ぶことの基本行為も「聞くこと」です。</p><p style=\"margin-bottom: 10px;\">しかも、本を読むことが生きている人類から話を聞くことと同じとらえられれば、その読みは一層リアル（注1）になるはずです。例えば、本居宣長を読むのでもゲーテを読むのでも、僕らが生きているかのようにして読める人の方、生の声として聞こえてくるからより一層リアルです。</p><p style=\"margin-bottom: 10px;\">ですから、「<ruby>聞く構え<rt>きくかまえ</rt></ruby>（注2）」ができている人は、より良く学べることにもなります。逆に、聞く構えがないと、相手から成長がない人と見られてしまいます。言い換えれば、「聞く気がない」と受け取られてしまうと、会社でも学校でも「この人は<ruby>見込み<rt>みこみ</rt></ruby>（注3）がない」と思われてしまうのです。</p><p style=\"margin-bottom: 10px;\">こんなふうに、学ぶ姿勢は現実の生活において、私たちの根本的な評価に関わってきます。</p><p style=\"margin-bottom: 10px;\">学ぶことは、優れた人の話を聞いて自分を修正していくこと、あるいは、その人に憧れを持ち、その人によって自分の新たな目標が見え、歩むべき方向性が決まることです。息して、本や人の話の中から具体的なアドバイスを得て、自分の生活の中にある種の学びの習慣をつくっていく。だからこそ、読書を学びの基本にするとよいのです。</p><p style=\"margin-bottom: 15px;\">本を読まないということは、いわば<ruby>膨大<rt>ぼうだい</rt></ruby>な数の<ruby>賢者<rt>けんじゃ</rt></ruby>（注4）たちから、あらかじめ<ruby>見放<rt>みはな</rt></ruby>されてしまっているということです。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）リアル：現実的</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）<ruby>構え<rt>かまえ</rt></ruby>：姿勢</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）見込み：可能性</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）<ruby>賢者<rt>けんじゃ</rt></ruby>：優れた人</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注5）<ruby>見放<rt>みはな</rt></ruby>される：ここでは、無視される</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">58</div> 筆者によると、本はどのように読むといいか。",
     "options": [
       "1 書かれていることを、現実の話として読む。",
       "2 書かれていることを、作者と同じ気持ちになって読む。",
       "3 書かれていることを、前に聞いた話と比べながら読む。",
       "4 書かれていることを、話を聞いているような気持ちで読む。"
     ],
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(1)</p><p style=\"margin-bottom: 10px;\">本を読むことは、かつて生きた優れた人の言葉を聞くということ、読むとは、基本的に人の話を聞くことです。</p><p style=\"margin-bottom: 10px;\">学ぶことの基本行為も「聞くこと」です。</p><p style=\"margin-bottom: 10px;\">しかも、本を読むことが生きている人類から話を聞くことと同じとらえられれば、その読みは一層リアル（注1）になるはずです。例えば、本居宣長を読むのでもゲーテを読むのでも、僕らが生きているかのようにして読める人の方、生の声として聞こえてくるからより一層リアルです。</p><p style=\"margin-bottom: 10px;\">ですから、「<ruby>聞く構え<rt>きくかまえ</rt></ruby>（注2）」ができている人は、より良く学べることにもなります。逆に、聞く構えがないと、相手から成長がない人と見られてしまいます。言い換えれば、「聞く気がない」と受け取られてしまうと、会社でも学校でも「この人は<ruby>見込み<rt>みこみ</rt></ruby>（注3）がない」と思われてしまうのです。</p><p style=\"margin-bottom: 10px;\">こんなふうに、学ぶ姿勢は現実の生活において、私たちの根本的な評価に関わってきます。</p><p style=\"margin-bottom: 10px;\">学ぶことは、優れた人の話を聞いて自分を修正していくこと、あるいは、その人に憧れを持ち、その人によって自分の新たな目標が見え、歩むべき方向性が決まることです。息して、本や人の話の中から具体的なアドバイスを得て、自分の生活の中にある種の学びの習慣をつくっていく。だからこそ、読書を学びの基本にするとよいのです。</p><p style=\"margin-bottom: 15px;\">本を読まないということは、いわば<ruby>膨大<rt>ぼうだい</rt></ruby>な数の<ruby>賢者<rt>けんじゃ</rt></ruby>（注4）たちから、あらかじめ<ruby>見放<rt>みはな</rt></ruby>されてしまっているということです。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）リアル：現実的</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）<ruby>構え<rt>かまえ</rt></ruby>：姿勢</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）見込み：可能性</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）<ruby>賢者<rt>けんじゃ</rt></ruby>：優れた人</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注5）<ruby>見放<rt>みはな</rt></ruby>される：ここでは、無視される</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">58</div> 筆者によると、本はどのように読むといいか。"
+    "correct": "4 書かれていることを、話を聞いているような気持ちで読む。"
   },
   {
+    "id": 1789869295580.6545,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">59</div> 「<ruby>聞く構え<rt>きくかまえ</rt></ruby>」ができていない人について、筆者はどのように述べているか。",
     "options": [
       "1 人の話を聞いてもすぐに忘れてしまう人と思われる。",
       "2 人の話を聞いて学ぼうという気がない人と思われる。",
       "3 会社や学校での評価を気にしない人と思われる。",
       "4 聞いたことを間違って理解する人と思われる。"
     ],
-    "mondai": "",
-    "imageLink": "",
-    "category": "Grammar & Reading",
-    "correct": "2 人の話を聞いて学ぼうという気がない人と思われる。",
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">59</div> 「<ruby>聞く構え<rt>きくかまえ</rt></ruby>」ができていない人について、筆者はどのように述べているか。",
-    "id": 1789257611360.5857
+    "correct": "2 人の話を聞いて学ぼうという気がない人と思われる。"
   },
   {
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">60</div> 読書について、筆者の考えに合うのはどれか。",
+    "id": 1789869295580.7935,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">60</div> 読書について、筆者の考えに合うのはどれか。",
     "options": [
       "1 読書によって、学びの習慣を身につけていくことが大切だ。",
       "2 優れた人の本を読むことで、その人に近づくことができる。",
       "3 新たな目標が見つかったら、その目標に合った本を読むのがいい。",
       "4 歩むべき方向性を決めるには、具体的なアドバイスの本を読むのがいい。"
     ],
-    "id": 1789257611360.1545,
-    "mondai": "",
-    "imageLink": "",
     "correct": "1 読書によって、学びの習慣を身につけていくことが大切だ。"
   },
   {
-    "mondai": "",
-    "imageLink": "",
+    "id": 1789869295580.539,
     "category": "Grammar & Reading",
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(2)</p><p style=\"margin-bottom: 10px;\">紙は私たちの身の回りにあふれているが、日本には一般的に使われている「洋紙」のほかに、古くから使われている「和紙」がある。</p><p style=\"margin-bottom: 10px;\">洋紙は、安い価格で多量に手に入る<ruby>針葉樹<rt>しんようじゅ</rt></ruby>や<ruby>広葉樹<rt>こうようじゅ</rt></ruby>の、皮を取り除いた<ruby>幹<rt>みき</rt></ruby>の部分を原料とする。一方和紙は、主に<ruby>楮<rt>こうぞ</rt></ruby>、<ruby>三椏<rt>みつまた</rt></ruby>、<ruby>雁皮<rt>がんぴ</rt></ruby>という木の、皮の部分を使用する。また、洋紙は表面に<ruby>凹凸<rt>おうとつ</rt></ruby>が少なく印刷に適しているが、和紙は表面が<ruby>滑ら<rt>なめら</rt></ruby>かでなく印刷には向かないという違いがある。しかし、和紙には丈夫で強く、さらに<ruby>劣化<rt>れっか</rt></ruby>しにくいので長期間保存ができるという利点もある。</p><p style=\"margin-bottom: 10px;\">日本では六世紀頃から和紙が使用されていたが、明治時代になり洋紙が輸入され始めると洋紙が一気に広まった。手作業で製造されていた和紙に対し、洋紙は早くから製造過程が機械化され、大量生産による安価で安定した供給が可能であったためである。その結果、<u>和紙は洋紙に対抗できなくなり</u>、和紙産業は<ruby>衰え<rt>おとろ</rt></ruby>た。しかし、これをきっかけに和紙の製造過程も機械化が進められた。</p><p style=\"margin-bottom: 15px;\">現在日本国内で広く用いられているのは洋紙だが、和紙は和紙でなければならない分野で活用されている。書道や絵画だけでなく、その美しさが評価されて<ruby>壁紙<rt>かべがみ</rt></ruby>や<ruby>便箋<rt>びんせん</rt></ruby>、<ruby>封筒<rt>ふうとう</rt></ruby>などにも利用されており、海外でもその価値が<ruby>認め<rt>みと</rt></ruby>られている。また、丈夫で傷みにくいという利点を生かして美術作品などの修理・保存にも使われている。今後も残していきたい伝統文化である。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>幹<rt>みき</rt></ruby>：木の、根から上のほうに伸びて、枝・葉を出す部分</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注2）<ruby>劣化<rt>れっか</rt></ruby>する：品質が低下する</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">61</div> 和紙の特徴として、筆者が述べているのはどれか。",
-    "correct": "4 木の皮の部分を原料とし、長く保存できる。",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(2)</p><p style=\"margin-bottom: 10px;\">紙は私たちの身の回りにあふれているが、日本には一般的に使われている「洋紙」のほかに、古くから使われている「和紙」がある。</p><p style=\"margin-bottom: 10px;\">洋紙は、安い価格で多量に手に入る<ruby>針葉樹<rt>しんようじゅ</rt></ruby>や<ruby>広葉樹<rt>こうようじゅ</rt></ruby>の、皮を取り除いた<ruby>幹<rt>みき</rt></ruby>の部分を原料とする。一方和紙は、主に<ruby>楮<rt>こうぞ</rt></ruby>、<ruby>三椏<rt>みつまた</rt></ruby>、<ruby>雁皮<rt>がんぴ</rt></ruby>という木の、皮の部分を使用する。また、洋紙は表面に<ruby>凹凸<rt>おうとつ</rt></ruby>が少なく印刷に適しているが、和紙は表面が<ruby>滑ら<rt>なめら</rt></がきでなく印刷には向かないという違いがある。しかし、和紙には丈夫で強く、さらに<ruby>劣化<rt>れっか</rt></ruby>しにくいので長期間保存ができるという利点もある。</p><p style=\"margin-bottom: 10px;\">日本では六世紀頃から和紙が使用されていたが、明治時代になり洋紙が輸入され始めると洋紙が一気に広まった。手作業で製造されていた和紙に対し、洋紙は早くから製造過程が機械化され、大量生産による安価で安定した供給が可能であったためである。その結果、<u>和紙は洋紙に対抗できなくなり</u>、和紙産業は<ruby>衰え<rt>おとろ</rt></ruby>た。しかし、これをきっかけに和紙の製造過程も機械化が進められた。</p><p style=\"margin-bottom: 15px;\">現在日本国内で広く用いられているのは洋紙だが、和紙は和紙でなければならない分野で活用されている。書道や絵画だけでなく、その美しさが評価されて<ruby>壁紙<rt>かべがみ</rt></ruby>や<ruby>便箋<rt>びんせん</rt></ruby>、<ruby>封筒<rt>ふうとう</rt></ruby>などにも利用されており、海外でもその価値が<ruby>認め<rt>みと</rt></ruby>られている。また、丈夫で傷みにくいという利点を生かして美術作品などの修理・保存にも使われている。今後も残していきたい伝統文化である。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>幹<rt>みき</rt></ruby>：木の、根から上のほうに伸びて、枝・葉を出す部分</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注2）<ruby>劣化<rt>れっか</rt></ruby>する：品質が低下する</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">61</div> 和紙の特徴として、筆者が述べているのはどれか。",
     "options": [
       "1 木の皮を取り除いた<ruby>幹<rt>みき</rt></ruby>の部分を原料とし、丈夫で破れにくい。",
       "2 木の皮を取り除いた<ruby>幹<rt>みき</rt></ruby>の部分を原料とし、価格が高い。",
       "3 木の皮の部分を原料とし、印刷に適している。",
       "4 木の皮の部分を原料とし、長く保存できる。"
     ],
-    "id": 1789257611360.6743
+    "correct": "4 木の皮の部分を原料とし、長く保存できる。"
   },
   {
-    "mondai": "",
-    "correct": "1 和紙は大量に生産することができなかったから",
-    "id": 1789257611360.9875,
+    "id": 1789869295580.4814,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">62</div> <u>和紙は洋紙に対抗できなくなり</u>とあるが、なぜか。",
     "options": [
       "1 和紙は大量に生産することができなかったから",
       "2 和紙は日本国内であまり利用されていなかったから",
       "3 和紙より洋紙のほうが品質によかったから",
       "4 和紙より洋紙のほうが珍しくて人気があったから"
     ],
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">62</div> <u>和紙は洋紙に対抗できなくなり</u>とあるが、なぜか。",
-    "imageLink": ""
+    "correct": "1 和紙は大量に生産することができなかったから"
   },
   {
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">63</div> 和紙について、筆者はどのように考えているか。",
+    "id": 1789869295580.8918,
     "category": "Grammar & Reading",
-    "id": 1789257611360.3833,
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">63</div> 和紙について、筆者はどのように考えているか。",
     "options": [
       "1 和紙の特徴を生かせるような、新しい利用方法を考えていきたい。",
       "2 海外でも、和紙の価値が認められるようにしていきたい。",
       "3 洋紙のよさを取り入れて、和紙をよりよいものにしたい。",
       "4 洋紙にはない和紙のよさがあるから、守っていきたい。"
     ],
-    "mondai": "",
-    "imageLink": "",
     "correct": "4 洋紙にはない和紙のよさがあるから、守っていきたい。"
   },
   {
-    "correct": "1 自分の期待通りにならないのは自分以外が原因だと考える。",
+    "id": 1789869295580.7761,
+    "category": "Grammar & Reading",
     "imageLink": "",
     "mondai": "",
-    "id": 1789257611360.165,
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(3)</p><p style=\"margin-bottom: 10px;\">現代の若者は、「温かさ」まで人から与えてもらえるものだと期待している。なにもかも、自分に向かって訪れるものだと信じている。だから、そういうものが自分にやってこないと、相手が悪い、周囲が悪い、社会が悪い、国が悪い、経済が悪い、運が悪い、時代が悪いということになってしまう。①<u>そのような分析</u>もけっこうだが、たとえそれらしい原因を見つけても、解決の方法を<ruby>見出<rt>みいだ</rt></ruby>す（注1）ことはできないだろう。自分のことならなんとかが、相手や周囲や社会や国や経済や運や時代は、自分の努力では変えられないからだ。</p><p style=\"margin-bottom: 10px;\">それなのに、解決策がどこかにないだろうか、と②<u>「検索」する</u>。検索で解決するようなものだったら、「問題」とはいえないことにも気づいていない。</p><p style=\"margin-bottom: 10px;\">情報化社会において人は、自分の思うとおりにならないのは、なんらかの情報を自分が「知らなん」せいだ、と<ruby>解釈<rt>かいしゃく</rt></ruby>してしまう。必死になってネット（注2）を検索するのも、また、友達の話や、たまたま耳にしたことを簡単に信じてしまうのも、「知る」ことで問題が解決できると信じているせいだ。</p><p style=\"margin-bottom: 10px;\">検索できるものは、過去に存在した情報だけだ。知ることができるのも、既に存在している知見（注3）だけである。しかし、自分の問題を解決する方法は、自分で考え、<ruby>模索<rt>もさく</rt></ruby>し（注4）、新たに編み出さなければならない（注5）ものなのである。</p><p style=\"margin-bottom: 15px;\">自分の生き方に関する問題は、どこかに解決策が書かれているはずがない。検索しても見つかるはずがない。どんなに同じような道に見えても、<ruby>先輩<rt>せんぱい</rt></ruby>の言葉が全面的に通用するわけでもない。自分で生きながら、見つけるかないのである。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>見出<rt>みいだ</rt></ruby>す：見つける</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）ネット：インターネット</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）知見：ここでは、見方や考え方</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）<ruby>模索<rt>もさく</rt></ruby>する：探し求める</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注5）編み出す：生み出す</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">65</div> ①<u>そのような分析</u>とはどのような分析か。",
     "options": [
       "1 自分の期待通りにならないのは自分以外が原因だと考える。",
       "2 自分の努力では周囲を変えることはできないと考える。",
       "3 自分が持っていないものは人から与えてもらえると考える。",
       "4 周囲や社会で悪いことが起こっても自分とは関係ないと考える。"
     ],
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">(3)</p><p style=\"margin-bottom: 10px;\">現代の若者は、「温かさ」まで人から与えてもらえるものだと期待している。なにもかも、自分に向かって訪れるものだと信じている。だから、そういうものが自分にやってこないと、相手が悪い、周囲が悪い、社会が悪い、国が悪い、経済が悪い、運が悪い、時代が悪いということになってしまう。①<u>そのような分析</u>もけっこうだが、たとえそれらしい原因を見つけても、解決の方法を<ruby>見出<rt>みいだ</rt></ruby>す（注1）ことはできないだろう。自分のことならなんとかが、相手や周囲や社会や国や経済や運や時代は、自分の努力では変えられないからだ。</p><p style=\"margin-bottom: 10px;\">それなのに、解決策がどこかにないだろうか、と②<u>「検索」する</u>。検索で解決するようなものだったら、「問題」とはいえないことにも気づいていない。</p><p style=\"margin-bottom: 10px;\">情報化社会において人は、自分の思うとおりにならないのは、なんらかの情報を自分が「知らなん」せいだ、と<ruby>解釈<rt>かいしゃく</rt></ruby>してしまう。必死になってネット（注2）を検索するのも、また、友達の話や、たまたま耳にしたことを簡単に信じてしまうのも、「知る」ことで問題が解決できると信じているせいだ。</p><p style=\"margin-bottom: 10px;\">検索できるものは、過去に存在した情報だけだ。知ることができるのも、既に存在している知見（注3）だけである。しかし、自分の問題を解決する方法は、自分で考え、<ruby>模索<rt>もさく</rt></ruby>し（注4）、新たに編み出さなければならない（注5）ものなのである。</p><p style=\"margin-bottom: 15px;\">自分の生き方に関する問題は、どこかに解決策が書かれているはずがない。検索しても見つかるはずがない。どんなに同じような道に見えても、<ruby>先輩<rt>せんぱい</rt></ruby>の言葉が全面的に通用するわけでもない。自分で生きながら、見つけるかないのである。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）<ruby>見出<rt>みいだ</rt></ruby>す：見つける</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）ネット：インターネット</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）知見：ここでは、見方や考え方</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）<ruby>模索<rt>もさく</rt></ruby>する：探し求める</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注5）編み出す：生み出す</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">65</div> ①<u>そのような分析</u>とはどのような分析か。"
+    "correct": "1 自分の期待通りにならないのは自分以外が原因だと考える。"
   },
   {
-    "correct": "3 情報を知れば、問題が解決できると思っているから。",
-    "mondai": "",
+    "id": 1789869295580.231,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
     "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">65</div> ②<u>「検索」する</u>のはなぜか。",
     "options": [
       "1 自分で考えた<ruby>策<rt>さく</rt></ruby>が正しいか<ruby>確認<rt>かくにん</rt></ruby>できると思っているから。",
@@ -908,141 +907,140 @@
       "3 情報を知れば、問題が解決できると思っているから。",
       "4 友達の話より信頼できる情報が得られるから。"
     ],
-    "id": 1789257611360.055,
-    "imageLink": ""
+    "correct": "3 情報を知れば、問題が解決できると思っているから。"
   },
   {
-    "correct": "3 自分の問題を解決する方法は自分で考え出すべきだ。",
-    "id": 1789257611360.947,
+    "id": 1789869295580.0222,
+    "category": "Grammar & Reading",
+    "imageLink": "",
     "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">66</div> 筆者が言いたいことは何か。",
     "options": [
       "1 検索した情報に頼らずに人とは違う生き方を見つけるべきだ。",
       "2 周りの人の言葉や情報を生かして自分の問題を解決すべきだ。",
       "3 自分の問題を解決する方法は自分で考え出すべきだ。",
       "4 自分に必要な情報を探して問題を解決すべきだ。"
     ],
-    "imageLink": "",
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">66</div> 筆者が言いたいことは何か。"
+    "correct": "3 自分の問題を解決する方法は自分で考え出すべきだ。"
   },
   {
-    "id": 1789257841137.4194,
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">A</p><p style=\"margin-bottom: 10px;\">旅は準備をする時から始まります。目的地の気候、歴史、文化などについて調べ、どんなことをするか計画を立て、必要なものを準備します。さらに、旅行中に多くのことができるように、無駄のない予定を組み、電車やバスや宿泊場所を予約しておきます。そうすれば、余計なことに時間をとられないで旅を楽しむことができます。</p><p style=\"margin-bottom: 0;\">旅の楽しみは、その土地の名所を訪ねたり名産品を食べたりして、普段の生活とは違う経験をすることだと思います。旅先では予想外の出来事にあうこともありますが、しっかり準備をしておけば、時間やお金を無駄にせずに、楽しい旅ができるでしょう。</p></div><br><div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">B</p><p style=\"margin-bottom: 10px;\">私は行きたいと思ったらすぐ旅に出るのが好きです。駅に行き最初に乗れる電車に乗り、降りたい駅で降りて、その土地の人が勧めてくれる旅館やホテルに泊まります。何を食べるか、次の日に何をするか、どこへ行くかも、土地の人に話を聞くのが一番です。そこには、出発前には知らなかった新しい発見があります。また、新しく知り合った人と気が合えば一緒に行動するのも面白いものです。旅では何が起こるか分かりませんから、<ruby>状況<rt>じょうきょう</rt></ruby>に合わせて好きなように予定を決めればいいのです。日常では味わえない自由な時間が過ごせ、楽しい旅になります。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">67</div> 旅について、AとBはどのように述べているか。",
-    "correct": "3 Aは十分に準備をしたほうがいいと述べ、Bは準備をしなくてもいいと述べている。",
+    "id": 1789869295580.7327,
     "category": "Grammar & Reading",
     "imageLink": "",
+    "mondai": "問題12 次のAからBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">A</p><p style=\"margin-bottom: 10px;\">旅は準備をする時から始まります。目的地の気候、歴史、文化などについて調べ、どんなことをするか計画を立て、必要なものを準備します。さらに、旅行中に多くのことができるように、無駄のない予定を組み、電車やバスや宿泊場所を予約しておきます。そうすれば、余計なことに時間をとられないで旅を楽しむことができます。</p><p style=\"margin-bottom: 0;\">旅の楽しみは、その土地の名所を訪ねたり名産品を食べたりして、普段の生活とは違う経験をすることだと思います。旅先では予想外の出来事にあうこともありますが、しっかり準備をしておけば、時間やお金を無駄にせずに、楽しい旅ができるでしょう。</p></div><br><div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"font-weight: bold; margin-bottom: 10px;\">B</p><p style=\"margin-bottom: 10px;\">私は行きたいと思ったらすぐ旅に出るのが好きです。駅に行き最初に乗れる電車に乗り、降りたい駅で降りて、その土地の人が勧めてくれる旅館やホテルに泊まります。何を食べるか、次の日に何をするか、どこへ行くかも、土地の人に話を聞くのが一番です。そこには、出発前には知らなかった新しい発見があります。また、新しく知り合った人と気が合えば一緒に行動するのも面白いものです。旅では何が起こるか分かりませんから、<ruby>状況<rt>じょうきょう</rt></ruby>に合わせて好きなように予定を決めればいいのです。日常では味わえない自由な時間が過ごせ、楽しい旅になります。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">67</div> 旅について、AとBはどのように述べているか。",
     "options": [
       "1 AもBも、しっかり準備をすることが大切だと述べている。",
       "2 AもBも、準備をしたうえで、<ruby>状況<rt>じょうきょう</rt></ruby>に合わせて予定を変えるのがいいと述べている。",
       "3 Aは十分に準備をしたほうがいいと述べ、Bは準備をしなくてもいいと述べている。",
       "4 Aは準備した計画は変えない方がいいと述べ、Bは準備をする必要はないと述べている。"
     ],
-    "mondai": "問題12 次のAからBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "3 Aは十分に準備をしたほうがいいと述べ、Bは準備をしなくてもいいと述べている。"
   },
   {
+    "id": 1789869295580.315,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">68</div> 旅の楽しみについて、AとBはどのように述べているか。",
     "options": [
       "1 AもBも、その土地の人から話を聞くことだと述べている。",
       "2 AもBも、日々の生活ではできない経験をすることだと述べている。",
       "3 Aは無駄のない時間を過ごすことだと述べ、Bは気分転換をすることだと述べている。",
       "4 Aはその土地でしかできない経験をすることだと述べ、Bは新しい友人を作ることだと述べている。"
     ],
-    "imageLink": "",
-    "mondai": "",
-    "id": 1789257841137.4026,
-    "correct": "2 AもBも、日々の生活ではできない経験をすることだと述べている。",
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">68</div> 旅の楽しみについて、AとBはどのように述べているか。"
+    "correct": "2 AもBも、日々の生活ではできない経験をすることだと述べている。"
   },
   {
+    "id": 1789869295580.3203,
+    "category": "Grammar & Reading",
     "imageLink": "",
-    "correct": "実力を超えているが、部下自身で最後までできるような仕事",
-    "id": 1789258021081.1284,
     "mondai": "問題13 次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"margin-bottom: 10px;\">正しい仕事の任せ方というのは、一体どのようなものだろうか。</p><p style=\"margin-bottom: 10px;\">理想的なのは、部下の実力よりも少し上のレベルの仕事――部下がなんとか自分の力で判断・実行することができ、ときには小さな失敗を招くであろうレベルの仕事を任せることだ。</p><p style=\"margin-bottom: 10px;\"><u>そういう仕事</u>を、段階的にレベルを上げながら与えていくことで、部下は着実に仕事力を磨いていくのだ。</p><p style=\"margin-bottom: 10px;\">ところが、そのような仕事を部下に与えたとしても、日本の会社では、「ホウ・レン・ソウ」（報告・連絡・相談）などといって、上司がいちいち部下の仕事に<ruby>干渉<rt>かんしょう</rt></ruby>（注2）しがちだ。探して結局は、部下に自分の力でハードル（注3）を乗り越えさせないことが多い。</p><p style=\"margin-bottom: 10px;\">たとえば、あるプレゼン資料を部下につくらせるとする。日本の会社の多くの上司は、全体像を示さず、ただ「こういうものをつくれ」と部下に<ruby>曖昧<rt>あいまい</rt></ruby>に命じ、持ってこさせる。</p><p style=\"margin-bottom: 10px;\">そして「ここをこう直せ」と要求し、部下はその意図がわからないまま上司の指示通りに修正をする。そんなことを何度も繰り返す。その結果、部下に身につくのは、エクセルやらパワーポイント（注4）の操作法だけ、ということになる。これでは、レベルの高いプレゼン資料を自分で考え、つり上げる力はつかないだろう。</p><p style=\"margin-bottom: 10px;\">そうではなく、「この資料は、こういう目的で、こういう相手に対して、このように説得するために使用するものだ」という全体像を事前に明確に説明すべきだ。</p><p style=\"margin-bottom: 10px;\">その上で、見本を見せて、あとは部下の<ruby>創意工夫<rt>そういくふう</rt></ruby>（注5）に任せ、部下に<ruby>最善<rt>さいぜん</rt></ruby>だと思う資料ができるまで口出しはしない（注6）ことだ。</p><p style=\"margin-bottom: 10px;\">結果的に出来上がるものが、上司の想定するものと違うこともあるだろう。しかし、その資料をつくる意図、全体像がつかめていれば、なぜいけないのか、どこが悪いのか、どう修正すればよくなるのかがわかるし、上司からの修正指示に納得もできるし、学ぶこともできる。</p><p style=\"margin-bottom: 10px;\">部下は、「いや、そういう目的なら、自分だったらこうするけどな……」と思うかもしれない。それならそれでいいのだ。そういうことを積み重ねながら、最終的には、部下は自分なりの仕事のやり方を確立（注7）していくはずだ。上司では考えられなかったようなレベルの高い資料を作ることも、いずれはあるかもしれない。</p><p style=\"margin-bottom: 10px;\">繰り返すが「部下を教育するのが上司の役目」というのは間違っている。部下を育てるのは「仕事」そのものであり、その仕事をするための「場を与える」のが上司の役目なのである。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）ときには：場合によっては</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）<ruby>干渉<rt>かんしょう</rt></ruby>する：ここでは、必要以上に関わる</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）ハードル：障害</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）エクセルやらパワーポイント：コンピュータのソフト</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注5）<ruby>創意工夫<rt>そういくふう</rt></ruby>：新しいアイデアや工夫</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注6）口出しはしない：ここでは、何も言わない</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注7）確立する：ここでは、しっかり身につける</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">69</div> <u>そういう仕事</u>とはどのような仕事か。",
     "options": [
       "上司の助けがあれば、大きな失敗をしないような仕事",
       "部下が自身の力で問題なくできるような仕事",
       "失敗する可能性があっても、部下自身がしたいと思うような仕事",
       "実力を超えているが、部下自身で最後までできるような仕事"
     ],
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><p style=\"margin-bottom: 10px;\">正しい仕事の任せ方というのは、一体どのようなものだろうか。</p><p style=\"margin-bottom: 10px;\">理想的なのは、部下の実力よりも少し上のレベルの仕事――部下がなんとか自分の力で判断・実行することができ、ときには小さな失敗を招くであろうレベルの仕事を任せることだ。</p><p style=\"margin-bottom: 10px;\"><u>そういう仕事</u>を、段階的にレベルを上げながら与えていくことで、部下は着実に仕事力を磨いていくのだ。</p><p style=\"margin-bottom: 10px;\">ところが、そのような仕事を部下に与えたとしても、日本の会社では、「ホウ・レン・ソウ」（報告・連絡・相談）などといって、上司がいちいち部下の仕事に<ruby>干渉<rt>かんしょう</rt></ruby>（注2）しがちだ。探して結局は、部下に自分の力でハードル（注3）を乗り越えさせないことが多い。</p><p style=\"margin-bottom: 10px;\">たとえば、あるプレゼン資料を部下につくらせるとする。日本の会社の多くの上司は、全体像を示さず、ただ「こういうものをつくれ」と部下に<ruby>曖昧<rt>あいまい</rt></ruby>に命じ、持ってこさせる。</p><p style=\"margin-bottom: 10px;\">そして「ここをこう直せ」と要求し、部下はその意図がわからないまま上司の指示通りに修正をする。そんなことを何度も繰り返す。その結果、部下に身につくのは、エクセルやらパワーポイント（注4）の操作法だけ、ということになる。これでは、レベルの高いプレゼン資料を自分で考え、つり上げる力はつかないだろう。</p><p style=\"margin-bottom: 10px;\">そうではなく、「この資料は、こういう目的で、こういう相手に対して、このように説得するために使用するものだ」という全体像を事前に明確に説明すべきだ。</p><p style=\"margin-bottom: 10px;\">その上で、見本を見せて、あとは部下の<ruby>創意工夫<rt>そういくふう</rt></ruby>（注5）に任せ、部下に<ruby>最善<rt>さいぜん</rt></ruby>だと思う資料ができるまで口出しはしない（注6）ことだ。</p><p style=\"margin-bottom: 10px;\">結果的に出来上がるものが、上司の想定するものと違うこともあるだろう。しかし、その資料をつくる意図、全体像がつかめていれば、なぜいけないのか、どこが悪いのか、どう修正すればよくなるのかがわかるし、上司からの修正指示に納得もできるし、学ぶこともできる。</p><p style=\"margin-bottom: 10px;\">部下は、「いや、そういう目的なら、自分だったらこうするけどな……」と思うかもしれない。それならそれでいいのだ。そういうことを積み重ねながら、最終的には、部下は自分なりの仕事のやり方を確立（注7）していくはずだ。上司では考えられなかったようなレベルの高い資料を作ることも、いずれはあるかもしれない。</p><p style=\"margin-bottom: 10px;\">繰り返すが「部下を教育するのが上司の役目」というのは間違っている。部下を育てるのは「仕事」そのものであり、その仕事をするための「場を与える」のが上司の役目なのである。</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注1）ときには：場合によっては</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注2）<ruby>干渉<rt>かんしょう</rt></ruby>する：ここでは、必要以上に関わる</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注3）ハードル：障害</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注4）エクセルやらパワーポイント：コンピュータのソフト</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注5）<ruby>創意工夫<rt>そういくふう</rt></ruby>：新しいアイデアや工夫</p><p style=\"font-size: 12px; margin-bottom: 2px;\">（注6）口出しはしない：ここでは、何も言わない</p><p style=\"font-size: 12px; margin-bottom: 0;\">（注7）確立する：ここでは、しっかり身につける</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">69</div> <u>そういう仕事</u>とはどのような仕事か。"
+    "correct": "実力を超えているが、部下自身で最後までできるような仕事"
   },
   {
+    "id": 1789869295580.7244,
     "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">70</div> 筆者によると、上司が部下にプレゼン資料を作成させるときに大切なことは何か。",
     "options": [
       "事前に見本を見せて、部下のわからない部分を教えること",
       "事前に全体像を示したら、あとは部下に任せること",
       "部下のアイデアを取り入れた上で、最善の方法を指示すること",
       "最初から完成まで何も言わず、自分のやり方でさせること"
     ],
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">70</div> 筆者によると、上司が部下にプレゼン資料を作成させるときに大切なことは何か。",
-    "mondai": "",
-    "correct": "事前に全体像を示したら、あとは部下に任せること",
-    "imageLink": "",
-    "id": 1789258021081.496
+    "correct": "事前に全体像を示したら、あとは部下に任せること"
   },
   {
-    "mondai": "",
-    "correct": "部下が仕事を通して成長できるような状況をつくること",
+    "id": 1789869295580.2769,
     "category": "Grammar & Reading",
-    "id": 1789258021081.46,
     "imageLink": "",
+    "mondai": "",
     "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">71</div> 筆者によると、上司としてするべきことは何か。",
     "options": [
       "部下が仕事を通して成長できるような状況をつくること",
       "部下が最終的に自分の力で仕事ができるように教育すること",
       "部下が上司を追い越せるようなレベルになるまで育てていくこと",
       "部下が上司の仕事のやり方を学べるような環境を整えること"
-    ]
+    ],
+    "correct": "部下が仕事を通して成長できるような状況をつくること"
   },
   {
+    "id": 1789869295580.4053,
+    "category": "Grammar & Reading",
+    "imageLink": "",
+    "mondai": "問題14 右のページは、ある市の駐輪場の利用案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><h3 style=\"text-align: center; font-size: 16px; margin-top: 0; margin-bottom: 10px;\">2020年度竹本駅周辺駐輪場（自転車）の定期利用のご案内</h3><p style=\"margin-bottom: 15px;\">2020年4月から2021年3月まで竹本駅周辺駐輪場の定期利用の申請を受け付けます。</p><table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 13px; margin-bottom: 10px; border: 1px solid #000;\"><thead><tr style=\"background-color: #eee;\"><th rowspan=\"3\" style=\"border: 1px solid #000; padding: 4px;\">駐輪場</th><th colspan=\"4\" style=\"border: 1px solid #000; padding: 4px;\">年間定期利用料金</th><th rowspan=\"3\" style=\"border: 1px solid #000; padding: 4px;\">設備</th></tr><tr style=\"background-color: #eee;\"><th colspan=\"2\" style=\"border: 1px solid #000; padding: 4px;\">市民*の方</th><th colspan=\"2\" style=\"border: 1px solid #000; padding: 4px;\">市民*以外の方</th></tr><tr style=\"background-color: #eee;\"><th style=\"border: 1px solid #000; padding: 4px;\">一般</th><th style=\"border: 1px solid #000; padding: 4px;\">高校生以下</th><th style=\"border: 1px solid #000; padding: 4px;\">一般</th><th style=\"border: 1px solid #000; padding: 4px;\">高校生以下</th></tr></thead><tbody><tr><td style=\"border: 1px solid #000; padding: 4px;\">A 竹本駅東駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">4000円</td><td style=\"border: 1px solid #000; padding: 4px;\">8000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人なし</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">B 竹本駅西駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">5500円</td><td style=\"border: 1px solid #000; padding: 4px;\">3500円</td><td style=\"border: 1px solid #000; padding: 4px;\">7500円</td><td style=\"border: 1px solid #000; padding: 4px;\">4500円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人なし</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">C 谷山通り駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">7000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">9000円</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人あり</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">D 東町駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">7000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人あり</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">E 池中駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">5500円</td><td style=\"border: 1px solid #000; padding: 4px;\">3500円</td><td style=\"border: 1px solid #000; padding: 4px;\">7500円</td><td style=\"border: 1px solid #000; padding: 4px;\">4500円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根なし<br>管理人あり</td></tr></tbody></table><p style=\"font-size: 13px; margin-bottom: 10px;\">＊市民は以下の①〜③のいずれかに当てはまる方です。<br>①竹本市にお住まいの方 ②竹本市に通勤されている方 ③竹本市に通学されている方</p><p style=\"font-size: 13px; margin-bottom: 2px;\">【申し込み期間】 継続して利用される方：2020年1月6日から1月31日まで<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初めて利用される方：2020年2月3日から2月28日まで</p><p style=\"font-size: 13px; margin-bottom: 2px;\">【申し込み窓口】 A、B：駐輪場センター［竹本駅前］（受付：午前8時〜午後6時）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C〜E：各駐輪場の管理人室（受付：午前7時〜午後9時）</p><p style=\"font-size: 13px; margin-bottom: 10px;\">【申し込み方法】<br>・指定の申し込み窓口で申請書をご提出ください。ご提出の際には、身分証明証（高校生以下の方は学生証）をご提示ください。<br>・現在、定期利用中で来年度も継続して申請をされる方は、登録証を更新しますので現在利用中の登録証をお持ちください。</p><p style=\"font-size: 13px; margin-bottom: 0;\">【支払い】<br>3月13日までに指定の金融機関で利用料金をお支払いください。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">72</div> 竹本市にある会社に勤めているヨランダさんは、駐輪場の定期利用を申請したいと思っている。屋根があって、管理人がいる駐輪場がいい。ヨランダさんの希望に合う駐輪場はどれで、払うことになる料金はいくらか。",
     "options": [
       "Bの5500円か、CかDの7000円",
       "CかDの7000円",
       "CかDの9000円",
       "CかDの9000円か、Eの7500円"
     ],
-    "category": "Grammar & Reading",
-    "question": "<div style=\"border: 2px solid #000; padding: 15px; font-family: sans-serif; line-height: 1.8; max-width: 650px; margin: 0 auto; background-color: #fff; box-sizing: border-box;\"><h3 style=\"text-align: center; font-size: 16px; margin-top: 0; margin-bottom: 10px;\">2020年度竹本駅周辺駐輪場（自転車）の定期利用のご案内</h3><p style=\"margin-bottom: 15px;\">2020年4月から2021年3月まで竹本駅周辺駐輪場の定期利用の申請を受け付けます。</p><table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 13px; margin-bottom: 10px; border: 1px solid #000;\"><thead><tr style=\"background-color: #eee;\"><th rowspan=\"3\" style=\"border: 1px solid #000; padding: 4px;\">駐輪場</th><th colspan=\"4\" style=\"border: 1px solid #000; padding: 4px;\">年間定期利用料金</th><th rowspan=\"3\" style=\"border: 1px solid #000; padding: 4px;\">設備</th></tr><tr style=\"background-color: #eee;\"><th colspan=\"2\" style=\"border: 1px solid #000; padding: 4px;\">市民*の方</th><th colspan=\"2\" style=\"border: 1px solid #000; padding: 4px;\">市民*以外の方</th></tr><tr style=\"background-color: #eee;\"><th style=\"border: 1px solid #000; padding: 4px;\">一般</th><th style=\"border: 1px solid #000; padding: 4px;\">高校生以下</th><th style=\"border: 1px solid #000; padding: 4px;\">一般</th><th style=\"border: 1px solid #000; padding: 4px;\">高校生以下</th></tr></thead><tbody><tr><td style=\"border: 1px solid #000; padding: 4px;\">A 竹本駅東駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">4000円</td><td style=\"border: 1px solid #000; padding: 4px;\">8000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人なし</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">B 竹本駅西駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">5500円</td><td style=\"border: 1px solid #000; padding: 4px;\">3500円</td><td style=\"border: 1px solid #000; padding: 4px;\">7500円</td><td style=\"border: 1px solid #000; padding: 4px;\">4500円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人なし</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">C 谷山通り駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">7000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">9000円</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人あり</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">D 東町駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">7000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">5000円</td><td style=\"border: 1px solid #000; padding: 4px;\">6000円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根あり<br>管理人あり</td></tr><tr><td style=\"border: 1px solid #000; padding: 4px;\">E 池中駐輪場</td><td style=\"border: 1px solid #000; padding: 4px;\">5500円</td><td style=\"border: 1px solid #000; padding: 4px;\">3500円</td><td style=\"border: 1px solid #000; padding: 4px;\">7500円</td><td style=\"border: 1px solid #000; padding: 4px;\">4500円</td><td style=\"border: 1px solid #000; padding: 4px;\">屋根なし<br>管理人あり</td></tr></tbody></table><p style=\"font-size: 13px; margin-bottom: 10px;\">＊市民は以下の①〜③のいずれかに当てはまる方です。<br>①竹本市にお住まいの方 ②竹本市に通勤されている方 ③竹本市に通学されている方</p><p style=\"font-size: 13px; margin-bottom: 2px;\">【申し込み期間】 継続して利用される方：2020年1月6日から1月31日まで<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初めて利用される方：2020年2月3日から2月28日まで</p><p style=\"font-size: 13px; margin-bottom: 2px;\">【申し込み窓口】 A、B：駐輪場センター［竹本駅前］（受付：午前8時〜午後6時）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C〜E：各駐輪場の管理人室（受付：午前7時〜午後9時）</p><p style=\"font-size: 13px; margin-bottom: 10px;\">【申し込み方法】<br>・指定の申し込み窓口で申請書をご提出ください。ご提出の際には、身分証明証（高校生以下の方は学生証）をご提示ください。<br>・現在、定期利用中で来年度も継続して申請をされる方は、登録証を更新しますので現在利用中の登録証をお持ちください。</p><p style=\"font-size: 13px; margin-bottom: 0;\">【支払い】<br>3月13日までに指定の金融機関で利用料金をお支払いください。</p></div><br><div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">72</div> 竹本市にある会社に勤めているヨランダさんは、駐輪場の定期利用を申請したいと思っている。屋根があって、管理人がいる駐輪場がいい。ヨランダさんの希望に合う駐輪場はどれで、払うことになる料金はいくらか。",
-    "imageLink": "",
-    "correct": "CかDの7000円",
-    "id": 1789258292605.4072,
-    "mondai": "問題14 右のページは、ある市の駐輪場の利用案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。"
+    "correct": "CかDの7000円"
   },
   {
-    "mondai": "",
-    "correct": "1月6日から1月31日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。",
-    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">73</div> タンさんは、現在、「竹本駅東駐輪場」を定期利用している。2020年4月から、継続して利用したい場合は、どのように申し込まなければならないか。",
-    "imageLink": "",
+    "id": 1789869295580.3174,
     "category": "Grammar & Reading",
-    "id": 1789258292605.616,
+    "imageLink": "",
+    "mondai": "",
+    "question": "<div style=\"border: 1px solid #000; display: inline-block; padding: 2px 8px; font-weight: bold; margin-bottom: 10px; border-radius: 3px;\">73</div> タンさんは、現在、「竹本駅東駐輪場」を定期利用している。2020年4月から、継続して利用したい場合は、どのように申し込まなければならないか。",
     "options": [
       "1月6日から1月31日の間に竹本駅東駐輪場の管理人室に行き、申請書を提出し、身分証明証を提示する。",
       "1月6日から1月31日の間に竹本駅東駐輪場の管理人室に行き、申請書、登録証を提出し、身分証明証を提示する。",
       "1月6日から1月31日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。",
       "2月3日から2月28日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。"
-    ]
+    ],
+    "correct": "1月6日から1月31日の間に駐輪場センターに行き、申請書、登録証を提出し、身分証明証を提示する。"
   },
   {
+    "id": 1789870028143.6426,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "1番",
     "options": [
       "れいぞうこを友達にあげる",
       "れいぞうこをそだいゴミとして出す",
       "市役所で手続きをする",
       "ひっこし会社に問い合わせる"
     ],
-    "id": 1789259244056.8486,
-    "imageLink": "",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "question": "1番",
-    "correct": "ひっこし会社に問い合わせる"
+    "correct": "ひっこし会社に問い合わせる",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "correct": "文をつなぐ言葉を追加する",
+    "id": 1789870028143.339,
     "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "imageLink": "",
+    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
     "question": "2番",
     "options": [
       "じこしょうかいをいれる",
@@ -1050,30 +1048,29 @@
       "文をつなぐ言葉を追加する",
       "全体的に短くする"
     ],
-    "id": 1789259244056.0273,
-    "imageLink": ""
+    "correct": "文をつなぐ言葉を追加する",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "question": "3番",
-    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.3213,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "3番",
     "options": [
       "内側に折り、ボタンで留める",
       "内側に折り、糸で留める",
       "外側に折り、ボタンで留める",
       "外側に折り、糸で留める"
     ],
-    "imageLink": "",
-    "id": 1789259244056.9138,
-    "correct": "外側に折り、糸で留める"
+    "correct": "外側に折り、糸で留める",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "id": 1789259244056.8804,
-    "correct": "社長の予定をかくにんする",
+    "id": 1789870028143.993,
     "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "imageLink": "",
+    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
     "question": "4番",
     "options": [
       "社長の予定をかくにんする",
@@ -1081,149 +1078,149 @@
       "会場を予約する",
       "しょうたいする人のめいぼを作る"
     ],
-    "imageLink": ""
+    "correct": "社長の予定をかくにんする",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.8713,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "5番",
     "options": [
       "ペンキぬりを手伝う",
       "自転車置き場のそうじをする",
       "自分の自転車を駐車場に運ぶ",
       "自転車のかぎを預ける"
     ],
-    "mondai": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "id": 1789259244056.6892,
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "category": "Listening",
-    "imageLink": "",
-    "question": "5番",
-    "correct": "自分の自転車を駐車場に運ぶ"
+    "correct": "自分の自転車を駐車場に運ぶ",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "id": 1789259373435.1306,
-    "correct": "紙の書籍を電子データにできるから",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.8188,
     "category": "Listening",
     "imageLink": "",
+    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
     "question": "1番",
     "options": [
       "写真がきれいにいんさつできるから",
       "インクの容量が大きいから",
       "いんさつのスピードが速いから",
       "紙の書籍を電子データにできるから"
-    ]
+    ],
+    "correct": "紙の書籍を電子データにできるから",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "id": 1789259373435.1167,
-    "correct": "きかくした商品を知人がほめてくれたこと",
+    "id": 1789870028143.0637,
+    "category": "Listening",
     "imageLink": "",
+    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "2番",
     "options": [
       "きかくした商品の売り上げが1位になったこと",
       "じょうしが自由に仕事をさせてくれたこと",
       "きかくした商品を知人がほめてくれたこと",
       "次のきかくへの期待が高いこと"
     ],
-    "question": "2番",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "category": "Listening",
-    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。"
+    "correct": "きかくした商品を知人がほめてくれたこと",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.4927,
+    "category": "Listening",
     "imageLink": "",
-    "id": 1789259373435.0833,
+    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "3番",
     "options": [
       "この教室でボランティアをしたことがある人",
       "遊びを教えるのが上手な人",
       "子どもの話を聞いてあげられる人",
       "勉強を教えるのが上手な人"
     ],
-    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "question": "3番",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "correct": "子どもの話を聞いてあげられる人"
+    "correct": "子どもの話を聞いてあげられる人",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "id": 1789259373435.0244,
-    "imageLink": "",
-    "correct": "買い物の間ずっとそばにいたこと",
-    "question": "4番",
+    "id": 1789870028143.5952,
     "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "imageLink": "",
+    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "4番",
     "options": [
       "店に入るとすぐ話しかけてきたこと",
       "買い物の間ずっとそばにいたこと",
       "言葉遣いが難しかったこと",
       "高い商品をすすめられてきたこと"
     ],
-    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。"
+    "correct": "買い物の間ずっとそばにいたこと",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.2969,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "5番",
     "options": [
       "こどものためのきかくを増やす",
       "大人向けのイベントを夜も行う",
       "学習スペースのせつびをよくする",
       "図書館のせんでんのしかたを工夫する"
     ],
-    "question": "5番",
-    "id": 1789259373435.712,
-    "imageLink": "",
-    "correct": "大人向けのイベントを夜も行う"
+    "correct": "大人向けのイベントを夜も行う",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "imageLink": "",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.9854,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
     "question": "(1)",
-    "id": 1789259495198.6653,
-    "correct": "2"
-  },
-  {
-    "correct": "2",
-    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "category": "Listening",
-    "id": 1789259495198.6172,
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "question": "(2)",
-    "imageLink": "",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
-  },
-  {
     "options": [
       "1",
       "2",
       "3",
       "4"
     ],
-    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "category": "Listening",
-    "imageLink": "",
-    "correct": "4",
-    "question": "(3)",
-    "id": 1789259495198.6921
+    "correct": "2",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "correct": "1",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.853,
     "category": "Listening",
-    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
     "imageLink": "",
+    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+    "question": "(2)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": "2",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
+  },
+  {
+    "id": 1789870028143.9487,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+    "question": "(3)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": "4",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
+  },
+  {
+    "id": 1789870028143.368,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
     "question": "(4)",
     "options": [
       "1",
@@ -1231,96 +1228,97 @@
       "3",
       "4"
     ],
-    "id": 1789259495198.226
+    "correct": "1",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.5583,
+    "category": "Listening",
     "imageLink": "",
-    "correct": "3",
-    "id": 1789259495198.973,
+    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+    "question": "(5)",
     "options": [
       "1",
       "2",
       "3",
       "4"
     ],
-    "question": "(5)",
-    "category": "Listening",
-    "mondai": "問題3では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容かを問く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3"
+    "correct": "3",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "id": 1789259639544.7236,
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "imageLink": "",
+    "id": 1789870028143.0857,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(1)",
-    "correct": "1"
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "1",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.2966,
+    "category": "Listening",
     "imageLink": "",
     "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+    "question": "(2)",
     "options": [
       "1",
       "2",
       "3"
     ],
-    "id": 1789259639544.0557,
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
     "correct": "2",
-    "question": "(2)"
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
+    "id": 1789870028143.8433,
+    "category": "Listening",
+    "imageLink": "",
     "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(3)",
-    "imageLink": "",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "id": 1789259639544.773,
-    "correct": "2"
-  },
-  {
     "options": [
       "1",
       "2",
       "3"
     ],
-    "id": 1789259639544.35,
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "imageLink": "",
-    "correct": "3",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "category": "Listening",
-    "question": "(4)"
+    "correct": "2",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.2058,
     "category": "Listening",
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "imageLink": "",
-    "question": "(5)",
-    "correct": "3",
-    "id": 1789259639544.795,
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+    "question": "(4)",
     "options": [
       "1",
       "2",
       "3"
-    ]
+    ],
+    "correct": "3",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "correct": "1",
-    "id": 1789259639544.5833,
+    "id": 1789870028143.847,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+    "question": "(5)",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "3",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
+  },
+  {
+    "id": 1789870028143.8289,
+    "category": "Listening",
     "imageLink": "",
     "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(6)",
@@ -1329,137 +1327,137 @@
       "2",
       "3"
     ],
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3"
-  },
-  {
     "correct": "1",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
+  },
+  {
+    "id": 1789870028143.8608,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(7)",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "id": 1789259639544.37,
     "options": [
       "1",
       "2",
       "3"
     ],
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "imageLink": ""
+    "correct": "1",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.063,
+    "category": "Listening",
     "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+    "question": "(8)",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
     "correct": "3",
-    "id": 1789259639544.332,
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "question": "(8)"
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "id": 1789259639544.202,
+    "id": 1789870028143.6174,
+    "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(9)",
-    "imageLink": "",
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "correct": "3"
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "3",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "imageLink": "",
-    "correct": "2",
-    "id": 1789259639544.0596,
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.2798,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(10)",
     "options": [
       "1",
       "2",
       "3"
-    ]
+    ],
+    "correct": "2",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
-    "correct": "1",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
+    "id": 1789870028143.7754,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題4では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
     "question": "(11)",
     "options": [
       "1",
       "2",
       "3"
     ],
-    "id": 1789259639544.464,
-    "imageLink": ""
+    "correct": "1",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
+    "id": 1789870028143.9087,
     "category": "Listening",
+    "imageLink": "",
+    "mondai": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。\n1番、2番問題用紙に何も印刷されていません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
     "question": "1番",
-    "mondai": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。\n1番、2番問題用紙に何も印刷されていません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "id": 1789259760011.0813,
-    "correct": "2",
-    "imageLink": ""
-  },
-  {
     "options": [
       "1",
       "2",
       "3",
       "4"
     ],
+    "correct": "2",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
+  },
+  {
+    "id": 1789870028143.1797,
+    "category": "Listening",
+    "imageLink": "",
     "mondai": "問題5では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモをとってもかまいません。\n1番、2番問題用紙に何も印刷されていません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "id": 1789259760011.4753,
+    "question": "2番",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
     "correct": "4",
-    "imageLink": "",
-    "question": "2番"
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.6008,
+    "category": "Listening",
+    "imageLink": "",
     "mondai": "まず話を聞いてください。それから、二つの質問を聞いて、それぞれ問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "3番 質問1",
     "options": [
       "東小学校",
       "西小学校",
       "南小学校",
       "北小学校"
     ],
-    "imageLink": "",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
-    "question": "3番 質問1",
-    "id": 1789259760011.8071,
-    "correct": "西小学校"
+    "correct": "西小学校",
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   },
   {
+    "id": 1789870028143.708,
+    "category": "Listening",
     "imageLink": "",
+    "mondai": "まず話を聞いてください。それから、二つの質問を聞いて、それぞれ問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+    "question": "3番 質問2",
     "options": [
       "東小学校",
       "西小学校",
       "南小学校",
       "北小学校"
     ],
-    "question": "3番 質問2",
-    "category": "Listening",
-    "audioUrl": "https://res.cloudinary.com/dlgftyhmj/video/upload/v1789259929/l2cp3jnctzd8f26ga9yx.mp3",
     "correct": "東小学校",
-    "id": 1789259760011.576,
-    "mondai": "まず話を聞いてください。それから、二つの質問を聞いて、それぞれ問題用紙の1から4の中から、最もよいものを一つ選んでください。"
+    "audioUrl": "GitHub သို့ Upload လုပ်နေသည်..."
   }
 ]
