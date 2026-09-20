@@ -45,6 +45,7 @@
     "id": 1789883417416.8228,
     "category": "Vocabulary",
     "imageLink": "",
+    "imagePublicId": "",
     "mondai": "問題1 ___ の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
     "question": "4",
     "options": [
@@ -53,7 +54,8 @@
       "ちょうさつ",
       "ちょうせつ"
     ],
-    "correct": "ちょうせい"
+    "correct": "ちょうせつ",
+    "audioUrl": ""
   },
   {
     "id": 1789883417416.1658,
