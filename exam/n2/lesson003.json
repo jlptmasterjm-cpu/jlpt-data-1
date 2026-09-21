@@ -1421,19 +1421,5 @@
       "3"
     ],
     "correct": "2"
-  },
-  {
-    "id": 1789959166763.7085,
-    "category": "Listening",
-    "imageLink": "",
-    "mondai": "",
-    "question": "3番 質問2",
-    "options": [
-      "1. 1番のCD",
-      "2. 2番のCD",
-      "3. 3番のCD",
-      "4. 4番のCD"
-    ],
-    "correct": "3. 3番のCD"
   }
 ]
