@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794133332558,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "毎日 練習した（　）、試合に 勝てなかった。",
+    "question_my": "「毎日 練習した（　）、試合に 勝てなかった。」— နေ့စဉ် လေ့ကျင့်ခဲ့ (　) ပွဲမှာ မအောင်ခဲ့ဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "ために",
+        "romaji": "tame ni",
+        "is_correct": false,
+        "explain_my": "❌ 「ために」= အကြောင်းရင်း။"
+      },
+      {
+        "id": 2,
+        "text": "ように",
+        "romaji": "you ni",
+        "is_correct": false,
+        "explain_my": "❌ 「ように」= ရည်ရွယ်ချက်။"
+      },
+      {
+        "id": 3,
+        "text": "のに",
+        "romaji": "noni",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜のに」= ~ပေမဲ့ (နောင်တ/မကျေနပ်မှု)။"
+      },
+      {
+        "id": 4,
+        "text": "ので",
+        "romaji": "node",
+        "is_correct": false,
+        "explain_my": "❌ 「ので」= အကြောင်းရင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜のに」= ~ပေမဲ့ (မျှော်လင့်ချက် မကိုက်)။"
+  },
+  {
+    "id": 1794133332559,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "日本に 留学する（　）、日本語を 勉強しています。",
+    "question_my": "「日本に 留学する（　）、日本語を 勉強しています。」— ဂျပန်ကို ကျောင်းသွားတက်ဖို့ (　) ဂျပန်စာ လေ့လာနေတယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "ために",
+        "romaji": "tame ni",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-る + ために」= ~ရည်ရွယ်ချက်နဲ့။"
+      },
+      {
+        "id": 2,
+        "text": "ように",
+        "romaji": "you ni",
+        "is_correct": false,
+        "explain_my": "❌ 「ように」က ပုံမှန်အားဖြင့် မဖြစ်နိုင်တဲ့ ကြိယာတွေနဲ့ တွဲ။"
+      },
+      {
+        "id": 3,
+        "text": "のに",
+        "romaji": "noni",
+        "is_correct": false,
+        "explain_my": "❌ 「のに」= ~ပေမဲ့။"
+      },
+      {
+        "id": 4,
+        "text": "ので",
+        "romaji": "node",
+        "is_correct": false,
+        "explain_my": "❌ 「ので」= အကြောင်းရင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-る + ために」= ~ရည်ရွယ်ချက်နဲ့။"
+  },
+  {
+    "id": 1794133332560,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "先生の 話を 聞き（　）メモを とります。",
+    "question_my": "「先生の 話を 聞き（　）メモを とります。」— ဆရာရဲ့ စကားကို နားထောင်ရင်း (　) မှတ်စု ယူတယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "たら",
+        "romaji": "tara",
+        "is_correct": false,
+        "explain_my": "❌ 「たら」= conditional။"
+      },
+      {
+        "id": 2,
+        "text": "なら",
+        "romaji": "nara",
+        "is_correct": false,
+        "explain_my": "❌ 「なら」= 「~ဆိုရင်」။"
+      },
+      {
+        "id": 3,
+        "text": "ても",
+        "romaji": "temo",
+        "is_correct": false,
+        "explain_my": "❌ 「ても」= 「~ပေမဲ့」။"
+      },
+      {
+        "id": 4,
+        "text": "ながら",
+        "romaji": "nagara",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-masu stem + ながら」= ~ရင်း (တစ်ချိန်တည်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-masu stem + ながら」= ~ရင်း။"
+  },
+  {
+    "id": 1794133332561,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼は 来ない（　）です。もう 夜の 10時ですから。",
+    "question_my": "「彼は 来ない（　）です。もう 夜の 10時ですから。」— သူ မလာတော့ (　)။ ည ၁၀ နာရီ ရောက်နေပြီ။",
+    "options": [
+      {
+        "id": 1,
+        "text": "そう",
+        "romaji": "sou",
+        "is_correct": false,
+        "explain_my": "❌ 「そう」က ကြားရတာ/ကြည့်ရတာ။"
+      },
+      {
+        "id": 2,
+        "text": "はず",
+        "romaji": "hazu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「普通形 + はずだ」= ~သင့်တယ် (ယုတ္တိအရ)။"
+      },
+      {
+        "id": 3,
+        "text": "ため",
+        "romaji": "tame",
+        "is_correct": false,
+        "explain_my": "❌ 「ため」က ဒီနေရာမှာ မသင့်။"
+      },
+      {
+        "id": 4,
+        "text": "つもり",
+        "romaji": "tsumori",
+        "is_correct": false,
+        "explain_my": "❌ 「つもり」= ရည်ရွယ်ချက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜はずだ」= ~သင့်တယ်။"
+  },
+  {
+    "id": 1794133332562,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "この 本は 読めば 読む（　）おもしろくなります。",
+    "question_my": "「この 本は 読めば 読む（　）おもしろくなります。」— ဒီစာအုပ်က ဖတ်လေဖတ်လေ ပိုစိတ်ဝင်စားဖို့ကောင်း (　) လာတယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "くらい",
+        "romaji": "kurai",
+        "is_correct": false,
+        "explain_my": "❌ 「くらい」= အတိုင်းအတာ/ခန့်။"
+      },
+      {
+        "id": 2,
+        "text": "しか",
+        "romaji": "shika",
+        "is_correct": false,
+        "explain_my": "❌ 「しか」= 「~ပဲ」(အနုတ်)။"
+      },
+      {
+        "id": 3,
+        "text": "ほど",
+        "romaji": "hodo",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「Aば Aほど B」= A လေလေ B လေလေ။"
+      },
+      {
+        "id": 4,
+        "text": "ばかり",
+        "romaji": "bakari",
+        "is_correct": false,
+        "explain_my": "❌ 「ばかり」= 「~ပဲ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「Aば Aほど B」= A လေလေ B လေလေ။"
+  },
+  {
+    "id": 1794133332563,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "明日は 試験だから、今晩 勉強する（　）です。",
+    "question_my": "「明日は 試験だから、今晩 勉強する（　）です。」— မနက်ဖန် စာမေးပွဲမို့ ဒီည စာလုပ်ဖို့ (　)။",
+    "options": [
+      {
+        "id": 1,
+        "text": "ため",
+        "romaji": "tame",
+        "is_correct": false,
+        "explain_my": "❌ 「ため」က ဒီနေရာမှာ မသင့်။"
+      },
+      {
+        "id": 2,
+        "text": "はず",
+        "romaji": "hazu",
+        "is_correct": false,
+        "explain_my": "❌ 「はず」= ~သင့်တယ်။"
+      },
+      {
+        "id": 3,
+        "text": "そう",
+        "romaji": "sou",
+        "is_correct": false,
+        "explain_my": "❌ 「そう」က ကြားရတာ/ကြည့်ရတာ။"
+      },
+      {
+        "id": 4,
+        "text": "つもり",
+        "romaji": "tsumori",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-る + つもりだ」= ~ရည်ရွယ်ချက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-る + つもりだ」= ~ရည်ရွယ်ချက်။"
+  },
+  {
+    "id": 1794133332564,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼が そんな ことを する（　）が ありません。",
+    "question_my": "「彼が そんな ことを する（　）が ありません。」— သူ ဒါမျိုး လုပ်လိမ့်မယ်ဆိုတာ မဖြစ်နိုင် (　) မရှိဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "わけ",
+        "romaji": "wake",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜わけがない」= ~ဖြစ်နိုင်စရာ မရှိဘူး။"
+      },
+      {
+        "id": 2,
+        "text": "はず",
+        "romaji": "hazu",
+        "is_correct": false,
+        "explain_my": "❌ 「はずがない」လည်း ရပေမဲ့ ဒီနေရာမှာ 「わけ」ပဲ။"
+      },
+      {
+        "id": 3,
+        "text": "こと",
+        "romaji": "koto",
+        "is_correct": false,
+        "explain_my": "❌ 「ことがない」= ~ဖူးတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "もの",
+        "romaji": "mono",
+        "is_correct": false,
+        "explain_my": "❌ 「ものがない」ဆိုတဲ့ ပုံစံ မရှိ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜わけがない」= ~ဖြစ်နိုင်စရာ မရှိ။"
+  },
+  {
+    "id": 1794133332565,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "雨が 降り（　）ですから、かさを 持って 行きなさい。",
+    "question_my": "「雨が 降り（　）ですから、かさを 持って 行きなさい。」— မိုးရွာမယ့် (　) မို့ ထီး ယူသွားပါ။",
+    "options": [
+      {
+        "id": 1,
+        "text": "そう",
+        "romaji": "sou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-masu stem + そう」= ~ပုံရတယ်။"
+      },
+      {
+        "id": 2,
+        "text": "はず",
+        "romaji": "hazu",
+        "is_correct": false,
+        "explain_my": "❌ 「はず」= ~သင့်တယ်။"
+      },
+      {
+        "id": 3,
+        "text": "つもり",
+        "romaji": "tsumori",
+        "is_correct": false,
+        "explain_my": "❌ 「つもり」= ရည်ရွယ်ချက်။"
+      },
+      {
+        "id": 4,
+        "text": "ため",
+        "romaji": "tame",
+        "is_correct": false,
+        "explain_my": "❌ 「ため」က ဒီနေရာမှာ မသင့်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-masu stem + そう」= ~ပုံရ။"
+  },
+  {
+    "id": 1794133332566,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "友達の 田中さんは 私（　）親切です。",
+    "question_my": "「友達の 田中さんは 私（　）親切です。」— သူငယ်ချင်း တနာကာက ကျွန်တော့် (　) ကြင်နာတယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "について",
+        "romaji": "ni tsuite",
+        "is_correct": false,
+        "explain_my": "❌ 「について」= ~အကြောင်း။"
+      },
+      {
+        "id": 2,
+        "text": "によって",
+        "romaji": "ni yotte",
+        "is_correct": false,
+        "explain_my": "❌ 「によって」= ကြောင့်/အားဖြင့်။"
+      },
+      {
+        "id": 3,
+        "text": "に対して",
+        "romaji": "ni taishite",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜に対して」= ~အပေါ် (သဘောထား)။"
+      },
+      {
+        "id": 4,
+        "text": "にとって",
+        "romaji": "ni totte",
+        "is_correct": false,
+        "explain_my": "❌ 「にとって」= ~အတွက် (ရှုထောင့်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜に対して」= ~အပေါ်။"
+  },
+  {
+    "id": 1794133332567,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼は 医者（　）して 働いています。",
+    "question_my": "「彼は 医者（　）して 働いています。」— သူ ဆရာဝန် (　) အလုပ်လုပ်နေတယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "として",
+        "romaji": "to shite",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜として」= ~အဖြစ် (role)။"
+      },
+      {
+        "id": 2,
+        "text": "について",
+        "romaji": "ni tsuite",
+        "is_correct": false,
+        "explain_my": "❌ 「について」= ~အကြောင်း။"
+      },
+      {
+        "id": 3,
+        "text": "によって",
+        "romaji": "ni yotte",
+        "is_correct": false,
+        "explain_my": "❌ 「によって」= ကြောင့်/အားဖြင့်။"
+      },
+      {
+        "id": 4,
+        "text": "に対して",
+        "romaji": "ni taishite",
+        "is_correct": false,
+        "explain_my": "❌ 「に対して」= ~အပေါ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜として」= ~အဖြစ်။"
+  },
+  {
+    "id": 1794133332568,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "病気の（　）、学校を 休みました。",
+    "question_my": "「病気の（　）、学校を 休みました。」— ဖျားနာ (　) ကျောင်း ခွင့်ယူခဲ့တယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "から",
+        "romaji": "kara",
+        "is_correct": false,
+        "explain_my": "❌ 「から」= ကြောင့်။ 「病気のから」မရှိ။"
+      },
+      {
+        "id": 2,
+        "text": "ため",
+        "romaji": "tame",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「N-の + ため」= ~ကြောင့်။"
+      },
+      {
+        "id": 3,
+        "text": "ので",
+        "romaji": "node",
+        "is_correct": false,
+        "explain_my": "❌ 「ので」က 「病気なので」ပဲ။"
+      },
+      {
+        "id": 4,
+        "text": "のに",
+        "romaji": "noni",
+        "is_correct": false,
+        "explain_my": "❌ 「のに」= ~ပေမဲ့။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「N-の + ため」= ~ကြောင့်။"
+  }
+]
