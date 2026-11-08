@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「妥協」の読み方は何ですか？",
+    "question_my": "「妥協」(အပေးအယူ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "だきょう",
+        "romaji": "Dakyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「妥協」= だきょう (အပေးအယူ)။ 「妥」= だ · 「協」= きょう။"
+      },
+      {
+        "id": 2,
+        "text": "だっきゃく",
+        "romaji": "Dakkyaku",
+        "is_correct": false,
+        "explain_my": "❌ 「だっきゃく」= 「脱却」(လွတ်မြောက်)။ 「妥協」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "きょうりょく",
+        "romaji": "Kyouryoku",
+        "is_correct": false,
+        "explain_my": "❌ 「きょうりょく」= 「協力」(ပူးပေါင်း)။ 「妥協」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "だとう",
+        "romaji": "Datou",
+        "is_correct": false,
+        "explain_my": "❌ 「だとう」= 「妥当」(သင့်လျော်)။ 「妥協」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 妥協 = だきょう · 脱却 = だっきゃく · 協力 = きょうりょく · 妥当 = だとう"
+  },
+  {
+    "id": 2,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「把握」の読み方は何ですか？",
+    "question_my": "「把握」(နားလည်ဆုပ်ကိုင်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "はあく",
+        "romaji": "Haaku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「把握」= はあく (နားလည်ဆုပ်ကိုင်)။ 「把」= は · 「握」= あく။"
+      },
+      {
+        "id": 2,
+        "text": "はくし",
+        "romaji": "Hakushi",
+        "is_correct": false,
+        "explain_my": "❌ 「はくし」= 「白紙」(စာရွက်ဖြူ)။ 「把握」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "あくしゅ",
+        "romaji": "Akushu",
+        "is_correct": false,
+        "explain_my": "❌ 「あくしゅ」= 「握手」(လက်ဆွဲနှုတ်ဆက်)။ 「把握」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "はんあく",
+        "romaji": "Han'aku",
+        "is_correct": false,
+        "explain_my": "❌ ဒီစကားလုံး မရှိပါ။ 「把握」= はあく သာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 把握 = はあく · 白紙 = はくし · 握手 = あくしゅ"
+  },
+  {
+    "id": 3,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「矛盾」の読み方は何ですか？",
+    "question_my": "「矛盾」(ကွဲလွဲမှု) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "むじゅん",
+        "romaji": "Mujun",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「矛盾」= むじゅん (ကွဲလွဲမှု)။ 「矛」= む · 「盾」= じゅん။"
+      },
+      {
+        "id": 2,
+        "text": "むじゅんじゅん",
+        "romaji": "Mujunjun",
+        "is_correct": false,
+        "explain_my": "❌ ဒီစကားလုံး မရှိပါ။ 「矛盾」= むじゅん သာ။"
+      },
+      {
+        "id": 3,
+        "text": "ぼうじゅん",
+        "romaji": "Boujun",
+        "is_correct": false,
+        "explain_my": "❌ 「ぼうじゅん」မှာ 「矛」ကို 「ぼう」ဖတ်တာ မှား။ 「矛」= む။"
+      },
+      {
+        "id": 4,
+        "text": "むしゅん",
+        "romaji": "Mushun",
+        "is_correct": false,
+        "explain_my": "❌ 「盾」ရဲ့ ဖတ်ပုံက 「じゅん」ဖြစ်တဲ့အတွက် 「むしゅん」မှား။ 「むじゅん」မှန်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 矛盾 = むじゅん · 「矛」= む · 「盾」= じゅん"
+  },
+  {
+    "id": 4,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「促す」の読み方は何ですか？",
+    "question_my": "「促す」(တိုက်တွန်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "うながす",
+        "romaji": "Unagasu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「促す」= うながす (တိုက်တွန်း)။ 「促」= うなが(す)။"
+      },
+      {
+        "id": 2,
+        "text": "そくす",
+        "romaji": "Sokusu",
+        "is_correct": false,
+        "explain_my": "❌ 「促」ရဲ့ ဖတ်ပုံက 「そく」မဟုတ်။ 「促す」= うながす။"
+      },
+      {
+        "id": 3,
+        "text": "もよおす",
+        "romaji": "Moyoosu",
+        "is_correct": false,
+        "explain_my": "❌ 「もよおす」= 「催す」(ကျင်းပ)။ 「促す」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "はげます",
+        "romaji": "Hagemasu",
+        "is_correct": false,
+        "explain_my": "❌ 「はげます」= 「励ます」(အားပေး)။ 「促す」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 促す = うながす · 催す = もよおす · 励ます = はげます"
+  },
+  {
+    "id": 5,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「著しい」の読み方は何ですか？",
+    "question_my": "「著しい」(ထင်ရှားသော) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "いちじるしい",
+        "romaji": "Ichijirushii",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「著しい」= いちじるしい (ထင်ရှားသော)။"
+      },
+      {
+        "id": 2,
+        "text": "あらわしい",
+        "romaji": "Arawashii",
+        "is_correct": false,
+        "explain_my": "❌ 「あらわしい」= 「著わしい」/「現わしい」ဖတ်ပုံ မဟုတ်။ 「著しい」= いちじるしい။"
+      },
+      {
+        "id": 3,
+        "text": "めざましい",
+        "romaji": "Mezamashii",
+        "is_correct": false,
+        "explain_my": "❌ 「めざましい」= 「目覚ましい」(ထူးခြားသော)။ 「著しい」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "はなはだしい",
+        "romaji": "Hanahadashii",
+        "is_correct": false,
+        "explain_my": "❌ 「はなはだしい」= 「甚だしい」(အလွန်အကျွံ)။ 「著しい」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 著しい = いちじるしい · 目覚ましい = めざましい · 甚だしい = はなはだしい"
+  },
+  {
+    "id": 6,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「貢献」の読み方は何ですか？",
+    "question_my": "「貢献」(ပံ့ပိုးကူညီ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "こうけん",
+        "romaji": "Kouken",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「貢献」= こうけん (ပံ့ပိုးကူညီ)။ 「貢」= こう · 「献」= けん။"
+      },
+      {
+        "id": 2,
+        "text": "こうげき",
+        "romaji": "Kougeki",
+        "is_correct": false,
+        "explain_my": "❌ 「こうげき」= 「攻撃」(တိုက်ခိုက်)။ 「貢献」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "こうか",
+        "romaji": "Kouka",
+        "is_correct": false,
+        "explain_my": "❌ 「こうか」= 「効果」(အကျိုးသက်ရောက်မှု)။ 「貢献」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "けんこう",
+        "romaji": "Kenkou",
+        "is_correct": false,
+        "explain_my": "❌ 「けんこう」= 「健康」(ကျန်းမာရေး)။ စာလုံးအစီအစဉ် ပြောင်းထားတာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 貢献 = こうけん · 攻撃 = こうげき · 効果 = こうか · 健康 = けんこう"
+  },
+  {
+    "id": 7,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「微妙」の読み方は何ですか？",
+    "question_my": "「微妙」(နူးညံ့သိမ်မွေ့) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "びみょう",
+        "romaji": "Bimyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「微妙」= びみょう (နူးညံ့သိမ်မွေ့)။ 「微」= び · 「妙」= みょう။"
+      },
+      {
+        "id": 2,
+        "text": "びょうみ",
+        "romaji": "Byoumi",
+        "is_correct": false,
+        "explain_my": "❌ 「びょうみ」ဆိုတဲ့ ဖတ်ပုံ မရှိ။ 「微妙」= びみょう။"
+      },
+      {
+        "id": 3,
+        "text": "びこう",
+        "romaji": "Bikou",
+        "is_correct": false,
+        "explain_my": "❌ 「びこう」= 「備考」(မှတ်ချက်)။ 「微妙」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "びょうじゃく",
+        "romaji": "Byoujaku",
+        "is_correct": false,
+        "explain_my": "❌ 「びょうじゃく」= 「病弱」(ကျန်းမာရေးညံ့)။ 「微妙」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 微妙 = びみょう · 備考 = びこう · 病弱 = びょうじゃく"
+  },
+  {
+    "id": 8,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「免除」の読み方は何ですか？",
+    "question_my": "「免除」(ကင်းလွတ်ခွင့်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "めんじょ",
+        "romaji": "Menjo",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「免除」= めんじょ (ကင်းလွတ်ခွင့်)။ 「免」= めん · 「除」= じょ။"
+      },
+      {
+        "id": 2,
+        "text": "めんきょ",
+        "romaji": "Menkyo",
+        "is_correct": false,
+        "explain_my": "❌ 「めんきょ」= 「免許」(လိုင်စင်)။ 「免除」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "めんせつ",
+        "romaji": "Mensetsu",
+        "is_correct": false,
+        "explain_my": "❌ 「めんせつ」= 「面接」(အင်တာဗျူး)။ 「免除」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "じょがい",
+        "romaji": "Jogai",
+        "is_correct": false,
+        "explain_my": "❌ 「じょがい」= 「除外」(ဖယ်ထုတ်)။ 「免除」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 免除 = めんじょ · 免許 = めんきょ · 面接 = めんせつ · 除外 = じょがい"
+  },
+  {
+    "id": 9,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「迅速」の読み方は何ですか？",
+    "question_my": "「迅速」(လျင်မြန်သော) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "じんそく",
+        "romaji": "Jinsoku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「迅速」= じんそく (လျင်မြန်သော)။ 「迅」= じん · 「速」= そく။"
+      },
+      {
+        "id": 2,
+        "text": "じんたい",
+        "romaji": "Jintai",
+        "is_correct": false,
+        "explain_my": "❌ 「じんたい」= 「人体」(လူ့ခန္ဓာ)။ 「迅速」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "じゅんそく",
+        "romaji": "Junsoku",
+        "is_correct": false,
+        "explain_my": "❌ 「迅」ရဲ့ ဖတ်ပုံက 「じん」ဖြစ်တဲ့အတွက် 「じゅんそく」မှား။"
+      },
+      {
+        "id": 4,
+        "text": "そくじ",
+        "romaji": "Sokuji",
+        "is_correct": false,
+        "explain_my": "❌ 「そくじ」= 「即時」(ချက်ချင်း)။ 「迅速」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 迅速 = じんそく · 人体 = じんたい · 即時 = そくじ"
+  },
+  {
+    "id": 10,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「傾向」の読み方は何ですか？",
+    "question_my": "「傾向」(လမ်းကြောင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "けいこう",
+        "romaji": "Keikou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「傾向」= けいこう (လမ်းကြောင်း)။ 「傾」= けい · 「向」= こう။"
+      },
+      {
+        "id": 2,
+        "text": "けいこく",
+        "romaji": "Keikoku",
+        "is_correct": false,
+        "explain_my": "❌ 「けいこく」= 「警告」(သတိပေး)။ 「傾向」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "けいか",
+        "romaji": "Keika",
+        "is_correct": false,
+        "explain_my": "❌ 「けいか」= 「経過」(ကာလဖြတ်သန်း)။ 「傾向」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "けいしき",
+        "romaji": "Keishiki",
+        "is_correct": false,
+        "explain_my": "❌ 「けいしき」= 「形式」(ပုံစံ)။ 「傾向」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 傾向 = けいこう · 警告 = けいこく · 経過 = けいか · 形式 = けいしき"
+  },
+  {
+    "id": 11,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「妥結」の読み方は何ですか？",
+    "question_my": "「妥結」(သဘောတူညီ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "だけつ",
+        "romaji": "Daketsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「妥結」= だけつ (သဘောတူညီ)။ 「妥」= だ · 「結」= けつ။"
+      },
+      {
+        "id": 2,
+        "text": "だっけつ",
+        "romaji": "Dakketsu",
+        "is_correct": false,
+        "explain_my": "❌ 「だっけつ」= 「脱結」မဟုတ်၊ 「妥結」= だけつ။"
+      },
+      {
+        "id": 3,
+        "text": "けつだ",
+        "romaji": "Ketsuda",
+        "is_correct": false,
+        "explain_my": "❌ စာလုံးအစီအစဉ် ပြောင်းထားတာ။ 「妥結」= だけつ။"
+      },
+      {
+        "id": 4,
+        "text": "だんけつ",
+        "romaji": "Danketsu",
+        "is_correct": false,
+        "explain_my": "❌ 「だんけつ」= 「団結」(စည်းလုံးညီညွတ်)။ 「妥結」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 妥結 = だけつ · 団結 = だんけつ · 妥協 = だきょう"
+  }
+]
