@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794127562988,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「よやく」の いみは どれですか。",
+    "question_my": "「よやく」(予約) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖျက်သိမ်းခြင်း",
+        "romaji": "cancel",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက်သိမ်းခြင်း = 「キャンセル」။"
+      },
+      {
+        "id": 2,
+        "text": "ပြောင်းလဲခြင်း",
+        "romaji": "change",
+        "is_correct": false,
+        "explain_my": "❌ ပြောင်းလဲခြင်း = 「変更」(へんこう)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြိုတင်မှာယူခြင်း",
+        "romaji": "yoyaku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「予約」= ကြိုတင်မှာယူခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ငွေပေးချေခြင်း",
+        "romaji": "payment",
+        "is_correct": false,
+        "explain_my": "❌ ငွေပေးချေခြင်း = 「支払い」(しはらい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 予約 = よやく (ကြိုတင်မှာယူ) · 変更 = へんこう (ပြောင်းလဲ) · 支払い = しはらい (ငွေပေးချေ)"
+  },
+  {
+    "id": 1794127562989,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あんない」の いみは どれですか。",
+    "question_my": "「あんない」(案内) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရှင်းလင်းချက်",
+        "romaji": "setsumei",
+        "is_correct": false,
+        "explain_my": "❌ ရှင်းလင်းချက် = 「説明」(せつめい)။"
+      },
+      {
+        "id": 2,
+        "text": "လမ်းညွှန်",
+        "romaji": "annai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「案内」= လမ်းညွှန်။"
+      },
+      {
+        "id": 3,
+        "text": "မိတ်ဆက်",
+        "romaji": "shoukai",
+        "is_correct": false,
+        "explain_my": "❌ မိတ်ဆက် = 「紹介」(しょうかい)။"
+      },
+      {
+        "id": 4,
+        "text": "သတိပေးချက်",
+        "romaji": "warning",
+        "is_correct": false,
+        "explain_my": "❌ သတိပေးချက် = 「注意」(ちゅうい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 案内 = あんない (လမ်းညွှန်) · 説明 = せつめい (ရှင်းလင်း) · 紹介 = しょうかい (မိတ်ဆက်)"
+  },
+  {
+    "id": 1794127562990,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せつめい」の いみは どれですか。",
+    "question_my": "「せつめい」(説明) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လမ်းညွှန်",
+        "romaji": "annai",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းညွှန် = 「案内」(あんない)။"
+      },
+      {
+        "id": 2,
+        "text": "သတင်း",
+        "romaji": "news",
+        "is_correct": false,
+        "explain_my": "❌ သတင်း = 「ニュース」။"
+      },
+      {
+        "id": 3,
+        "text": "အစီရင်ခံ",
+        "romaji": "report",
+        "is_correct": false,
+        "explain_my": "❌ အစီရင်ခံ = 「報告」(ほうこく)။"
+      },
+      {
+        "id": 4,
+        "text": "ရှင်းလင်းချက်",
+        "romaji": "setsumei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「説明」= ရှင်းလင်းချက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 説明 = せつめい (ရှင်းလင်း) · 案内 = あんない (လမ်းညွှန်) · 報告 = ほうこく (အစီရင်ခံ)"
+  },
+  {
+    "id": 1794127562991,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けいけん」の いみは どれですか。",
+    "question_my": "「けいけん」(経験) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အတွေ့အကြုံ",
+        "romaji": "keiken",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「経験」= အတွေ့အကြုံ။"
+      },
+      {
+        "id": 2,
+        "text": "အလုပ်",
+        "romaji": "work",
+        "is_correct": false,
+        "explain_my": "❌ အလုပ် = 「仕事」(しごと)။"
+      },
+      {
+        "id": 3,
+        "text": "ပညာရေး",
+        "romaji": "education",
+        "is_correct": false,
+        "explain_my": "❌ ပညာရေး = 「教育」(きょういく)။"
+      },
+      {
+        "id": 4,
+        "text": "ဘဝ",
+        "romaji": "life",
+        "is_correct": false,
+        "explain_my": "❌ ဘဝ = 「生活」(せいかつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 経験 = けいけん (အတွေ့အကြုံ) · 仕事 = しごと (အလုပ်) · 教育 = きょういく (ပညာရေး)"
+  },
+  {
+    "id": 1794127562992,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「じゅんび」の いみは どれですか。",
+    "question_my": "「じゅんび」(準備) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြီးစီးခြင်း",
+        "romaji": "completion",
+        "is_correct": false,
+        "explain_my": "❌ ပြီးစီးခြင်း = 「完成」(かんせい)။"
+      },
+      {
+        "id": 2,
+        "text": "စတင်ခြင်း",
+        "romaji": "start",
+        "is_correct": false,
+        "explain_my": "❌ စတင်ခြင်း = 「開始」(かいし)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြင်ဆင်ခြင်း",
+        "romaji": "junbi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「準備」= ပြင်ဆင်ခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ရပ်ဆိုင်းခြင်း",
+        "romaji": "suspension",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်ဆိုင်းခြင်း = 「中止」(ちゅうし)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 準備 = じゅんび (ပြင်ဆင်) · 完成 = かんせい (ပြီးစီး) · 開始 = かいし (စတင်) · 中止 = ちゅうし (ရပ်ဆိုင်း)"
+  },
+  {
+    "id": 1794127562993,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しゅっぱつ」の いみは どれですか。",
+    "question_my": "「しゅっぱつ」(出発) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆိုက်ရောက်ခြင်း",
+        "romaji": "arrival",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုက်ရောက်ခြင်း = 「到着」(とうちゃく)။"
+      },
+      {
+        "id": 2,
+        "text": "ထွက်ခွာခြင်း",
+        "romaji": "shuppatsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「出発」= ထွက်ခွာခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ပြန်လာခြင်း",
+        "romaji": "return",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်လာခြင်း = 「帰り」(かえり)။"
+      },
+      {
+        "id": 4,
+        "text": "ခရီးသွားခြင်း",
+        "romaji": "travel",
+        "is_correct": false,
+        "explain_my": "❌ ခရီးသွားခြင်း = 「旅行」(りょこう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 出発 = しゅっぱつ (ထွက်ခွာ) · 到着 = とうちゃく (ဆိုက်ရောက်) · 旅行 = りょこう (ခရီးသွား)"
+  },
+  {
+    "id": 1794127562994,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「とうちゃく」の いみは どれですか。",
+    "question_my": "「とうちゃく」(到着) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ထွက်ခွာခြင်း",
+        "romaji": "departure",
+        "is_correct": false,
+        "explain_my": "❌ ထွက်ခွာခြင်း = 「出発」(しゅっぱつ)။"
+      },
+      {
+        "id": 2,
+        "text": "ပြန်လာခြင်း",
+        "romaji": "return",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်လာခြင်း = 「帰り」(かえり)။"
+      },
+      {
+        "id": 3,
+        "text": "ခရီးသွားခြင်း",
+        "romaji": "travel",
+        "is_correct": false,
+        "explain_my": "❌ ခရီးသွားခြင်း = 「旅行」(りょこう)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆိုက်ရောက်ခြင်း",
+        "romaji": "touchaku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「到着」= ဆိုက်ရောက်ခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 到着 = とうちゃく (ဆိုက်ရောက်) · 出発 = しゅっぱつ (ထွက်ခွာ)"
+  },
+  {
+    "id": 1794127562995,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「れんらく」の いみは どれですか。",
+    "question_my": "「れんらく」(連絡) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆက်သွယ်ခြင်း",
+        "romaji": "renraku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「連絡」= ဆက်သွယ်ခြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "မိတ်ဆက်",
+        "romaji": "introduction",
+        "is_correct": false,
+        "explain_my": "❌ မိတ်ဆက် = 「紹介」(しょうかい)။"
+      },
+      {
+        "id": 3,
+        "text": "သတင်း",
+        "romaji": "news",
+        "is_correct": false,
+        "explain_my": "❌ သတင်း = 「ニュース」။"
+      },
+      {
+        "id": 4,
+        "text": "စကားပြော",
+        "romaji": "conversation",
+        "is_correct": false,
+        "explain_my": "❌ စကားပြော = 「会話」(かいわ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 連絡 = れんらく (ဆက်သွယ်) · 紹介 = しょうかい (မိတ်ဆက်) · 会話 = かいわ (စကားပြော)"
+  },
+  {
+    "id": 1794127562996,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「そうだん」の いみは どれですか。",
+    "question_my": "「そうだん」(相談) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငြင်းခုံခြင်း",
+        "romaji": "argument",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းခုံခြင်း = 「議論」(ぎろん)။"
+      },
+      {
+        "id": 2,
+        "text": "စကားပြော",
+        "romaji": "conversation",
+        "is_correct": false,
+        "explain_my": "❌ စကားပြော = 「会話」(かいわ)။"
+      },
+      {
+        "id": 3,
+        "text": "တိုင်ပင်ဆွေးနွေးခြင်း",
+        "romaji": "soudan",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「相談」= တိုင်ပင်ဆွေးနွေးခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "သတိပေးခြင်း",
+        "romaji": "warning",
+        "is_correct": false,
+        "explain_my": "❌ သတိပေးခြင်း = 「注意」(ちゅうい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 相談 = そうだん (တိုင်ပင်) · 議論 = ぎろん (ငြင်းခုံ) · 会話 = かいわ (စကားပြော)"
+  },
+  {
+    "id": 1794127562997,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えんりょ」の いみは どれですか。",
+    "question_my": "「えんりょ」(遠慮) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စိတ်ရှည်ခြင်း",
+        "romaji": "patience",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ရှည်ခြင်း = 「我慢」(がまん)။"
+      },
+      {
+        "id": 2,
+        "text": "ရှောင်ကြဉ်ခြင်း",
+        "romaji": "enryo",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「遠慮」= ရှောင်ကြဉ်ခြင်း/အားနာခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ကြောက်ရွံ့ခြင်း",
+        "romaji": "fear",
+        "is_correct": false,
+        "explain_my": "❌ ကြောက်ရွံ့ခြင်း = 「恐怖」(きょうふ)။"
+      },
+      {
+        "id": 4,
+        "text": "စိတ်ပျက်ခြင်း",
+        "romaji": "disappointment",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ပျက်ခြင်း = 「失望」(しつぼう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 遠慮 = えんりょ (အားနာ/ရှောင်ကြဉ်) · 我慢 = がまん (သည်းခံ)"
+  },
+  {
+    "id": 1794127562998,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「がまん」の いみは どれですか。",
+    "question_my": "「がまん」(我慢) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သည်းခံခြင်း",
+        "romaji": "gaman",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「我慢」= သည်းခံခြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "ရှောင်ကြဉ်ခြင်း",
+        "romaji": "restraint",
+        "is_correct": false,
+        "explain_my": "❌ ရှောင်ကြဉ်ခြင်း = 「遠慮」(えんりょ)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြိုးစားခြင်း",
+        "romaji": "effort",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုးစားခြင်း = 「努力」(どりょく)။"
+      },
+      {
+        "id": 4,
+        "text": "လက်လျှော့ခြင်း",
+        "romaji": "giving up",
+        "is_correct": false,
+        "explain_my": "❌ လက်လျှော့ခြင်း = 「諦め」(あきらめ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 我慢 = がまん (သည်းခံ) · 遠慮 = えんりょ (အားနာ) · 努力 = どりょく (ကြိုးစား)"
+  }
+]
