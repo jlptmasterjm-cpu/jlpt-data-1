@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794131611673,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「逸脱」の読み方は何ですか？",
+    "question_my": "「逸脱」(သွေဖည်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "いっこう",
+        "romaji": "Ikkou",
+        "is_correct": false,
+        "explain_my": "❌ 「いっこう」= 「一向」(လုံးဝ)။"
+      },
+      {
+        "id": 2,
+        "text": "いつだつ",
+        "romaji": "Itsudatsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「逸脱」= いつだつ (သွေဖည်)။ 「逸」= いつ · 「脱」= だつ။"
+      },
+      {
+        "id": 3,
+        "text": "いっしゅん",
+        "romaji": "Isshun",
+        "is_correct": false,
+        "explain_my": "❌ 「いっしゅん」= 「一瞬」(တစ်ကြိမ်တည်း)။"
+      },
+      {
+        "id": 4,
+        "text": "いっぱん",
+        "romaji": "Ippan",
+        "is_correct": false,
+        "explain_my": "❌ 「いっぱん」= 「一般」(ယေဘုယျ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 逸脱 = いつだつ · 一瞬 = いっしゅん · 一般 = いっぱん · 一向 = いっこう"
+  },
+  {
+    "id": 1794131611674,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「躊躇」の読み方は何ですか？",
+    "question_my": "「躊躇」(တွန့်ဆုတ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ちゅうおう",
+        "romaji": "Chuuou",
+        "is_correct": false,
+        "explain_my": "❌ 「ちゅうおう」= 「中央」(အလယ်)။"
+      },
+      {
+        "id": 2,
+        "text": "ちゅうし",
+        "romaji": "Chuushi",
+        "is_correct": false,
+        "explain_my": "❌ 「ちゅうし」= 「中止」(ရပ်ဆိုင်း)။"
+      },
+      {
+        "id": 3,
+        "text": "ちゅうもん",
+        "romaji": "Chuumon",
+        "is_correct": false,
+        "explain_my": "❌ 「ちゅうもん」= 「注文」(မှာယူ)။"
+      },
+      {
+        "id": 4,
+        "text": "ちゅうちょ",
+        "romaji": "Chuucho",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「躊躇」= ちゅうちょ (တွန့်ဆုတ်)။ 「躊」= ちゅう · 「躇」= ちょ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 躊躇 = ちゅうちょ · 中止 = ちゅうし · 注文 = ちゅうもん"
+  },
+  {
+    "id": 1794131611675,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「融通」の読み方は何ですか？",
+    "question_my": "「融通」(ပြောင်းလွယ်ပြင်လွယ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ゆうずう",
+        "romaji": "Yuuzuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「融通」= ゆうずう (ပြောင်းလွယ်ပြင်လွယ်)။ 「融」= ゆう · 「通」= ずう။"
+      },
+      {
+        "id": 2,
+        "text": "ゆうき",
+        "romaji": "Yuuki",
+        "is_correct": false,
+        "explain_my": "❌ 「ゆうき」= 「勇気」(သတ္တိ)။"
+      },
+      {
+        "id": 3,
+        "text": "ゆうこう",
+        "romaji": "Yuukou",
+        "is_correct": false,
+        "explain_my": "❌ 「ゆうこう」= 「有効」(အကျိုးရှိ)။"
+      },
+      {
+        "id": 4,
+        "text": "ゆうえき",
+        "romaji": "Yuueki",
+        "is_correct": false,
+        "explain_my": "❌ 「ゆうえき」= 「有益」(အကျိုးရှိ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 融通 = ゆうずう · 勇気 = ゆうき · 有効 = ゆうこう"
+  },
+  {
+    "id": 1794131611676,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「肝心」の読み方は何ですか？",
+    "question_my": "「肝心」(အဓိက) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かんき",
+        "romaji": "Kanki",
+        "is_correct": false,
+        "explain_my": "❌ 「かんき」= 「換気」(လေဝင်လေထွက်)။"
+      },
+      {
+        "id": 2,
+        "text": "かんぱい",
+        "romaji": "Kanpai",
+        "is_correct": false,
+        "explain_my": "❌ 「かんぱい」= 「乾杯」(ခွက်ထိုး)။"
+      },
+      {
+        "id": 3,
+        "text": "かんじん",
+        "romaji": "Kanjin",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「肝心」= かんじん (အဓိက)။ 「肝」= かん · 「心」= じん။"
+      },
+      {
+        "id": 4,
+        "text": "かんかく",
+        "romaji": "Kankaku",
+        "is_correct": false,
+        "explain_my": "❌ 「かんかく」= 「感覚」(အာရုံခံစားမှု)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 肝心 = かんじん · 乾杯 = かんぱい · 感覚 = かんかく · 換気 = かんき"
+  },
+  {
+    "id": 1794131611677,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「折衷」の読み方は何ですか？",
+    "question_my": "「折衷」(ပေါင်းစပ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "せっきん",
+        "romaji": "Sekkin",
+        "is_correct": false,
+        "explain_my": "❌ 「せっきん」= 「接近」(ချဉ်းကပ်)။"
+      },
+      {
+        "id": 2,
+        "text": "せっちゅう",
+        "romaji": "Setchuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「折衷」= せっちゅう (ပေါင်းစပ်)။ 「折」= せつ · 「衷」= ちゅう။"
+      },
+      {
+        "id": 3,
+        "text": "せつめい",
+        "romaji": "Setsumei",
+        "is_correct": false,
+        "explain_my": "❌ 「せつめい」= 「説明」(ရှင်းလင်း)။"
+      },
+      {
+        "id": 4,
+        "text": "せつぞく",
+        "romaji": "Setsuzoku",
+        "is_correct": false,
+        "explain_my": "❌ 「せつぞく」= 「接続」(ချိတ်ဆက်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 折衷 = せっちゅう · 説明 = せつめい · 接続 = せつぞく"
+  },
+  {
+    "id": 1794131611678,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「払拭」の読み方は何ですか？",
+    "question_my": "「払拭」(ဖယ်ရှား) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ふっとう",
+        "romaji": "Futtou",
+        "is_correct": false,
+        "explain_my": "❌ 「ふっとう」= 「沸騰」(ဆူ)။"
+      },
+      {
+        "id": 2,
+        "text": "ふっきゅう",
+        "romaji": "Fukkyuu",
+        "is_correct": false,
+        "explain_my": "❌ 「ふっきゅう」= 「復旧」(ပြန်လည်တည်ဆောက်)။"
+      },
+      {
+        "id": 3,
+        "text": "ふっかつ",
+        "romaji": "Fukkatsu",
+        "is_correct": false,
+        "explain_my": "❌ 「ふっかつ」= 「復活」(ပြန်ရှင်)။"
+      },
+      {
+        "id": 4,
+        "text": "ふっしょく",
+        "romaji": "Fusshoku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「払拭」= ふっしょく (ဖယ်ရှား)။ 「払」= ふつ · 「拭」= しょく။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 払拭 = ふっしょく · 復旧 = ふっきゅう · 復活 = ふっかつ · 沸騰 = ふっとう"
+  },
+  {
+    "id": 1794131611679,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「頓着」の読み方は何ですか？",
+    "question_my": "「頓着」(ဂရုစိုက်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "とんちゃく",
+        "romaji": "Tonchaku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「頓着」= とんちゃく (ဂရုစိုက်)။ 「頓」= とん · 「着」= ちゃく။"
+      },
+      {
+        "id": 2,
+        "text": "とんや",
+        "romaji": "Tonya",
+        "is_correct": false,
+        "explain_my": "❌ 「とんや」= 「問屋」(လက်ကား)။"
+      },
+      {
+        "id": 3,
+        "text": "とんこう",
+        "romaji": "Tonkou",
+        "is_correct": false,
+        "explain_my": "❌ 「とんこう」ဆိုတဲ့ စကားလုံး မရှိပါ။"
+      },
+      {
+        "id": 4,
+        "text": "とんち",
+        "romaji": "Tonchi",
+        "is_correct": false,
+        "explain_my": "❌ 「とんち」= 「頓知」(လိမ္မာပါးနပ်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 頓着 = とんちゃく · 問屋 = とんや · 頓知 = とんち"
+  },
+  {
+    "id": 1794131611680,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「露骨」の読み方は何ですか？",
+    "question_my": "「露骨」(ပွင့်လင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ろめん",
+        "romaji": "Romen",
+        "is_correct": false,
+        "explain_my": "❌ 「ろめん」= 「路面」(လမ်းမျက်နှာပြင်)။"
+      },
+      {
+        "id": 2,
+        "text": "ろてん",
+        "romaji": "Roten",
+        "is_correct": false,
+        "explain_my": "❌ 「ろてん」= 「露天」(အမိုးမရှိ)။"
+      },
+      {
+        "id": 3,
+        "text": "ろこつ",
+        "romaji": "Rokotsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「露骨」= ろこつ (ပွင့်လင်း)။ 「露」= ろ · 「骨」= こつ။"
+      },
+      {
+        "id": 4,
+        "text": "ろせん",
+        "romaji": "Rosen",
+        "is_correct": false,
+        "explain_my": "❌ 「ろせん」= 「路線」(လမ်းကြောင်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 露骨 = ろこつ · 露天 = ろてん · 路線 = ろせん · 路面 = ろめん"
+  },
+  {
+    "id": 1794131611681,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「如実」の読み方は何ですか？",
+    "question_my": "「如実」(တကယ့်အတိုင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "にょい",
+        "romaji": "Nyoi",
+        "is_correct": false,
+        "explain_my": "❌ 「にょい」= 「如意」(အလိုကျ)။"
+      },
+      {
+        "id": 2,
+        "text": "にょらい",
+        "romaji": "Nyorai",
+        "is_correct": false,
+        "explain_my": "❌ 「にょらい」= 「如来」(ဘုရား)။"
+      },
+      {
+        "id": 3,
+        "text": "じょじつ",
+        "romaji": "Jojitsu",
+        "is_correct": false,
+        "explain_my": "❌ 「じょじつ」မှား။ 「如」= にょ။"
+      },
+      {
+        "id": 4,
+        "text": "にょじつ",
+        "romaji": "Nyojitsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「如実」= にょじつ (တကယ့်အတိုင်း)။ 「如」= にょ · 「実」= じつ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 如実 = にょじつ · 如来 = にょらい · 如意 = にょい"
+  },
+  {
+    "id": 1794131611682,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「示唆」の読み方は何ですか？",
+    "question_my": "「示唆」(အရိပ်အမြွက်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "しさく",
+        "romaji": "Shisaku",
+        "is_correct": false,
+        "explain_my": "❌ 「しさく」= 「施策」(မူဝါဒ)။"
+      },
+      {
+        "id": 2,
+        "text": "しさ",
+        "romaji": "Shisa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「示唆」= しさ (အရိပ်အမြွက်)။ 「示」= し · 「唆」= さ။"
+      },
+      {
+        "id": 3,
+        "text": "しじ",
+        "romaji": "Shiji",
+        "is_correct": false,
+        "explain_my": "❌ 「しじ」= 「指示」(ညွှန်ကြား)။"
+      },
+      {
+        "id": 4,
+        "text": "しどう",
+        "romaji": "Shidou",
+        "is_correct": false,
+        "explain_my": "❌ 「しどう」= 「指導」(လမ်းညွှန်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 示唆 = しさ · 指示 = しじ · 指導 = しどう · 施策 = しさく"
+  },
+  {
+    "id": 1794131611683,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「顕在」の読み方は何ですか？",
+    "question_my": "「顕在」(ပေါ်လွင်ထင်ရှား) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "けんざい",
+        "romaji": "Kenzai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「顕在」= けんざい (ပေါ်လွင်ထင်ရှား)။ 「顕」= けん · 「在」= ざい။"
+      },
+      {
+        "id": 2,
+        "text": "けんちょ",
+        "romaji": "Kencho",
+        "is_correct": false,
+        "explain_my": "❌ 「けんちょ」= 「顕著」(ထင်ရှား)။"
+      },
+      {
+        "id": 3,
+        "text": "げんざい",
+        "romaji": "Genzai",
+        "is_correct": false,
+        "explain_my": "❌ 「げんざい」= 「現在」(လက်ရှိ)။"
+      },
+      {
+        "id": 4,
+        "text": "けんきゅう",
+        "romaji": "Kenkyuu",
+        "is_correct": false,
+        "explain_my": "❌ 「けんきゅう」= 「研究」(သုတေသန)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 顕在 = けんざい · 顕著 = けんちょ · 現在 = げんざい"
+  }
+]
