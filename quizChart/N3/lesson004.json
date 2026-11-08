@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794131931064,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "この 文章に よると、朝の 電車は どうですか。",
+    "question_my": "ဒီစာပိုဒ်အရ မနက်ရထားက ဘယ်လိုလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "いつも 空いて いる",
+        "romaji": "itsumo aite iru",
+        "is_correct": false,
+        "explain_my": "❌ အမြဲ လွတ်နေတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "遅れる ことは ない",
+        "romaji": "okureru koto wa nai",
+        "is_correct": false,
+        "explain_my": "❌ နောက်မကျတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "時間に 正確だ",
+        "romaji": "jikan ni seikaku da",
+        "is_correct": false,
+        "explain_my": "❌ အချိန်မှန်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "とても 混んで いる",
+        "romaji": "totemo konde iru",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「特に 朝の ラッシュアワーは とても 混んで いる」= မနက် rush hour က အရမ်းကျပ်တည်းတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜によると」= ~အရ · 「ラッシュアワー」= အလုပ်သွား/ပြန်ချိန် · 「余裕を持つ」= အချိန်ပိုယူ"
+  },
+  {
+    "id": 1794131931065,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "田中さんは なぜ 日本語を 勉強して いますか。",
+    "question_my": "တနာကာက ဘာကြောင့် ဂျပန်စာ လေ့လာနေတာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "仕事の ため",
+        "romaji": "shigoto no tame",
+        "is_correct": false,
+        "explain_my": "❌ အလုပ်အတွက် မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "留学する ため",
+        "romaji": "ryuugaku suru tame",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「日本に 留学する ために」= ဂျပန်သွား ကျောင်းတက်ဖို့အတွက်။"
+      },
+      {
+        "id": 3,
+        "text": "趣味の ため",
+        "romaji": "shumi no tame",
+        "is_correct": false,
+        "explain_my": "❌ ဝါသနာအတွက် မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "試験の ため",
+        "romaji": "shiken no tame",
+        "is_correct": false,
+        "explain_my": "❌ စာမေးပွဲအတွက်လည်း ပါပေမဲ့ အဓိက အကြောင်းရင်းက ကျောင်းတက်ဖို့။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-る + ために」= ~ရည်ရွယ်ချက်နဲ့ · 「留学する」= ကျောင်းသွားတက်"
+  },
+  {
+    "id": 1794131931066,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "4月に 何が 行われますか。",
+    "question_my": "ဧပြီလမှာ ဘာတွေ ကျင်းပသလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "卒業式",
+        "romaji": "sotsugyoushiki",
+        "is_correct": false,
+        "explain_my": "❌ ဘွဲ့နှင်းသဘင် (မတ်လ)။"
+      },
+      {
+        "id": 2,
+        "text": "運動会",
+        "romaji": "undoukai",
+        "is_correct": false,
+        "explain_my": "❌ အားကစားပွဲ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "入学式や 入社式",
+        "romaji": "nyuugakushiki ya nyuushashiki",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「入学式や 入社式が 行われる」= ဝင်ခွင့်အခမ်းအနားနဲ့ ကုမ္ပဏီဝင်ပွဲ ကျင်းပတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "文化祭",
+        "romaji": "bunkasai",
+        "is_correct": false,
+        "explain_my": "❌ ယဉ်ကျေးမှုပွဲတော် မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 入学式 = ကျောင်းဝင်ပွဲ · 入社式 = ကုမ္ပဏီဝင်ပွဲ · 卒業式 = ဘွဲ့နှင်းသဘင်"
+  },
+  {
+    "id": 1794131931067,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "この 人は なぜ また 読書を 始めましたか。",
+    "question_my": "ဒီလူက ဘာကြောင့် စာပြန်ဖတ်ဖြစ်တာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "時間を 作って、気分を よく したいから",
+        "romaji": "jikan wo tsukutte, kibun wo yoku shitai kara",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「時間を 作って また 読書を 始めたら、気分が とても よくなった」= အချိန်ဖယ်ပြီး စာပြန်ဖတ်လိုက်တော့ စိတ်ကောင်းလာတယ်။"
+      },
+      {
+        "id": 2,
+        "text": "友達に すすめられたから",
+        "romaji": "tomodachi ni susumerareta kara",
+        "is_correct": false,
+        "explain_my": "❌ သူငယ်ချင်း တိုက်တွန်းလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "学校の 宿題だから",
+        "romaji": "gakkou no shukudai dakara",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်းအိမ်စာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "本屋で 安かったから",
+        "romaji": "hon'ya de yasukatta kara",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်ဆိုင်မှာ ဈေးသက်သာလို့ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜たら」= ~လိုက်တော့ (ရလဒ်) · 「気分がよくなる」= စိတ်ခံစားချက် ကောင်းလာ"
+  },
+  {
+    "id": 1794131931068,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "健康の ために 一番 大切な ことは 何ですか。",
+    "question_my": "ကျန်းမာရေးအတွက် အရေးကြီးဆုံးက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "毎日 激しい 運動を する こと",
+        "romaji": "mainichi hageshii undou wo suru koto",
+        "is_correct": false,
+        "explain_my": "❌ နေ့စဉ် ပြင်းထန်တဲ့ လေ့ကျင့်ခန်း မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "食事を 減らす こと",
+        "romaji": "shokuji wo herasu koto",
+        "is_correct": false,
+        "explain_my": "❌ အစားအစာ လျှော့ချတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "毎日 走る こと",
+        "romaji": "mainichi hashiru koto",
+        "is_correct": false,
+        "explain_my": "❌ နေ့စဉ် ပြေးတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "無理を しない こと",
+        "romaji": "muri wo shinai koto",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「無理を しない ことが 一番 大切だ」= မလွန်ကဲတာ အရေးကြီးဆုံးပဲ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「無理をする」= မဖြစ်နိုင်တာကို အတင်းလုပ် · 「無理をしない」= မလွန်ကဲ"
+  },
+  {
+    "id": 1794131931069,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "リモートワークの いい 点は 何ですか。",
+    "question_my": "Remote work ရဲ့ ကောင်းတဲ့အချက်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "給料が 上がる こと",
+        "romaji": "kyuuryou ga agaru koto",
+        "is_correct": false,
+        "explain_my": "❌ လစာတိုးတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "通勤時間が 減る こと",
+        "romaji": "tsuukin jikan ga heru koto",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「通勤時間が 減り、家族と 過ごす 時間が 増えた」= သွားလာချိန်လျော့ပြီး မိသားစုနဲ့ အချိန်များလာတယ်။"
+      },
+      {
+        "id": 3,
+        "text": "同僚と 会話が 増える こと",
+        "romaji": "douryou to kaiwa ga fueru koto",
+        "is_correct": false,
+        "explain_my": "❌ စကားပြောနည်းလာတယ်လို့ ဆိုထားတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "仕事が 簡単に なる こと",
+        "romaji": "shigoto ga kantan ni naru koto",
+        "is_correct": false,
+        "explain_my": "❌ အလုပ်လွယ်လာတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「一方で」= တစ်ဖက်မှာ · 「通勤時間」= သွားလာချိန်"
+  },
+  {
+    "id": 1794131931070,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "外国人に 特に 人気な 寿司は 何ですか。",
+    "question_my": "နိုင်ငံခြားသားတွေအတွက် အထူးကျော်ကြားတဲ့ ဆူရှီက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "高級な 寿司",
+        "romaji": "koukyuu na sushi",
+        "is_correct": false,
+        "explain_my": "❌ အဆင့်မြင့် ဆူရှီ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "家で 作る 寿司",
+        "romaji": "ie de tsukuru sushi",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်လုပ် ဆူရှီ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "回転寿司",
+        "romaji": "kaiten zushi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「特に 外国人には 回転寿司が 人気だ」= အထူးသဖြင့် နိုင်ငံခြားသားတွေအတွက် လှည့်ပတ်ဆူရှီက ကျော်ကြားတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "スーパーの 寿司",
+        "romaji": "suupaa no sushi",
+        "is_correct": false,
+        "explain_my": "❌ စူပါမားကတ် ဆူရှီ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 回転寿司 = လှည့်ပတ်ဆူရှီ · 高級 = အဆင့်မြင့် · 本場の味 = အစစ်အမှန် အရသာ"
+  },
+  {
+    "id": 1794131931071,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "一人で 旅行に 行って どうでしたか。",
+    "question_my": "တစ်ယောက်တည်း ခရီးသွားတာ ဘယ်လိုလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "とても 楽しかった",
+        "romaji": "totemo tanoshikatta",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「自由に 行動できて とても 楽しかった」= လွတ်လပ်စွာ သွားလာနိုင်ပြီး အရမ်းပျော်ခဲ့တယ်။"
+      },
+      {
+        "id": 2,
+        "text": "とても 怖かった",
+        "romaji": "totemo kowakatta",
+        "is_correct": false,
+        "explain_my": "❌ ကြောက်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "つまらなかった",
+        "romaji": "tsumaranakatta",
+        "is_correct": false,
+        "explain_my": "❌ ပျင်းစရာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "疲れた",
+        "romaji": "tsukareta",
+        "is_correct": false,
+        "explain_my": "❌ ပင်ပန်းတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「実際に〜てみると」= တကယ်လုပ်ကြည့်တော့ · 「自由に行動できる」= လွတ်လပ်စွာ သွားလာ"
+  },
+  {
+    "id": 1794131931072,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "プラスチックごみは 何に 悪い 影響を 与えますか。",
+    "question_my": "ပလတ်စတစ် အမှိုက်က ဘာအပေါ် ဆိုးကျိုး သက်ရောက်စေသလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "空気",
+        "romaji": "kuuki",
+        "is_correct": false,
+        "explain_my": "❌ လေထု မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "森",
+        "romaji": "mori",
+        "is_correct": false,
+        "explain_my": "❌ တော မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "人間の 食べ物",
+        "romaji": "ningen no tabemono",
+        "is_correct": false,
+        "explain_my": "❌ လူ့အစားအစာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "海の 生き物",
+        "romaji": "umi no ikimono",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「海を 汚し、多くの 生き物に 悪い 影響を 与えて いる」= ပင်လယ်ကို ညစ်ညမ်းစေပြီး သက်ရှိများစွာအပေါ် ဆိုးကျိုးသက်ရောက်တယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜に悪い影響を与える」= ~အပေါ် ဆိုးကျိုးသက်ရောက် · 「プラスチックごみ」= ပလတ်စတစ်အမှိုက်"
+  },
+  {
+    "id": 1794131931073,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "弟は 高校に 入ってから どう 変わりましたか。",
+    "question_my": "ညီက အထက်တန်းရောက်ကတည်းက ဘယ်လို ပြောင်းလဲသွားလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "スポーツを する ように なった",
+        "romaji": "supootsu wo suru you ni natta",
+        "is_correct": false,
+        "explain_my": "❌ အားကစားလုပ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "毎日 勉強する ように なった",
+        "romaji": "mainichi benkyou suru you ni natta",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「高校に 入ってからは 毎日 図書館で 勉強して いる」= အထက်တန်းရောက်ကတည်းက နေ့စဉ် စာလုပ်နေတယ်။"
+      },
+      {
+        "id": 3,
+        "text": "早く 寝る ように なった",
+        "romaji": "hayaku neru you ni natta",
+        "is_correct": false,
+        "explain_my": "❌ စောစောအိပ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "図書館に 行かなく なった",
+        "romaji": "toshokan ni ikanaku natta",
+        "is_correct": false,
+        "explain_my": "❌ စာကြည့်တိုက် မသွားတော့တာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜ように なった」= ~ဖြစ်လာတယ် (အပြောင်းအလဲ) · 「将来」= အနာဂတ်"
+  },
+  {
+    "id": 1794131931074,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "この 文章では、「孤食」に ついて どう 言って いますか。",
+    "question_my": "ဒီစာပိုဒ်မှာ 「孤食」(တစ်ယောက်တည်း ထမင်းစား) အကြောင်း ဘယ်လိုပြောထားလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "とても いい ことだ",
+        "romaji": "totemo ii koto da",
+        "is_correct": false,
+        "explain_my": "❌ အရမ်းကောင်းတယ်လို့ မဆိုပါ။"
+      },
+      {
+        "id": 2,
+        "text": "家族の 問題だ",
+        "romaji": "kazoku no mondai da",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု ပြဿနာလို့ မဆိုပါ။"
+      },
+      {
+        "id": 3,
+        "text": "悪い こと ばかりでは ない",
+        "romaji": "warui koto bakari de wa nai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「悪い こと ばかりでは ない。自分の ペースで 食べられるという よさも ある」= မကောင်းတာချည်း မဟုတ်ဘူး။ ကောင်းချက်လည်း ရှိတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "社会の 問題だ",
+        "romaji": "shakai no mondai da",
+        "is_correct": false,
+        "explain_my": "❌ လူမှုရေးပြဿနာလို့ မဆိုပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜ばかりではない」= ~ချည်း မဟုတ် · 「自分のペースで」= ကိုယ့်အရှိန်နဲ့"
+  }
+]
