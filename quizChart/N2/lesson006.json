@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794133393075,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "この 件（　）、みんなで 話し合いましょう。",
+    "question_my": "「この 件（　）、みんなで 話し合いましょう。」— ဒီကိစ္စ (　) အားလုံး တိုင်ပင်ကြရအောင်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "に対して",
+        "romaji": "ni taishite",
+        "is_correct": false,
+        "explain_my": "❌ 「に対して」= ~အပေါ်။"
+      },
+      {
+        "id": 2,
+        "text": "について",
+        "romaji": "ni tsuite",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜について」= ~အကြောင်း။"
+      },
+      {
+        "id": 3,
+        "text": "にとって",
+        "romaji": "ni totte",
+        "is_correct": false,
+        "explain_my": "❌ 「にとって」= ~အတွက် (ရှုထောင့်)။"
+      },
+      {
+        "id": 4,
+        "text": "によって",
+        "romaji": "ni yotte",
+        "is_correct": false,
+        "explain_my": "❌ 「によって」= ကြောင့်/အားဖြင့်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜について」= ~အကြောင်း။"
+  },
+  {
+    "id": 1794133393076,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼の 努力（　）、成功は ありえない。",
+    "question_my": "「彼の 努力（　）、成功は ありえない。」— သူ့ကြိုးစားမှု (　) အောင်မြင်မှု မဖြစ်နိုင်ဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "について",
+        "romaji": "ni tsuite",
+        "is_correct": false,
+        "explain_my": "❌ 「について」= ~အကြောင်း။"
+      },
+      {
+        "id": 2,
+        "text": "に対して",
+        "romaji": "ni taishite",
+        "is_correct": false,
+        "explain_my": "❌ 「に対して」= ~အပေါ်။"
+      },
+      {
+        "id": 3,
+        "text": "なしでは",
+        "romaji": "nashi dewa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「N + なしでは」= ~မရှိရင်။"
+      },
+      {
+        "id": 4,
+        "text": "にとって",
+        "romaji": "ni totte",
+        "is_correct": false,
+        "explain_my": "❌ 「にとって」= ~အတွက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「N + なしでは」= ~မရှိရင်။"
+  },
+  {
+    "id": 1794133393077,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "雨が 降った（　）、試合は 続けられた。",
+    "question_my": "「雨が 降った（　）、試合は 続けられた。」— မိုးရွာခဲ့ (　) ပွဲကို ဆက်လုပ်နိုင်ခဲ့တယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "ものなら",
+        "romaji": "mononara",
+        "is_correct": false,
+        "explain_my": "❌ 「ものなら」= 「~ဖြစ်ခဲ့ရင်」။"
+      },
+      {
+        "id": 2,
+        "text": "ものだから",
+        "romaji": "monodakara",
+        "is_correct": false,
+        "explain_my": "❌ 「ものだから」= ~ကြောင့်။"
+      },
+      {
+        "id": 3,
+        "text": "ものの",
+        "romaji": "monono",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「〜ものの」= ~ပေမဲ့ (formal)။"
+      },
+      {
+        "id": 4,
+        "text": "ものは",
+        "romaji": "monowa",
+        "is_correct": false,
+        "explain_my": "❌ 「ものは」ဆိုတဲ့ ပုံစံ မရှိ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜ものの」= ~ပေမဲ့ (formal)။"
+  },
+  {
+    "id": 1794133393078,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "一度 やると 決めた（　）、最後まで やりなさい。",
+    "question_my": "「一度 やると 決めた（　）、最後まで やりなさい。」— တစ်ခါ လုပ်မယ်လို့ ဆုံးဖြတ်ပြီး (　) အဆုံးထိ လုပ်ပါ။",
+    "options": [
+      {
+        "id": 1,
+        "text": "以上",
+        "romaji": "ijou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-た + 以上」= ~ပြီးတာနဲ့ (now that)။"
+      },
+      {
+        "id": 2,
+        "text": "次第",
+        "romaji": "shidai",
+        "is_correct": false,
+        "explain_my": "❌ 「次第」= ~တာနဲ့။"
+      },
+      {
+        "id": 3,
+        "text": "上で",
+        "romaji": "ue de",
+        "is_correct": false,
+        "explain_my": "❌ 「上で」= ~ပြီးတဲ့နောက်။"
+      },
+      {
+        "id": 4,
+        "text": "上に",
+        "romaji": "ue ni",
+        "is_correct": false,
+        "explain_my": "❌ 「上に」= ~အပြင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-た + 以上」= ~ပြီးတာနဲ့။"
+  },
+  {
+    "id": 1794133393079,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "社長の 話に（　）、今期の 計画を 立てよう。",
+    "question_my": "「社長の 話に（　）、今期の 計画を 立てよう。」— သမ္မတရဲ့ စကားအတိုင်း (　) ဒီကာလရဲ့ အစီအစဉ် ဆွဲကြရအောင်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "沿って",
+        "romaji": "sotte",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「N + に沿って」= ~အတိုင်း။"
+      },
+      {
+        "id": 2,
+        "text": "応じて",
+        "romaji": "oujite",
+        "is_correct": false,
+        "explain_my": "❌ 「応じて」= ~အလိုက်။"
+      },
+      {
+        "id": 3,
+        "text": "限って",
+        "romaji": "kagitte",
+        "is_correct": false,
+        "explain_my": "❌ 「限って」= ~ပဲ။"
+      },
+      {
+        "id": 4,
+        "text": "とって",
+        "romaji": "totte",
+        "is_correct": false,
+        "explain_my": "❌ 「とって」= ~အတွက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「N + に沿って」= ~အတိုင်း။"
+  },
+  {
+    "id": 1794133393080,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "この ような 大事な 仕事を 彼に 任せ（　）ません。",
+    "question_my": "「この ような 大事な 仕事を 彼に 任せ（　）ません。」— ဒီလို အရေးကြီးတဲ့ အလုပ်ကို သူ့ကို အပ်နှံ (　) ဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "がたい",
+        "romaji": "gatai",
+        "is_correct": false,
+        "explain_my": "❌ 「がたい」= ~ရခက်။"
+      },
+      {
+        "id": 2,
+        "text": "かね",
+        "romaji": "kane",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-masu stem + かねる」= ~လုပ်ဖို့ မဖြစ်နိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "きれ",
+        "romaji": "kire",
+        "is_correct": false,
+        "explain_my": "❌ 「きれ」= လုံးဝ ~နိုင်တယ်။"
+      },
+      {
+        "id": 4,
+        "text": "ぬき",
+        "romaji": "nuki",
+        "is_correct": false,
+        "explain_my": "❌ 「ぬき」= ~မပါဘဲ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-masu stem + かねる」= ~လုပ်ဖို့ မဖြစ်နိုင်။"
+  },
+  {
+    "id": 1794133393081,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼は 忙しい らしく、食事（　）ではない。",
+    "question_my": "「彼は 忙しい らしく、食事（　）ではない。」— သူ အလုပ်များပုံရပြီး ထမင်းစား (　) မဟုတ်တော့ဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "ところ",
+        "romaji": "tokoro",
+        "is_correct": false,
+        "explain_my": "❌ 「ところ」= နေရာ။"
+      },
+      {
+        "id": 2,
+        "text": "ほど",
+        "romaji": "hodo",
+        "is_correct": false,
+        "explain_my": "❌ 「ほど」= ခန့်။"
+      },
+      {
+        "id": 3,
+        "text": "ばかり",
+        "romaji": "bakari",
+        "is_correct": false,
+        "explain_my": "❌ 「ばかり」= ~ပဲ။"
+      },
+      {
+        "id": 4,
+        "text": "どころ",
+        "romaji": "dokoro",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「N + どころではない」= ~လုပ်ဖို့ အခြေအနေ မဟုတ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「N + どころではない」= ~လုပ်ဖို့ အခြေအနေ မဟုတ်။"
+  },
+  {
+    "id": 1794133393082,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "この 店は 年齢（　）、誰でも 入れます。",
+    "question_my": "「この 店は 年齢（　）、誰でも 入れます。」— ဒီဆိုင်က အသက် (　) ဘယ်သူမဆို ဝင်နိုင်တယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "に限り",
+        "romaji": "ni kagiri",
+        "is_correct": false,
+        "explain_my": "❌ 「に限り」= ~ပဲ။"
+      },
+      {
+        "id": 2,
+        "text": "について",
+        "romaji": "ni tsuite",
+        "is_correct": false,
+        "explain_my": "❌ 「について」= ~အကြောင်း။"
+      },
+      {
+        "id": 3,
+        "text": "を問わず",
+        "romaji": "wo towazu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「N + を問わず」= ~မရွေး။"
+      },
+      {
+        "id": 4,
+        "text": "によって",
+        "romaji": "ni yotte",
+        "is_correct": false,
+        "explain_my": "❌ 「によって」= ကြောင့်/အားဖြင့်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「N + を問わず」= ~မရွေး။"
+  },
+  {
+    "id": 1794133393083,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "メールを 受け取り（　）、すぐに お返事します。",
+    "question_my": "「メールを 受け取り（　）、すぐに お返事します。」— အီးမေးလ် လက်ခံရရှိ (　) ချက်ချင်း ပြန်ဖြေပါမယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "上で",
+        "romaji": "ue de",
+        "is_correct": false,
+        "explain_my": "❌ 「上で」= ~ပြီးတဲ့နောက်။"
+      },
+      {
+        "id": 2,
+        "text": "次第",
+        "romaji": "shidai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-masu stem + 次第」= ~တာနဲ့ ချက်ချင်း။"
+      },
+      {
+        "id": 3,
+        "text": "上に",
+        "romaji": "ue ni",
+        "is_correct": false,
+        "explain_my": "❌ 「上に」= ~အပြင်။"
+      },
+      {
+        "id": 4,
+        "text": "以上",
+        "romaji": "ijou",
+        "is_correct": false,
+        "explain_my": "❌ 「以上」= ~ပြီးတာနဲ့။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-masu stem + 次第」= ~တာနဲ့ ချက်ချင်း။"
+  },
+  {
+    "id": 1794133393084,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "一度 約束した（　）、守らなければ ならない。",
+    "question_my": "「一度 約束した（　）、守らなければ ならない。」— တစ်ခါ ကတိပေးပြီး (　) လိုက်နာရမယ်။",
+    "options": [
+      {
+        "id": 1,
+        "text": "上で",
+        "romaji": "ue de",
+        "is_correct": false,
+        "explain_my": "❌ 「上で」= ~ပြီးတဲ့နောက်။"
+      },
+      {
+        "id": 2,
+        "text": "次第",
+        "romaji": "shidai",
+        "is_correct": false,
+        "explain_my": "❌ 「次第」= ~တာနဲ့။"
+      },
+      {
+        "id": 3,
+        "text": "うちは",
+        "romaji": "uchi wa",
+        "is_correct": false,
+        "explain_my": "❌ 「うちは」= ~နေစဉ်။"
+      },
+      {
+        "id": 4,
+        "text": "以上",
+        "romaji": "ijou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-た + 以上」= ~ပြီးတာနဲ့ (now that)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-た + 以上」= ~ပြီးတာနဲ့။"
+  },
+  {
+    "id": 1794133393085,
+    "category": "Quiz Chart grammar",
+    "mondai": "（　）に なにを いれますか。",
+    "question": "彼の 話を 聞いて、笑わずには（　）なかった。",
+    "question_my": "「彼の 話を 聞いて、笑わずには（　）なかった。」— သူ့စကား နားထောင်ပြီး မရယ်ဘဲ နေ (　) မရခဲ့ဘူး။",
+    "options": [
+      {
+        "id": 1,
+        "text": "いられ",
+        "romaji": "irare",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「V-ずにはいられない」= ~မလုပ်ဘဲ မနေနိုင်။"
+      },
+      {
+        "id": 2,
+        "text": "なれ",
+        "romaji": "nare",
+        "is_correct": false,
+        "explain_my": "❌ 「なれ」ဆိုတဲ့ ပုံစံ မရှိ။"
+      },
+      {
+        "id": 3,
+        "text": "いけ",
+        "romaji": "ike",
+        "is_correct": false,
+        "explain_my": "❌ 「いけ」ဆိုတဲ့ ပုံစံ မရှိ။"
+      },
+      {
+        "id": 4,
+        "text": "なら",
+        "romaji": "nara",
+        "is_correct": false,
+        "explain_my": "❌ 「なら」ဆိုတဲ့ ပုံစံ မရှိ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-ずにはいられない」= ~မလုပ်ဘဲ မနေနိုင်။"
+  }
+]
