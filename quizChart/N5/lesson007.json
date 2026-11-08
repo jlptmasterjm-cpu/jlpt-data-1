@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794138484112,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えんぴつ」の いみは どれですか。",
+    "question_my": "「えんぴつ」(鉛筆) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘောပင်",
+        "romaji": "pen",
+        "is_correct": false,
+        "explain_my": "❌ ဘောပင် = 「ペン」။"
+      },
+      {
+        "id": 2,
+        "text": "ခဲဖျက်",
+        "romaji": "keshigomu",
+        "is_correct": false,
+        "explain_my": "❌ ခဲဖျက် = 「けしゴム」(消しゴム)။"
+      },
+      {
+        "id": 3,
+        "text": "ခဲတံ",
+        "romaji": "enpitsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「えんぴつ」(鉛筆) = ခဲတံ။"
+      },
+      {
+        "id": 4,
+        "text": "မှတ်စုစာအုပ်",
+        "romaji": "nooto",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်စုစာအုပ် = 「ノート」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鉛筆 = えんぴつ · ペン = ぺん · 消しゴム = けしゴム · ノート = のーと"
+  },
+  {
+    "id": 1794138484113,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くつ」の いみは どれですか。",
+    "question_my": "「くつ」(靴) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖိနပ်",
+        "romaji": "kutsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くつ」(靴) = ဖိနပ်။"
+      },
+      {
+        "id": 2,
+        "text": "ခြေအိတ်",
+        "romaji": "kutsushita",
+        "is_correct": false,
+        "explain_my": "❌ ခြေအိတ် = 「くつした」(靴下)။"
+      },
+      {
+        "id": 3,
+        "text": "အိတ်",
+        "romaji": "kaban",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」(鞄)။"
+      },
+      {
+        "id": 4,
+        "text": "ခါးပတ်",
+        "romaji": "beruto",
+        "is_correct": false,
+        "explain_my": "❌ ခါးပတ် = 「ベルト」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 靴 = くつ · 靴下 = くつした · 鞄 = かばん · ベルト = べると"
+  },
+  {
+    "id": 1794138484114,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かさ」の いみは どれですか。",
+    "question_my": "「かさ」(傘) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်အိတ်",
+        "romaji": "tebukuro",
+        "is_correct": false,
+        "explain_my": "❌ လက်အိတ် = 「てぶくろ」(手袋)။"
+      },
+      {
+        "id": 2,
+        "text": "မျက်မှန်",
+        "romaji": "megane",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「めがね」(眼鏡)။"
+      },
+      {
+        "id": 3,
+        "text": "လည်စည်း",
+        "romaji": "mafuraa",
+        "is_correct": false,
+        "explain_my": "❌ လည်စည်း = 「マフラー」။"
+      },
+      {
+        "id": 4,
+        "text": "ထီး",
+        "romaji": "kasa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かさ」(傘) = ထီး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 傘 = かさ · 手袋 = てぶくろ · 眼鏡 = めがね · マフラー = まふらー"
+  },
+  {
+    "id": 1794138484115,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「とけい」の いみは どれですか。",
+    "question_my": "「とけい」(時計) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တယ်လီဖုန်း",
+        "romaji": "denwa",
+        "is_correct": false,
+        "explain_my": "❌ တယ်လီဖုန်း = 「でんわ」(電話)။"
+      },
+      {
+        "id": 2,
+        "text": "နာရီ",
+        "romaji": "tokei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「とけい」(時計) = နာရီ။"
+      },
+      {
+        "id": 3,
+        "text": "တီဗီ",
+        "romaji": "terebi",
+        "is_correct": false,
+        "explain_my": "❌ တီဗီ = 「テレビ」။"
+      },
+      {
+        "id": 4,
+        "text": "ရေဒီယို",
+        "romaji": "rajio",
+        "is_correct": false,
+        "explain_my": "❌ ရေဒီယို = 「ラジオ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 時計 = とけい · 電話 = でんわ · テレビ = てれび · ラジオ = らじお"
+  },
+  {
+    "id": 1794138484116,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「て」の いみは どれですか。",
+    "question_my": "「て」(手) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခြေ",
+        "romaji": "ashi",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 2,
+        "text": "လက်ချောင်း",
+        "romaji": "yubi",
+        "is_correct": false,
+        "explain_my": "❌ လက်ချောင်း = 「ゆび」(指)။"
+      },
+      {
+        "id": 3,
+        "text": "မျက်လုံး",
+        "romaji": "me",
+        "is_correct": false,
+        "explain_my": "❌ မျက်လုံး = 「め」(目)။"
+      },
+      {
+        "id": 4,
+        "text": "လက်",
+        "romaji": "te",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「て」(手) = လက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 手 = て · 足 = あし · 指 = ゆび · 目 = め"
+  },
+  {
+    "id": 1794138484117,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みみ」の いみは どれですか。",
+    "question_my": "「みみ」(耳) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နား",
+        "romaji": "mimi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「みみ」(耳) = နား။"
+      },
+      {
+        "id": 2,
+        "text": "ပါးစပ်",
+        "romaji": "kuchi",
+        "is_correct": false,
+        "explain_my": "❌ ပါးစပ် = 「くち」(口)။"
+      },
+      {
+        "id": 3,
+        "text": "နှာခေါင်း",
+        "romaji": "hana",
+        "is_correct": false,
+        "explain_my": "❌ နှာခေါင်း = 「はな」(鼻)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆံပင်",
+        "romaji": "kami",
+        "is_correct": false,
+        "explain_my": "❌ ဆံပင် = 「かみ」(髪)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 耳 = みみ · 口 = くち · 鼻 = はな · 髪 = かみ"
+  },
+  {
+    "id": 1794138484118,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちち」の いみは どれですか。",
+    "question_my": "「ちち」(父) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အမေ",
+        "romaji": "haha",
+        "is_correct": false,
+        "explain_my": "❌ အမေ = 「はは」(母)။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်ကို",
+        "romaji": "ani",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「あに」(兄)။"
+      },
+      {
+        "id": 3,
+        "text": "အဖေ",
+        "romaji": "chichi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ちち」(父) = အဖေ။"
+      },
+      {
+        "id": 4,
+        "text": "အစ်မ",
+        "romaji": "ane",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「あね」(姉)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 父 = ちち · 母 = はは · 兄 = あに · 姉 = あね"
+  },
+  {
+    "id": 1794138484119,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おとうと」の いみは どれですか。",
+    "question_my": "「おとうと」(弟) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နှမ",
+        "romaji": "imouto",
+        "is_correct": false,
+        "explain_my": "❌ နှမ = 「いもうと」(妹)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီ",
+        "romaji": "otouto",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おとうと」(弟) = ညီ။"
+      },
+      {
+        "id": 3,
+        "text": "ကလေး",
+        "romaji": "kodomo",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「こども」(子供)။"
+      },
+      {
+        "id": 4,
+        "text": "ယောက်ျား",
+        "romaji": "otoko",
+        "is_correct": false,
+        "explain_my": "❌ ယောက်ျား = 「おとこ」(男)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 弟 = おとうと · 妹 = いもうと · 子供 = こども · 男 = おとこ"
+  },
+  {
+    "id": 1794138484120,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「き」の いみは どれですか。",
+    "question_my": "「き」(木) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြက်",
+        "romaji": "kusa",
+        "is_correct": false,
+        "explain_my": "❌ မြက် = 「くさ」(草)။"
+      },
+      {
+        "id": 2,
+        "text": "အရွက်",
+        "romaji": "ha",
+        "is_correct": false,
+        "explain_my": "❌ အရွက် = 「は」(葉)။"
+      },
+      {
+        "id": 3,
+        "text": "မြေ",
+        "romaji": "tsuchi",
+        "is_correct": false,
+        "explain_my": "❌ မြေ = 「つち」(土)။"
+      },
+      {
+        "id": 4,
+        "text": "သစ်ပင်",
+        "romaji": "ki",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「き」(木) = သစ်ပင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 木 = き · 草 = くさ · 葉 = は · 土 = つち"
+  },
+  {
+    "id": 1794138484121,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たまご」の いみは どれですか。",
+    "question_my": "「たまご」(卵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြက်ဥ",
+        "romaji": "tamago",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「たまご」(卵) = ကြက်ဥ။"
+      },
+      {
+        "id": 2,
+        "text": "ထမင်း",
+        "romaji": "gohan",
+        "is_correct": false,
+        "explain_my": "❌ ထမင်း = 「ごはん」။"
+      },
+      {
+        "id": 3,
+        "text": "ပေါင်မုန့်",
+        "romaji": "pan",
+        "is_correct": false,
+        "explain_my": "❌ ပေါင်မုန့် = 「パン」။"
+      },
+      {
+        "id": 4,
+        "text": "သကြား",
+        "romaji": "satou",
+        "is_correct": false,
+        "explain_my": "❌ သကြား = 「さとう」(砂糖)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 卵 = たまご · ごはん = ごはん · パン = ぱん · 砂糖 = さとう"
+  },
+  {
+    "id": 1794138484122,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あさ」の いみは どれですか。",
+    "question_my": "「あさ」(朝) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နေ့လယ်",
+        "romaji": "hiru",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ် = 「ひる」(昼)။"
+      },
+      {
+        "id": 2,
+        "text": "ည",
+        "romaji": "yoru",
+        "is_correct": false,
+        "explain_my": "❌ ည = 「よる」(夜)။"
+      },
+      {
+        "id": 3,
+        "text": "မနက်",
+        "romaji": "asa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あさ」(朝) = မနက်။"
+      },
+      {
+        "id": 4,
+        "text": "ညနေ",
+        "romaji": "ban",
+        "is_correct": false,
+        "explain_my": "❌ ညနေ = 「ばん」(晩)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 朝 = あさ · 昼 = ひる · 夜 = よる · 晩 = ばん"
+  }
+]
