@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794119540829,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「影響」の読み方は何ですか？",
+    "question_my": "「影響」(သက်ရောက်မှု) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "えいが",
+        "romaji": "Eiga",
+        "is_correct": false,
+        "explain_my": "❌ 「えいが」= 「映画」(ရုပ်ရှင်)။ 「影響」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "えいご",
+        "romaji": "Eigo",
+        "is_correct": false,
+        "explain_my": "❌ 「えいご」= 「英語」(အင်္ဂလိပ်ဘာသာ)။ 「影響」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "えいえん",
+        "romaji": "Eien",
+        "is_correct": false,
+        "explain_my": "❌ 「えいえん」= 「永遠」(ထာဝရ)။ 「影響」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "えいきょう",
+        "romaji": "Eikyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「影響」= えいきょう (သက်ရောက်မှု)။ 「影」= えい · 「響」= きょう။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 影響 = えいきょう · 映画 = えいが · 英語 = えいご · 永遠 = えいえん"
+  },
+  {
+    "id": 1794119540830,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「環境」の読み方は何ですか？",
+    "question_my": "「環境」(ပတ်ဝန်းကျင်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かんきょう",
+        "romaji": "Kankyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「環境」= かんきょう (ပတ်ဝန်းကျင်)။ 「環」= かん · 「境」= きょう။"
+      },
+      {
+        "id": 2,
+        "text": "かんけい",
+        "romaji": "Kankei",
+        "is_correct": false,
+        "explain_my": "❌ 「かんけい」= 「関係」(ဆက်ဆံရေး)။ 「環境」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "かんがえ",
+        "romaji": "Kangae",
+        "is_correct": false,
+        "explain_my": "❌ 「かんがえ」= 「考え」(အတွေး)။ 「環境」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "かんり",
+        "romaji": "Kanri",
+        "is_correct": false,
+        "explain_my": "❌ 「かんり」= 「管理」(စီမံခန့်ခွဲ)။ 「環境」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 環境 = かんきょう · 関係 = かんけい · 考え = かんがえ · 管理 = かんり"
+  },
+  {
+    "id": 1794119540831,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「確認」の読み方は何ですか？",
+    "question_my": "「確認」(အတည်ပြု) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かくじつ",
+        "romaji": "Kakujitsu",
+        "is_correct": false,
+        "explain_my": "❌ 「かくじつ」= 「確実」(သေချာသော)။ 「確認」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "かくほ",
+        "romaji": "Kakuho",
+        "is_correct": false,
+        "explain_my": "❌ 「かくほ」= 「確保」(သိမ်းဆည်း)။ 「確認」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "かくにん",
+        "romaji": "Kakunin",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「確認」= かくにん (အတည်ပြု)။ 「確」= かく · 「認」= にん။"
+      },
+      {
+        "id": 4,
+        "text": "にんしき",
+        "romaji": "Ninshiki",
+        "is_correct": false,
+        "explain_my": "❌ 「にんしき」= 「認識」(အသိအမှတ်ပြု)။ 「確認」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 確認 = かくにん · 確実 = かくじつ · 確保 = かくほ · 認識 = にんしき"
+  },
+  {
+    "id": 1794119540832,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「収入」の読み方は何ですか？",
+    "question_my": "「収入」(ဝင်ငွေ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "しゅうかん",
+        "romaji": "Shuukan",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅうかん」= 「習慣」(အလေ့အထ)။ 「収入」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "しゅうにゅう",
+        "romaji": "Shuunyuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「収入」= しゅうにゅう (ဝင်ငွေ)။ 「収」= しゅう · 「入」= にゅう။"
+      },
+      {
+        "id": 3,
+        "text": "しゅうり",
+        "romaji": "Shuuri",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅうり」= 「修理」(ပြုပြင်)။ 「収入」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "しゅうし",
+        "romaji": "Shuushi",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅうし」= 「収支」(ဝင်ငွေထွက်ငွေ)။ 「収入」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 収入 = しゅうにゅう · 習慣 = しゅうかん · 修理 = しゅうり · 収支 = しゅうし"
+  },
+  {
+    "id": 1794119540833,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「無料」の読み方は何ですか？",
+    "question_my": "「無料」(အခမဲ့) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "むり",
+        "romaji": "Muri",
+        "is_correct": false,
+        "explain_my": "❌ 「むり」= 「無理」(မဖြစ်နိုင်)။ 「無料」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "むげん",
+        "romaji": "Mugen",
+        "is_correct": false,
+        "explain_my": "❌ 「むげん」= 「無限」(အဆုံးမဲ့)။ 「無料」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "りょうり",
+        "romaji": "Ryouri",
+        "is_correct": false,
+        "explain_my": "❌ 「りょうり」= 「料理」(အစားအစာ)။ 「無料」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "むりょう",
+        "romaji": "Muryou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「無料」= むりょう (အခမဲ့)။ 「無」= む · 「料」= りょう။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 無料 = むりょう · 無理 = むり · 無限 = むげん · 料理 = りょうり"
+  },
+  {
+    "id": 1794119540834,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「判断」の読み方は何ですか？",
+    "question_my": "「判断」(ဆုံးဖြတ်ချက်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "はんだん",
+        "romaji": "Handan",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「判断」= はんだん (ဆုံးဖြတ်ချက်)။ 「判」= はん · 「断」= だん။"
+      },
+      {
+        "id": 2,
+        "text": "はんたい",
+        "romaji": "Hantai",
+        "is_correct": false,
+        "explain_my": "❌ 「はんたい」= 「反対」(ဆန့်ကျင်)။ 「判断」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "はんのう",
+        "romaji": "Hannou",
+        "is_correct": false,
+        "explain_my": "❌ 「はんのう」= 「反応」(တုံ့ပြန်မှု)။ 「判断」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "はんそく",
+        "romaji": "Hansoku",
+        "is_correct": false,
+        "explain_my": "❌ 「はんそく」= 「反則」(စည်းကမ်းဖောက်ဖျက်)။ 「判断」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 判断 = はんだん · 反対 = はんたい · 反応 = はんのう · 反則 = はんそく"
+  },
+  {
+    "id": 1794119540835,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「増加」の読み方は何ですか？",
+    "question_my": "「増加」(တိုးလာ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ぞうげん",
+        "romaji": "Zougen",
+        "is_correct": false,
+        "explain_my": "❌ 「ぞうげん」= 「増減」(အတိုးအလျှော့)။ 「増加」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "げんしょう",
+        "romaji": "Genshou",
+        "is_correct": false,
+        "explain_my": "❌ 「げんしょう」= 「減少」(လျော့နည်း)။ ဆန့်ကျင်ဘက်။"
+      },
+      {
+        "id": 3,
+        "text": "ぞうか",
+        "romaji": "Zouka",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「増加」= ぞうか (တိုးလာ)။ 「増」= ぞう · 「加」= か။"
+      },
+      {
+        "id": 4,
+        "text": "かそく",
+        "romaji": "Kasoku",
+        "is_correct": false,
+        "explain_my": "❌ 「かそく」= 「加速」(အရှိန်မြှင့်)။ 「増加」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 増加 = ぞうか · 増減 = ぞうげん · 減少 = げんしょう · 加速 = かそく"
+  },
+  {
+    "id": 1794119540836,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「状況」の読み方は何ですか？",
+    "question_my": "「状況」(အခြေအနေ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "じょうたい",
+        "romaji": "Joutai",
+        "is_correct": false,
+        "explain_my": "❌ 「じょうたい」= 「状態」(အခြေအနေ)။ 「状況」နဲ့ ကွဲ။"
+      },
+      {
+        "id": 2,
+        "text": "じょうきょう",
+        "romaji": "Joukyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「状況」= じょうきょう (အခြေအနေ)။ 「状」= じょう · 「況」= きょう။"
+      },
+      {
+        "id": 3,
+        "text": "じょうほう",
+        "romaji": "Jouhou",
+        "is_correct": false,
+        "explain_my": "❌ 「じょうほう」= 「情報」(သတင်းအချက်အလက်)။ 「状況」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "じょうけん",
+        "romaji": "Jouken",
+        "is_correct": false,
+        "explain_my": "❌ 「じょうけん」= 「条件」(အခြေအနေ)။ 「状況」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 状況 = じょうきょう · 状態 = じょうたい · 情報 = じょうほう · 条件 = じょうけん"
+  },
+  {
+    "id": 1794119540837,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「解決」の読み方は何ですか？",
+    "question_my": "「解決」(ဖြေရှင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かいほう",
+        "romaji": "Kaihou",
+        "is_correct": false,
+        "explain_my": "❌ 「かいほう」= 「解放」(လွှတ်ပေး)။ 「解決」နဲ့ မတူ။"
+      },
+      {
+        "id": 2,
+        "text": "かいぎ",
+        "romaji": "Kaigi",
+        "is_correct": false,
+        "explain_my": "❌ 「かいぎ」= 「会議」(အစည်းအေဝး)။ 「解決」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "けってい",
+        "romaji": "Kettei",
+        "is_correct": false,
+        "explain_my": "❌ 「けってい」= 「決定」(ဆုံးဖြတ်)။ 「解決」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "かいけつ",
+        "romaji": "Kaiketsu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「解決」= かいけつ (ဖြေရှင်း)။ 「解」= かい · 「決」= けつ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 解決 = かいけつ · 解放 = かいほう · 会議 = かいぎ · 決定 = けってい"
+  },
+  {
+    "id": 1794119540838,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「具体的」の読み方は何ですか？",
+    "question_my": "「具体的」(တိကျသော) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ぐたいてき",
+        "romaji": "Gutaiteki",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「具体的」= ぐたいてき (တိကျသော)။ 「具」= ぐ · 「体」= たい · 「的」= てき။"
+      },
+      {
+        "id": 2,
+        "text": "ぐうぜんてき",
+        "romaji": "Guuzenteki",
+        "is_correct": false,
+        "explain_my": "❌ 「ぐうぜんてき」= 「偶然的」(မတော်တဆ)။ 「具体的」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "しょうらいてき",
+        "romaji": "Shouraiteki",
+        "is_correct": false,
+        "explain_my": "❌ 「しょうらいてき」= 「将来的」(အနာဂတ်ဆန်သော)။ 「具体的」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "いっぱんてき",
+        "romaji": "Ippanteki",
+        "is_correct": false,
+        "explain_my": "❌ 「いっぱんてき」= 「一般的」(ယေဘုယျ)။ 「具体的」နဲ့ ဆန့်ကျင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 具体的 = ぐたいてき · 偶然的 = ぐうぜんてき · 将来的 = しょうらいてき · 一般的 = いっぱんてき"
+  },
+  {
+    "id": 1794119540839,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「達成」の読み方は何ですか？",
+    "question_my": "「達成」(အောင်မြင်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "たっきゅう",
+        "romaji": "Takkyuu",
+        "is_correct": false,
+        "explain_my": "❌ 「たっきゅう」= 「卓球」(စားပွဲတင်တင်းနစ်)။ 「達成」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 2,
+        "text": "せいこう",
+        "romaji": "Seikou",
+        "is_correct": false,
+        "explain_my": "❌ 「せいこう」= 「成功」(အောင်မြင်)။ 「達成」နဲ့ ကွဲ။"
+      },
+      {
+        "id": 3,
+        "text": "たっせい",
+        "romaji": "Tassei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「達成」= たっせい (အောင်မြင်)။ 「達」= たつ · 「成」= せい။"
+      },
+      {
+        "id": 4,
+        "text": "たっしゃ",
+        "romaji": "Tassha",
+        "is_correct": false,
+        "explain_my": "❌ 「たっしゃ」= 「達者」(ကျန်းမာသော)။ 「達成」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 達成 = たっせい · 卓球 = たっきゅう · 成功 = せいこう · 達者 = たっしゃ"
+  }
+]
