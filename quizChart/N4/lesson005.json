@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794131546794,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「約束」の読み方は何ですか？",
+    "question_my": "「約束」(ကတိ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "よやく",
+        "romaji": "Yoyaku",
+        "is_correct": false,
+        "explain_my": "❌ 「よやく」= 「予約」(ကြိုတင်မှာယူ)။"
+      },
+      {
+        "id": 2,
+        "text": "やくわり",
+        "romaji": "Yakuwari",
+        "is_correct": false,
+        "explain_my": "❌ 「やくわり」= 「役割」(အခန်းကဏ္ဍ)။"
+      },
+      {
+        "id": 3,
+        "text": "やくそく",
+        "romaji": "Yakusoku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「約束」= やくそく (ကတိ)။ 「約」= やく · 「束」= そく။"
+      },
+      {
+        "id": 4,
+        "text": "やくめ",
+        "romaji": "Yakume",
+        "is_correct": false,
+        "explain_my": "❌ 「やくめ」= 「役目」(တာဝန်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 約束 = やくそく · 予約 = よやく · 役割 = やくわり · 役目 = やくめ"
+  },
+  {
+    "id": 1794131546795,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「準備」の読み方は何ですか？",
+    "question_my": "「準備」(ပြင်ဆင်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "じゅんび",
+        "romaji": "Junbi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「準備」= じゅんび (ပြင်ဆင်)။ 「準」= じゅん · 「備」= び။"
+      },
+      {
+        "id": 2,
+        "text": "じゅんちょう",
+        "romaji": "Junchou",
+        "is_correct": false,
+        "explain_my": "❌ 「じゅんちょう」= 「順調」(အဆင်ပြေ)။"
+      },
+      {
+        "id": 3,
+        "text": "じゅんさ",
+        "romaji": "Junsa",
+        "is_correct": false,
+        "explain_my": "❌ 「じゅんさ」= 「巡査」(ရဲ)။"
+      },
+      {
+        "id": 4,
+        "text": "ようい",
+        "romaji": "Youi",
+        "is_correct": false,
+        "explain_my": "❌ 「ようい」= 「用意」(ပြင်ဆင်)။ 「準備」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 準備 = じゅんび · 用意 = ようい · 順調 = じゅんちょう"
+  },
+  {
+    "id": 1794131546796,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「連絡」の読み方は何ですか？",
+    "question_my": "「連絡」(ဆက်သွယ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "れんぞく",
+        "romaji": "Renzoku",
+        "is_correct": false,
+        "explain_my": "❌ 「れんぞく」= 「連続」(ဆက်တိုက်)။"
+      },
+      {
+        "id": 2,
+        "text": "れんしゅう",
+        "romaji": "Renshuu",
+        "is_correct": false,
+        "explain_my": "❌ 「れんしゅう」= 「練習」(လေ့ကျင့်)။"
+      },
+      {
+        "id": 3,
+        "text": "れんあい",
+        "romaji": "Ren'ai",
+        "is_correct": false,
+        "explain_my": "❌ 「れんあい」= 「恋愛」(အချစ်)။"
+      },
+      {
+        "id": 4,
+        "text": "れんらく",
+        "romaji": "Renraku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「連絡」= れんらく (ဆက်သွယ်)။ 「連」= れん · 「絡」= らく။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 連絡 = れんらく · 連続 = れんぞく · 練習 = れんしゅう · 恋愛 = れんあい"
+  },
+  {
+    "id": 1794131546797,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「会議」の読み方は何ですか？",
+    "question_my": "「会議」(အစည်းအေဝး) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かいご",
+        "romaji": "Kaigo",
+        "is_correct": false,
+        "explain_my": "❌ 「かいご」= 「介護」(ပြုစုစောင့်ရှောက်)။"
+      },
+      {
+        "id": 2,
+        "text": "かいぎ",
+        "romaji": "Kaigi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「会議」= かいぎ (အစည်းအေဝး)။ 「会」= かい · 「議」= ぎ။"
+      },
+      {
+        "id": 3,
+        "text": "かいけつ",
+        "romaji": "Kaiketsu",
+        "is_correct": false,
+        "explain_my": "❌ 「かいけつ」= 「解決」(ဖြေရှင်း)။"
+      },
+      {
+        "id": 4,
+        "text": "かいわ",
+        "romaji": "Kaiwa",
+        "is_correct": false,
+        "explain_my": "❌ 「かいわ」= 「会話」(စကားပြော)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 会議 = かいぎ · 解決 = かいけつ · 会話 = かいわ · 介護 = かいご"
+  },
+  {
+    "id": 1794131546798,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「出張」の読み方は何ですか？",
+    "question_my": "「出張」(အလုပ်ခရီး) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "しゅっこう",
+        "romaji": "Shukkou",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅっこう」= 「出向」(တစ်နေရာသို့ ရွှေ့ခန့်)။"
+      },
+      {
+        "id": 2,
+        "text": "しゅつじょう",
+        "romaji": "Shutsujou",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅつじょう」= 「出場」(ပြိုင်ပွဲ ဝင်ပြိုင်)။"
+      },
+      {
+        "id": 3,
+        "text": "しゅっぱつ",
+        "romaji": "Shuppatsu",
+        "is_correct": false,
+        "explain_my": "❌ 「しゅっぱつ」= 「出発」(ထွက်ခွာ)။"
+      },
+      {
+        "id": 4,
+        "text": "しゅっちょう",
+        "romaji": "Shucchou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「出張」= しゅっちょう (အလုပ်ခရီး)။ 「出」= しゅつ · 「張」= ちょう။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 出張 = しゅっちょう · 出発 = しゅっぱつ · 出場 = しゅつじょう"
+  },
+  {
+    "id": 1794131546799,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「残業」の読み方は何ですか？",
+    "question_my": "「残業」(အချိန်ပို) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ざんきん",
+        "romaji": "Zankin",
+        "is_correct": false,
+        "explain_my": "❌ 「ざんきん」= 「残金」(ကျန်ငွေ)။"
+      },
+      {
+        "id": 2,
+        "text": "ざんねん",
+        "romaji": "Zannen",
+        "is_correct": false,
+        "explain_my": "❌ 「ざんねん」= 「残念」(ဝမ်းနည်း)။"
+      },
+      {
+        "id": 3,
+        "text": "ざんぎょう",
+        "romaji": "Zangyou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「残業」= ざんぎょう (အချိန်ပို)။ 「残」= ざん · 「業」= ぎょう။"
+      },
+      {
+        "id": 4,
+        "text": "ざんてい",
+        "romaji": "Zantei",
+        "is_correct": false,
+        "explain_my": "❌ 「ざんてい」= 「暫定」(ယာယီ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 残業 = ざんぎょう · 残金 = ざんきん · 残念 = ざんねん · 暫定 = ざんてい"
+  },
+  {
+    "id": 1794131546800,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「給料」の読み方は何ですか？",
+    "question_my": "「給料」(လစာ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "きゅうりょう",
+        "romaji": "Kyuuryou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「給料」= きゅうりょう (လစာ)။ 「給」= きゅう · 「料」= りょう။"
+      },
+      {
+        "id": 2,
+        "text": "きゅうか",
+        "romaji": "Kyuuka",
+        "is_correct": false,
+        "explain_my": "❌ 「きゅうか」= 「休暇」(အနားယူခွင့်)။"
+      },
+      {
+        "id": 3,
+        "text": "きゅうけい",
+        "romaji": "Kyuukei",
+        "is_correct": false,
+        "explain_my": "❌ 「きゅうけい」= 「休憩」(အနားယူ)။"
+      },
+      {
+        "id": 4,
+        "text": "りょうきん",
+        "romaji": "Ryoukin",
+        "is_correct": false,
+        "explain_my": "❌ 「りょうきん」= 「料金」(အခကြေးငွေ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 給料 = きゅうりょう · 休暇 = きゅうか · 料金 = りょうきん"
+  },
+  {
+    "id": 1794131546801,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「交通」の読み方は何ですか？",
+    "question_my": "「交通」(သွားလာရေး) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "こうりつ",
+        "romaji": "Kouritsu",
+        "is_correct": false,
+        "explain_my": "❌ 「こうりつ」= 「効率」(ထိရောက်မှု)။"
+      },
+      {
+        "id": 2,
+        "text": "こうつう",
+        "romaji": "Koutsuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「交通」= こうつう (သွားလာရေး)။ 「交」= こう · 「通」= つう။"
+      },
+      {
+        "id": 3,
+        "text": "こうか",
+        "romaji": "Kouka",
+        "is_correct": false,
+        "explain_my": "❌ 「こうか」= 「効果」(အကျိုးသက်ရောက်မှု)။"
+      },
+      {
+        "id": 4,
+        "text": "こうてん",
+        "romaji": "Kouten",
+        "is_correct": false,
+        "explain_my": "❌ 「こうてん」= 「好転」(အခြေအနေကောင်းလာ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 交通 = こうつう · 効果 = こうか · 効率 = こうりつ · 好転 = こうてん"
+  },
+  {
+    "id": 1794131546802,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「復習」の読み方は何ですか？",
+    "question_my": "「復習」(ပြန်လည်လေ့လာ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ふくしょく",
+        "romaji": "Fukushoku",
+        "is_correct": false,
+        "explain_my": "❌ 「ふくしょく」= 「復職」(အလုပ်ပြန်ဝင်)။"
+      },
+      {
+        "id": 2,
+        "text": "よしゅう",
+        "romaji": "Yoshuu",
+        "is_correct": false,
+        "explain_my": "❌ 「よしゅう」= 「予習」(ကြိုတင်လေ့လာ)။"
+      },
+      {
+        "id": 3,
+        "text": "ふくしゅう",
+        "romaji": "Fukushuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「復習」= ふくしゅう (ပြန်လည်လေ့လာ)။ 「復」= ふく · 「習」= しゅう။"
+      },
+      {
+        "id": 4,
+        "text": "ふくざつ",
+        "romaji": "Fukuzatsu",
+        "is_correct": false,
+        "explain_my": "❌ 「ふくざつ」= 「複雑」(ရှုပ်ထွေး)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 復習 = ふくしゅう · 予習 = よしゅう · 復職 = ふくしょく · 複雑 = ふくざつ"
+  },
+  {
+    "id": 1794131546803,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「予習」の読み方は何ですか？",
+    "question_my": "「予習」(ကြိုတင်လေ့လာ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "よしゅう",
+        "romaji": "Yoshuu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「予習」= よしゅう (ကြိုတင်လေ့လာ)။ 「予」= よ · 「習」= しゅう။"
+      },
+      {
+        "id": 2,
+        "text": "よてい",
+        "romaji": "Yotei",
+        "is_correct": false,
+        "explain_my": "❌ 「よてい」= 「予定」(အစီအစဉ်)။"
+      },
+      {
+        "id": 3,
+        "text": "よそう",
+        "romaji": "Yosou",
+        "is_correct": false,
+        "explain_my": "❌ 「よそう」= 「予想」(ခန့်မှန်း)။"
+      },
+      {
+        "id": 4,
+        "text": "ふくしゅう",
+        "romaji": "Fukushuu",
+        "is_correct": false,
+        "explain_my": "❌ 「ふくしゅう」= 「復習」(ပြန်လည်လေ့လာ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 予習 = よしゅう · 復習 = ふくしゅう · 予定 = よてい · 予想 = よそう"
+  },
+  {
+    "id": 1794131546804,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「案外」の読み方は何ですか？",
+    "question_my": "「案外」(မထင်မှတ်ဘဲ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "あんない",
+        "romaji": "Annai",
+        "is_correct": false,
+        "explain_my": "❌ 「あんない」= 「案内」(လမ်းညွှန်)။"
+      },
+      {
+        "id": 2,
+        "text": "あんしん",
+        "romaji": "Anshin",
+        "is_correct": false,
+        "explain_my": "❌ 「あんしん」= 「安心」(စိတ်ချ)။"
+      },
+      {
+        "id": 3,
+        "text": "あんぜん",
+        "romaji": "Anzen",
+        "is_correct": false,
+        "explain_my": "❌ 「あんぜん」= 「安全」(ဘေးကင်း)။"
+      },
+      {
+        "id": 4,
+        "text": "あんがい",
+        "romaji": "Angai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「案外」= あんがい (မထင်မှတ်ဘဲ)။ 「案」= あん · 「外」= がい။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 案外 = あんがい · 案内 = あんない · 安心 = あんしん · 安全 = あんぜん"
+  }
+]
