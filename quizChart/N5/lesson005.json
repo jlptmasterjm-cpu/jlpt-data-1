@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794135500130,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「人」の読み方は何ですか？",
+    "question_my": "「人」(လူ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ひと",
+        "romaji": "Hito",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「人」= ひと (လူ)။"
+      },
+      {
+        "id": 2,
+        "text": "こども",
+        "romaji": "Kodomo",
+        "is_correct": false,
+        "explain_my": "❌ 「こども」= 「子供」(ကလေး)။"
+      },
+      {
+        "id": 3,
+        "text": "おとな",
+        "romaji": "Otona",
+        "is_correct": false,
+        "explain_my": "❌ 「おとな」= 「大人」(လူကြီး)။"
+      },
+      {
+        "id": 4,
+        "text": "ともだち",
+        "romaji": "Tomodachi",
+        "is_correct": false,
+        "explain_my": "❌ 「ともだち」= 「友達」(သူငယ်ချင်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 人 = ひと · 子供 = こども · 大人 = おとな · 友達 = ともだち"
+  },
+  {
+    "id": 1794135500131,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「口」の読み方は何ですか？",
+    "question_my": "「口」(ပါးစပ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "め",
+        "romaji": "Me",
+        "is_correct": false,
+        "explain_my": "❌ 「め」= 「目」(မျက်စိ)။"
+      },
+      {
+        "id": 2,
+        "text": "くち",
+        "romaji": "Kuchi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「口」= くち (ပါးစပ်)။"
+      },
+      {
+        "id": 3,
+        "text": "みみ",
+        "romaji": "Mimi",
+        "is_correct": false,
+        "explain_my": "❌ 「みみ」= 「耳」(နား)။"
+      },
+      {
+        "id": 4,
+        "text": "はな",
+        "romaji": "Hana",
+        "is_correct": false,
+        "explain_my": "❌ 「はな」= 「鼻」(နှာခေါင်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 口 = くち · 目 = め · 耳 = みみ · 鼻 = はな"
+  },
+  {
+    "id": 1794135500132,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「目」の読み方は何ですか？",
+    "question_my": "「目」(မျက်စိ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "くち",
+        "romaji": "Kuchi",
+        "is_correct": false,
+        "explain_my": "❌ 「くち」= 「口」(ပါးစပ်)။"
+      },
+      {
+        "id": 2,
+        "text": "みみ",
+        "romaji": "Mimi",
+        "is_correct": false,
+        "explain_my": "❌ 「みみ」= 「耳」(နား)။"
+      },
+      {
+        "id": 3,
+        "text": "め",
+        "romaji": "Me",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「目」= め (မျက်စိ)။"
+      },
+      {
+        "id": 4,
+        "text": "て",
+        "romaji": "Te",
+        "is_correct": false,
+        "explain_my": "❌ 「て」= 「手」(လက်)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 目 = め · 口 = くち · 耳 = みみ · 手 = て"
+  },
+  {
+    "id": 1794135500133,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「耳」の読み方は何ですか？",
+    "question_my": "「耳」(နား) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "みみ",
+        "romaji": "Mimi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「耳」= みみ (နား)။"
+      },
+      {
+        "id": 2,
+        "text": "め",
+        "romaji": "Me",
+        "is_correct": false,
+        "explain_my": "❌ 「め」= 「目」(မျက်စိ)။"
+      },
+      {
+        "id": 3,
+        "text": "くち",
+        "romaji": "Kuchi",
+        "is_correct": false,
+        "explain_my": "❌ 「くち」= 「口」(ပါးစပ်)။"
+      },
+      {
+        "id": 4,
+        "text": "あし",
+        "romaji": "Ashi",
+        "is_correct": false,
+        "explain_my": "❌ 「あし」= 「足」(ခြေ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 耳 = みみ · 目 = め · 口 = くち · 足 = あし"
+  },
+  {
+    "id": 1794135500134,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「手」の読み方は何ですか？",
+    "question_my": "「手」(လက်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "あし",
+        "romaji": "Ashi",
+        "is_correct": false,
+        "explain_my": "❌ 「あし」= 「足」(ခြေ)။"
+      },
+      {
+        "id": 2,
+        "text": "て",
+        "romaji": "Te",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「手」= て (လက်)။"
+      },
+      {
+        "id": 3,
+        "text": "ゆび",
+        "romaji": "Yubi",
+        "is_correct": false,
+        "explain_my": "❌ 「ゆび」= 「指」(လက်ချောင်း)။"
+      },
+      {
+        "id": 4,
+        "text": "うで",
+        "romaji": "Ude",
+        "is_correct": false,
+        "explain_my": "❌ 「うで」= 「腕」(လက်မောင်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 手 = て · 足 = あし · 指 = ゆび · 腕 = うで"
+  },
+  {
+    "id": 1794135500135,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「足」の読み方は何ですか？",
+    "question_my": "「足」(ခြေ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "て",
+        "romaji": "Te",
+        "is_correct": false,
+        "explain_my": "❌ 「て」= 「手」(လက်)။"
+      },
+      {
+        "id": 2,
+        "text": "かお",
+        "romaji": "Kao",
+        "is_correct": false,
+        "explain_my": "❌ 「かお」= 「顔」(မျက်နှာ)။"
+      },
+      {
+        "id": 3,
+        "text": "あし",
+        "romaji": "Ashi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「足」= あし (ခြေ)။"
+      },
+      {
+        "id": 4,
+        "text": "せなか",
+        "romaji": "Senaka",
+        "is_correct": false,
+        "explain_my": "❌ 「せなか」= 「背中」(ကျော)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 足 = あし · 手 = て · 顔 = かお · 背中 = せなか"
+  },
+  {
+    "id": 1794135500136,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「父」の読み方は何ですか？",
+    "question_my": "「父」(အဖေ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "はは",
+        "romaji": "Haha",
+        "is_correct": false,
+        "explain_my": "❌ 「はは」= 「母」(အမေ)။"
+      },
+      {
+        "id": 2,
+        "text": "ちち",
+        "romaji": "Chichi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「父」= ちち (အဖေ)။"
+      },
+      {
+        "id": 3,
+        "text": "あに",
+        "romaji": "Ani",
+        "is_correct": false,
+        "explain_my": "❌ 「あに」= 「兄」(အစ်ကို)။"
+      },
+      {
+        "id": 4,
+        "text": "あね",
+        "romaji": "Ane",
+        "is_correct": false,
+        "explain_my": "❌ 「あね」= 「姉」(အစ်မ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 父 = ちち · 母 = はは · 兄 = あに · 姉 = あね"
+  },
+  {
+    "id": 1794135500137,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「母」の読み方は何ですか？",
+    "question_my": "「母」(အမေ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ちち",
+        "romaji": "Chichi",
+        "is_correct": false,
+        "explain_my": "❌ 「ちち」= 「父」(အဖေ)။"
+      },
+      {
+        "id": 2,
+        "text": "おとうと",
+        "romaji": "Otouto",
+        "is_correct": false,
+        "explain_my": "❌ 「おとうと」= 「弟」(ညီ)။"
+      },
+      {
+        "id": 3,
+        "text": "いもうと",
+        "romaji": "Imouto",
+        "is_correct": false,
+        "explain_my": "❌ 「いもうと」= 「妹」(ညီမ)။"
+      },
+      {
+        "id": 4,
+        "text": "はは",
+        "romaji": "Haha",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「母」= はは (အမေ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 母 = はは · 父 = ちち · 弟 = おとうと · 妹 = いもうと"
+  },
+  {
+    "id": 1794135500138,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「友」の読み方は何ですか？",
+    "question_my": "「友」(သူငယ်ချင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "とも",
+        "romaji": "Tomo",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「友」= とも (သူငယ်ချင်း)။"
+      },
+      {
+        "id": 2,
+        "text": "かぞく",
+        "romaji": "Kazoku",
+        "is_correct": false,
+        "explain_my": "❌ 「かぞく」= 「家族」(မိသားစု)။"
+      },
+      {
+        "id": 3,
+        "text": "せんせい",
+        "romaji": "Sensei",
+        "is_correct": false,
+        "explain_my": "❌ 「せんせい」= 「先生」(ဆရာ/ဆရာမ)။"
+      },
+      {
+        "id": 4,
+        "text": "がくせい",
+        "romaji": "Gakusei",
+        "is_correct": false,
+        "explain_my": "❌ 「がくせい」= 「学生」(ကျောင်းသား)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 友 = とも · 家族 = かぞく · 先生 = せんせい · 学生 = がくせい"
+  },
+  {
+    "id": 1794135500139,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「学校」の読み方は何ですか？",
+    "question_my": "「学校」(ကျောင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "せんせい",
+        "romaji": "Sensei",
+        "is_correct": false,
+        "explain_my": "❌ 「せんせい」= 「先生」(ဆရာ/ဆရာမ)။"
+      },
+      {
+        "id": 2,
+        "text": "がくせい",
+        "romaji": "Gakusei",
+        "is_correct": false,
+        "explain_my": "❌ 「がくせい」= 「学生」(ကျောင်းသား)။"
+      },
+      {
+        "id": 3,
+        "text": "きょうしつ",
+        "romaji": "Kyoushitsu",
+        "is_correct": false,
+        "explain_my": "❌ 「きょうしつ」= 「教室」(စာသင်ခန်း)။"
+      },
+      {
+        "id": 4,
+        "text": "がっこう",
+        "romaji": "Gakkou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「学校」= がっこう (ကျောင်း)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 学校 = がっこう · 先生 = せんせい · 学生 = がくせい · 教室 = きょうしつ"
+  },
+  {
+    "id": 1794135500140,
+    "category": "Quiz Chart kanji",
+    "mondai": "",
+    "question": "「先生」の読み方は何ですか？",
+    "question_my": "「先生」(ဆရာ/ဆရာမ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "がっこう",
+        "romaji": "Gakkou",
+        "is_correct": false,
+        "explain_my": "❌ 「がっこう」= 「学校」(ကျောင်း)။"
+      },
+      {
+        "id": 2,
+        "text": "がくせい",
+        "romaji": "Gakusei",
+        "is_correct": false,
+        "explain_my": "❌ 「がくせい」= 「学生」(ကျောင်းသား)။"
+      },
+      {
+        "id": 3,
+        "text": "きょうしつ",
+        "romaji": "Kyoushitsu",
+        "is_correct": false,
+        "explain_my": "❌ 「きょうしつ」= 「教室」(စာသင်ခန်း)။"
+      },
+      {
+        "id": 4,
+        "text": "せんせい",
+        "romaji": "Sensei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「先生」= せんせい (ဆရာ/ဆရာမ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 先生 = せんせい · 学校 = がっこう · 学生 = がくせい · 教室 = きょうしつ"
+  }
+]
