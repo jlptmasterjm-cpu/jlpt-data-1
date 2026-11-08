@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794139205648,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はあく」の いみは どれですか。",
+    "question_my": "「はあく」(把握) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငြင်းဆိုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းဆိုခြင်း = 「否定」(ひてい)။"
+      },
+      {
+        "id": 2,
+        "text": "နားလည်ဆုပ်ကိုင်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「把握」= နားလည်ဆုပ်ကိုင်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "မေ့လျော့ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မေ့လျော့ခြင်း = 「忘却」(ぼうきゃく)။"
+      },
+      {
+        "id": 4,
+        "text": "လျစ်လျူရှုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လျစ်လျူရှုခြင်း = 「無視」(むし)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 把握 = はあく (နားလည်ဆုပ်ကိုင်) · 無視 = むし (လျစ်လျူရှု) · 否定 = ひてい (ငြင်းဆို)"
+  },
+  {
+    "id": 1794139205649,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「むじゅん」の いみは どれですか。",
+    "question_my": "「むじゅん」(矛盾) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သဟဇာတဖြစ်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သဟဇာတဖြစ်ခြင်း = 「調和」(ちょうわ)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီညွတ်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီညွတ်ခြင်း = 「一致」(いっち)။"
+      },
+      {
+        "id": 3,
+        "text": "တူညီခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တူညီခြင်း = 「同じ」(おなじ)။"
+      },
+      {
+        "id": 4,
+        "text": "ကွဲလွဲခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「矛盾」= ကွဲလွဲခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 矛盾 = むじゅん (ကွဲလွဲ) · 調和 = ちょうわ (သဟဇာတ) · 一致 = いっち (ညီညွတ်)"
+  },
+  {
+    "id": 1794139205650,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こうけん」の いみは どれですか。",
+    "question_my": "「こうけん」(貢献) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖျက်ဆီးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက်ဆီးခြင်း = 「破壊」(はかい)။"
+      },
+      {
+        "id": 2,
+        "text": "ဝေဖန်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝေဖန်ခြင်း = 「批判」(ひはん)။"
+      },
+      {
+        "id": 3,
+        "text": "ပံ့ပိုးကူညီခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「貢献」= ပံ့ပိုးကူညီခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ငြင်းဆိုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းဆိုခြင်း = 「否定」(ひてい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 貢献 = こうけん (ပံ့ပိုး) · 破壊 = はかい (ဖျက်ဆီး) · 批判 = ひはん (ဝေဖန်)"
+  },
+  {
+    "id": 1794139205651,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けいこう」の いみは どれですか。",
+    "question_my": "「けいこう」(傾向) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လမ်းကြောင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「傾向」= လမ်းကြောင်း/သဘောထား။"
+      },
+      {
+        "id": 2,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 3,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 4,
+        "text": "ရည်မှန်းချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရည်မှန်းချက် = 「目標」(もくひょう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 傾向 = けいこう · 結果 = けっか · 目標 = もくひょう"
+  },
+  {
+    "id": 1794139205652,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はんだん」の いみは どれですか。",
+    "question_my": "「はんだん」(判断) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မှတ်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်ချက် = 「メモ」/「注意」(ちゅうい)။"
+      },
+      {
+        "id": 2,
+        "text": "သတင်းပို့ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သတင်းပို့ခြင်း = 「報告」(ほうこく)။"
+      },
+      {
+        "id": 3,
+        "text": "အကြံပြုချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြံပြုချက် = 「提案」(ていあん)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆုံးဖြတ်ချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「判断」= ဆုံးဖြတ်ချက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 判断 = はんだん (ဆုံးဖြတ်) · 報告 = ほうこく (သတင်းပို့) · 提案 = ていあん (အကြံပြု)"
+  },
+  {
+    "id": 1794139205653,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たっせい」の いみは どれですか。",
+    "question_my": "「たっせい」(達成) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြိုးစားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုးစားခြင်း = 「努力」(どりょく)။"
+      },
+      {
+        "id": 2,
+        "text": "အောင်မြင်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「達成」= အောင်မြင်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "စတင်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စတင်ခြင်း = 「開始」(かいし)။"
+      },
+      {
+        "id": 4,
+        "text": "ရပ်နားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်နားခြင်း = 「停止」(ていし)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 達成 = たっせい (အောင်မြင်) · 努力 = どりょく (ကြိုးစား) · 開始 = かいし (စတင်)"
+  },
+  {
+    "id": 1794139205654,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「よそく」の いみは どれですか。",
+    "question_my": "「よそく」(予測) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 2,
+        "text": "သတင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သတင်း = 「ニュース」။"
+      },
+      {
+        "id": 3,
+        "text": "ခန့်မှန်းချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「予測」= ခန့်မှန်းချက်။"
+      },
+      {
+        "id": 4,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 予測 = よそく (ခန့်မှန်း) · 結果 = けっか (ရလဒ်) · 原因 = げんいん (အကြောင်းရင်း)"
+  },
+  {
+    "id": 1794139205655,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「そくしん」の いみは どれですか。",
+    "question_my": "「そくしん」(促進) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြှင့်တင်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「促進」= မြှင့်တင်ခြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "နှောင့်နှေးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှောင့်နှေးခြင်း = 「遅延」(ちえん)။"
+      },
+      {
+        "id": 3,
+        "text": "ရပ်တန့်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်တန့်ခြင်း = 「停止」(ていし)။"
+      },
+      {
+        "id": 4,
+        "text": "လျှော့ချခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လျှော့ချခြင်း = 「削減」(さくげん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 促進 = そくしん (မြှင့်တင်) · 停止 = ていし (ရပ်တန့်) · 削減 = さくげん (လျှော့ချ)"
+  },
+  {
+    "id": 1794139205656,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おうよう」の いみは どれですか。",
+    "question_my": "「おうよう」(応用) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အခြေခံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခြေခံ = 「基本」(きほん)။"
+      },
+      {
+        "id": 2,
+        "text": "သင်ယူခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်ယူခြင်း = 「学習」(がくしゅう)။"
+      },
+      {
+        "id": 3,
+        "text": "လေ့ကျင့်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ့ကျင့်ခြင်း = 「練習」(れんしゅう)။"
+      },
+      {
+        "id": 4,
+        "text": "အသုံးချခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「応用」= အသုံးချခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 応用 = おうよう (အသုံးချ) · 基本 = きほん (အခြေခံ) · 練習 = れんしゅう (လေ့ကျင့်)"
+  },
+  {
+    "id": 1794139205657,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「てきおう」の いみは どれですか。",
+    "question_my": "「てきおう」(適応) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြောင်းလဲခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြောင်းလဲခြင်း = 「変化」(へんか)။"
+      },
+      {
+        "id": 2,
+        "text": "လိုက်လျောညီထွေဖြစ်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「適応」= လိုက်လျောညီထွေဖြစ်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ငြင်းဆိုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းဆိုခြင်း = 「拒否」(きょひ)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြိုးစားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုးစားခြင်း = 「努力」(どりょく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 適応 = てきおう (လိုက်လျောညီထွေ) · 変化 = へんか (ပြောင်းလဲ)"
+  },
+  {
+    "id": 1794139205658,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はっき」の いみは どれですか。",
+    "question_my": "「はっき」(発揮) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖျက်ဆီးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက်ဆီးခြင်း = 「破壊」(はかい)။"
+      },
+      {
+        "id": 2,
+        "text": "မေ့လျော့ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မေ့လျော့ခြင်း = 「忘却」(ぼうきゃく)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြသခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「発揮」= ပြသခြင်း/ထုတ်ဖော်ခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ငြင်းဆိုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းဆိုခြင်း = 「否定」(ひてい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 発揮 = はっき (ပြသ/ထုတ်ဖော်) · 破壊 = はかい (ဖျက်ဆီး) · 否定 = ひてい (ငြင်းဆို)"
+  }
+]
