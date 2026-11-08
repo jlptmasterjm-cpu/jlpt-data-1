@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794127643970,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あいまい」の いみは どれですか。",
+    "question_my": "「あいまい」(曖昧) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရှင်းလင်းသော",
+        "romaji": "clear",
+        "is_correct": false,
+        "explain_my": "❌ ရှင်းလင်းသော = 「明確」(めいかく)။"
+      },
+      {
+        "id": 2,
+        "text": "တိကျသော",
+        "romaji": "precise",
+        "is_correct": false,
+        "explain_my": "❌ တိကျသော = 「正確」(せいかく)။"
+      },
+      {
+        "id": 3,
+        "text": "မရှင်းလင်းသော",
+        "romaji": "aimai",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「曖昧」= မရှင်းလင်းသော။"
+      },
+      {
+        "id": 4,
+        "text": "ပြတ်သားသော",
+        "romaji": "decisive",
+        "is_correct": false,
+        "explain_my": "❌ ပြတ်သားသော = 「明確」(めいかく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 曖昧 = あいまい (မရှင်းလင်း) · 明確 = めいかく (ရှင်းလင်း/ပြတ်သား) · 正確 = せいかく (တိကျ)"
+  },
+  {
+    "id": 1794127643971,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けんちょ」の いみは どれですか。",
+    "question_my": "「けんちょ」(顕著) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ထင်ရှားသော",
+        "romaji": "kencho",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「顕著」= ထင်ရှားသော။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျော့တော့သော",
+        "romaji": "faint",
+        "is_correct": false,
+        "explain_my": "❌ ဖျော့တော့သော = 「薄い」(うすい)။"
+      },
+      {
+        "id": 3,
+        "text": "သာမန်",
+        "romaji": "ordinary",
+        "is_correct": false,
+        "explain_my": "❌ သာမန် = 「普通」(ふつう)။"
+      },
+      {
+        "id": 4,
+        "text": "နည်းသော",
+        "romaji": "few",
+        "is_correct": false,
+        "explain_my": "❌ နည်းသော = 「少ない」(すくない)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 顕著 = けんちょ (ထင်ရှား) · 普通 = ふつう (သာမန်) · 少ない = すくない (နည်း)"
+  },
+  {
+    "id": 1794127643972,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かんわ」の いみは どれですか。",
+    "question_my": "「かんわ」(緩和) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တင်းမာခြင်း",
+        "romaji": "tension",
+        "is_correct": false,
+        "explain_my": "❌ တင်းမာခြင်း = 「緊張」(きんちょう)။"
+      },
+      {
+        "id": 2,
+        "text": "ခက်ခဲခြင်း",
+        "romaji": "difficulty",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ခဲခြင်း = 「困難」(こんなん)။"
+      },
+      {
+        "id": 3,
+        "text": "ကျပ်တည်းခြင်း",
+        "romaji": "tightness",
+        "is_correct": false,
+        "explain_my": "❌ ကျပ်တည်းခြင်း = 「厳しさ」(きびしさ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဖြေလျော့ခြင်း",
+        "romaji": "kanwa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「緩和」= ဖြေလျော့ခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 緩和 = かんわ (ဖြေလျော့) · 緊張 = きんちょう (တင်းမာ) · 困難 = こんなん (ခက်ခဲ)"
+  },
+  {
+    "id": 1794127643973,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ざんてい」の いみは どれですか。",
+    "question_my": "「ざんてい」(暫定) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အပြီးသတ်",
+        "romaji": "final",
+        "is_correct": false,
+        "explain_my": "❌ အပြီးသတ် = 「最終」(さいしゅう)။"
+      },
+      {
+        "id": 2,
+        "text": "ယာယီ",
+        "romaji": "zantei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「暫定」= ယာယီ။"
+      },
+      {
+        "id": 3,
+        "text": "အမြဲတမ်း",
+        "romaji": "permanent",
+        "is_correct": false,
+        "explain_my": "❌ အမြဲတမ်း = 「永久」(えいきゅう)။"
+      },
+      {
+        "id": 4,
+        "text": "ရေရှည်",
+        "romaji": "long-term",
+        "is_correct": false,
+        "explain_my": "❌ ရေရှည် = 「長期」(ちょうき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 暫定 = ざんてい (ယာယီ) · 最終 = さいしゅう (အပြီးသတ်) · 永久 = えいきゅう (အမြဲတမ်း)"
+  },
+  {
+    "id": 1794127643974,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こくふく」の いみは どれですか。",
+    "question_my": "「こくふく」(克服) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်လျှော့ခြင်း",
+        "romaji": "giving up",
+        "is_correct": false,
+        "explain_my": "❌ လက်လျှော့ခြင်း = 「諦め」(あきらめ)။"
+      },
+      {
+        "id": 2,
+        "text": "ရှုံးနိမ့်ခြင်း",
+        "romaji": "defeat",
+        "is_correct": false,
+        "explain_my": "❌ ရှုံးနိမ့်ခြင်း = 「敗北」(はいぼく)။"
+      },
+      {
+        "id": 3,
+        "text": "ကျော်လွှားခြင်း",
+        "romaji": "kokufuku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「克服」= ကျော်လွှားခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ကြောက်ရွံ့ခြင်း",
+        "romaji": "fear",
+        "is_correct": false,
+        "explain_my": "❌ ကြောက်ရွံ့ခြင်း = 「恐怖」(きょうふ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 克服 = こくふく (ကျော်လွှား) · 敗北 = はいぼく (ရှုံးနိမ့်) · 諦め = あきらめ (လက်လျှော့)"
+  },
+  {
+    "id": 1794127643975,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しゅし」の いみは どれですか。",
+    "question_my": "「しゅし」(趣旨) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "cause",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 2,
+        "text": "ရလဒ်",
+        "romaji": "result",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 3,
+        "text": "ခေါင်းစဉ်",
+        "romaji": "title",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်းစဉ် = 「題名」(だいめい)။"
+      },
+      {
+        "id": 4,
+        "text": "ရည်ရွယ်ချက်",
+        "romaji": "shushi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「趣旨」= ရည်ရွယ်ချက်/အဓိကအချက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 趣旨 = しゅし (ရည်ရွယ်ချက်/အဓိကအချက်) · 原因 = げんいん · 結果 = けっか"
+  },
+  {
+    "id": 1794127643976,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「がいねん」の いみは どれですか。",
+    "question_my": "「がいねん」(概念) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အယူအဆ",
+        "romaji": "gainen",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「概念」= အယူအဆ။"
+      },
+      {
+        "id": 2,
+        "text": "အတွေး",
+        "romaji": "thought",
+        "is_correct": false,
+        "explain_my": "❌ အတွေး = 「考え」(かんがえ)။"
+      },
+      {
+        "id": 3,
+        "text": "ခံစားချက်",
+        "romaji": "feeling",
+        "is_correct": false,
+        "explain_my": "❌ ခံစားချက် = 「感情」(かんじょう)။"
+      },
+      {
+        "id": 4,
+        "text": "မှတ်ဉာဏ်",
+        "romaji": "memory",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်ဉာဏ် = 「記憶」(きおく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 概念 = がいねん (အယူအဆ) · 考え = かんがえ (အတွေး) · 記憶 = きおく (မှတ်ဉာဏ်)"
+  },
+  {
+    "id": 1794127643977,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「だとう」の いみは どれですか。",
+    "question_my": "「だとう」(妥当) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မှားယွင်းသော",
+        "romaji": "wrong",
+        "is_correct": false,
+        "explain_my": "❌ မှားယွင်းသော = 「間違い」(まちがい)။"
+      },
+      {
+        "id": 2,
+        "text": "သင့်လျော်သော",
+        "romaji": "datou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「妥当」= သင့်လျော်သော/ကျိုးကြောင်းဆီလျော်သော။"
+      },
+      {
+        "id": 3,
+        "text": "ခက်ခဲသော",
+        "romaji": "difficult",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ခဲသော = 「難しい」(むずかしい)။"
+      },
+      {
+        "id": 4,
+        "text": "ရှုပ်ထွေးသော",
+        "romaji": "complicated",
+        "is_correct": false,
+        "explain_my": "❌ ရှုပ်ထွေးသော = 「複雑」(ふくざつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 妥当 = だとう (သင့်လျော်) · 複雑 = ふくざつ (ရှုပ်ထွေး) · 難しい = むずかしい (ခက်ခဲ)"
+  },
+  {
+    "id": 1794127643978,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぜいじゃく」の いみは どれですか。",
+    "question_my": "「ぜいじゃく」(脆弱) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခိုင်မာသော",
+        "romaji": "strong",
+        "is_correct": false,
+        "explain_my": "❌ ခိုင်မာသော = 「強い」(つよい)။"
+      },
+      {
+        "id": 2,
+        "text": "ကြံ့ခိုင်သော",
+        "romaji": "robust",
+        "is_correct": false,
+        "explain_my": "❌ ကြံ့ခိုင်သော = 「丈夫」(じょうぶ)။"
+      },
+      {
+        "id": 3,
+        "text": "ပျက်စီးလွယ်သော",
+        "romaji": "zeijaku",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「脆弱」= ပျက်စီးလွယ်သော/အားနည်းသော။"
+      },
+      {
+        "id": 4,
+        "text": "ရှည်လျားသော",
+        "romaji": "long",
+        "is_correct": false,
+        "explain_my": "❌ ရှည်လျားသော = 「長い」(ながい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 脆弱 = ぜいじゃく (ပျက်စီးလွယ်) · 丈夫 = じょうぶ (ကြံ့ခိုင်) · 強い = つよい (ခိုင်မာ)"
+  },
+  {
+    "id": 1794127643979,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「すいこう」の いみは どれですか。",
+    "question_my": "「すいこう」(遂行) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စတင်ခြင်း",
+        "romaji": "start",
+        "is_correct": false,
+        "explain_my": "❌ စတင်ခြင်း = 「開始」(かいし)။"
+      },
+      {
+        "id": 2,
+        "text": "စီစဉ်ခြင်း",
+        "romaji": "planning",
+        "is_correct": false,
+        "explain_my": "❌ စီစဉ်ခြင်း = 「計画」(けいかく)။"
+      },
+      {
+        "id": 3,
+        "text": "ရပ်နားခြင်း",
+        "romaji": "stopping",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်နားခြင်း = 「停止」(ていし)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆောင်ရွက်ခြင်း",
+        "romaji": "suikou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「遂行」= ဆောင်ရွက်ခြင်း/အကောင်အထည်ဖော်ခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 遂行 = すいこう (ဆောင်ရွက်) · 計画 = けいかく (စီစဉ်) · 開始 = かいし (စတင်)"
+  },
+  {
+    "id": 1794127643980,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くつがえす」の いみは どれですか。",
+    "question_my": "「くつがえす」(覆す) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ထောက်ခံခြင်း",
+        "romaji": "support",
+        "is_correct": false,
+        "explain_my": "❌ ထောက်ခံခြင်း = 「支持」(しじ)။"
+      },
+      {
+        "id": 2,
+        "text": "လှန်လှောခြင်း",
+        "romaji": "kutsugaesu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「覆す」= လှန်လှောခြင်း/မှောက်လှန်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "လက်ခံခြင်း",
+        "romaji": "accept",
+        "is_correct": false,
+        "explain_my": "❌ လက်ခံခြင်း = 「受け入れ」(うけいれ)။"
+      },
+      {
+        "id": 4,
+        "text": "ငြင်းဆိုခြင်း",
+        "romaji": "deny",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းဆိုခြင်း = 「否定」(ひてい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 覆す = くつがえす (လှန်လှော) · 支持 = しじ (ထောက်ခံ) · 受け入れ = うけいれ (လက်ခံ)"
+  }
+]
