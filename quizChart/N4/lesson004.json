@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794128524242,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "レストランは どうでしたか。",
+    "question_my": "စားသောက်ဆိုင်က ဘယ်လိုလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "おいしかったが たかかった",
+        "romaji": "oishikatta ga takakatta",
+        "is_correct": false,
+        "explain_my": "❌ အရသာရှိပေမဲ့ ဈေးကြီးတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "おいしくて やすかった",
+        "romaji": "oishikute yasukatta",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おいしくて、ねだんも やすかった」= အရသာရှိပြီး ဈေးလည်း သက်သာတယ်။"
+      },
+      {
+        "id": 3,
+        "text": "おいしくなかった",
+        "romaji": "oishikunakatta",
+        "is_correct": false,
+        "explain_my": "❌ အရသာ မရှိတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "たかくて まずかった",
+        "romaji": "takakute mazukatta",
+        "is_correct": false,
+        "explain_my": "❌ ဈေးကြီးပြီး အရသာမရှိတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜くて、〜」= ~ပြီး ~ (i-adj ဆက်တွဲ)။ 「おいしくて、やすかった」"
+  },
+  {
+    "id": 1794128524243,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "にほんごの べんきょうは どうですか。",
+    "question_my": "ဂျပန်စာ လေ့လာတာက ဘယ်လိုလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かんたんで つまらない",
+        "romaji": "kantan de tsumaranai",
+        "is_correct": false,
+        "explain_my": "❌ လွယ်ပြီး ပျင်းစရာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "かんたんで たのしい",
+        "romaji": "kantan de tanoshii",
+        "is_correct": false,
+        "explain_my": "❌ လွယ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "むずかしくて つまらない",
+        "romaji": "muzukashikute tsumaranai",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ပြီး ပျင်းစရာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "むずかしいが たのしい",
+        "romaji": "muzukashii ga tanoshii",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「むずかしいですが、とても たのしいです」= ခက်ခဲပေမဲ့ အရမ်း ပျော်စရာကောင်းတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜が、〜」= ~ပေမဲ့ ~ (ဆန့်ကျင်ဘက် ဆက်စပ်)"
+  },
+  {
+    "id": 1794128524244,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "なぜ ぬれましたか。",
+    "question_my": "ဘာကြောင့် စိုသွားတာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かさを もっていなかったから",
+        "romaji": "kasa wo motte inakatta kara",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かさを もっていなかったので、ぬれて しまいました」= ထီးမယူခဲ့လို့ စိုသွားတယ်။"
+      },
+      {
+        "id": 2,
+        "text": "かさを わすれたから",
+        "romaji": "kasa wo wasureta kara",
+        "is_correct": false,
+        "explain_my": "❌ ထီးမေ့တာ မဟုတ်ပါ။ မယူခဲ့တာ။"
+      },
+      {
+        "id": 3,
+        "text": "あめが やんだから",
+        "romaji": "ame ga yanda kara",
+        "is_correct": false,
+        "explain_my": "❌ မိုးရပ်သွားလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "いえが とおかったから",
+        "romaji": "ie ga tookatta kara",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်က ဝေးလို့ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜ので」= ~သောကြောင့် (အကြောင်းရင်း)။ 「〜てしまう」= ~သွားတယ် (မလိုလားအပ်တဲ့ ရလဒ်)"
+  },
+  {
+    "id": 1794128524245,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "あねの しごとは なんですか。",
+    "question_my": "အစ်မရဲ့ အလုပ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "せんせい",
+        "romaji": "sensei",
+        "is_correct": false,
+        "explain_my": "❌ ဆရာမ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "かんごし",
+        "romaji": "kangoshi",
+        "is_correct": false,
+        "explain_my": "❌ သူနာပြု မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "いしゃ",
+        "romaji": "isha",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あねは いしゃです」= အစ်မက ဆရာဝန်။"
+      },
+      {
+        "id": 4,
+        "text": "かいしゃいん",
+        "romaji": "kaishain",
+        "is_correct": false,
+        "explain_my": "❌ ကုမ္ပဏီဝန်ထမ်း မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: いしゃ = ဆရာဝန် · かんごし = သူနာပြု · せんせい = ဆရာ/ဆရာမ"
+  },
+  {
+    "id": 1794128524246,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "らいしゅう なにを しますか。",
+    "question_my": "နောက်အပတ် ဘာလုပ်မလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "とうきょうへ いきます",
+        "romaji": "toukyou e ikimasu",
+        "is_correct": false,
+        "explain_my": "❌ တိုကျို မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "きょうとへ いきます",
+        "romaji": "kyouto e ikimasu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きょうとへ いきます」= ကျိုတို သွားမယ်။"
+      },
+      {
+        "id": 3,
+        "text": "おおさかへ いきます",
+        "romaji": "oosaka e ikimasu",
+        "is_correct": false,
+        "explain_my": "❌ အိုဆာကာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "うちで やすみます",
+        "romaji": "uchi de yasumimasu",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်မှာ အနားယူတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜たり、〜たり したい」= ~တာလည်း၊ ~တာလည်း လုပ်ချင်တယ်။"
+  },
+  {
+    "id": 1794128524247,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "なんじに かいしゃへ いきますか。",
+    "question_my": "ဘယ်အချိန် ကုမ္ပဏီသွားသလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "6じ",
+        "romaji": "rokuji",
+        "is_correct": false,
+        "explain_my": "❌ ၆ နာရီက ထတဲ့အချိန်။"
+      },
+      {
+        "id": 2,
+        "text": "7じ",
+        "romaji": "shichiji",
+        "is_correct": false,
+        "explain_my": "❌ ၇ နာရီက အိမ်ပြန်တဲ့အချိန်။"
+      },
+      {
+        "id": 3,
+        "text": "9じ",
+        "romaji": "kuji",
+        "is_correct": false,
+        "explain_my": "❌ ၉ နာရီ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "8じ",
+        "romaji": "hachiji",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「8じに かいしゃへ いきます」= ၈ နာရီ ကုမ္ပဏီသွားတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜てから」= ~ပြီးမှ/~ပြီးနောက်။ 「ごろ」= ~လောက် (အချိန်ခန့်မှန်း)"
+  },
+  {
+    "id": 1794128524248,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "スーパーは どんな ところですか。",
+    "question_my": "စူပါမားကတ်က ဘယ်လိုနေရာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "おおきくて なんでも ある",
+        "romaji": "ookikute nandemo aru",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「とても おおきくて、なんでも あります」= အရမ်းကြီးပြီး ဘာမဆို ရှိတယ်။"
+      },
+      {
+        "id": 2,
+        "text": "ちいさくて たかい",
+        "romaji": "chiisakute takai",
+        "is_correct": false,
+        "explain_my": "❌ သေးပြီး ဈေးကြီးတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "とおくて ふべん",
+        "romaji": "tookute fuben",
+        "is_correct": false,
+        "explain_my": "❌ ဝေးပြီး အဆင်မပြေတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "あたらしくて きれい",
+        "romaji": "atarashikute kirei",
+        "is_correct": false,
+        "explain_my": "❌ အသစ်ပြီး လှပတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜くて、〜」= ~ပြီး ~ (i-adj ဆက်တွဲ)။ 「おおきい」→「おおきくて」"
+  },
+  {
+    "id": 1794128524249,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "なつに なにを しましたか。",
+    "question_my": "နွေမှာ ဘာလုပ်ခဲ့လဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "やまへ いきました",
+        "romaji": "yama e ikimashita",
+        "is_correct": false,
+        "explain_my": "❌ တောင် မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "スキーを しました",
+        "romaji": "sukii wo shimashita",
+        "is_correct": false,
+        "explain_my": "❌ စကီး မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "うみへ いきました",
+        "romaji": "umi e ikimashita",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うみへ いきました」= ပင်လယ်သွားတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "うちで やすみました",
+        "romaji": "uchi de yasumimashita",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်မှာ အနားယူတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜たり、〜たり しました」= ~တာလည်း၊ ~တာလည်း လုပ်ခဲ့တယ်။"
+  },
+  {
+    "id": 1794128524250,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "しょうらいの ゆめは なんですか。",
+    "question_my": "အနာဂတ် အိပ်မက်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "せんせいに なる",
+        "romaji": "sensei ni naru",
+        "is_correct": false,
+        "explain_my": "❌ ဆရာ ဖြစ်ချင်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "プロの サッカーせんしゅに なる",
+        "romaji": "puro no sakkaa senshu ni naru",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「プロの せんしゅに なりたいです」= ပရို ကစားသမား ဖြစ်ချင်တယ်။"
+      },
+      {
+        "id": 3,
+        "text": "いしゃに なる",
+        "romaji": "isha ni naru",
+        "is_correct": false,
+        "explain_my": "❌ ဆရာဝန် မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "かいしゃいんに なる",
+        "romaji": "kaishain ni naru",
+        "is_correct": false,
+        "explain_my": "❌ ကုမ္ပဏီဝန်ထမ်း မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜に なりたい」= ~ဖြစ်ချင်တယ်။ 「プロ」= ပရို (professional)"
+  },
+  {
+    "id": 1794128524251,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "どうして びょういんへ いきましたか。",
+    "question_my": "ဘာကြောင့် ဆေးရုံသွားတာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "けがを したから",
+        "romaji": "kega wo shita kara",
+        "is_correct": false,
+        "explain_my": "❌ ဒဏ်ရာရလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "あたまが いたいから",
+        "romaji": "atama ga itai kara",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်းကိုက်လို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "おなかが いたいから",
+        "romaji": "onaka ga itai kara",
+        "is_correct": false,
+        "explain_my": "❌ ဗိုက်နာလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "かぜを ひいたから",
+        "romaji": "kaze wo hiita kara",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かぜを ひきました。ねつが 38ど ありました」= အအေးမိပြီး အဖျား ၃၈ ဒီဂရီ ရှိတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「かぜをひく」= အအေးမိ · 「ねつが ある」= အဖျားရှိ · 「くすりを もらう」= ဆေးယူ"
+  },
+  {
+    "id": 1794128524252,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "ちちは まいにち なにを していますか。",
+    "question_my": "အဖေက နေ့စဉ် ဘာလုပ်နေလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "さんぽや ほんを よむ",
+        "romaji": "sanpo ya hon wo yomu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「さんぽを したり、ほんを よんだり」= လမ်းလျှောက်တာရော စာအုပ်ဖတ်တာရော။"
+      },
+      {
+        "id": 2,
+        "text": "しごとを する",
+        "romaji": "shigoto wo suru",
+        "is_correct": false,
+        "explain_my": "❌ အလုပ်က အနားယူပြီးပြီ။"
+      },
+      {
+        "id": 3,
+        "text": "テレビを みる",
+        "romaji": "terebi wo miru",
+        "is_correct": false,
+        "explain_my": "❌ တီဗီကြည့်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "りょこうを する",
+        "romaji": "ryokou wo suru",
+        "is_correct": false,
+        "explain_my": "❌ ခရီးသွားတာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「もう 〜やめて」= ~ကို ရပ်လိုက်ပြီ။ 「〜たり、〜たり」= ~တာလည်း၊ ~တာလည်း"
+  }
+]
