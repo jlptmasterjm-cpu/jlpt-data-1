@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「水曜日」の読み方は何ですか？",
+    "question_my": "ဗုဒ္ဓဟူးနေ့ ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "すいようび",
+        "romaji": "Suiyoubi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「水曜日」= すいようび။ 「水」= すい (ရေ)။"
+      },
+      {
+        "id": 2,
+        "text": "かようび",
+        "romaji": "Kayoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「かようび」= 「火曜日」(အင်္ဂါနေ့)။ 「火」= か (မီး)။"
+      },
+      {
+        "id": 3,
+        "text": "もくようび",
+        "romaji": "Mokuyoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「もくようび」= 「木曜日」(ကြာသပတေးနေ့)။ 「木」= もく (သစ်ပင်)။"
+      },
+      {
+        "id": 4,
+        "text": "きんようび",
+        "romaji": "Kinyoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「きんようび」= 「金曜日」(သောကြာနေ့)။ 「金」= きん (ရွှေ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 水 = すい · 火 = か · 木 = もく · 金 = きん · 土 = ど · 月 = げつ · 日 = にち"
+  },
+  {
+    "id": 2,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「月曜日」の読み方は何ですか？",
+    "question_my": "တနင်္လာနေ့ ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "げつようび",
+        "romaji": "Getsuyoubi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「月曜日」= げつようび။ 「月」= げつ (လ)။"
+      },
+      {
+        "id": 2,
+        "text": "かようび",
+        "romaji": "Kayoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「かようび」= 「火曜日」(အင်္ဂါနေ့)။ 「月」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "どようび",
+        "romaji": "Doyoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「どようび」= 「土曜日」(စနေနေ့)။ 「土」= ど (မြေ)။"
+      },
+      {
+        "id": 4,
+        "text": "にちようび",
+        "romaji": "Nichiyoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「にちようび」= 「日曜日」(တနင်္ဂနွေနေ့)။ 「日」= にち (နေ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 月 = げつ (လ) · 火 = か · 水 = すい · 木 = もく · 金 = きん · 土 = ど · 日 = にち"
+  },
+  {
+    "id": 3,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「山」の読み方は何ですか？",
+    "question_my": "「山」(တောင်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "やま",
+        "romaji": "Yama",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「山」= やま (တောင်)။"
+      },
+      {
+        "id": 2,
+        "text": "かわ",
+        "romaji": "Kawa",
+        "is_correct": false,
+        "explain_my": "❌ 「かわ」= 「川」(မြစ်)။ 「山」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "うみ",
+        "romaji": "Umi",
+        "is_correct": false,
+        "explain_my": "❌ 「うみ」= 「海」(ပင်လယ်)။ 「山」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "もり",
+        "romaji": "Mori",
+        "is_correct": false,
+        "explain_my": "❌ 「もり」= 「森」(တော)။ 「山」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 山 = やま · 川 = かわ · 海 = うみ · 森 = もり"
+  },
+  {
+    "id": 4,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「川」の読み方は何ですか？",
+    "question_my": "「川」(မြစ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "かわ",
+        "romaji": "Kawa",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「川」= かわ (မြစ်)။"
+      },
+      {
+        "id": 2,
+        "text": "やま",
+        "romaji": "Yama",
+        "is_correct": false,
+        "explain_my": "❌ 「やま」= 「山」(တောင်)။ 「川」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "いけ",
+        "romaji": "Ike",
+        "is_correct": false,
+        "explain_my": "❌ 「いけ」= 「池」(ကန်)။ 「川」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "みず",
+        "romaji": "Mizu",
+        "is_correct": false,
+        "explain_my": "❌ 「みず」= 「水」(ရေ)။ 「川」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 川 = かわ · 山 = やま · 池 = いけ · 水 = みず"
+  },
+  {
+    "id": 5,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「人」の読み方は何ですか？",
+    "question_my": "「人」(လူ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ひと",
+        "romaji": "Hito",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「人」= ひと (လူ)။"
+      },
+      {
+        "id": 2,
+        "text": "こ",
+        "romaji": "Ko",
+        "is_correct": false,
+        "explain_my": "❌ 「こ」= 「子」(ကလေး)။ 「人」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "て",
+        "romaji": "Te",
+        "is_correct": false,
+        "explain_my": "❌ 「て」= 「手」(လက်)။ 「人」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "め",
+        "romaji": "Me",
+        "is_correct": false,
+        "explain_my": "❌ 「め」= 「目」(မျက်စိ)။ 「人」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 人 = ひと · 子 = こ · 手 = て · 目 = め"
+  },
+  {
+    "id": 6,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「一」の読み方は何ですか？",
+    "question_my": "「一」(တစ်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "いち",
+        "romaji": "Ichi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「一」= いち (တစ်)။"
+      },
+      {
+        "id": 2,
+        "text": "に",
+        "romaji": "Ni",
+        "is_correct": false,
+        "explain_my": "❌ 「に」= 「二」(နှစ်)။ 「一」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "さん",
+        "romaji": "San",
+        "is_correct": false,
+        "explain_my": "❌ 「さん」= 「三」(သုံး)။ 「一」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "よん",
+        "romaji": "Yon",
+        "is_correct": false,
+        "explain_my": "❌ 「よん」= 「四」(လေး)။ 「一」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 一 = いち · 二 = に · 三 = さん · 四 = よん"
+  },
+  {
+    "id": 7,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「大きい」の読み方は何ですか？",
+    "question_my": "「大きい」(ကြီးသော) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "おおきい",
+        "romaji": "Ookii",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「大きい」= おおきい (ကြီးသော)။"
+      },
+      {
+        "id": 2,
+        "text": "ちいさい",
+        "romaji": "Chiisai",
+        "is_correct": false,
+        "explain_my": "❌ 「ちいさい」= 「小さい」(သေးသော)။ ဆန့်ကျင်ဘက်။"
+      },
+      {
+        "id": 3,
+        "text": "ながい",
+        "romaji": "Nagai",
+        "is_correct": false,
+        "explain_my": "❌ 「ながい」= 「長い」(ရှည်သော)။ 「大きい」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "たかい",
+        "romaji": "Takai",
+        "is_correct": false,
+        "explain_my": "❌ 「たかい」= 「高い」(မြင့်သော/ဈေးကြီးသော)။ 「大きい」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 大きい = おおきい · 小さい = ちいさい · 長い = ながい · 高い = たかい"
+  },
+  {
+    "id": 8,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「学校」の読み方は何ですか？",
+    "question_my": "「学校」(ကျောင်း) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "がっこう",
+        "romaji": "Gakkou",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「学校」= がっこう (ကျောင်း)။ 「学」= がく · 「校」= こう။"
+      },
+      {
+        "id": 2,
+        "text": "せんせい",
+        "romaji": "Sensei",
+        "is_correct": false,
+        "explain_my": "❌ 「せんせい」= 「先生」(ဆရာ)။ 「学校」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "がくせい",
+        "romaji": "Gakusei",
+        "is_correct": false,
+        "explain_my": "❌ 「がくせい」= 「学生」(ကျောင်းသား)။ 「学校」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "だいがく",
+        "romaji": "Daigaku",
+        "is_correct": false,
+        "explain_my": "❌ 「だいがく」= 「大学」(တက္ကသိုလ်)။ 「学校」နဲ့ မတူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 学校 = がっこう · 先生 = せんせい · 学生 = がくせい · 大学 = だいがく"
+  },
+  {
+    "id": 9,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「日本」の読み方は何ですか？",
+    "question_my": "「日本」(ဂျပန်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "にほん",
+        "romaji": "Nihon",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「日本」= にほん (ဂျပန်)။ 「日」= に · 「本」= ほん။"
+      },
+      {
+        "id": 2,
+        "text": "にほんご",
+        "romaji": "Nihongo",
+        "is_correct": false,
+        "explain_my": "❌ 「にほんご」= 「日本語」(ဂျပန်ဘာသာ)။ 「語」(ご) ပိုပါ။"
+      },
+      {
+        "id": 3,
+        "text": "にちようび",
+        "romaji": "Nichiyoubi",
+        "is_correct": false,
+        "explain_my": "❌ 「にちようび」= 「日曜日」(တနင်္ဂနွေနေ့)။ 「日本」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "にほんじん",
+        "romaji": "Nihonjin",
+        "is_correct": false,
+        "explain_my": "❌ 「にほんじん」= 「日本人」(ဂျပန်လူမျိုး)။ 「人」(じん) ပိုပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 日本 = にほん · 日本語 = にほんご · 日本人 = にほんじん"
+  },
+  {
+    "id": 10,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「先生」の読み方は何ですか？",
+    "question_my": "「先生」(ဆရာ) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "せんせい",
+        "romaji": "Sensei",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「先生」= せんせい (ဆရာ)။ 「先」= せん · 「生」= せい။"
+      },
+      {
+        "id": 2,
+        "text": "がくせい",
+        "romaji": "Gakusei",
+        "is_correct": false,
+        "explain_my": "❌ 「がくせい」= 「学生」(ကျောင်းသား)။ 「先生」နဲ့ မတူ။"
+      },
+      {
+        "id": 3,
+        "text": "せんぱい",
+        "romaji": "Senpai",
+        "is_correct": false,
+        "explain_my": "❌ 「せんぱい」= 「先輩」(အကြီးအကဲ)။ 「先生」နဲ့ မတူ။"
+      },
+      {
+        "id": 4,
+        "text": "ともだち",
+        "romaji": "Tomodachi",
+        "is_correct": false,
+        "explain_my": "❌ 「ともだち」= 「友達」(သူငယ်ချင်း)။ 「先生」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 先生 = せんせい · 学生 = がくせい · 先輩 = せんぱい · 友達 = ともだち"
+  },
+  {
+    "id": 11,
+    "category": "Quiz Chart",
+    "mondai": "",
+    "question": "「日」の読み方は何ですか？",
+    "question_my": "「日」(နေ/ရက်) ရဲ့ ဖတ်ပုံက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ひ",
+        "romaji": "Hi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「日」= ひ (နေ/ရက်)။ 「にち」လည်း ဖတ်နိုင်တယ်။"
+      },
+      {
+        "id": 2,
+        "text": "つき",
+        "romaji": "Tsuki",
+        "is_correct": false,
+        "explain_my": "❌ 「つき」= 「月」(လ)။ 「日」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 3,
+        "text": "ほし",
+        "romaji": "Hoshi",
+        "is_correct": false,
+        "explain_my": "❌ 「ほし」= 「星」(ကြယ်)။ 「日」နဲ့ မဆိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "そら",
+        "romaji": "Sora",
+        "is_correct": false,
+        "explain_my": "❌ 「そら」= 「空」(ကောင်းကင်)။ 「日」နဲ့ မဆိုင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 日 = ひ / にち · 月 = つき · 星 = ほし · 空 = そら"
+  }
+]
