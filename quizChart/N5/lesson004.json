@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794349222067,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たまご」の いみは どれですか。",
+    "question_my": "「たまご」(卵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「ぎゅうにゅう」(牛乳)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆား = 「しお」(塩)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြက်ဥ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「たまご」(卵) = ကြက်ဥ။"
+      },
+      {
+        "id": 4,
+        "text": "သကြား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သကြား = 「さとう」(砂糖)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 卵 = たまご · 牛乳 = ぎゅうにゅう · 塩 = しお · 砂糖 = さとう"
+  },
+  {
+    "id": 1794349222068,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「パン」の いみは どれですか。",
+    "question_my": "「パン」(パン) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပေါင်မုန့်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「パン」 = ပေါင်မုန့်။"
+      },
+      {
+        "id": 2,
+        "text": "ထမင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထမင်း = 「ごはん」(ご飯)။"
+      },
+      {
+        "id": 3,
+        "text": "မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန့် = 「おかし」(お菓子)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြက်ဥ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြက်ဥ = 「たまご」(卵)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: パン = ぱん · ご飯 = ごはん · お菓子 = おかし · 卵 = たまご"
+  },
+  {
+    "id": 1794349222069,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ごはん」の いみは どれですか。",
+    "question_my": "「ごはん」(ご飯) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပေါင်မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပေါင်မုန့် = 「パン」။"
+      },
+      {
+        "id": 2,
+        "text": "ထမင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ごはん」(ご飯) = ထမင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ = 「コーヒー」။"
+      },
+      {
+        "id": 4,
+        "text": "ဆား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆား = 「しお」(塩)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ご飯 = ごはん · パン = ぱん · コーヒー = こーひー · 塩 = しお"
+  },
+  {
+    "id": 1794349222070,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「さとう」の いみは どれですか。",
+    "question_my": "「さとう」(砂糖) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆား = 「しお」(塩)။"
+      },
+      {
+        "id": 2,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ = 「コーヒー」။"
+      },
+      {
+        "id": 3,
+        "text": "သကြား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「さとう」(砂糖) = သကြား။"
+      },
+      {
+        "id": 4,
+        "text": "မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန့် = 「おかし」(お菓子)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 砂糖 = さとう · 塩 = しお · コーヒー = こーひー · お菓子 = おかし"
+  },
+  {
+    "id": 1794349222071,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しお」の いみは どれですか。",
+    "question_my": "「しお」(塩) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「しお」(塩) = ဆား။"
+      },
+      {
+        "id": 2,
+        "text": "သကြား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သကြား = 「さとう」(砂糖)။"
+      },
+      {
+        "id": 3,
+        "text": "ထမင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထမင်း = 「ごはん」(ご飯)။"
+      },
+      {
+        "id": 4,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「ぎゅうにゅう」(牛乳)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 塩 = しお · 砂糖 = さとう · ご飯 = ごはん · 牛乳 = ぎゅうにゅう"
+  },
+  {
+    "id": 1794349222072,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「コーヒー」の いみは どれですか。",
+    "question_my": "「コーヒー」(コーヒー) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေ = 「みず」(水)။"
+      },
+      {
+        "id": 2,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「コーヒー」 = ကော်ဖီ။"
+      },
+      {
+        "id": 3,
+        "text": "လက်ဖက်ရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ဖက်ရည် = 「おちゃ」(お茶)။"
+      },
+      {
+        "id": 4,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「ぎゅうにゅう」(牛乳)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: コーヒー = こーひー · 水 = みず · お茶 = おちゃ · 牛乳 = ぎゅうにゅう"
+  },
+  {
+    "id": 1794349222073,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おかし」の いみは どれですか。",
+    "question_my": "「おかし」(お菓子) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပေါင်မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပေါင်မုန့် = 「パン」။"
+      },
+      {
+        "id": 2,
+        "text": "ထမင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထမင်း = 「ごはん」(ご飯)။"
+      },
+      {
+        "id": 3,
+        "text": "မုန့်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おかし」(お菓子) = မုန့်။"
+      },
+      {
+        "id": 4,
+        "text": "သစ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်သီး = 「くだもの」(果物)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お菓子 = おかし · パン = ぱん · ご飯 = ごはん · 果物 = くだもの"
+  },
+  {
+    "id": 1794349222074,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「じゃがいも」の いみは どれですか。",
+    "question_my": "「じゃがいも」(じゃがいも) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခရမ်းချဉ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရမ်းချဉ်သီး = 「トマト」။"
+      },
+      {
+        "id": 2,
+        "text": "အာလူး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「じゃがいも」 = အာလူး။"
+      },
+      {
+        "id": 3,
+        "text": "ငှက်ပျောသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငှက်ပျောသီး = 「バナナ」။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းသီး = 「りんご」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: じゃがいも = じゃがいも · トマト = とまと · バナナ = ばなな · りんご = りんご"
+  },
+  {
+    "id": 1794349222075,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「トマト」の いみは どれですか。",
+    "question_my": "「トマト」(トマト) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခရမ်းချဉ်သီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「トマト」 = ခရမ်းချဉ်သီး။"
+      },
+      {
+        "id": 2,
+        "text": "အာလူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အာလူး = 「じゃがいも」။"
+      },
+      {
+        "id": 3,
+        "text": "ပန်းသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းသီး = 「りんご」။"
+      },
+      {
+        "id": 4,
+        "text": "ငှက်ပျောသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငှက်ပျောသီး = 「バナナ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: トマト = とまと · じゃがいも = じゃがいも · りんご = りんご · バナナ = ばなな"
+  },
+  {
+    "id": 1794349222076,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「バナナ」の いみは どれですか。",
+    "question_my": "「バナナ」(バナナ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပန်းသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းသီး = 「りんご」။"
+      },
+      {
+        "id": 2,
+        "text": "ခရမ်းချဉ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရမ်းချဉ်သီး = 「トマト」။"
+      },
+      {
+        "id": 3,
+        "text": "ငှက်ပျောသီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「バナナ」 = ငှက်ပျောသီး။"
+      },
+      {
+        "id": 4,
+        "text": "အာလူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အာလူး = 「じゃがいも」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: バナナ = ばなな · りんご = りんご · トマト = とまと · じゃがいも = じゃがいも"
+  },
+  {
+    "id": 1794349222077,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「りんご」の いみは どれですか。",
+    "question_my": "「りんご」(りんご) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငှက်ပျောသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငှက်ပျောသီး = 「バナナ」။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်းသီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「りんご」 = ပန်းသီး။"
+      },
+      {
+        "id": 3,
+        "text": "အာလူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အာလူး = 「じゃがいも」။"
+      },
+      {
+        "id": 4,
+        "text": "ခရမ်းချဉ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရမ်းချဉ်သီး = 「トマト」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: りんご = りんご · バナナ = ばなな · じゃがいも = じゃがいも · トマト = とまと"
+  }
+]
