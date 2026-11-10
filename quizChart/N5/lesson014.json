@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351986203,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おおきい」の いみは どれですか。",
+    "question_my": "「おおきい」(大きい) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သေးငယ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သေးငယ်သော = 「ちいさい」(小さい)။"
+      },
+      {
+        "id": 2,
+        "text": "ကြီးမားသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おおきい」(大きい) = ကြီးမားသော။"
+      },
+      {
+        "id": 3,
+        "text": "အသစ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသစ်သော = 「あたらしい」(新しい)။"
+      },
+      {
+        "id": 4,
+        "text": "အဟောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဟောင်း = 「ふるい」(古い)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 大きい = おおきい · 小さい = ちいさい · 新しい = あたらしい · 古い = ふるい"
+  },
+  {
+    "id": 1794351986204,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちいさい」の いみは どれですか。",
+    "question_my": "「ちいさい」(小さい) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြီးမားသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြီးမားသော = 「おおきい」(大きい)။"
+      },
+      {
+        "id": 2,
+        "text": "အသစ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသစ်သော = 「あたらしい」(新しい)။"
+      },
+      {
+        "id": 3,
+        "text": "သေးငယ်သော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ちいさい」(小さい) = သေးငယ်သော။"
+      },
+      {
+        "id": 4,
+        "text": "အဟောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဟောင်း = 「ふるい」(古い)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 小さい = ちいさい · 大きい = おおきい · 新しい = あたらしい · 古い = ふるい"
+  },
+  {
+    "id": 1794351986205,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あたらしい」の いみは どれですか。",
+    "question_my": "「あたらしい」(新しい) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဟောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဟောင်း = 「ふるい」(古い)။"
+      },
+      {
+        "id": 2,
+        "text": "အသစ်သော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あたらしい」(新しい) = အသစ်သော။"
+      },
+      {
+        "id": 3,
+        "text": "ကြီးမားသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြီးမားသော = 「おおきい」(大きい)။"
+      },
+      {
+        "id": 4,
+        "text": "သေးငယ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သေးငယ်သော = 「ちいさい」(小さい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 新しい = あたらしい · 古い = ふるい · 大きい = おおきい · 小さい = ちいさい"
+  },
+  {
+    "id": 1794351986206,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ふるい」の いみは どれですか。",
+    "question_my": "「ふるい」(古い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အသစ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသစ်သော = 「あたらしい」(新しい)။"
+      },
+      {
+        "id": 2,
+        "text": "ကြီးမားသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြီးမားသော = 「おおきい」(大きい)။"
+      },
+      {
+        "id": 3,
+        "text": "အဟောင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ふるい」(古い) = အဟောင်း။"
+      },
+      {
+        "id": 4,
+        "text": "သေးငယ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သေးငယ်သော = 「ちいさい」(小さい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 古い = ふるい · 新しい = あたらしい · 大きい = おおきい · 小さい = ちいさい"
+  },
+  {
+    "id": 1794351986207,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たかい」の いみは どれですか。",
+    "question_my": "「たかい」(高い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စျေးသက်သာသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စျေးသက်သာသော = 「やすい」(安い)။"
+      },
+      {
+        "id": 2,
+        "text": "အရပ်နိမ့်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရပ်နိမ့်သော = 「ひくい」(低い)။"
+      },
+      {
+        "id": 3,
+        "text": "စျေးကြီးသော/မြင့်သော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「たかい」(高い) = စျေးကြီးသော/မြင့်သော။"
+      },
+      {
+        "id": 4,
+        "text": "တိုသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တိုသော = 「みじかい」(短い)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 高い = たかい · 安い = やすい · 低い = ひくい · 短い = みじかい"
+  },
+  {
+    "id": 1794351986208,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「やすい」の いみは どれですか。",
+    "question_my": "「やすい」(安い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စျေးကြီးသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စျေးကြီးသော = 「たかい」(高い)။"
+      },
+      {
+        "id": 2,
+        "text": "စျေးသက်သာသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「やすい」(安い) = စျေးသက်သာသော။"
+      },
+      {
+        "id": 3,
+        "text": "အရပ်နိမ့်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရပ်နိမ့်သော = 「ひくい」(低い)။"
+      },
+      {
+        "id": 4,
+        "text": "ရှည်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရှည်သော = 「ながい」(長い)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 安い = やすい · 高い = たかい · 低い = ひくい · 長い = ながい"
+  },
+  {
+    "id": 1794351986209,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おいしい」の いみは どれですか。",
+    "question_my": "「おいしい」(美味しい) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အရသာမကောင်းသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရသာမကောင်းသော = 「まずい」။"
+      },
+      {
+        "id": 2,
+        "text": "ချိုသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ချိုသော = 「あまい」(甘い)။"
+      },
+      {
+        "id": 3,
+        "text": "အရသာရှိသော/အရသာကောင်းသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おいしい」(美味しい) = အရသာရှိသော/အရသာကောင်းသော။"
+      },
+      {
+        "id": 4,
+        "text": "ခါးသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခါးသော = 「にがい」(苦い)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 美味しい = おいしい · まずい = まずい · 甘い = あまい · 苦い = にがい"
+  },
+  {
+    "id": 1794351986210,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「まずい」の いみは どれですか。",
+    "question_my": "「まずい」(まずい) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အရသာကောင်းသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရသာကောင်းသော = 「おいしい」(美味しい)။"
+      },
+      {
+        "id": 2,
+        "text": "အရသာမကောင်းသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「まずい」 = အရသာမကောင်းသော။"
+      },
+      {
+        "id": 3,
+        "text": "ချဉ်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ချဉ်သော = 「すっぱい」(酸っぱい)။"
+      },
+      {
+        "id": 4,
+        "text": "ငန်သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငန်သော = 「しょっぱい」(塩っぱい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: まずい = まずい · 美味しい = おいしい · 酸っぱい = すっぱい · 塩っぱい = しょっぱい"
+  },
+  {
+    "id": 1794351986211,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あつい」の いみは どれですか。",
+    "question_my": "「あつい」(暑い/熱い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အေးသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အေးသော = 「さむい」(寒い)။"
+      },
+      {
+        "id": 2,
+        "text": "ပူသော/နွေးသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あつい」(暑い/熱い) = ပူသော/နွေးသော။"
+      },
+      {
+        "id": 3,
+        "text": "အေးမြသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အေးမြသော = 「すずしい」(涼しい)။"
+      },
+      {
+        "id": 4,
+        "text": "ခြောက်သွေ့သော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြောက်သွေ့သော = 「かわいた」(乾いた)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 暑い/熱い = あつい · 寒い = さむい · 涼しい = すずしい · 乾いた = かわいた"
+  },
+  {
+    "id": 1794351986212,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「さむい」の いみは どれですか。",
+    "question_my": "「さむい」(寒い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပူသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပူသော = 「あつい」(暑い)။"
+      },
+      {
+        "id": 2,
+        "text": "အေးမြသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အေးမြသော = 「すずしい」(涼しい)။"
+      },
+      {
+        "id": 3,
+        "text": "အေးသော/ချမ်းသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「さむい」(寒い) = အေးသော/ချမ်းသော။"
+      },
+      {
+        "id": 4,
+        "text": "နွေးသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေးသော = 「あたたかい」(暖かい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 寒い = さむい · 暑い = あつい · 涼しい = すずしい · 暖かい = あたたかい"
+  },
+  {
+    "id": 1794351986213,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おもしろい」の いみは どれですか。",
+    "question_my": "「おもしろい」(面白い) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငြီးငွေ့ဖွယ်ကောင်းသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြီးငွေ့ဖွယ်ကောင်းသော = 「つまらない」။"
+      },
+      {
+        "id": 2,
+        "text": "ခက်ခဲသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ခဲသော = 「むずかしい」(難しい)။"
+      },
+      {
+        "id": 3,
+        "text": "စိတ်ဝင်စားဖွယ်ကောင်းသော/ရယ်စရာကောင်းသော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おもしろい」(面白い) = စိတ်ဝင်စားဖွယ်ကောင်းသော/ရယ်စရာကောင်းသော။"
+      },
+      {
+        "id": 4,
+        "text": "လွယ်ကူသော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လွယ်ကူသော = 「やさしい」(易しい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 面白い = おもしろい · つまらない = つまらない · 難しい = むずかしい · 易しい = やさしい"
+  }
+]
