@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351858562,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「だいどころ」の いみは どれですか。",
+    "question_my": "「だいどころ」(台所) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ခန်း = 「しんしつ」(寝室)။"
+      },
+      {
+        "id": 2,
+        "text": "မီးဖိုချောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「だいどころ」(台所) = မီးဖိုချောင်။"
+      },
+      {
+        "id": 3,
+        "text": "ရေချိုးခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေချိုးခန်း = 「おふろ」(お風呂)။"
+      },
+      {
+        "id": 4,
+        "text": "ဧည့်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဧည့်ခန်း = 「いま」(居間)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 台所 = だいどころ · 寝室 = しんしつ · お風呂 = おふろ · 居間 = いま"
+  },
+  {
+    "id": 1794351858563,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しんしつ」の いみは どれですか。",
+    "question_my": "「しんしつ」(寝室) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မီးဖိုချောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးဖိုချောင် = 「だいどころ」(台所)။"
+      },
+      {
+        "id": 2,
+        "text": "ရေချိုးခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေချိုးခန်း = 「おふろ」(お風呂)။"
+      },
+      {
+        "id": 3,
+        "text": "အိပ်ခန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「しんしつ」(寝室) = အိပ်ခန်း။"
+      },
+      {
+        "id": 4,
+        "text": "ဧည့်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဧည့်ခန်း = 「いま」(居間)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 寝室 = しんしつ · 台所 = だいどころ · お風呂 = おふろ · 居間 = いま"
+  },
+  {
+    "id": 1794351858565,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おふろ」の いみは どれですか。",
+    "question_my": "「おふろ」(お風呂) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ခန်း = 「しんしつ」(寝室)။"
+      },
+      {
+        "id": 2,
+        "text": "ဧည့်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဧည့်ခန်း = 「いま」(居間)။"
+      },
+      {
+        "id": 3,
+        "text": "မီးဖိုချောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးဖိုချောင် = 「だいどころ」(台所)။"
+      },
+      {
+        "id": 4,
+        "text": "ရေချိုးခန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おふろ」(お風呂) = ရေချိုးခန်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お風呂 = おふろ · 寝室 = しんしつ · 居間 = いま · 台所 = だいどころ"
+  },
+  {
+    "id": 1794351858566,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いま」の いみは どれですか。",
+    "question_my": "「いま」(居間) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဧည့်ခန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「いま」(居間) = ဧည့်ခန်း။"
+      },
+      {
+        "id": 2,
+        "text": "အိပ်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ခန်း = 「しんしつ」(寝室)။"
+      },
+      {
+        "id": 3,
+        "text": "ရေချိုးခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေချိုးခန်း = 「おふろ」(お風呂)။"
+      },
+      {
+        "id": 4,
+        "text": "မီးဖိုချောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးဖိုချောင် = 「だいどころ」(台所)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 居間 = いま · 寝室 = しんしつ · お風呂 = おふろ · 台所 = だいどころ"
+  },
+  {
+    "id": 1794351858567,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「にわ」の いみは どれですか。",
+    "question_my": "「にわ」(庭) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဥယျာဉ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「にわ」(庭) = ဥယျာဉ်။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းခြံ = 「こうえん」(公園)။"
+      },
+      {
+        "id": 3,
+        "text": "အိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ် = 「いえ」(家)။"
+      },
+      {
+        "id": 4,
+        "text": "အခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခန်း = 「へや」(部屋)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 庭 = にわ · 公園 = こうえん · 家 = いえ · 部屋 = へや"
+  },
+  {
+    "id": 1794351858568,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「へや」の いみは どれですか。",
+    "question_my": "「へや」(部屋) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ် = 「いえ」(家)။"
+      },
+      {
+        "id": 2,
+        "text": "အခန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「へや」(部屋) = အခန်း။"
+      },
+      {
+        "id": 3,
+        "text": "ဥယျာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဥယျာဉ် = 「にわ」(庭)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းခြံ = 「こうえん」(公園)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 部屋 = へや · 家 = いえ · 庭 = にわ · 公園 = こうえん"
+  },
+  {
+    "id": 1794351858569,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いえ」の いみは どれですか。",
+    "question_my": "「いえ」(家) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခန်း = 「へや」(部屋)။"
+      },
+      {
+        "id": 2,
+        "text": "ဥယျာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဥယျာဉ် = 「にわ」(庭)။"
+      },
+      {
+        "id": 3,
+        "text": "အိမ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「いえ」(家) = အိမ်။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းခြံ = 「こうえん」(公園)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 家 = いえ · 部屋 = へや · 庭 = にわ · 公園 = こうえん"
+  },
+  {
+    "id": 1794351858570,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こくばん」の いみは どれですか。",
+    "question_my": "「こくばん」(黒板) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာအုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ် = 「ほん」(本)။"
+      },
+      {
+        "id": 2,
+        "text": "ကျောက်သင်ပုန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「こくばん」(黒板) = ကျောက်သင်ပုန်း။"
+      },
+      {
+        "id": 3,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「つくえ」(机)။"
+      },
+      {
+        "id": 4,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「いす」(椅子)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 黒板 = こくばん · 本 = ほん · 机 = つくえ · 椅子 = いす"
+  },
+  {
+    "id": 1794351858571,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「チョーク」の いみは どれですか。",
+    "question_my": "「チョーク」(チョーク) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခဲတံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခဲတံ = 「えんぴつ」(鉛筆)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက် = 「けしゴム」(消しゴム)။"
+      },
+      {
+        "id": 3,
+        "text": "မြေဖြူခဲ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「チョーク」 = မြေဖြူခဲ။"
+      },
+      {
+        "id": 4,
+        "text": "ဘောပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘောပင် = 「ペン」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: チョーク = ちょーく · 鉛筆 = えんぴつ · 消しゴム = けしごむ · ペン = ぺん"
+  },
+  {
+    "id": 1794351858572,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けしゴム」の いみは どれですか。",
+    "question_my": "「けしゴム」(消しゴム) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖျက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「けしゴム」(消しゴム) = ဖျက်။"
+      },
+      {
+        "id": 2,
+        "text": "ခဲတံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခဲတံ = 「えんぴつ」(鉛筆)။"
+      },
+      {
+        "id": 3,
+        "text": "မြေဖြူခဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြေဖြူခဲ = 「チョーク」။"
+      },
+      {
+        "id": 4,
+        "text": "ဘောပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘောပင် = 「ペン」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 消しゴム = けしごむ · 鉛筆 = えんぴつ · チョーク = ちょーく · ペン = ぺん"
+  },
+  {
+    "id": 1794351858573,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ものさし」の いみは どれですか。",
+    "question_my": "「ものさし」(物差し) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကတ်ကြေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကတ်ကြေး = 「はさみ」(鋏)။"
+      },
+      {
+        "id": 2,
+        "text": "ကော်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော် = 「のり」။"
+      },
+      {
+        "id": 3,
+        "text": "ပေတံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ものさし」(物差し) = ပေတံ။"
+      },
+      {
+        "id": 4,
+        "text": "စကော့တိပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စကော့တိပ် = 「セロテープ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 物差し = ものさし · 鋏 = はさみ · のり = のり · セロテープ = せろてーぷ"
+  }
+]
