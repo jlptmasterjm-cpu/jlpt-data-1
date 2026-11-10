@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351418469,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あたま」の いみは どれですか。",
+    "question_my": "「あたま」(頭) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      },
+      {
+        "id": 2,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 3,
+        "text": "ခေါင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あたま」(頭) = ခေါင်း။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်လုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်လုံး = 「め」(目)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 頭 = あたま · 手 = て · 足 = あし · 目 = め"
+  },
+  {
+    "id": 1794351418470,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かお」の いみは どれですか。",
+    "question_my": "「かお」(顔) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မျက်နှာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かお」(顔) = မျက်နှာ။"
+      },
+      {
+        "id": 2,
+        "text": "နား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နား = 「みみ」(耳)။"
+      },
+      {
+        "id": 3,
+        "text": "ပါးစပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပါးစပ် = 「くち」(口)။"
+      },
+      {
+        "id": 4,
+        "text": "လည်ပင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လည်ပင်း = 「くび」(首)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 顔 = かお · 耳 = みみ · 口 = くち · 首 = くび"
+  },
+  {
+    "id": 1794351418471,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「め」の いみは どれですか。",
+    "question_my": "「め」(目) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နား = 「みみ」(耳)။"
+      },
+      {
+        "id": 2,
+        "text": "နှာခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှာခေါင်း = 「はな」(鼻)။"
+      },
+      {
+        "id": 3,
+        "text": "ပါးစပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပါးစပ် = 「くち」(口)။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်လုံး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「め」(目) = မျက်လုံး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 目 = め · 耳 = みみ · 鼻 = はな · 口 = くち"
+  },
+  {
+    "id": 1794351418472,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みみ」の いみは どれですか。",
+    "question_my": "「みみ」(耳) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မျက်လုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်လုံး = 「め」(目)။"
+      },
+      {
+        "id": 2,
+        "text": "နား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「みみ」(耳) = နား။"
+      },
+      {
+        "id": 3,
+        "text": "ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်း = 「あたま」(頭)။"
+      },
+      {
+        "id": 4,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 耳 = みみ · 目 = め · 頭 = あたま · 手 = て"
+  },
+  {
+    "id": 1794351418473,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「うま」の いみは どれですか。",
+    "question_my": "「うま」(馬) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うま」(馬) = မြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "နွား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွား = 「うし」(牛)။"
+      },
+      {
+        "id": 3,
+        "text": "ဝက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝက် = 「ぶた」(豚)။"
+      },
+      {
+        "id": 4,
+        "text": "သိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သိုး = 「ひつじ」(羊)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 馬 = うま · 牛 = うし · 豚 = ぶた · 羊 = ひつじ"
+  },
+  {
+    "id": 1794351418474,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「うし」の いみは どれですか。",
+    "question_my": "「うし」(牛) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြင်း = 「うま」(馬)။"
+      },
+      {
+        "id": 2,
+        "text": "သိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သိုး = 「ひつじ」(羊)။"
+      },
+      {
+        "id": 3,
+        "text": "နွား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うし」(牛) = နွား။"
+      },
+      {
+        "id": 4,
+        "text": "ဝက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝက် = 「ぶた」(豚)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 牛 = うし · 馬 = うま · 羊 = ひつじ · 豚 = ぶた"
+  },
+  {
+    "id": 1794351418476,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぶた」の いみは どれですか。",
+    "question_my": "「ぶた」(豚) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နွား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွား = 「うし」(牛)။"
+      },
+      {
+        "id": 2,
+        "text": "ဝက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ぶた」(豚) = ဝက်။"
+      },
+      {
+        "id": 3,
+        "text": "မြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြင်း = 「うま」(馬)။"
+      },
+      {
+        "id": 4,
+        "text": "သိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သိုး = 「ひつじ」(羊)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 豚 = ぶた · 羊 = ひつじ · 牛 = うし · 馬 = うま"
+  },
+  {
+    "id": 1794351418477,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たまねぎ」の いみは どれですか。",
+    "question_my": "「たまねぎ」(玉ねぎ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မုန်လာဥနီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန်လာဥနီ = 「にんじん」(人参)။"
+      },
+      {
+        "id": 2,
+        "text": "သခွားသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သခွားသီး = 「きゅうり」။"
+      },
+      {
+        "id": 3,
+        "text": "ဂေါ်ဖီထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဂေါ်ဖီထုပ် = 「キャベツ」။"
+      },
+      {
+        "id": 4,
+        "text": "ကြက်သွန်နီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「たまねぎ」(玉ねぎ) = ကြက်သွန်နီ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 玉ねぎ = たまねぎ · にんじん = にんじん · きゅうり = きゅうり · キャベツ = きゃべつ"
+  },
+  {
+    "id": 1794351418478,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「にんじん」の いみは どれですか。",
+    "question_my": "「にんじん」(人参) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြက်သွန်နီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြက်သွန်နီ = 「たまねぎ」(玉ねぎ)။"
+      },
+      {
+        "id": 2,
+        "text": "မုန်လာဥနီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「にんじん」(人参) = မုန်လာဥနီ။"
+      },
+      {
+        "id": 3,
+        "text": "ဂေါ်ဖီထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဂေါ်ဖီထုပ် = 「キャベツ」။"
+      },
+      {
+        "id": 4,
+        "text": "သခွားသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သခွားသီး = 「きゅうり」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 人参 = にんじん · 玉ねぎ = たまねぎ · キャベツ = きゃべつ · きゅうり = きゅうり"
+  },
+  {
+    "id": 1794351418479,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「れいぞうこ」の いみは どれですか。",
+    "question_my": "「れいぞうこ」(冷蔵庫) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「れいぞうこ」(冷蔵庫) = ရေခဲသေတ္တာ။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်ကာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်ကာ = 「せんぷうき」(扇風機)။"
+      },
+      {
+        "id": 3,
+        "text": "အဲယားကွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဲယားကွန်း = 「エアコン」။"
+      },
+      {
+        "id": 4,
+        "text": "အဝတ်လျှော်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်လျှော်စက် = 「せんたくき」(洗濯機)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 冷蔵庫 = れいぞうこ · 扇風機 = せんぷうき · エアコン = えあこん · 洗濯機 = せんたくき"
+  },
+  {
+    "id": 1794351418480,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せんぷうき」の いみは どれですか。",
+    "question_my": "「せんぷうき」(扇風機) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေခဲသေတ္တာ = 「れいぞうこ」(冷蔵庫)။"
+      },
+      {
+        "id": 2,
+        "text": "အဲယားကွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဲယားကွန်း = 「エアコン」။"
+      },
+      {
+        "id": 3,
+        "text": "အဝတ်လျှော်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်လျှော်စက် = 「せんたくき」(洗濯機)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်ကာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「せんぷうき」(扇風機) = ပန်ကာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 扇風機 = せんぷうき · 冷蔵庫 = れいぞうこ · エアコン = えあこん · 洗濯機 = せんたくき"
+  }
+]
