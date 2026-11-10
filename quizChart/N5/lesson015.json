@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794352089348,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たべる」の いみは どれですか。",
+    "question_my": "「たべる」(食べる) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သောက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သောက်သည် = 「のむ」(飲む)။"
+      },
+      {
+        "id": 2,
+        "text": "စားသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「たべる」(食べる) = စားသည်။"
+      },
+      {
+        "id": 3,
+        "text": "အိပ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်သည် = 「ねる」(寝る)။"
+      },
+      {
+        "id": 4,
+        "text": "ဖတ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖတ်သည် = 「よむ」(読む)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 食べる = たべる · 飲む = のむ · 寝る = ねる · 読む = よむ"
+  },
+  {
+    "id": 1794352089349,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「のむ」の いみは どれですか。",
+    "question_my": "「のむ」(飲む) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားသည် = 「たべる」(食べる)။"
+      },
+      {
+        "id": 2,
+        "text": "ရေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေးသည် = 「かく」(書く)။"
+      },
+      {
+        "id": 3,
+        "text": "သောက်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「のむ」(飲む) = သောက်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "ပြောသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြောသည် = 「はなす」(話す)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 飲む = のむ · 食べる = たべる · 書く = かく · 話す = はなす"
+  },
+  {
+    "id": 1794352089350,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みる」の いみは どれですか。",
+    "question_my": "「みる」(見る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြားသည်/နားထောင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြားသည်/နားထောင်သည် = 「きく」(聞く)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖတ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖတ်သည် = 「よむ」(読む)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြည့်သည်/မြင်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「みる」(見る) = ကြည့်သည်/မြင်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "ရေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေးသည် = 「かく」(書く)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 見る = みる · 聞く = きく · 読む = よむ · 書く = かく"
+  },
+  {
+    "id": 1794352089351,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きく」の いみは どれですか。",
+    "question_my": "「きく」(聞く) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြင်သည် = 「みる」(見る)။"
+      },
+      {
+        "id": 2,
+        "text": "ပြောသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြောသည် = 「はなす」(話す)။"
+      },
+      {
+        "id": 3,
+        "text": "သွားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားသည် = 「いく」(行く)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြားသည်/နားထောင်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きく」(聞く) = ကြားသည်/နားထောင်သည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 聞く = きく · 見る = みる · 話す = はなす · 行く = いく"
+  },
+  {
+    "id": 1794352089352,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「よむ」の いみは どれですか。",
+    "question_my": "「よむ」(読む) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖတ်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「よむ」(読む) = ဖတ်သည်။"
+      },
+      {
+        "id": 2,
+        "text": "ရေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေးသည် = 「かく」(書く)။"
+      },
+      {
+        "id": 3,
+        "text": "စားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားသည် = 「たべる」(食べる)။"
+      },
+      {
+        "id": 4,
+        "text": "သောက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သောက်သည် = 「のむ」(飲む)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 読む = よむ · 書く = かく · 食べる = たべる · 飲む = のむ"
+  },
+  {
+    "id": 1794352089353,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かく」の いみは どれですか。",
+    "question_my": "「かく」(書く) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖတ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖတ်သည် = 「よむ」(読む)။"
+      },
+      {
+        "id": 2,
+        "text": "ရေးသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かく」(書く) = ရေးသည်။"
+      },
+      {
+        "id": 3,
+        "text": "ပြောသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြောသည် = 「はなす」(話す)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြည့်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြည့်သည် = 「みる」(見る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 書く = かく · 読む = よむ · 話す = はなす · 見る = みる"
+  },
+  {
+    "id": 1794352089354,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はなす」の いみは どれですか。",
+    "question_my": "「はなす」(話す) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြားသည် = 「きく」(聞く)။"
+      },
+      {
+        "id": 2,
+        "text": "ရေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေးသည် = 「かく」(書く)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြောသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はなす」(話す) = ပြောသည်။"
+      },
+      {
+        "id": 4,
+        "text": "ဖတ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖတ်သည် = 「よむ」(読む)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 話す = はなす · 聞く = きく · 書く = かく · 読む = よむ"
+  },
+  {
+    "id": 1794352089355,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いく」の いみは どれですか。",
+    "question_my": "「いく」(行く) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လာသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လာသည် = 「くる」(来る)။"
+      },
+      {
+        "id": 2,
+        "text": "ပြန်သွားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်သွားသည် = 「かえる」(帰る)။"
+      },
+      {
+        "id": 3,
+        "text": "သွားသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「いく」(行く) = သွားသည်။"
+      },
+      {
+        "id": 4,
+        "text": "အိပ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်သည် = 「ねる」(寝る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 行く = いく · 来る = くる · 帰る = かえる · 寝る = ねる"
+  },
+  {
+    "id": 1794352089356,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くる」の いみは どれですか。",
+    "question_my": "「くる」(来る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သွားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားသည် = 「いく」(行く)။"
+      },
+      {
+        "id": 2,
+        "text": "လာသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くる」(来る) = လာသည်။"
+      },
+      {
+        "id": 3,
+        "text": "ပြန်သွားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်သွားသည် = 「かえる」(帰る)။"
+      },
+      {
+        "id": 4,
+        "text": "စားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားသည် = 「たべる」(食べる)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 来る = くる · 行く = いく · 帰る = かえる · 食べる = たべる"
+  },
+  {
+    "id": 1794352089357,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かえる」の いみは どれですか。",
+    "question_my": "「かえる」(帰る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သွားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားသည် = 「いく」(行く)။"
+      },
+      {
+        "id": 2,
+        "text": "လာသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လာသည် = 「くる」(来る)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြန်သွားသည်/အိမ်ပြန်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かえる」(帰る) = ပြန်သွားသည်/အိမ်ပြန်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "သောက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သောက်သည် = 「のむ」(飲む)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 帰る = かえる · 行く = いく · 来る = くる · 飲む = のむ"
+  },
+  {
+    "id": 1794352089358,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ねる」の いみは どれですか。",
+    "question_my": "「ねる」(寝る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ထိုင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထိုင်သည် = 「すわる」(座る)။"
+      },
+      {
+        "id": 2,
+        "text": "ရပ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်သည် = 「たつ」(立つ)။"
+      },
+      {
+        "id": 3,
+        "text": "အိပ်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ねる」(寝る) = အိပ်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "ထသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထသည် = 「おきる」(起きる)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 寝る = ねる · 座る = すわる · 立つ = たつ · 起きる = おきる"
+  }
+]
