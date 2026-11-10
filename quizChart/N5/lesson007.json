@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794349509778,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かぞく」の いみは どれですか。",
+    "question_my": "「かぞく」(家族) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かぞく」(家族) = မိသားစု။"
+      },
+      {
+        "id": 2,
+        "text": "အဖေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖေ = 「ちち」(父)။"
+      },
+      {
+        "id": 3,
+        "text": "အမေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အမေ = 「はは」(母)။"
+      },
+      {
+        "id": 4,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「こども」(子供)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 家族 = かぞく · 父 = ちち · 母 = はは · 子供 = こども"
+  },
+  {
+    "id": 1794349509779,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちち」の いみは どれですか。",
+    "question_my": "「ちち」(父) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အမေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အမေ = 「はは」(母)။"
+      },
+      {
+        "id": 2,
+        "text": "အဖေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ちち」(父) = အဖေ။"
+      },
+      {
+        "id": 3,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「あに」(兄)။"
+      },
+      {
+        "id": 4,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「あね」(姉)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 父 = ちち · 母 = はは · 兄 = あに · 姉 = あね"
+  },
+  {
+    "id": 1794349509780,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はは」の いみは どれですか。",
+    "question_my": "「はは」(母) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဖေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖေ = 「ちち」(父)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီ/မောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ/မောင် = 「おとうと」(弟)။"
+      },
+      {
+        "id": 3,
+        "text": "အမေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はは」(母) = အမေ။"
+      },
+      {
+        "id": 4,
+        "text": "ညီမ/နှမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ/နှမ = 「いもうと」(妹)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 母 = はは · 父 = ちち · 弟 = おとうと · 妹 = いもうと"
+  },
+  {
+    "id": 1794349509781,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あに」の いみは どれですか。",
+    "question_my": "「あに」(兄) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「あね」(姉)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီ/မောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ/မောင် = 「おとうと」(弟)။"
+      },
+      {
+        "id": 3,
+        "text": "ညီမ/နှမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ/နှမ = 「いもうと」(妹)။"
+      },
+      {
+        "id": 4,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あに」(兄) = အစ်ကို။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 兄 = あに · 姉 = あね · 弟 = おとうと · 妹 = いもうと"
+  },
+  {
+    "id": 1794349509782,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あね」の いみは どれですか。",
+    "question_my": "「あね」(姉) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「あに」(兄)။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あね」(姉) = အစ်မ။"
+      },
+      {
+        "id": 3,
+        "text": "ညီ/မောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ/မောင် = 「おとうと」(弟)။"
+      },
+      {
+        "id": 4,
+        "text": "ညီမ/နှမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ/နှမ = 「いもうと」(妹)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 姉 = あね · 兄 = あに · 弟 = おとうと · 妹 = いもうと"
+  },
+  {
+    "id": 1794349509783,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おとうと」の いみは どれですか。",
+    "question_my": "「おとうと」(弟) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「あに」(兄)။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「あね」(姉)။"
+      },
+      {
+        "id": 3,
+        "text": "ညီမ/နှမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ/နှမ = 「いもうと」(妹)။"
+      },
+      {
+        "id": 4,
+        "text": "ညီ/မောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おとうと」(弟) = ညီ/မောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 弟 = おとうと · 兄 = あに · 姉 = あね · 妹 = いもうと"
+  },
+  {
+    "id": 1794349509784,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いもうと」の いみは どれですか。",
+    "question_my": "「いもうと」(妹) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ညီမ/နှမ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「いもうと」(妹) = ညီမ/နှမ။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「あに」(兄)။"
+      },
+      {
+        "id": 3,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「あね」(姉)။"
+      },
+      {
+        "id": 4,
+        "text": "ညီ/မောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ/မောင် = 「おとうと」(弟)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 妹 = いもうと · 兄 = あに · 姉 = あね · 弟 = おとうと"
+  },
+  {
+    "id": 1794349509785,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こども」の いみは どれですか。",
+    "question_my": "「こども」(子供) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လူ = 「ひと」(人)။"
+      },
+      {
+        "id": 2,
+        "text": "ယောက်ျား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ယောက်ျား = 「おとこ」(男)။"
+      },
+      {
+        "id": 3,
+        "text": "မိန်းမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိန်းမ = 「おんな」(女)။"
+      },
+      {
+        "id": 4,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「こども」(子供) = ကလေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 子供 = こども · 人 = ひと · 男 = おとこ · 女 = おんな"
+  },
+  {
+    "id": 1794349509786,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おとこ」の いみは どれですか。",
+    "question_my": "「おとこ」(男) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိန်းမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိန်းမ = 「おんな」(女)။"
+      },
+      {
+        "id": 2,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「こども」(子供)။"
+      },
+      {
+        "id": 3,
+        "text": "လူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လူ = 「ひと」(人)။"
+      },
+      {
+        "id": 4,
+        "text": "ယောက်ျား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おとこ」(男) = ယောက်ျား။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 男 = おとこ · 女 = おんな · 子供 = こども · 人 = ひと"
+  },
+  {
+    "id": 1794349509787,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おんな」の いみは どれですか。",
+    "question_my": "「おんな」(女) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ယောက်ျား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ယောက်ျား = 「おとこ」(男)။"
+      },
+      {
+        "id": 2,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「こども」(子供)။"
+      },
+      {
+        "id": 3,
+        "text": "မိန်းမ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おんな」(女) = မိန်းမ။"
+      },
+      {
+        "id": 4,
+        "text": "လူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လူ = 「ひと」(人)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 女 = おんな · 男 = おとこ · 子供 = こども · 人 = ひと"
+  },
+  {
+    "id": 1794349509788,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひと」の いみは どれですか。",
+    "question_my": "「ひと」(人) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「こども」(子供)။"
+      },
+      {
+        "id": 2,
+        "text": "ယောက်ျား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ယောက်ျား = 「おとこ」(男)။"
+      },
+      {
+        "id": 3,
+        "text": "မိန်းမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိန်းမ = 「おんな」(女)။"
+      },
+      {
+        "id": 4,
+        "text": "လူ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ひと」(人) = လူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 人 = ひと · 子供 = こども · 男 = おとこ · 女 = おんな"
+  }
+]
