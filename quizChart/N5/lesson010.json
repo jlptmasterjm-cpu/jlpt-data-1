@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351710850,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あさごはん」の いみは どれですか。",
+    "question_my": "「あさごはん」(朝ごはん) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ်စာ = 「ひるごはん」(昼ごはん)။"
+      },
+      {
+        "id": 2,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あさごはん」(朝ごはん) = မနက်စာ။"
+      },
+      {
+        "id": 3,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညစာ = 「ばんごはん」(晩ごはん)။"
+      },
+      {
+        "id": 4,
+        "text": "ပေါင်မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပေါင်မုန့် = 「パン」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 朝ごはん = あさごはん · 昼ごはん = ひるごはん · 晩ごはん = ばんごはん · パン = ぱん"
+  },
+  {
+    "id": 1794351710851,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひるごはん」の いみは どれですか。",
+    "question_my": "「ひるごはん」(昼ごはん) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မနက်စာ = 「あさごはん」(朝ごはん)။"
+      },
+      {
+        "id": 2,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညစာ = 「ばんごはん」(晩ごはん)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်ဖက်ရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ဖက်ရည် = 「おちゃ」(お茶)။"
+      },
+      {
+        "id": 4,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ひるごはん」(昼ごはん) = နေ့လယ်စာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 昼ごはん = ひるごはん · 朝ごはん = あさごはん · 晩ごはん = ばんごはん · お茶 = おちゃ"
+  },
+  {
+    "id": 1794351710852,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ばんごはん」の いみは どれですか。",
+    "question_my": "「ばんごはん」(晩ごはん) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ばんごはん」(晩ごはん) = ညစာ။"
+      },
+      {
+        "id": 2,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မနက်စာ = 「あさごはん」(朝ごはん)။"
+      },
+      {
+        "id": 3,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ်စာ = 「ひるごはん」(昼ごはん)။"
+      },
+      {
+        "id": 4,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ = 「コーヒー」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 晩ごはん = ばんごはん · 朝ごはん = あさごはん · 昼ごはん = ひるごはん · コーヒー = こーひー"
+  },
+  {
+    "id": 1794351710853,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「にく」の いみは どれですか。",
+    "question_my": "「にく」(肉) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငါး = 「さかな」(魚)။"
+      },
+      {
+        "id": 2,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်းသီးဟင်းရွက် = 「やさい」(野菜)။"
+      },
+      {
+        "id": 3,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「にく」(肉) = အသား။"
+      },
+      {
+        "id": 4,
+        "text": "သစ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်သီး = 「くだもの」(果物)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 肉 = にく · 魚 = さかな · 野菜 = やさい · 果物 = くだもの"
+  },
+  {
+    "id": 1794351710854,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「やさい」の いみは どれですか。",
+    "question_my": "「やさい」(野菜) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「やさい」(野菜) = ဟင်းသီးဟင်းရွက်။"
+      },
+      {
+        "id": 2,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「にく」(肉)။"
+      },
+      {
+        "id": 3,
+        "text": "သစ်သီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်သီး = 「くだもの」(果物)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြက်ဥ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြက်ဥ = 「たまご」(卵)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 野菜 = やさい · 肉 = にく · 果物 = くだもの · 卵 = たまご"
+  },
+  {
+    "id": 1794351710855,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くだもの」の いみは どれですか。",
+    "question_my": "「くだもの」(果物) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်းသီးဟင်းရွက် = 「やさい」(野菜)။"
+      },
+      {
+        "id": 2,
+        "text": "သစ်သီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くだもの」(果物) = သစ်သီး။"
+      },
+      {
+        "id": 3,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「にく」(肉)။"
+      },
+      {
+        "id": 4,
+        "text": "မုန့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန့် = 「おかし」(お菓子)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 果物 = くだもの · 野菜 = やさい · 肉 = にく · お菓子 = おかし"
+  },
+  {
+    "id": 1794351710856,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぎゅうにゅう」の いみは どれですか。",
+    "question_my": "「ぎゅうにゅう」(牛乳) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေ = 「みず」(水)။"
+      },
+      {
+        "id": 2,
+        "text": "လက်ဖက်ရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ဖက်ရည် = 「おちゃ」(お茶)။"
+      },
+      {
+        "id": 3,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ぎゅうにゅう」(牛乳) = နို့။"
+      },
+      {
+        "id": 4,
+        "text": "ဖျော်ရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျော်ရည် = 「ジュース」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 牛乳 = ぎゅうにゅう · 水 = みず · お茶 = おちゃ · ジュース = じゅーす"
+  },
+  {
+    "id": 1794351710857,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おちゃ」の いみは どれですか。",
+    "question_my": "「おちゃ」(お茶) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်ဖက်ရည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おちゃ」(お茶) = လက်ဖက်ရည်။"
+      },
+      {
+        "id": 2,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「ぎゅうにゅう」(牛乳)။"
+      },
+      {
+        "id": 3,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ = 「コーヒー」။"
+      },
+      {
+        "id": 4,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေ = 「みず」(水)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お茶 = おちゃ · 牛乳 = ぎゅうにゅう · コーヒー = こーひー · 水 = みず"
+  },
+  {
+    "id": 1794351710858,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ジュース」の いみは どれですか。",
+    "question_my": "「ジュース」(ジュース) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်ဖက်ရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ဖက်ရည် = 「おちゃ」(お茶)။"
+      },
+      {
+        "id": 2,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「ぎゅうにゅう」(牛乳)။"
+      },
+      {
+        "id": 3,
+        "text": "ကော်ဖီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ = 「コーヒー」။"
+      },
+      {
+        "id": 4,
+        "text": "ဖျော်ရည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ジュース」 = ဖျော်ရည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ジュース = じゅーす · お茶 = おちゃ · 牛乳 = ぎゅうにゅう · コーヒー = こーひー"
+  },
+  {
+    "id": 1794351710859,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「てんき」の いみは どれですか。",
+    "question_my": "「てんき」(天気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုး = 「あめ」(雨)။"
+      },
+      {
+        "id": 2,
+        "text": "ရာသီဥတု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「てんき」(天気) = ရာသီဥတု။"
+      },
+      {
+        "id": 3,
+        "text": "ဆီးနှင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆီးနှင်း = 「ゆき」(雪)။"
+      },
+      {
+        "id": 4,
+        "text": "လေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ = 「かぜ」(風)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 天気 = てんき · 雨 = あめ · 雪 = ゆき · 風 = かぜ"
+  },
+  {
+    "id": 1794351710860,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えいが」の いみは どれですか。",
+    "question_my": "「えいが」(映画) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဂီတ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဂီတ = 「おんがく」(音楽)။"
+      },
+      {
+        "id": 2,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သီချင်း = 「うた」(歌)။"
+      },
+      {
+        "id": 3,
+        "text": "ရုပ်ရှင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「えいが」(映画) = ရုပ်ရှင်။"
+      },
+      {
+        "id": 4,
+        "text": "ပုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပုံ = 「え」(絵)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 映画 = えいが · 音楽 = おんがく · 歌 = うた · 絵 = え"
+  }
+]
