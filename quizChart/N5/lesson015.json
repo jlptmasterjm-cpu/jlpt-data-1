@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794352297767,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あける」の いみは どれですか。",
+    "question_my": "「あける」(開ける) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပိတ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိတ်သည် = 「しめる」(閉める)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖွင့်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あける」(開ける) = ဖွင့်သည်။"
+      },
+      {
+        "id": 3,
+        "text": "ထွက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထွက်သည် = 「でる」(出る)။"
+      },
+      {
+        "id": 4,
+        "text": "ဝင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝင်သည် = 「はいる」(入る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 開ける = あける · 閉める = しめる · 出る = でる · 入る = はいる"
+  },
+  {
+    "id": 1794352297768,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しめる」の いみは どれですか。",
+    "question_my": "「しめる」(閉める) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖွင့်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖွင့်သည် = 「あける」(開ける)။"
+      },
+      {
+        "id": 2,
+        "text": "ထွက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထွက်သည် = 「でる」(出る)။"
+      },
+      {
+        "id": 3,
+        "text": "ပိတ်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「しめる」(閉める) = ပိတ်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "ဝင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝင်သည် = 「はいる」(入る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 閉める = しめる · 開ける = あける · 出る = でる · 入る = はいる"
+  },
+  {
+    "id": 1794352297769,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はしる」の いみは どれですか。",
+    "question_my": "「はしる」(走る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြေးသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はしる」(走る) = ပြေးသည်။"
+      },
+      {
+        "id": 2,
+        "text": "လမ်းလျှောက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းလျှောက်သည် = 「あるく」(歩く)။"
+      },
+      {
+        "id": 3,
+        "text": "ရပ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်သည် = 「とまる」(止まる)။"
+      },
+      {
+        "id": 4,
+        "text": "ထိုင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထိုင်သည် = 「すわる」(座る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 走る = はしる · 歩く = あるく · 止まる = とまる · 座る = すわる"
+  },
+  {
+    "id": 1794352297770,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あるく」の いみは どれですか。",
+    "question_my": "「あるく」(歩く) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြေးသည် = 「はしる」(走る)။"
+      },
+      {
+        "id": 2,
+        "text": "ခုန်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခုန်သည် = 「とぶ」(飛ぶ)။"
+      },
+      {
+        "id": 3,
+        "text": "ရပ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရပ်သည် = 「とまる」(止まる)။"
+      },
+      {
+        "id": 4,
+        "text": "လမ်းလျှောက်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あるく」(歩く) = လမ်းလျှောက်သည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 歩く = あるく · 走る = はしる · 飛ぶ = とぶ · 止まる = とまる"
+  },
+  {
+    "id": 1794352297771,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「まつ」の いみは どれですか。",
+    "question_my": "「まつ」(待つ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စောင့်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「まつ」(待つ) = စောင့်သည်။"
+      },
+      {
+        "id": 2,
+        "text": "ရောက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရောက်သည် = 「つく」(着く)။"
+      },
+      {
+        "id": 3,
+        "text": "ထွက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထွက်သည် = 「でる」(出る)။"
+      },
+      {
+        "id": 4,
+        "text": "ပြန်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်သည် = 「もどる」(戻る)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 待つ = まつ · 着く = つく · 出る = でる · 戻る = もどる"
+  },
+  {
+    "id": 1794352297772,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かう」の いみは どれですか。",
+    "question_my": "「かう」(買う) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရောင်းသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရောင်းသည် = 「うる」(売る)။"
+      },
+      {
+        "id": 2,
+        "text": "ငှားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငှားသည် = 「かりる」(借りる)။"
+      },
+      {
+        "id": 3,
+        "text": "ဝယ်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かう」(買う) = ဝယ်သည်။"
+      },
+      {
+        "id": 4,
+        "text": "ပေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပေးသည် = 「あげる」(あげる)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 買う = かう · 売る = うる · 借りる = かりる · あげる = あげる"
+  },
+  {
+    "id": 1794352297773,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「うる」の いみは どれですか。",
+    "question_my": "「うる」(売る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဝယ်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝယ်သည် = 「かう」(買う)။"
+      },
+      {
+        "id": 2,
+        "text": "ရောင်းသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うる」(売る) = ရောင်းသည်။"
+      },
+      {
+        "id": 3,
+        "text": "ငှားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငှားသည် = 「かりる」(借りる)။"
+      },
+      {
+        "id": 4,
+        "text": "ချေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ချေးသည် = 「かす」(貸す)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 売る = うる · 買う = かう · 借りる = かりる · 貸す = かす"
+  },
+  {
+    "id": 1794352297774,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「わかる」の いみは どれですか。",
+    "question_my": "「わかる」(分かる) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သိသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သိသည် = 「しる」(知る)။"
+      },
+      {
+        "id": 2,
+        "text": "မေးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မေးသည် = 「きく」(聞く)။"
+      },
+      {
+        "id": 3,
+        "text": "ဖြေသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖြေသည် = 「こたえる」(答える)။"
+      },
+      {
+        "id": 4,
+        "text": "နားလည်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「わかる」(分かる) = နားလည်သည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 分かる = わかる · 知る = しる · 聞く = きく · 答える = こたえる"
+  },
+  {
+    "id": 1794352297775,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おもう」の いみは どれですか。",
+    "question_my": "「おもう」(思う) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြောသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြောသည် = 「はなす」(話す)။"
+      },
+      {
+        "id": 2,
+        "text": "ထင်သည်/စဉ်းစားသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おもう」(思う) = ထင်သည်/စဉ်းစားသည်။"
+      },
+      {
+        "id": 3,
+        "text": "ကြည့်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြည့်သည် = 「みる」(見る)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြားသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြားသည် = 「きく」(聞く)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 思う = おもう · 話す = はなす · 見る = みる · 聞く = きく"
+  },
+  {
+    "id": 1794352297776,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「つかう」の いみは どれですか。",
+    "question_my": "「つかう」(使う) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖန်တီးသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖန်တီးသည် = 「つくる」(作る)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက်သည် = 「こわす」(壊す)။"
+      },
+      {
+        "id": 3,
+        "text": "သိမ်းသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သိမ်းသည် = 「しまう」(しまう)။"
+      },
+      {
+        "id": 4,
+        "text": "အသုံးပြုသည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「つかう」(使う) = အသုံးပြုသည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 使う = つかう · 作る = つくる · 壊す = こわす · しまう = しまう"
+  },
+  {
+    "id": 1794352297777,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「つくる」の いみは どれですか。",
+    "question_my": "「つくる」(作る) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အသုံးပြုသည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသုံးပြုသည် = 「つかう」(使う)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျက်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျက်သည် = 「こわす」(壊す)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြင်သည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြင်သည် = 「なおす」(直す)။"
+      },
+      {
+        "id": 4,
+        "text": "ဖန်တီးသည်/လုပ်သည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「つくる」(作る) = ဖန်တီးသည်/လုပ်သည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 作る = つくる · 使う = つかう · 壊す = こわす · 直す = なおす"
+  }
+]
