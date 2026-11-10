@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794348652435,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ふね」の いみは どれですか。",
+    "question_my": "「ふね」(船) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လေယာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေယာဉ် = 「ひこうき」(飛行機)။"
+      },
+      {
+        "id": 2,
+        "text": "ရထား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရထား = 「でんしゃ」(電車)။"
+      },
+      {
+        "id": 3,
+        "text": "ကား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကား = 「くるま」(車)။"
+      },
+      {
+        "id": 4,
+        "text": "သင်္ဘော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ふね」(船) = သင်္ဘော။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 船 = ふね · 飛行機 = ひこうき · 電車 = でんしゃ · 車 = くるま"
+  },
+  {
+    "id": 1794348652436,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちかてつ」の いみは どれですか。",
+    "question_my": "「ちかてつ」(地下鉄) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘတ်စ်ကား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘတ်စ်ကား = 「バス」။"
+      },
+      {
+        "id": 2,
+        "text": "တက္ကစီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တက္ကစီ = 「タクシー」။"
+      },
+      {
+        "id": 3,
+        "text": "သင်္ဘော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ဘော = 「ふね」(船)။"
+      },
+      {
+        "id": 4,
+        "text": "မြေအောက်ရထား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ちかてつ」(地下鉄) = မြေအောက်ရထား။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 地下鉄 = ちかてつ · バス = ばす · タクシー = たくしー · 船 = ふね"
+  },
+  {
+    "id": 1794348652437,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「タクシー」の いみは どれですか。",
+    "question_my": "「タクシー」(タクシー) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘတ်စ်ကား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘတ်စ်ကား = 「バス」။"
+      },
+      {
+        "id": 2,
+        "text": "မြေအောက်ရထား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြေအောက်ရထား = 「ちかてつ」(地下鉄)။"
+      },
+      {
+        "id": 3,
+        "text": "သင်္ဘော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ဘော = 「ふね」(船)။"
+      },
+      {
+        "id": 4,
+        "text": "တက္ကစီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「タクシー」 = တက္ကစီ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: タクシー = たくしー · バス = ばす · 地下鉄 = ちかてつ · 船 = ふね"
+  },
+  {
+    "id": 1794348652438,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「バス」の いみは どれですか。",
+    "question_my": "「バス」(バス) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တက္ကစီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တက္ကစီ = 「タクシー」။"
+      },
+      {
+        "id": 2,
+        "text": "မြေအောက်ရထား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြေအောက်ရထား = 「ちかてつ」(地下鉄)။"
+      },
+      {
+        "id": 3,
+        "text": "သင်္ဘော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ဘော = 「ふね」(船)။"
+      },
+      {
+        "id": 4,
+        "text": "ဘတ်စ်ကား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「バス」 = ဘတ်စ်ကား။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: バス = ばす · タクシー = たくしー · 地下鉄 = ちかてつ · 船 = ふね"
+  },
+  {
+    "id": 1794348652439,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きって」の いみは どれですか。",
+    "question_my": "「きって」(切手) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာပို့ကဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာပို့ကဒ် = 「はがき」(葉書)။"
+      },
+      {
+        "id": 2,
+        "text": "စာအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအိတ် = 「ふうとう」(封筒)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်မှတ် = 「きっぷ」(切符)။"
+      },
+      {
+        "id": 4,
+        "text": "တံဆိပ်ခေါင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きって」(切手) = တံဆိပ်ခေါင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 切手 = きって · 葉書 = はがき · 封筒 = ふうとう · 切符 = きっぷ"
+  },
+  {
+    "id": 1794348652440,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はがき」の いみは どれですか。",
+    "question_my": "「はがき」(葉書) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တံဆိပ်ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံဆိပ်ခေါင်း = 「きって」(切手)။"
+      },
+      {
+        "id": 2,
+        "text": "စာအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအိတ် = 「ふうとう」(封筒)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်မှတ် = 「きっぷ」(切符)။"
+      },
+      {
+        "id": 4,
+        "text": "စာပို့ကဒ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はがき」(葉書) = စာပို့ကဒ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 葉書 = はがき · 切手 = きって · 封筒 = ふうとう · 切符 = きっぷ"
+  },
+  {
+    "id": 1794348652441,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きっぷ」の いみは どれですか。",
+    "question_my": "「きっぷ」(切符) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တံဆိပ်ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံဆိပ်ခေါင်း = 「きって」(切手)။"
+      },
+      {
+        "id": 2,
+        "text": "စာပို့ကဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာပို့ကဒ် = 「はがき」(葉書)။"
+      },
+      {
+        "id": 3,
+        "text": "စာအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအိတ် = 「ふうとう」(封筒)။"
+      },
+      {
+        "id": 4,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きっぷ」(切符) = လက်မှတ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 切符 = きっぷ · 切手 = きって · 葉書 = はがき · 封筒 = ふうとう"
+  },
+  {
+    "id": 1794348652442,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おかね」の いみは どれですか。",
+    "question_my": "「おかね」(お金) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပိုက်ဆံအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုက်ဆံအိတ် = 「さいふ」(財布)။"
+      },
+      {
+        "id": 2,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်မှတ် = 「きっぷ」(切符)။"
+      },
+      {
+        "id": 3,
+        "text": "တံဆိပ်ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံဆိပ်ခေါင်း = 「きって」(切手)။"
+      },
+      {
+        "id": 4,
+        "text": "ပိုက်ဆံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おかね」(お金) = ပိုက်ဆံ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お金 = おかね · 財布 = さいふ · 切符 = きっぷ · 切手 = きって"
+  },
+  {
+    "id": 1794348652443,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「にもつ」の いみは どれですか。",
+    "question_my": "「にもつ」(荷物) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」(鞄)။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုက်ဆံအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုက်ဆံအိတ် = 「さいふ」(財布)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်မှတ် = 「きっぷ」(切符)။"
+      },
+      {
+        "id": 4,
+        "text": "ဝန်စည်စလယ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「にもつ」(荷物) = ဝန်စည်စလယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 荷物 = にもつ · 鞄 = かばん · 財布 = さいふ · 切符 = きっぷ"
+  },
+  {
+    "id": 1794348652444,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くつした」の いみは どれですか。",
+    "question_my": "「くつした」(靴下) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖိနပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖိနပ် = 「くつ」(靴)။"
+      },
+      {
+        "id": 2,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဦးထုပ် = 「ぼうし」(帽子)။"
+      },
+      {
+        "id": 3,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「めがね」(眼鏡)။"
+      },
+      {
+        "id": 4,
+        "text": "ခြေအိတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くつした」(靴下) = ခြေအိတ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 靴下 = くつした · 靴 = くつ · 帽子 = ぼうし · 眼鏡 = めがね"
+  },
+  {
+    "id": 1794348652445,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かみ」の いみは どれですか。",
+    "question_my": "「かみ」(紙) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာအုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ် = 「ほん」(本)။"
+      },
+      {
+        "id": 2,
+        "text": "မှတ်စုစာအုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်စုစာအုပ် = 「ノート」။"
+      },
+      {
+        "id": 3,
+        "text": "စာအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအိတ် = 「ふうとう」(封筒)။"
+      },
+      {
+        "id": 4,
+        "text": "စက္ကူ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かみ」(紙) = စက္ကူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 紙 = かみ · 本 = ほん · ノート = のーと · 封筒 = ふうとう"
+  }
+]
