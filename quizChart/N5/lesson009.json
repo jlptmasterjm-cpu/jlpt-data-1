@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351630300,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ドア」の いみは どれですか。",
+    "question_my": "「ドア」(ドア) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြတင်းပေါက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြတင်းပေါက် = 「まど」(窓)။"
+      },
+      {
+        "id": 2,
+        "text": "နံရံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နံရံ = 「かべ」(壁)။"
+      },
+      {
+        "id": 3,
+        "text": "တံခါး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ドア」 = တံခါး။"
+      },
+      {
+        "id": 4,
+        "text": "အမိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အမိုး = 「やね」(屋根)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ドア = どあ · 窓 = まど · 壁 = かべ · 屋根 = やね"
+  },
+  {
+    "id": 1794351630301,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ベッド」の いみは どれですか。",
+    "question_my": "「ベッド」(ベッド) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「つくえ」(机)။"
+      },
+      {
+        "id": 2,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「いす」(椅子)။"
+      },
+      {
+        "id": 3,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ベッド」 = အိပ်ရာ။"
+      },
+      {
+        "id": 4,
+        "text": "စားပွဲဝိုင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲဝိုင်း = 「テーブル」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ベッド = べっど · 机 = つくえ · 椅子 = いす · テーブル = てーぶる"
+  },
+  {
+    "id": 1794351630302,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「テーブル」の いみは どれですか。",
+    "question_my": "「テーブル」(テーブル) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ရာ = 「ベッド」။"
+      },
+      {
+        "id": 2,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「いす」(椅子)။"
+      },
+      {
+        "id": 3,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「つくえ」(机)။"
+      },
+      {
+        "id": 4,
+        "text": "စားပွဲဝိုင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「テーブル」 = စားပွဲဝိုင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: テーブル = てーぶる · ベッド = べっど · 椅子 = いす · 机 = つくえ"
+  },
+  {
+    "id": 1794351630303,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「コップ」の いみは どれですか。",
+    "question_my": "「コップ」(コップ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပန်းကန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းကန် = 「おさら」(お皿)။"
+      },
+      {
+        "id": 2,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဇွန်း = 「スプーン」။"
+      },
+      {
+        "id": 3,
+        "text": "ဖန်ခွက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「コップ」 = ဖန်ခွက်။"
+      },
+      {
+        "id": 4,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ရင်း = 「フォーク」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: コップ = こっぷ · お皿 = おさら · スプーン = すぷーん · フォーク = ふぉーく"
+  },
+  {
+    "id": 1794351630304,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おさら」の いみは どれですか。",
+    "question_my": "「おさら」(お皿) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖန်ခွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖန်ခွက် = 「コップ」။"
+      },
+      {
+        "id": 2,
+        "text": "ဓား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဓား = 「ナイフ」။"
+      },
+      {
+        "id": 3,
+        "text": "တူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တူ = 「はし」(箸)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းကန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おさら」(お皿) = ပန်းကန်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お皿 = おさら · コップ = こっぷ · ナイフ = ないふ · 箸 = はし"
+  },
+  {
+    "id": 1794351630305,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「スプーン」の いみは どれですか。",
+    "question_my": "「スプーン」(スプーン) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ရင်း = 「フォーク」။"
+      },
+      {
+        "id": 2,
+        "text": "ဓား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဓား = 「ナイフ」။"
+      },
+      {
+        "id": 3,
+        "text": "တူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တူ = 「はし」(箸)။"
+      },
+      {
+        "id": 4,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「スプーン」 = ဇွန်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: スプーン = すぷーん · フォーク = ふぉーく · ナイフ = ないふ · 箸 = はし"
+  },
+  {
+    "id": 1794351630306,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「フォーク」の いみは どれですか。",
+    "question_my": "「フォーク」(フォーク) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဇွန်း = 「スプーン」။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်းကန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းကန် = 「おさら」(お皿)။"
+      },
+      {
+        "id": 3,
+        "text": "ဖန်ခွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖန်ခွက် = 「コップ」။"
+      },
+      {
+        "id": 4,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「フォーク」 = ခက်ရင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: フォーク = ふぉーく · スプーン = すぷーん · お皿 = おさら · コップ = こっぷ"
+  },
+  {
+    "id": 1794351630307,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ナイフ」の いみは どれですか。",
+    "question_my": "「ナイフ」(ナイフ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ရင်း = 「フォーク」။"
+      },
+      {
+        "id": 2,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဇွန်း = 「スプーン」။"
+      },
+      {
+        "id": 3,
+        "text": "တူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တူ = 「はし」(箸)။"
+      },
+      {
+        "id": 4,
+        "text": "ဓား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ナイフ」 = ဓား။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ナイフ = ないふ · フォーク = ふぉーく · スプーン = すぷーん · 箸 = はし"
+  },
+  {
+    "id": 1794351630308,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はし」の いみは どれですか。",
+    "question_my": "「はし」(箸) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဇွန်း = 「スプーン」။"
+      },
+      {
+        "id": 2,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ရင်း = 「フォーク」။"
+      },
+      {
+        "id": 3,
+        "text": "ဓား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဓား = 「ナイフ」။"
+      },
+      {
+        "id": 4,
+        "text": "တူ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はし」(箸) = တူ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 箸 = はし · スプーン = すぷーん · フォーク = ふぉーく · ナイフ = ないふ"
+  },
+  {
+    "id": 1794351630309,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かがみ」の いみは どれですか。",
+    "question_my": "「かがみ」(鏡) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘီး = 「くし」(櫛)။"
+      },
+      {
+        "id": 2,
+        "text": "သွားတိုက်တံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားတိုက်တံ = 「ハブラシ」(歯ブラシ)။"
+      },
+      {
+        "id": 3,
+        "text": "မှန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かがみ」(鏡) = မှန်။"
+      },
+      {
+        "id": 4,
+        "text": "တာဝါ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တာဝါ = 「タオル」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鏡 = かがみ · 櫛 = くし · 歯ブラシ = はぶらし · タオル = たおる"
+  },
+  {
+    "id": 1794351630310,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くし」の いみは どれですか。",
+    "question_my": "「くし」(櫛) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှန် = 「かがみ」(鏡)။"
+      },
+      {
+        "id": 2,
+        "text": "သွားတိုက်တံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားတိုက်တံ = 「ハブラシ」(歯ブラシ)။"
+      },
+      {
+        "id": 3,
+        "text": "တာဝါ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တာဝါ = 「タオル」။"
+      },
+      {
+        "id": 4,
+        "text": "ဘီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くし」(櫛) = ဘီး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 櫛 = くし · 鏡 = かがみ · 歯ブラシ = はぶらし · タオル = たおる"
+  }
+]
