@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351926760,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はな」の いみは どれですか。",
+    "question_my": "「はな」(鼻) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပါးစပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပါးစပ် = 「くち」(口)။"
+      },
+      {
+        "id": 2,
+        "text": "နှာခေါင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はな」(鼻) = နှာခေါင်း။"
+      },
+      {
+        "id": 3,
+        "text": "မျက်လုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်လုံး = 「め」(目)။"
+      },
+      {
+        "id": 4,
+        "text": "နား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နား = 「みみ」(耳)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鼻 = はな · 口 = くち · 目 = め · 耳 = みみ"
+  },
+  {
+    "id": 1794351926761,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くち」の いみは どれですか。",
+    "question_my": "「くち」(口) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နှာခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှာခေါင်း = 「はな」(鼻)။"
+      },
+      {
+        "id": 2,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      },
+      {
+        "id": 3,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 4,
+        "text": "ပါးစပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くち」(口) = ပါးစပ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 口 = くち · 鼻 = はな · 手 = て · 足 = あし"
+  },
+  {
+    "id": 1794351926762,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「て」の いみは どれですか。",
+    "question_my": "「て」(手) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「て」(手) = လက်။"
+      },
+      {
+        "id": 2,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်ချောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ချောင်း = 「ゆび」(指)။"
+      },
+      {
+        "id": 4,
+        "text": "ပခုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပခုံး = 「かた」(肩)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 手 = て · 足 = あし · 指 = ゆび · 肩 = かた"
+  },
+  {
+    "id": 1794351926763,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あし」の いみは どれですか。",
+    "question_my": "「あし」(足) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      },
+      {
+        "id": 2,
+        "text": "ဒူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဒူး = 「ひざ」(膝)။"
+      },
+      {
+        "id": 3,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あし」(足) = ခြေ။"
+      },
+      {
+        "id": 4,
+        "text": "တံတောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံတောင် = 「ひじ」(肘)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 足 = あし · 手 = て · 膝 = ひざ · 肘 = ひじ"
+  },
+  {
+    "id": 1794351926764,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おなか」の いみは どれですか。",
+    "question_my": "「おなか」(お腹) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျော = 「せなか」(背中)။"
+      },
+      {
+        "id": 2,
+        "text": "ဗိုက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「おなか」(お腹) = ဗိုက်။"
+      },
+      {
+        "id": 3,
+        "text": "လည်ပင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လည်ပင်း = 「くび」(首)။"
+      },
+      {
+        "id": 4,
+        "text": "ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်း = 「あたま」(頭)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お腹 = おなか · 背中 = せなか · 首 = くび · 頭 = あたま"
+  },
+  {
+    "id": 1794351926765,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せなか」の いみは どれですか。",
+    "question_my": "「せなか」(背中) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဗိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဗိုက် = 「おなか」(お腹)။"
+      },
+      {
+        "id": 2,
+        "text": "ရင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရင် = 「むね」(胸)။"
+      },
+      {
+        "id": 3,
+        "text": "ပခုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပခုံး = 「かた」(肩)။"
+      },
+      {
+        "id": 4,
+        "text": "ကျော",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「せなか」(背中) = ကျော။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 背中 = せなか · お腹 = おなか · 胸 = むね · 肩 = かた"
+  },
+  {
+    "id": 1794351926766,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くび」の いみは どれですか。",
+    "question_my": "「くび」(首) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လည်ပင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くび」(首) = လည်ပင်း။"
+      },
+      {
+        "id": 2,
+        "text": "ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်း = 「あたま」(頭)။"
+      },
+      {
+        "id": 3,
+        "text": "မျက်နှာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်နှာ = 「かお」(顔)။"
+      },
+      {
+        "id": 4,
+        "text": "နား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နား = 「みみ」(耳)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 首 = くび · 頭 = あたま · 顔 = かお · 耳 = みみ"
+  },
+  {
+    "id": 1794351926767,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ゆび」の いみは どれですか。",
+    "question_my": "「ゆび」(指) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      },
+      {
+        "id": 2,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်ချောင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ゆび」(指) = လက်ချောင်း။"
+      },
+      {
+        "id": 4,
+        "text": "တံတောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံတောင် = 「ひじ」(肘)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 指 = ゆび · 手 = て · 足 = あし · 肘 = ひじ"
+  },
+  {
+    "id": 1794351926768,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かた」の いみは どれですか。",
+    "question_my": "「かた」(肩) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျော = 「せなか」(背中)။"
+      },
+      {
+        "id": 2,
+        "text": "ပခုံး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かた」(肩) = ပခုံး။"
+      },
+      {
+        "id": 3,
+        "text": "ရင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရင် = 「むね」(胸)။"
+      },
+      {
+        "id": 4,
+        "text": "လည်ပင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လည်ပင်း = 「くび」(首)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 肩 = かた · 背中 = せなか · 胸 = むね · 首 = くび"
+  },
+  {
+    "id": 1794351926769,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひざ」の いみは どれですか。",
+    "question_my": "「ひざ」(膝) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဒူး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ひざ」(膝) = ဒူး။"
+      },
+      {
+        "id": 2,
+        "text": "ခြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေ = 「あし」(足)။"
+      },
+      {
+        "id": 3,
+        "text": "တံတောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံတောင် = 「ひじ」(肘)။"
+      },
+      {
+        "id": 4,
+        "text": "လက်ချောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ချောင်း = 「ゆび」(指)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 膝 = ひざ · 足 = あし · 肘 = ひじ · 指 = ゆび"
+  },
+  {
+    "id": 1794351926770,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひじ」の いみは どれですか。",
+    "question_my": "「ひじ」(肘) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဒူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဒူး = 「ひざ」(膝)။"
+      },
+      {
+        "id": 2,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「て」(手)။"
+      },
+      {
+        "id": 3,
+        "text": "ပခုံး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပခုံး = 「かた」(肩)။"
+      },
+      {
+        "id": 4,
+        "text": "တံတောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ひじ」(肘) = တံတောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 肘 = ひじ · 膝 = ひざ · 手 = て · 肩 = かた"
+  }
+]
