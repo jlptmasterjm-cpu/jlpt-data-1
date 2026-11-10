@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794349098047,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「がっこう」の いみは どれですか。",
+    "question_my": "「がっこう」(学校) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      },
+      {
+        "id": 2,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「えき」(駅)။"
+      },
+      {
+        "id": 3,
+        "text": "ကျောင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「がっこう」(学校) = ကျောင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးရုံ = 「びょういん」(病院)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 学校 = がっこう · 駅 = えき · 店 = みせ · 病院 = びょういん"
+  },
+  {
+    "id": 1794349098048,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かいしゃ」の いみは どれですか。",
+    "question_my": "「かいしゃ」(会社) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကုမ္ပဏီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かいしゃ」(会社) = ကုမ္ပဏီ။"
+      },
+      {
+        "id": 2,
+        "text": "ဘဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဏ် = 「ぎんこう」(銀行)။"
+      },
+      {
+        "id": 3,
+        "text": "စာတိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာတိုက် = 「ゆうびんきょく」(郵便局)။"
+      },
+      {
+        "id": 4,
+        "text": "ကျောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်း = 「がっこう」(学校)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 会社 = かいしゃ · 銀行 = ぎんこう · 郵便局 = ゆうびんきょく · 学校 = がっこう"
+  },
+  {
+    "id": 1794349098049,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かいしゃいん」の いみは どれですか。",
+    "question_my": "「かいしゃいん」(会社員) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘူတာဝန်ထမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာဝန်ထမ်း = 「えきいん」(駅員)။"
+      },
+      {
+        "id": 2,
+        "text": "ကုမ္ပဏီဝန်ထမ်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かいしゃいん」(会社員) = ကုမ္ပဏီဝန်ထမ်း။"
+      },
+      {
+        "id": 3,
+        "text": "ဆိုင်ဝန်ထမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင်ဝန်ထမ်း = 「てんいん」(店員)။"
+      },
+      {
+        "id": 4,
+        "text": "ဘဏ်ဝန်ထမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဏ်ဝန်ထမ်း = 「ぎんこういん」(銀行員)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 会社員 = かいしゃいん · 駅員 = えきいん · 店員 = てんいん · 銀行員 = ぎんこういん"
+  },
+  {
+    "id": 1794349098050,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えき」の いみは どれですか。",
+    "question_my": "「えき」(駅) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      },
+      {
+        "id": 2,
+        "text": "ဘဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဏ် = 「ぎんこう」(銀行)။"
+      },
+      {
+        "id": 3,
+        "text": "စာတိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာတိုက် = 「ゆうびんきょく」(郵便局)။"
+      },
+      {
+        "id": 4,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「えき」(駅) = ဘူတာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 駅 = えき · 店 = みせ · 銀行 = ぎんこう · 郵便局 = ゆうびんきょく"
+  },
+  {
+    "id": 1794349098051,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「びょういん」の いみは どれですか。",
+    "question_my": "「びょういん」(病院) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「びょういん」(病院) = ဆေးရုံ။"
+      },
+      {
+        "id": 2,
+        "text": "ကျောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်း = 「がっこう」(学校)။"
+      },
+      {
+        "id": 3,
+        "text": "ဘဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဏ် = 「ぎんこう」(銀行)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 病院 = びょういん · 学校 = がっこう · 銀行 = ぎんこう · 店 = みせ"
+  },
+  {
+    "id": 1794349098052,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぎんこう」の いみは どれですか。",
+    "question_my": "「ぎんこう」(銀行) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာတိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာတိုက် = 「ゆうびんきょく」(郵便局)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးရုံ = 「びょういん」(病院)။"
+      },
+      {
+        "id": 3,
+        "text": "ဘဏ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ぎんこう」(銀行) = ဘဏ်။"
+      },
+      {
+        "id": 4,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「えき」(駅)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 銀行 = ぎんこう · 郵便局 = ゆうびんきょく · 病院 = びょういん · 駅 = えき"
+  },
+  {
+    "id": 1794349098053,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ゆうびんきょく」の いみは どれですか。",
+    "question_my": "「ゆうびんきょく」(郵便局) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဏ် = 「ぎんこう」(銀行)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      },
+      {
+        "id": 3,
+        "text": "စာသင်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာသင်ခန်း = 「きょうしつ」(教室)။"
+      },
+      {
+        "id": 4,
+        "text": "စာတိုက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ゆうびんきょく」(郵便局) = စာတိုက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 郵便局 = ゆうびんきょく · 銀行 = ぎんこう · 店 = みせ · 教室 = きょうしつ"
+  },
+  {
+    "id": 1794349098054,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みせ」の いみは どれですか。",
+    "question_my": "「みせ」(店) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「みせ」(店) = ဆိုင်။"
+      },
+      {
+        "id": 2,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「えき」(駅)။"
+      },
+      {
+        "id": 3,
+        "text": "စာကြည့်တိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာကြည့်တိုက် = 「としょかん」(図書館)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းခြံ = 「こうえん」(公園)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 店 = みせ · 駅 = えき · 図書館 = としょかん · 公園 = こうえん"
+  },
+  {
+    "id": 1794349098055,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きょうしつ」の いみは どれですか。",
+    "question_my": "「きょうしつ」(教室) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာကြည့်တိုက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာကြည့်တိုက် = 「としょかん」(図書館)။"
+      },
+      {
+        "id": 2,
+        "text": "စာသင်ခန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きょうしつ」(教室) = စာသင်ခန်း။"
+      },
+      {
+        "id": 3,
+        "text": "အခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခန်း = 「へや」(部屋)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ် = 「いえ」(家)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 教室 = きょうしつ · 図書館 = としょかん · 部屋 = へや · 家 = いえ"
+  },
+  {
+    "id": 1794349098056,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「としょかん」の いみは どれですか。",
+    "question_my": "「としょかん」(図書館) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာသင်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာသင်ခန်း = 「きょうしつ」(教室)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      },
+      {
+        "id": 3,
+        "text": "စာကြည့်တိုက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「としょかん」(図書館) = စာကြည့်တိုက်။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းခြံ = 「こうえん」(公園)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 図書館 = としょかん · 教室 = きょうしつ · 店 = みせ · 公園 = こうえん"
+  },
+  {
+    "id": 1794349098057,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こうえん」の いみは どれですか。",
+    "question_my": "「こうえん」(公園) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဥယျာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဥယျာဉ် = 「にわ」(庭)။"
+      },
+      {
+        "id": 2,
+        "text": "အိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ် = 「いえ」(家)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုင် = 「みせ」(店)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းခြံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「こうえん」(公園) = ပန်းခြံ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 公園 = こうえん · 庭 = にわ · 家 = いえ · 店 = みせ"
+  }
+]
