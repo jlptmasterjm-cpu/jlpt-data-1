@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794348471838,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「でんわ」の いみは どれですか。",
+    "question_my": "「でんわ」(電話) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေဒီယို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေဒီယို = 「ラジオ」။"
+      },
+      {
+        "id": 2,
+        "text": "တီဗီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တီဗီ = 「テレビ」။"
+      },
+      {
+        "id": 3,
+        "text": "ကင်မရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကင်မရာ = 「カメラ」။"
+      },
+      {
+        "id": 4,
+        "text": "ဖုန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「でんわ」(電話) = ဖုန်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 電話 = でんわ · ラジオ = らじお · テレビ = てれび · カメラ = かめら"
+  },
+  {
+    "id": 1794348471839,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かさ」の いみは どれですか。",
+    "question_my": "「かさ」(傘) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကုတ်အင်္ကျီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုတ်အင်္ကျီ = 「コート」။"
+      },
+      {
+        "id": 2,
+        "text": "လက်ကိုင်ပုဝါ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်ကိုင်ပုဝါ = 「ハンカチ」။"
+      },
+      {
+        "id": 3,
+        "text": "တာဝါ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တာဝါ = 「タオル」။"
+      },
+      {
+        "id": 4,
+        "text": "ထီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かさ」(傘) = ထီး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 傘 = かさ · コート = こーと · ハンカチ = はんかち · タオル = たおる"
+  },
+  {
+    "id": 1794348471840,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かばん」の いみは どれですか。",
+    "question_my": "「かばん」(鞄) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မှတ်စုစာအုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်စုစာအုပ် = 「ノート」။"
+      },
+      {
+        "id": 2,
+        "text": "ဘောပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘောပင် = 「ペン」။"
+      },
+      {
+        "id": 3,
+        "text": "ခဲဖျက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခဲဖျက် = 「けしゴム」။"
+      },
+      {
+        "id": 4,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かばん」(鞄) = အိတ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鞄 = かばん · ノート = のーと · ペン = ぺん · けしゴム = けしごむ"
+  },
+  {
+    "id": 1794348471841,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くつ」の いみは どれですか。",
+    "question_my": "「くつ」(靴) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခြေအိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခြေအိတ် = 「くつした」။"
+      },
+      {
+        "id": 2,
+        "text": "ဘောင်းဘီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘောင်းဘီ = 「ズボン」။"
+      },
+      {
+        "id": 3,
+        "text": "စကတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စကတ် = 「スカート」။"
+      },
+      {
+        "id": 4,
+        "text": "ဖိနပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くつ」(靴) = ဖိနပ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 靴 = くつ · 靴下 = くつした · ズボン = ずぼん · スカート = すかーと"
+  },
+  {
+    "id": 1794348471842,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぼうし」の いみは どれですか。",
+    "question_my": "「ぼうし」(帽子) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရှပ်အင်္ကျီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရှပ်အင်္ကျီ = 「シャツ」။"
+      },
+      {
+        "id": 2,
+        "text": "ဆွယ်တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆွယ်တာ = 「セーター」။"
+      },
+      {
+        "id": 3,
+        "text": "နက်ကတိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နက်ကတိုင် = 「ネクタイ」။"
+      },
+      {
+        "id": 4,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ぼうし」(帽子) = ဦးထုပ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 帽子 = ぼうし · シャツ = しゃつ · セーター = せーたー · ネクタイ = ねくたい"
+  },
+  {
+    "id": 1794348471843,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「めがね」の いみは どれですか。",
+    "question_my": "「めがね」(眼鏡) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှန် = 「かがみ」။"
+      },
+      {
+        "id": 2,
+        "text": "ဘီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘီး = 「くし」။"
+      },
+      {
+        "id": 3,
+        "text": "သွားတိုက်တံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားတိုက်တံ = 「ハブラシ」။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「めがね」(眼鏡) = မျက်မှန်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 眼鏡 = めがね · 鏡 = かがみ · 櫛 = くし · 歯ブラシ = はぶらし"
+  },
+  {
+    "id": 1794348471844,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「とけい」の いみは どれですか。",
+    "question_my": "「とけい」(時計) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြက္ခဒိန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြက္ခဒိန် = 「カレンダー」။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုစတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုစတာ = 「ポスター」။"
+      },
+      {
+        "id": 3,
+        "text": "ဘက်ထရီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘက်ထရီ = 「でんち」။"
+      },
+      {
+        "id": 4,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「とけい」(時計) = နာရီ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 時計 = とけい · カレンダー = かれんだー · ポスター = ぽすたー · 電池 = でんち"
+  },
+  {
+    "id": 1794348471845,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かぎ」の いみは どれですか。",
+    "question_my": "「かぎ」(鍵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖန်ခွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖန်ခွက် = 「コップ」။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်းကန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းကန် = 「おさら」။"
+      },
+      {
+        "id": 3,
+        "text": "ဇွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဇွန်း = 「スプーン」။"
+      },
+      {
+        "id": 4,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かぎ」(鍵) = သော့။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鍵 = かぎ · コップ = こっぷ · お皿 = おさら · スプーン = すぷーん"
+  },
+  {
+    "id": 1794348471846,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「さいふ」の いみは どれですか。",
+    "question_my": "「さいふ」(財布) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခက်ရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခက်ရင်း = 「フォーク」။"
+      },
+      {
+        "id": 2,
+        "text": "ဓား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဓား = 「ナイフ」။"
+      },
+      {
+        "id": 3,
+        "text": "တူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တူ = 「はし」။"
+      },
+      {
+        "id": 4,
+        "text": "ပိုက်ဆံအိတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「さいふ」(財布) = ပိုက်ဆံအိတ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 財布 = さいふ · フォーク = ふぉーく · ナイフ = ないふ · 箸 = はし"
+  },
+  {
+    "id": 1794348471847,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えんぴつ」の いみは どれですか。",
+    "question_my": "「えんぴつ」(鉛筆) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘောပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘောပင် = 「ボールペン」။"
+      },
+      {
+        "id": 2,
+        "text": "မာကာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မာကာ = 「マーカー」။"
+      },
+      {
+        "id": 3,
+        "text": "ဖယောင်းခဲတံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖယောင်းခဲတံ = 「クレヨン」။"
+      },
+      {
+        "id": 4,
+        "text": "ခဲတံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「えんぴつ」(鉛筆) = ခဲတံ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鉛筆 = えんぴつ · ボールペン = ぼーるぺん · マーカー = まーかー · クレヨン = くれよん"
+  },
+  {
+    "id": 1794348471848,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はさみ」の いみは どれですか。",
+    "question_my": "「はさみ」(鋏) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကော်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကော် = 「のり」။"
+      },
+      {
+        "id": 2,
+        "text": "စကော့တိပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စကော့တိပ် = 「セロテープ」။"
+      },
+      {
+        "id": 3,
+        "text": "စတာပလာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စတာပလာ = 「ホッチキス」။"
+      },
+      {
+        "id": 4,
+        "text": "ကတ်ကြေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はさみ」(鋏) = ကတ်ကြေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鋏 = はさみ · のり = のり · セロテープ = せろてーぷ · ホッチキス = ほっちきす"
+  }
+]
