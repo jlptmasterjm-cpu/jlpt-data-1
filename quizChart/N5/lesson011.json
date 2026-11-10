@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794351805240,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あか」の いみは どれですか。",
+    "question_my": "「あか」(赤) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အပြာရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပြာရောင် = 「あお」(青)။"
+      },
+      {
+        "id": 2,
+        "text": "အနီရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あか」(赤) = အနီရောင်။"
+      },
+      {
+        "id": 3,
+        "text": "အဝါရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝါရောင် = 「きいろ」(黄色)။"
+      },
+      {
+        "id": 4,
+        "text": "အစိမ်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစိမ်းရောင် = 「みどり」(緑)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 赤 = あか · 青 = あお · 黄色 = きいろ · 緑 = みどり"
+  },
+  {
+    "id": 1794351805241,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あお」の いみは どれですか。",
+    "question_my": "「あお」(青) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အနီရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနီရောင် = 「あか」(赤)။"
+      },
+      {
+        "id": 2,
+        "text": "အစိမ်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစိမ်းရောင် = 「みどり」(緑)။"
+      },
+      {
+        "id": 3,
+        "text": "အပြာရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あお」(青) = အပြာရောင်။"
+      },
+      {
+        "id": 4,
+        "text": "အဝါရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝါရောင် = 「きいろ」(黄色)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 青 = あお · 赤 = あか · 緑 = みどり · 黄色 = きいろ"
+  },
+  {
+    "id": 1794351805242,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きいろ」の いみは どれですか。",
+    "question_my": "「きいろ」(黄色) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဝါရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きいろ」(黄色) = အဝါရောင်။"
+      },
+      {
+        "id": 2,
+        "text": "အပြာရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပြာရောင် = 「あお」(青)။"
+      },
+      {
+        "id": 3,
+        "text": "အနီရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနီရောင် = 「あか」(赤)။"
+      },
+      {
+        "id": 4,
+        "text": "အစိမ်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစိမ်းရောင် = 「みどり」(緑)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 黄色 = きいろ · 青 = あお · 赤 = あか · 緑 = みどり"
+  },
+  {
+    "id": 1794351805243,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みどり」の いみは どれですか。",
+    "question_my": "「みどり」(緑) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အပြာရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပြာရောင် = 「あお」(青)။"
+      },
+      {
+        "id": 2,
+        "text": "အဝါရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝါရောင် = 「きいろ」(黄色)။"
+      },
+      {
+        "id": 3,
+        "text": "အနီရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနီရောင် = 「あか」(赤)။"
+      },
+      {
+        "id": 4,
+        "text": "အစိမ်းရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「みどり」(緑) = အစိမ်းရောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 緑 = みどり · 青 = あお · 黄色 = きいろ · 赤 = あか"
+  },
+  {
+    "id": 1794351805244,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くろ」の いみは どれですか。",
+    "question_my": "「くろ」(黒) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဖြူရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖြူရောင် = 「しろ」(白)။"
+      },
+      {
+        "id": 2,
+        "text": "အနက်ရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「くろ」(黒) = အနက်ရောင်။"
+      },
+      {
+        "id": 3,
+        "text": "မီးခိုးရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးခိုးရောင် = 「はいいろ」(灰色)။"
+      },
+      {
+        "id": 4,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 黒 = くろ · 白 = しろ · 灰色 = はいいろ · 茶色 = ちゃいろ"
+  },
+  {
+    "id": 1794351805245,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しろ」の いみは どれですか。",
+    "question_my": "「しろ」(白) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အနက်ရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနက်ရောင် = 「くろ」(黒)။"
+      },
+      {
+        "id": 2,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      },
+      {
+        "id": 3,
+        "text": "အဖြူရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「しろ」(白) = အဖြူရောင်။"
+      },
+      {
+        "id": 4,
+        "text": "မီးခိုးရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးခိုးရောင် = 「はいいろ」(灰色)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 白 = しろ · 黒 = くろ · 茶色 = ちゃいろ · 灰色 = はいいろ"
+  },
+  {
+    "id": 1794351805246,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「むらさき」の いみは どれですか。",
+    "question_my": "「むらさき」(紫) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပန်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းရောင် = 「ピンク」။"
+      },
+      {
+        "id": 2,
+        "text": "ခရမ်းရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「むらさき」(紫) = ခရမ်းရောင်။"
+      },
+      {
+        "id": 3,
+        "text": "လိမ္မော်ရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လိမ္မော်ရောင် = 「オレンジ」။"
+      },
+      {
+        "id": 4,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 紫 = むらさき · ピンク = ぴんく · オレンジ = おれんじ · 茶色 = ちゃいろ"
+  },
+  {
+    "id": 1794351805247,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ピンク」の いみは どれですか。",
+    "question_my": "「ピンク」(ピンク) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခရမ်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရမ်းရောင် = 「むらさき」(紫)။"
+      },
+      {
+        "id": 2,
+        "text": "လိမ္မော်ရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လိမ္မော်ရောင် = 「オレンジ」။"
+      },
+      {
+        "id": 3,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်းရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ピンク」 = ပန်းရောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ピンク = ぴんく · 紫 = むらさき · オレンジ = おれんじ · 茶色 = ちゃいろ"
+  },
+  {
+    "id": 1794351805248,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「オレンジ」の いみは どれですか。",
+    "question_my": "「オレンジ」(オレンジ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လိမ္မော်ရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「オレンジ」 = လိမ္မော်ရောင်။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်းရောင် = 「ピンク」။"
+      },
+      {
+        "id": 3,
+        "text": "ခရမ်းရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရမ်းရောင် = 「むらさき」(紫)။"
+      },
+      {
+        "id": 4,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: オレンジ = おれんじ · ピンク = ぴんく · 紫 = むらさき · 茶色 = ちゃいろ"
+  },
+  {
+    "id": 1794351805249,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちゃいろ」の いみは どれですか。",
+    "question_my": "「ちゃいろ」(茶色) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မီးခိုးရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးခိုးရောင် = 「はいいろ」(灰色)။"
+      },
+      {
+        "id": 2,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ちゃいろ」(茶色) = အညိုရောင်။"
+      },
+      {
+        "id": 3,
+        "text": "အနက်ရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနက်ရောင် = 「くろ」(黒)။"
+      },
+      {
+        "id": 4,
+        "text": "အဖြူရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖြူရောင် = 「しろ」(白)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 茶色 = ちゃいろ · 灰色 = はいいろ · 黒 = くろ · 白 = しろ"
+  },
+  {
+    "id": 1794351805251,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はいいろ」の いみは どれですか。",
+    "question_my": "「はいいろ」(灰色) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အညိုရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အညိုရောင် = 「ちゃいろ」(茶色)။"
+      },
+      {
+        "id": 2,
+        "text": "အနက်ရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနက်ရောင် = 「くろ」(黒)။"
+      },
+      {
+        "id": 3,
+        "text": "မီးခိုးရောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はいいろ」(灰色) = မီးခိုးရောင်။"
+      },
+      {
+        "id": 4,
+        "text": "အဖြူရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖြူရောင် = 「しろ」(白)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 灰色 = はいいろ · 茶色 = ちゃいろ · 黒 = くろ · 白 = しろ"
+  }
+]
