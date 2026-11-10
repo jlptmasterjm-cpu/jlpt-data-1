@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794348727343,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「やま」の いみは どれですか。",
+    "question_my": "「やま」(山) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြစ် = 「かわ」(川)။"
+      },
+      {
+        "id": 2,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်လယ် = 「うみ」(海)။"
+      },
+      {
+        "id": 3,
+        "text": "ကောင်းကင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကောင်းကင် = 「そら」(空)။"
+      },
+      {
+        "id": 4,
+        "text": "တောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「やま」(山) = တောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 山 = やま · 川 = かわ · 海 = うみ · 空 = そら"
+  },
+  {
+    "id": 1794348727344,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かわ」の いみは どれですか。",
+    "question_my": "「かわ」(川) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တောင် = 「やま」(山)။"
+      },
+      {
+        "id": 2,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်လယ် = 「うみ」(海)။"
+      },
+      {
+        "id": 3,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်ပင် = 「き」(木)။"
+      },
+      {
+        "id": 4,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かわ」(川) = မြစ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 川 = かわ · 山 = やま · 海 = うみ · 木 = き"
+  },
+  {
+    "id": 1794348727345,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「うみ」の いみは どれですか。",
+    "question_my": "「うみ」(海) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြစ် = 「かわ」(川)။"
+      },
+      {
+        "id": 2,
+        "text": "တောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တောင် = 「やま」(山)။"
+      },
+      {
+        "id": 3,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်း = 「はな」(花)။"
+      },
+      {
+        "id": 4,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うみ」(海) = ပင်လယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 海 = うみ · 川 = かわ · 山 = やま · 花 = はな"
+  },
+  {
+    "id": 1794348727346,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はな」の いみは どれですか。",
+    "question_my": "「はな」(花) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်ပင် = 「き」(木)။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုးကောင် = 「むし」(虫)။"
+      },
+      {
+        "id": 3,
+        "text": "ခွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွေး = 「いぬ」(犬)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「はな」(花) = ပန်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 花 = はな · 木 = き · 虫 = むし · 犬 = いぬ"
+  },
+  {
+    "id": 1794348727347,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「き」の いみは どれですか。",
+    "question_my": "「き」(木) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်း = 「はな」(花)။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုးကောင် = 「むし」(虫)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြောင် = 「ねこ」(猫)။"
+      },
+      {
+        "id": 4,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「き」(木) = သစ်ပင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 木 = き · 花 = はな · 虫 = むし · 猫 = ねこ"
+  },
+  {
+    "id": 1794348727348,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「むし」の いみは どれですか。",
+    "question_my": "「むし」(虫) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွေး = 「いぬ」(犬)။"
+      },
+      {
+        "id": 2,
+        "text": "ကြောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြောင် = 「ねこ」(猫)။"
+      },
+      {
+        "id": 3,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သီချင်း = 「うた」(歌)။"
+      },
+      {
+        "id": 4,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「むし」(虫) = ပိုးကောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 虫 = むし · 犬 = いぬ · 猫 = ねこ · 歌 = うた"
+  },
+  {
+    "id": 1794348727349,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いぬ」の いみは どれですか。",
+    "question_my": "「いぬ」(犬) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြောင် = 「ねこ」(猫)။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုးကောင် = 「むし」(虫)။"
+      },
+      {
+        "id": 3,
+        "text": "ပုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပုံ = 「え」(絵)။"
+      },
+      {
+        "id": 4,
+        "text": "ခွေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「いぬ」(犬) = ခွေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 犬 = いぬ · 猫 = ねこ · 虫 = むし · 絵 = え"
+  },
+  {
+    "id": 1794348727350,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ねこ」の いみは どれですか。",
+    "question_my": "「ねこ」(猫) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွေး = 「いぬ」(犬)။"
+      },
+      {
+        "id": 2,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုးကောင် = 「むし」(虫)။"
+      },
+      {
+        "id": 3,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သီချင်း = 「うた」(歌)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ねこ」(猫) = ကြောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 猫 = ねこ · 犬 = いぬ · 虫 = むし · 歌 = うた"
+  },
+  {
+    "id": 1794348727351,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「うた」の いみは どれですか。",
+    "question_my": "「うた」(歌) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပုံ = 「え」(絵)။"
+      },
+      {
+        "id": 2,
+        "text": "လျှပ်စစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လျှပ်စစ် = 「でんき」(電気)။"
+      },
+      {
+        "id": 3,
+        "text": "ခွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွေး = 「いぬ」(犬)။"
+      },
+      {
+        "id": 4,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「うた」(歌) = သီချင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 歌 = うた · 絵 = え · 電気 = でんき · 犬 = いぬ"
+  },
+  {
+    "id": 1794348727352,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「え」の いみは どれですか。",
+    "question_my": "「え」(絵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သီချင်း = 「うた」(歌)။"
+      },
+      {
+        "id": 2,
+        "text": "လျှပ်စစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လျှပ်စစ် = 「でんき」(電気)။"
+      },
+      {
+        "id": 3,
+        "text": "ကြောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြောင် = 「ねこ」(猫)။"
+      },
+      {
+        "id": 4,
+        "text": "ပုံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「え」(絵) = ပုံ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 絵 = え · 歌 = うた · 電気 = でんき · 猫 = ねこ"
+  },
+  {
+    "id": 1794348727353,
+    "category": "Quiz Chart vocabulary",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「でんき」の いみは どれですか。",
+    "question_my": "「でんき」(電気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပုံ = 「え」(絵)။"
+      },
+      {
+        "id": 2,
+        "text": "သီချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သီချင်း = 「うた」(歌)။"
+      },
+      {
+        "id": 3,
+        "text": "ပိုးကောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပိုးကောင် = 「むし」(虫)။"
+      },
+      {
+        "id": 4,
+        "text": "လျှပ်စစ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「でんき」(電気) = လျှပ်စစ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 電気 = でんき · 絵 = え · 歌 = うた · 虫 = むし"
+  }
+]
