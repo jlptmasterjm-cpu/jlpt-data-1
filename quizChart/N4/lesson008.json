@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794394354768,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おもいで」の いみは どれですか。",
+    "question_my": "「おもいで」(思い出) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်မက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်မက် = 「夢」(ゆめ)။"
+      },
+      {
+        "id": 2,
+        "text": "အမှတ်တရ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「思い出」= အမှတ်တရ။"
+      },
+      {
+        "id": 3,
+        "text": "မျှော်လင့်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျှော်လင့်ချက် = 「希望」(きぼう)။"
+      },
+      {
+        "id": 4,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစီအစဉ် = 「計画」(けいかく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 思い出 = おもいで (အမှတ်တရ) · 夢 = ゆめ (အိပ်မက်) · 希望 = きぼう (မျှော်လင့်ချက်)"
+  },
+  {
+    "id": 1794394354769,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「てんき」の いみは どれですか。",
+    "question_my": "「てんき」(天気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရာသီဥတု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရာသီဥတု = 「気候」(きこう)။"
+      },
+      {
+        "id": 2,
+        "text": "အပူချိန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပူချိန် = 「気温」(きおん)။"
+      },
+      {
+        "id": 3,
+        "text": "ရာသီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရာသီ = 「季節」(きせつ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဥတုအခြေအနေ/မိုးလေဝသ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「天気」= ဥတုအခြေအနေ/မိုးလေဝသ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 天気 = てんき (မိုးလေဝသ) · 気候 = きこう (ရာသီဥတု) · 季節 = きせつ (ရာသီ)"
+  },
+  {
+    "id": 1794394354770,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きせつ」の いみは どれですか。",
+    "question_my": "「きせつ」(季節) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရာသီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「季節」= ရာသီ။"
+      },
+      {
+        "id": 2,
+        "text": "မိုးလေဝသ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုးလေဝသ = 「天気」(てんき)။"
+      },
+      {
+        "id": 3,
+        "text": "ရာသီဥတု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရာသီဥတု = 「気候」(きこう)။"
+      },
+      {
+        "id": 4,
+        "text": "လ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လ = 「月」(つき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 季節 = きせつ (ရာသီ) · 天気 = てんき (မိုးလေဝသ) · 気候 = きこう (ရာသီဥတု)"
+  },
+  {
+    "id": 1794394354771,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はる」の いみは どれですか。",
+    "question_my": "「はる」(春) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နွေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေ = 「夏」(なつ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်း = 「冬」(ふゆ)။"
+      },
+      {
+        "id": 3,
+        "text": "နွေဦး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「春」= နွေဦး။"
+      },
+      {
+        "id": 4,
+        "text": "ဆောင်းဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်းဦး = 「秋」(あき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 春 = はる (နွေဦး) · 夏 = なつ (နွေ) · 秋 = あき (ဆောင်းဦး) · 冬 = ふゆ (ဆောင်း)"
+  },
+  {
+    "id": 1794394354772,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「なつ」の いみは どれですか။",
+    "question_my": "「なつ」(夏) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နွေဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေဦး = 「春」(はる)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆောင်းဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်းဦး = 「秋」(あき)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်း = 「冬」(ふゆ)။"
+      },
+      {
+        "id": 4,
+        "text": "နွေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「夏」= နွေ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 夏 = なつ (နွေ) · 春 = はる (နွေဦး) · 秋 = あき (ဆောင်းဦး) · 冬 = ふゆ (ဆောင်း)"
+  },
+  {
+    "id": 1794394354773,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あき」の いみは どれですか။",
+    "question_my": "「あき」(秋) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆောင်းဦး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「秋」= ဆောင်းဦး။"
+      },
+      {
+        "id": 2,
+        "text": "နွေဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေဦး = 「春」(はる)။"
+      },
+      {
+        "id": 3,
+        "text": "နွေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေ = 「夏」(なつ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်း = 「冬」(ふゆ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 秋 = あき (ဆောင်းဦး) · 春 = はる (နွေဦး) · 夏 = なつ (နွေ) · 冬 = ふゆ (ဆောင်း)"
+  },
+  {
+    "id": 1794394354774,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ふゆ」の いみは どれですか။",
+    "question_my": "「ふゆ」(冬) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နွေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေ = 「夏」(なつ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆောင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「冬」= ဆောင်း။"
+      },
+      {
+        "id": 3,
+        "text": "နွေဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နွေဦး = 「春」(はる)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆောင်းဦး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆောင်းဦး = 「秋」(あき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 冬 = ふゆ (ဆောင်း) · 夏 = なつ (နွေ) · 春 = はる (နွေဦး) · 秋 = あき (ဆောင်းဦး)"
+  },
+  {
+    "id": 1794394354775,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「あめ」の いみは どれですか။",
+    "question_my": "「あめ」(雨) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နှင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှင်း = 「雪」(ゆき)။"
+      },
+      {
+        "id": 2,
+        "text": "လေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ = 「風」(かぜ)။"
+      },
+      {
+        "id": 3,
+        "text": "မိုး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「雨」= မိုး။"
+      },
+      {
+        "id": 4,
+        "text": "တိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တိမ် = 「雲」(くも)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 雨 = あめ (မိုး) · 雪 = ゆき (နှင်း) · 風 = かぜ (လေ) · 雲 = くも (တိမ်)"
+  },
+  {
+    "id": 1794394354776,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ゆき」の いみは どれですか။",
+    "question_my": "「ゆき」(雪) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုး = 「雨」(あめ)။"
+      },
+      {
+        "id": 2,
+        "text": "နှင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「雪」= နှင်း။"
+      },
+      {
+        "id": 3,
+        "text": "လေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ = 「風」(かぜ)။"
+      },
+      {
+        "id": 4,
+        "text": "မြူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြူ = 「霧」(きり)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 雪 = ゆき (နှင်း) · 雨 = あめ (မိုး) · 霧 = きり (မြူ)"
+  },
+  {
+    "id": 1794394354777,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「かぜ」の いみは どれですか။",
+    "question_my": "「かぜ」(風) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုး = 「雨」(あめ)။"
+      },
+      {
+        "id": 2,
+        "text": "နှင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှင်း = 「雪」(ゆき)။"
+      },
+      {
+        "id": 3,
+        "text": "လေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「風」= လေ။"
+      },
+      {
+        "id": 4,
+        "text": "နေရောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေရောင် = 「日差し」(ひざし)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 風 = かぜ (လေ) · 雨 = あめ (မိုး) · 雪 = ゆき (နှင်း)"
+  },
+  {
+    "id": 1794394354778,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「はれ」の いみは どれですか။",
+    "question_my": "「はれ」(晴れ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိုးရွာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုးရွာခြင်း = 「雨」(あめ)။"
+      },
+      {
+        "id": 2,
+        "text": "တိမ်ထူခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တိမ်ထူခြင်း = 「曇り」(くもり)။"
+      },
+      {
+        "id": 3,
+        "text": "နှင်းကျခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှင်းကျခြင်း = 「雪」(ゆき)။"
+      },
+      {
+        "id": 4,
+        "text": "ရာသီသန့်ခြင်း/နေသာခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「晴れ」= ရာသီသန့်ခြင်း/နေသာခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 晴れ = はれ (နေသာ) · 曇り = くもり (တိမ်ထူ) · 雨 = あめ (မိုး)"
+  }
+]
