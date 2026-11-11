@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794394534737,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かぞく」の いみは どれですか。",
+    "question_my": "「かぞく」(家族) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆွေမျိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆွေမျိုး = 「親戚」(しんせき)။"
+      },
+      {
+        "id": 2,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「家族」= မိသားစု။"
+      },
+      {
+        "id": 3,
+        "text": "သူငယ်ချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သူငယ်ချင်း = 「友達」(ともだち)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်နီးချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်နီးချင်း = 「隣の人」(となりのひと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 家族 = かぞく (မိသားစု) · 親戚 = しんせき (ဆွေမျိုး) · 友達 = ともだち (သူငယ်ချင်း)"
+  },
+  {
+    "id": 1794394534738,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きょうだい」の いみは どれですか။",
+    "question_my": "「きょうだい」(兄弟) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိဘ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိဘ = 「両親」(りょうしん)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီအစ်ကို/မောင်နှမ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「兄弟」= ညီအစ်ကို/မောင်နှမ။"
+      },
+      {
+        "id": 3,
+        "text": "အဘိုးအဘွား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဘိုးအဘွား = 「祖父母」(そふぼ)။"
+      },
+      {
+        "id": 4,
+        "text": "ကလေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကလေး = 「子供」(こども)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 兄弟 = きょうだい (မောင်နှမ) · 両親 = りょうしん (မိဘ) · 祖父母 = そふぼ (အဘိုးအဘွား)"
+  },
+  {
+    "id": 1794394534739,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「あね」の いみは どれですか။",
+    "question_my": "「あね」(姉) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ညီမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ = 「妹」(いもうと)။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「兄」(あに)။"
+      },
+      {
+        "id": 3,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「姉」= အစ်မ။"
+      },
+      {
+        "id": 4,
+        "text": "ညီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ = 「弟」(おとうと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 姉 = あね (အစ်မ) · 兄 = あに (အစ်ကို) · 妹 = いもうと (ညီမ) · 弟 = おとうと (ညီ)"
+  },
+  {
+    "id": 1794394534740,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「あに」の いみは どれですか။",
+    "question_my": "「あに」(兄) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「姉」(あね)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ = 「弟」(おとうと)။"
+      },
+      {
+        "id": 3,
+        "text": "ညီမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ = 「妹」(いもうと)။"
+      },
+      {
+        "id": 4,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「兄」= အစ်ကို။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 兄 = あに (အစ်ကို) · 姉 = あね (အစ်မ) · 弟 = おとうと (ညီ) · 妹 = いもうと (ညီမ)"
+  },
+  {
+    "id": 1794394534742,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「いもうと」の いみは どれですか။",
+    "question_my": "「いもうと」(妹) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「姉」(あね)။"
+      },
+      {
+        "id": 2,
+        "text": "ညီမ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「妹」= ညီမ။"
+      },
+      {
+        "id": 3,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「兄」(あに)။"
+      },
+      {
+        "id": 4,
+        "text": "ညီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီ = 「弟」(おとうと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 妹 = いもうと (ညီမ) · 姉 = あね (အစ်မ) · 兄 = あに (အစ်ကို)"
+  },
+  {
+    "id": 1794394534743,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「おとうと」の いみは どれですか။",
+    "question_my": "「おとうと」(弟) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစ်ကို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်ကို = 「兄」(あに)။"
+      },
+      {
+        "id": 2,
+        "text": "အစ်မ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစ်မ = 「姉」(あね)။"
+      },
+      {
+        "id": 3,
+        "text": "ညီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「弟」= ညီ။"
+      },
+      {
+        "id": 4,
+        "text": "ညီမ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညီမ = 「妹」(いもうと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 弟 = おとうと (ညီ) · 兄 = あに (အစ်ကို) · 妹 = いもうと (ညီမ)"
+  },
+  {
+    "id": 1794394534744,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「しんせき」の いみは どれですか။",
+    "question_my": "「しんせき」(親戚) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု = 「家族」(かぞく)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆွေမျိုး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「親戚」= ဆွေမျိုး။"
+      },
+      {
+        "id": 3,
+        "text": "သူငယ်ချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သူငယ်ချင်း = 「友達」(ともだち)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်နီးချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်နီးချင်း = 「隣の人」(となりのひと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 親戚 = しんせき (ဆွေမျိုး) · 家族 = かぞく (မိသားစု) · 友達 = ともだち (သူငယ်ချင်း)"
+  },
+  {
+    "id": 1794394534745,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「となり」の いみは どれですか။",
+    "question_my": "「となり」(隣) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အနီးအနား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနီးအနား = 「近所」(きんじょ)။"
+      },
+      {
+        "id": 2,
+        "text": "ရှေ့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရှေ့ = 「前」(まえ)။"
+      },
+      {
+        "id": 3,
+        "text": "ဘေး/ဘေးအိမ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「隣」= ဘေး/ဘေးအိမ်။"
+      },
+      {
+        "id": 4,
+        "text": "နောက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နောက် = 「後ろ」(うしろ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 隣 = となり (ဘေး) · 近所 = きんじょ (အနီးအနား) · 前 = まえ (ရှေ့)"
+  },
+  {
+    "id": 1794394534746,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「きんじょ」の いみは どれですか။",
+    "question_my": "「きんじょ」(近所) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘေးအိမ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘေးအိမ် = 「隣」(となり)။"
+      },
+      {
+        "id": 2,
+        "text": "အနီးအနား/ရပ်ကွက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「近所」= အနီးအနား/ရပ်ကွက်။"
+      },
+      {
+        "id": 3,
+        "text": "မြို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြို့ = 「町」(まち)။"
+      },
+      {
+        "id": 4,
+        "text": "ရွာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရွာ = 「村」(むら)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 近所 = きんじょ (အနီးအနား) · 隣 = となり (ဘေး) · 町 = まち (မြို့)"
+  },
+  {
+    "id": 1794394534747,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「なかま」の いみは どれですか။",
+    "question_my": "「なかま」(仲間) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အပေါင်းအသင်း/အဖွဲ့",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「仲間」= အပေါင်းအသင်း/အဖွဲ့။"
+      },
+      {
+        "id": 2,
+        "text": "ဆွေမျိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆွေမျိုး = 「親戚」(しんせき)။"
+      },
+      {
+        "id": 3,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု = 「家族」(かぞく)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်နီးချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်နီးချင်း = 「隣の人」(となりのひと)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 仲間 = なかま (အပေါင်းအသင်း) · 親戚 = しんせき (ဆွေမျိုး) · 家族 = かぞく (မိသားစု)"
+  },
+  {
+    "id": 1794394534748,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ともだち」の いみは どれですか။",
+    "question_my": "「ともだち」(友達) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အပေါင်းအသင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပေါင်းအသင်း = 「仲間」(なかま)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆွေမျိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆွေမျိုး = 「親戚」(しんせき)။"
+      },
+      {
+        "id": 3,
+        "text": "သူငယ်ချင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「友達」= သူငယ်ချင်း။"
+      },
+      {
+        "id": 4,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု = 「家族」(かぞく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 友達 = ともだち (သူငယ်ချင်း) · 仲間 = なかま (အပေါင်းအသင်း) · 家族 = かぞく (မိသားစု)"
+  }
+]
