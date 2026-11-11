@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794434768147,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「だいどころ」の いみは どれですか。",
+    "question_my": "「だいどころ」(台所) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ခန်း = 「寝室」(しんしつ)။"
+      },
+      {
+        "id": 2,
+        "text": "မီးဖိုချောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「台所」= မီးဖိုချောင်။"
+      },
+      {
+        "id": 3,
+        "text": "ဧည့်ခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဧည့်ခန်း = 「居間」(いま)။"
+      },
+      {
+        "id": 4,
+        "text": "ရေချိုးခန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေချိုးခန်း = 「風呂場」(ふろば)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 台所 = だいどころ (မီးဖိုချောင်) · 寝室 = しんしつ (အိပ်ခန်း) · 居間 = いま (ဧည့်ခန်း)"
+  },
+  {
+    "id": 1794434768148,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「れいぞうこ」の いみは どれですか။",
+    "question_my": "「れいぞうこ」(冷蔵庫) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဝတ်လျှော်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်လျှော်စက် = 「洗濯機」(せんたくき)။"
+      },
+      {
+        "id": 2,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「冷蔵庫」= ရေခဲသေတ္တာ။"
+      },
+      {
+        "id": 3,
+        "text": "ဖုန်စုပ်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖုန်စုပ်စက် = 「掃除機」(そうじき)။"
+      },
+      {
+        "id": 4,
+        "text": "အဲယားကွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဲယားကွန်း = 「エアコン」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 冷蔵庫 = れいぞうこ (ရေခဲသေတ္တာ) · 洗濯機 = せんたくき (အဝတ်လျှော်စက်) · 掃除機 = そうじき (ဖုန်စုပ်စက်)"
+  },
+  {
+    "id": 1794434768149,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「せんたくき」の いみは どれですか။",
+    "question_my": "「せんたくき」(洗濯機) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေခဲသေတ္တာ = 「冷蔵庫」(れいぞうこ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖုန်စုပ်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖုန်စုပ်စက် = 「掃除機」(そうじき)။"
+      },
+      {
+        "id": 3,
+        "text": "အဝတ်လျှော်စက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「洗濯機」= အဝတ်လျှော်စက်။"
+      },
+      {
+        "id": 4,
+        "text": "မီးဖို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးဖို = 「コンロ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 洗濯機 = せんたくき (အဝတ်လျှော်စက်) · 冷蔵庫 = れいぞうこ (ရေခဲသေတ္တာ) · 掃除機 = そうじき (ဖုန်စုပ်စက်)"
+  },
+  {
+    "id": 1794434768150,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「そうじき」の いみは どれですか။",
+    "question_my": "「そうじき」(掃除機) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖုန်စုပ်စက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「掃除機」= ဖုန်စုပ်စက်။"
+      },
+      {
+        "id": 2,
+        "text": "အဝတ်လျှော်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်လျှော်စက် = 「洗濯機」(せんたくき)။"
+      },
+      {
+        "id": 3,
+        "text": "အဲယားကွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဲယားကွန်း = 「エアコン」။"
+      },
+      {
+        "id": 4,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေခဲသေတ္တာ = 「冷蔵庫」(れいぞうこ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 掃除機 = そうじき (ဖုန်စုပ်စက်) · 洗濯機 = せんたくき (အဝတ်လျှော်စက်) · 冷蔵庫 = れいぞうこ (ရေခဲသေတ္တာ)"
+  },
+  {
+    "id": 1794434768151,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「エアコン」の いみは どれですか။",
+    "question_my": "「エアコン」ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေခဲသေတ္တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေခဲသေတ္တာ = 「冷蔵庫」(れいぞうこ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖုန်စုပ်စက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖုန်စုပ်စက် = 「掃除機」(そうじき)။"
+      },
+      {
+        "id": 3,
+        "text": "အဲယားကွန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「エアコン」= အဲယားကွန်း။"
+      },
+      {
+        "id": 4,
+        "text": "မီးဖို",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီးဖို = 「コンロ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: エアコン = エアコン (အဲယားကွန်း) · 冷蔵庫 = れいぞうこ (ရေခဲသေတ္တာ) · コンロ = コンロ (မီးဖို)"
+  },
+  {
+    "id": 1794434768152,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「まど」の いみは どれですか။",
+    "question_my": "「まど」(窓) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တံခါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တံခါး = 「ドア」။"
+      },
+      {
+        "id": 2,
+        "text": "ပြတင်းပေါက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「窓」= ပြတင်းပေါက်။"
+      },
+      {
+        "id": 3,
+        "text": "နံရံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နံရံ = 「壁」(かべ)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြမ်းပြင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြမ်းပြင် = 「床」(ゆか)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 窓 = まど (ပြတင်းပေါက်) · ドア = ドア (တံခါး) · 壁 = かべ (နံရံ)"
+  },
+  {
+    "id": 1794434768153,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ドア」の いみは どれですか။",
+    "question_my": "「ドア」ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြတင်းပေါက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြတင်းပေါက် = 「窓」(まど)။"
+      },
+      {
+        "id": 2,
+        "text": "နံရံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နံရံ = 「壁」(かべ)။"
+      },
+      {
+        "id": 3,
+        "text": "တံခါး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ドア」= တံခါး။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်နှာကျက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်နှာကျက် = 「天井」(てんじょう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ドア = ドア (တံခါး) · 窓 = まど (ပြတင်းပေါက်) · 天井 = てんじょう (မျက်နှာကျက်)"
+  },
+  {
+    "id": 1794434768154,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「つくえ」の いみは どれですか။",
+    "question_my": "「つくえ」(机) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「椅子」(いす)။"
+      },
+      {
+        "id": 2,
+        "text": "စားပွဲ/စာရေးစားပွဲ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「机」= စားပွဲ/စာရေးစားပွဲ။"
+      },
+      {
+        "id": 3,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ရာ = 「ベッド」။"
+      },
+      {
+        "id": 4,
+        "text": "စာအုပ်စင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်စင် = 「本棚」(ほんだな)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 机 = つくえ (စားပွဲ) · 椅子 = いす (ကုလားထိုင်) · 本棚 = ほんだな (စာအုပ်စင်)"
+  },
+  {
+    "id": 1794434768155,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「いす」の いみは どれですか။",
+    "question_my": "「いす」(椅子) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「机」(つくえ)။"
+      },
+      {
+        "id": 2,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ရာ = 「ベッド」။"
+      },
+      {
+        "id": 3,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「椅子」= ကုလားထိုင်။"
+      },
+      {
+        "id": 4,
+        "text": "စာအုပ်စင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်စင် = 「本棚」(ほんだな)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 椅子 = いす (ကုလားထိုင်) · 机 = つくえ (စားပွဲ) · ベッド = ベッド (အိပ်ရာ)"
+  },
+  {
+    "id": 1794434768156,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ベッド」の いみは どれですか။",
+    "question_my": "「ベッド」ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ベッド」= အိပ်ရာ။"
+      },
+      {
+        "id": 2,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「机」(つくえ)။"
+      },
+      {
+        "id": 3,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「椅子」(いす)။"
+      },
+      {
+        "id": 4,
+        "text": "စာအုပ်စင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်စင် = 「本棚」(ほんだな)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: ベッド = ベッド (အိပ်ရာ) · 机 = つくえ (စားပွဲ) · 椅子 = いす (ကုလားထိုင်)"
+  },
+  {
+    "id": 1794434768157,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ほんだな」の いみは どれですか။",
+    "question_my": "「ほんだな」(本棚) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စာအုပ်စင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「本棚」= စာအုပ်စင်။"
+      },
+      {
+        "id": 2,
+        "text": "စားပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားပွဲ = 「机」(つくえ)။"
+      },
+      {
+        "id": 3,
+        "text": "ကုလားထိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုလားထိုင် = 「椅子」(いす)။"
+      },
+      {
+        "id": 4,
+        "text": "အိပ်ရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်ရာ = 「ベッド」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 本棚 = ほんだな (စာအုပ်စင်) · 机 = つくえ (စားပွဲ) · 椅子 = いす (ကုလားထိုင်)"
+  }
+]
