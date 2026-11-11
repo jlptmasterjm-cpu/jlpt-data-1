@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794434525936,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「あさごはん」の いみは どれですか。",
+    "question_my": "「あさごはん」(朝ご飯) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ်စာ = 「昼ご飯」(ひるごはん)။"
+      },
+      {
+        "id": 2,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညစာ = 「晩ご飯」(ばんごはん)။"
+      },
+      {
+        "id": 3,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「朝ご飯」= မနက်စာ။"
+      },
+      {
+        "id": 4,
+        "text": "သရေစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သရေစာ = 「おやつ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 朝ご飯 = あさごはん (မနက်စာ) · 昼ご飯 = ひるごはん (နေ့လယ်စာ) · 晩ご飯 = ばんごはん (ညစာ)"
+  },
+  {
+    "id": 1794434525937,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひるごはん」の いみは どれですか。",
+    "question_my": "「ひるごはん」(昼ご飯) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မနက်စာ = 「朝ご飯」(あさごはん)။"
+      },
+      {
+        "id": 2,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ညစာ = 「晩ご飯」(ばんごはん)။"
+      },
+      {
+        "id": 3,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「昼ご飯」= နေ့လယ်စာ။"
+      },
+      {
+        "id": 4,
+        "text": "သရေစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သရေစာ = 「おやつ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 昼ご飯 = ひるごはん (နေ့လယ်စာ) · 朝ご飯 = あさごはん (မနက်စာ) · 晩ご飯 = ばんごはん (ညစာ)"
+  },
+  {
+    "id": 1794434525938,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ばんごはん」の いみは どれですか。",
+    "question_my": "「ばんごはん」(晩ご飯) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မနက်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မနက်စာ = 「朝ご飯」(あさごはん)။"
+      },
+      {
+        "id": 2,
+        "text": "နေ့လယ်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ်စာ = 「昼ご飯」(ひるごはん)။"
+      },
+      {
+        "id": 3,
+        "text": "သရေစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သရေစာ = 「おやつ」။"
+      },
+      {
+        "id": 4,
+        "text": "ညစာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「晩ご飯」= ညစာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 晩ご飯 = ばんごはん (ညစာ) · 朝ご飯 = あさごはん (မနက်စာ) · 昼ご飯 = ひるごはん (နေ့လယ်စာ)"
+  },
+  {
+    "id": 1794434525939,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たべもの」の いみは どれですか。",
+    "question_my": "「たべもの」(食べ物) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သောက်စရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သောက်စရာ = 「飲み物」(のみもの)။"
+      },
+      {
+        "id": 2,
+        "text": "အစားအစာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「食べ物」= အစားအစာ။"
+      },
+      {
+        "id": 3,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်းသီးဟင်းရွက် = 「野菜」(やさい)။"
+      },
+      {
+        "id": 4,
+        "text": "အသီးအနှံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသီးအနှံ = 「果物」(くだもの)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 食べ物 = たべもの (အစားအစာ) · 飲み物 = のみもの (သောက်စရာ) · 野菜 = やさい (ဟင်းသီးဟင်းရွက်)"
+  },
+  {
+    "id": 1794434525940,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「のみもの」の いみは どれですか。",
+    "question_my": "「のみもの」(飲み物) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစားအစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစားအစာ = 「食べ物」(たべもの)။"
+      },
+      {
+        "id": 2,
+        "text": "သောက်စရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「飲み物」= သောက်စရာ။"
+      },
+      {
+        "id": 3,
+        "text": "သရေစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သရေစာ = 「おやつ」။"
+      },
+      {
+        "id": 4,
+        "text": "ဟင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်း = 「料理」(りょうり)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 飲み物 = のみもの (သောက်စရာ) · 食べ物 = たべもの (အစားအစာ) · 料理 = りょうり (ဟင်း/ချက်ပြုတ်)"
+  },
+  {
+    "id": 1794434525941,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「やさい」の いみは どれですか。",
+    "question_my": "「やさい」(野菜) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အသီးအနှံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသီးအနှံ = 「果物」(くだもの)။"
+      },
+      {
+        "id": 2,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「肉」(にく)။"
+      },
+      {
+        "id": 3,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငါး = 「魚」(さかな)။"
+      },
+      {
+        "id": 4,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「野菜」= ဟင်းသီးဟင်းရွက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 野菜 = やさい (ဟင်းသီးဟင်းရွက်) · 果物 = くだもの (အသီးအနှံ) · 肉 = にく (အသား)"
+  },
+  {
+    "id": 1794434525942,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くだもの」の いみは どれですか。",
+    "question_my": "「くだもの」(果物) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်းသီးဟင်းရွက် = 「野菜」(やさい)။"
+      },
+      {
+        "id": 2,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「肉」(にく)။"
+      },
+      {
+        "id": 3,
+        "text": "အသီးအနှံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「果物」= အသီးအနှံ။"
+      },
+      {
+        "id": 4,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငါး = 「魚」(さかな)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 果物 = くだもの (အသီးအနှံ) · 野菜 = やさい (ဟင်းသီးဟင်းရွက်) · 魚 = さかな (ငါး)"
+  },
+  {
+    "id": 1794434525943,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「にく」の いみは どれですか。",
+    "question_my": "「にく」(肉) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငါး = 「魚」(さかな)။"
+      },
+      {
+        "id": 2,
+        "text": "ဥ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဥ = 「卵」(たまご)။"
+      },
+      {
+        "id": 3,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「肉」= အသား။"
+      },
+      {
+        "id": 4,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「牛乳」(ぎゅうにゅう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 肉 = にく (အသား) · 魚 = さかな (ငါး) · 卵 = たまご (ဥ) · 牛乳 = ぎゅうにゅう (နို့)"
+  },
+  {
+    "id": 1794434525944,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「さかな」の いみは どれですか。",
+    "question_my": "「さかな」(魚) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「肉」(にく)။"
+      },
+      {
+        "id": 2,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「魚」= ငါး။"
+      },
+      {
+        "id": 3,
+        "text": "ဥ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဥ = 「卵」(たまご)။"
+      },
+      {
+        "id": 4,
+        "text": "ဟင်းသီးဟင်းရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဟင်းသီးဟင်းရွက် = 「野菜」(やさい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 魚 = さかな (ငါး) · 肉 = にく (အသား) · 卵 = たまご (ဥ)"
+  },
+  {
+    "id": 1794434525945,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たまご」の いみは どれですか。",
+    "question_my": "「たまご」(卵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နို့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နို့ = 「牛乳」(ぎゅうにゅう)။"
+      },
+      {
+        "id": 2,
+        "text": "အသား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသား = 「肉」(にく)။"
+      },
+      {
+        "id": 3,
+        "text": "ငါး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငါး = 「魚」(さかな)။"
+      },
+      {
+        "id": 4,
+        "text": "ဥ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「卵」= ဥ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 卵 = たまご (ဥ) · 牛乳 = ぎゅうにゅう (နို့) · 肉 = にく (အသား)"
+  },
+  {
+    "id": 1794434525947,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「りょうり」の いみは どれですか。",
+    "question_my": "「りょうり」(料理) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စားသောက်ဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စားသောက်ဆိုင် = 「レストラン」။"
+      },
+      {
+        "id": 2,
+        "text": "ဟင်းပွဲ/ချက်ပြုတ်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「料理」= ဟင်းပွဲ/ချက်ပြုတ်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "မီနူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီနူး = 「メニュー」။"
+      },
+      {
+        "id": 4,
+        "text": "ငွေရှင်းကောင်တာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငွေရှင်းကောင်တာ = 「レジ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 料理 = りょうり (ဟင်းပွဲ/ချက်ပြုတ်) · メニュー = メニュー (မီနူး) · レストラン = レストラン (စားသောက်ဆိုင်)"
+  }
+]
