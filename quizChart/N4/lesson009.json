@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794394412547,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「びょうき」の いみは どれですか。",
+    "question_my": "「びょうき」(病気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဒဏ်ရာရခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဒဏ်ရာရခြင်း = 「怪我」(けが)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျားနာခြင်း/ရောဂါ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「病気」= ဖျားနာခြင်း/ရောဂါ။"
+      },
+      {
+        "id": 3,
+        "text": "ပင်ပန်းခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်ပန်းခြင်း = 「疲れ」(つかれ)။"
+      },
+      {
+        "id": 4,
+        "text": "အနားယူခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနားယူခြင်း = 「休み」(やすみ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 病気 = びょうき (ဖျားနာ/ရောဂါ) · 怪我 = けが (ဒဏ်ရာ) · 疲れ = つかれ (ပင်ပန်း)"
+  },
+  {
+    "id": 1794394412548,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けが」の いみは どれですか。",
+    "question_my": "「けが」(怪我) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖျားနာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျားနာခြင်း = 「病気」(びょうき)။"
+      },
+      {
+        "id": 2,
+        "text": "အဖျားတက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖျားတက်ခြင်း = 「熱」(ねつ)။"
+      },
+      {
+        "id": 3,
+        "text": "ဒဏ်ရာရခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「怪我」= ဒဏ်ရာရခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ခေါင်းကိုက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်းကိုက်ခြင်း = 「頭痛」(ずつう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 怪我 = けが (ဒဏ်ရာ) · 病気 = びょうき (ဖျားနာ) · 頭痛 = ずつう (ခေါင်းကိုက်)"
+  },
+  {
+    "id": 1794394412549,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くすり」の いみは どれですか။",
+    "question_my": "「くすり」(薬) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ထိုးဆေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထိုးဆေး = 「注射」(ちゅうしゃ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးရုံ = 「病院」(びょういん)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆရာဝန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆရာဝန် = 「医者」(いしゃ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「薬」= ဆေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 薬 = くすり (ဆေး) · 注射 = ちゅうしゃ (ထိုးဆေး) · 病院 = びょういん (ဆေးရုံ)"
+  },
+  {
+    "id": 1794394412550,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「びょういん」の いみは どれですか။",
+    "question_my": "「びょういん」(病院) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆေးဆိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးဆိုင် = 「薬局」(やっきょく)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「病院」= ဆေးရုံ။"
+      },
+      {
+        "id": 3,
+        "text": "ဆရာဝန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆရာဝန် = 「医者」(いしゃ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေး = 「薬」(くすり)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 病院 = びょういん (ဆေးရုံ) · 薬局 = やっきょく (ဆေးဆိုင်) · 医者 = いしゃ (ဆရာဝန်)"
+  },
+  {
+    "id": 1794394412551,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「いしゃ」の いみは どれですか။",
+    "question_my": "「いしゃ」(医者) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သူနာပြု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သူနာပြု = 「看護師」(かんごし)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးရုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးရုံ = 「病院」(びょういん)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆရာဝန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「医者」= ဆရာဝန်။"
+      },
+      {
+        "id": 4,
+        "text": "ဆေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေး = 「薬」(くすり)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 医者 = いしゃ (ဆရာဝန်) · 看護師 = かんごし (သူနာပြု) · 病院 = びょういん (ဆေးရုံ)"
+  },
+  {
+    "id": 1794394412552,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ねつ」の いみは どれですか။",
+    "question_my": "「ねつ」(熱) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခေါင်းကိုက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်းကိုက်ခြင်း = 「頭痛」(ずつう)။"
+      },
+      {
+        "id": 2,
+        "text": "ချောင်းဆိုးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ချောင်းဆိုးခြင်း = 「咳」(せき)။"
+      },
+      {
+        "id": 3,
+        "text": "အဖျား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「熱」= အဖျား။"
+      },
+      {
+        "id": 4,
+        "text": "နှာစေးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နှာစေးခြင်း = 「鼻水」(はなみず)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 熱 = ねつ (အဖျား) · 頭痛 = ずつう (ခေါင်းကိုက်) · 咳 = せき (ချောင်းဆိုး)"
+  },
+  {
+    "id": 1794394412553,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ずつう」の いみは どれですか။",
+    "question_my": "「ずつう」(頭痛) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဖျား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖျား = 「熱」(ねつ)။"
+      },
+      {
+        "id": 2,
+        "text": "ခေါင်းကိုက်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「頭痛」= ခေါင်းကိုက်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ဗိုက်နာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဗိုက်နာခြင်း = 「腹痛」(ふくつう)။"
+      },
+      {
+        "id": 4,
+        "text": "သွားကိုက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွားကိုက်ခြင်း = 「歯痛」(しつう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 頭痛 = ずつう (ခေါင်းကိုက်) · 腹痛 = ふくつう (ဗိုက်နာ) · 歯痛 = しつう (သွားကိုက်)"
+  },
+  {
+    "id": 1794394412554,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「おなか」の いみは どれですか။",
+    "question_my": "「おなか」(お腹) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခေါင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခေါင်း = 「頭」(あたま)။"
+      },
+      {
+        "id": 2,
+        "text": "သွား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သွား = 「歯」(は)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက် = 「手」(て)။"
+      },
+      {
+        "id": 4,
+        "text": "ဗိုက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「お腹」= ဗိုက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: お腹 = おなか (ဗိုက်) · 頭 = あたま (ခေါင်း) · 歯 = は (သွား)"
+  },
+  {
+    "id": 1794394412555,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「げんき」の いみは どれですか။",
+    "question_my": "「げんき」(元気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပင်ပန်းခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်ပန်းခြင်း = 「疲れ」(つかれ)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖျားနာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖျားနာခြင်း = 「病気」(びょうき)။"
+      },
+      {
+        "id": 3,
+        "text": "ကျန်းမာခြင်း/တက်ကြွခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「元気」= ကျန်းမာခြင်း/တက်ကြွခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "အားနည်းခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အားနည်းခြင်း = 「弱い」(よわい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 元気 = げんき (ကျန်းမာ/တက်ကြွ) · 病気 = びょうき (ဖျားနာ) · 疲れ = つかれ (ပင်ပန်း)"
+  },
+  {
+    "id": 1794394412556,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ぐあい」の いみは どれですか။",
+    "question_my": "「ぐあい」(具合) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျန်းမာရေးအခြေအနေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「具合」= ကျန်းမာရေးအခြေအနေ။"
+      },
+      {
+        "id": 2,
+        "text": "အပူချိန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အပူချိန် = 「温度」(おんど)။"
+      },
+      {
+        "id": 3,
+        "text": "မိုးလေဝသ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိုးလေဝသ = 「天気」(てんき)။"
+      },
+      {
+        "id": 4,
+        "text": "အချိန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အချိန် = 「時間」(じかん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 具合 = ぐあい (ကျန်းမာရေးအခြေအနေ) · 天気 = てんき (မိုးလေဝသ) · 時間 = じかん (အချိန်)"
+  },
+  {
+    "id": 1794394412557,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「にゅういん」の いみは どれですか။",
+    "question_my": "「にゅういん」(入院) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆေးရုံဆင်းခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးရုံဆင်းခြင်း = 「退院」(たいいん)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးခန်းပြခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးခန်းပြခြင်း = 「診察」(しんさつ)။"
+      },
+      {
+        "id": 3,
+        "text": "ခွဲစိတ်ကုသခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွဲစိတ်ကုသခြင်း = 「手術」(しゅじゅつ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆေးရုံတက်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「入院」= ဆေးရုံတက်ခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 入院 = にゅういん (ဆေးရုံတက်) · 退院 = たいいん (ဆေးရုံဆင်း) · 手術 = しゅじゅつ (ခွဲစိတ်)"
+  }
+]
