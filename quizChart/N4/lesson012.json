@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794434598339,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ふく」の いみは どれですか。",
+    "question_my": "「ふく」(服) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဖိနပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖိနပ် = 「靴」(くつ)။"
+      },
+      {
+        "id": 2,
+        "text": "အဝတ်အစား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「服」= အဝတ်အစား။"
+      },
+      {
+        "id": 3,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဦးထုပ် = 「帽子」(ぼうし)။"
+      },
+      {
+        "id": 4,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 服 = ふく (အဝတ်အစား) · 靴 = くつ (ဖိနပ်) · 帽子 = ぼうし (ဦးထုပ်)"
+  },
+  {
+    "id": 1794434598340,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くつ」の いみは どれですか။",
+    "question_my": "「くつ」(靴) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဝတ်အစား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်အစား = 「服」(ふく)။"
+      },
+      {
+        "id": 2,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဦးထုပ် = 「帽子」(ぼうし)။"
+      },
+      {
+        "id": 3,
+        "text": "ဖိနပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「靴」= ဖိနပ်။"
+      },
+      {
+        "id": 4,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သော့ = 「鍵」(かぎ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 靴 = くつ (ဖိနပ်) · 服 = ふく (အဝတ်အစား) · 鍵 = かぎ (သော့)"
+  },
+  {
+    "id": 1794434598341,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ぼうし」の いみは どれですか။",
+    "question_my": "「ぼうし」(帽子) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「帽子」= ဦးထုပ်။"
+      },
+      {
+        "id": 2,
+        "text": "ဖိနပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖိနပ် = 「靴」(くつ)။"
+      },
+      {
+        "id": 3,
+        "text": "အဝတ်အစား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဝတ်အစား = 「服」(ふく)။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「眼鏡」(めがね)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 帽子 = ぼうし (ဦးထုပ်) · 靴 = くつ (ဖိနပ်) · 眼鏡 = めがね (မျက်မှန်)"
+  },
+  {
+    "id": 1794434598342,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「かばん」の いみは どれですか။",
+    "question_my": "「かばん」ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သော့ = 「鍵」(かぎ)။"
+      },
+      {
+        "id": 2,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နာရီ = 「時計」(とけい)။"
+      },
+      {
+        "id": 3,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かばん」= အိတ်။"
+      },
+      {
+        "id": 4,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「眼鏡」(めがね)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: かばん = かばん (အိတ်) · 鍵 = かぎ (သော့) · 時計 = とけい (နာရီ)"
+  },
+  {
+    "id": 1794434598343,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「とけい」の いみは どれですか။",
+    "question_my": "「とけい」(時計) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သော့ = 「鍵」(かぎ)။"
+      },
+      {
+        "id": 2,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「時計」= နာရီ။"
+      },
+      {
+        "id": 3,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」။"
+      },
+      {
+        "id": 4,
+        "text": "တယ်လီဖုန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တယ်လီဖုန်း = 「電話」(でんわ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 時計 = とけい (နာရီ) · 鍵 = かぎ (သော့) · 電話 = でんわ (တယ်လီဖုန်း)"
+  },
+  {
+    "id": 1794434598344,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「かぎ」の いみは どれですか။",
+    "question_my": "「かぎ」(鍵) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နာရီ = 「時計」(とけい)။"
+      },
+      {
+        "id": 2,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「眼鏡」(めがね)။"
+      },
+      {
+        "id": 3,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」။"
+      },
+      {
+        "id": 4,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「鍵」= သော့။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 鍵 = かぎ (သော့) · 時計 = とけい (နာရီ) · 眼鏡 = めがね (မျက်မှန်)"
+  },
+  {
+    "id": 1794434598345,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「めがね」の いみは どれですか။",
+    "question_my": "「めがね」(眼鏡) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဦးထုပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဦးထုပ် = 「帽子」(ぼうし)။"
+      },
+      {
+        "id": 2,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「眼鏡」= မျက်မှန်။"
+      },
+      {
+        "id": 3,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နာရီ = 「時計」(とけい)။"
+      },
+      {
+        "id": 4,
+        "text": "သော့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သော့ = 「鍵」(かぎ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 眼鏡 = めがね (မျက်မှန်) · 帽子 = ぼうし (ဦးထုပ်) · 時計 = とけい (နာရီ)"
+  },
+  {
+    "id": 1794434598346,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「でんわ」の いみは どれですか။",
+    "question_my": "「でんわ」(電話) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "နာရီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နာရီ = 「時計」(とけい)။"
+      },
+      {
+        "id": 2,
+        "text": "မျက်မှန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျက်မှန် = 「眼鏡」(めがね)။"
+      },
+      {
+        "id": 3,
+        "text": "တယ်လီဖုန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「電話」= တယ်လီဖုန်း။"
+      },
+      {
+        "id": 4,
+        "text": "အိတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိတ် = 「かばん」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 電話 = でんわ (တယ်လီဖုန်း) · 時計 = とけい (နာရီ) · 眼鏡 = めがね (မျက်မှန်)"
+  },
+  {
+    "id": 1794434598347,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「でんしゃ」の いみは どれですか။",
+    "question_my": "「でんしゃ」(電車) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စက်ဘီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စက်ဘီး = 「自転車」(じてんしゃ)။"
+      },
+      {
+        "id": 2,
+        "text": "လေယာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေယာဉ် = 「飛行機」(ひこうき)။"
+      },
+      {
+        "id": 3,
+        "text": "ကား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကား = 「車」(くるま)။"
+      },
+      {
+        "id": 4,
+        "text": "ရထား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「電車」= ရထား။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 電車 = でんしゃ (ရထား) · 自転車 = じてんしゃ (စက်ဘီး) · 飛行機 = ひこうき (လေယာဉ်)"
+  },
+  {
+    "id": 1794434598348,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「じてんしゃ」の いみは どれですか။",
+    "question_my": "「じてんしゃ」(自転車) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရထား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရထား = 「電車」(でんしゃ)။"
+      },
+      {
+        "id": 2,
+        "text": "စက်ဘီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「自転車」= စက်ဘီး။"
+      },
+      {
+        "id": 3,
+        "text": "လေယာဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေယာဉ် = 「飛行機」(ひこうき)။"
+      },
+      {
+        "id": 4,
+        "text": "ကား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကား = 「車」(くるま)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 自転車 = じてんしゃ (စက်ဘီး) · 電車 = でんしゃ (ရထား) · 車 = くるま (ကား)"
+  },
+  {
+    "id": 1794434598349,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ひこうき」の いみは どれですか။",
+    "question_my": "「ひこうき」(飛行機) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရထား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရထား = 「電車」(でんしゃ)။"
+      },
+      {
+        "id": 2,
+        "text": "စက်ဘီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စက်ဘီး = 「自転車」(じてんしゃ)။"
+      },
+      {
+        "id": 3,
+        "text": "သင်္ဘော",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ဘော = 「船」(ふね)။"
+      },
+      {
+        "id": 4,
+        "text": "လေယာဉ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「飛行機」= လေယာဉ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 飛行機 = ひこうき (လေယာဉ်) · 船 = ふね (သင်္ဘော) · 電車 = でんしゃ (ရထား)"
+  }
+]
