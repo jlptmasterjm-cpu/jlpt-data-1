@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794435626220,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「げんいん」の いみは どれですか。",
+    "question_my": "「げんいん」(原因) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」။"
+      },
+      {
+        "id": 2,
+        "text": "သက်ရောက်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သက်ရောက်မှု = 「影響」။"
+      },
+      {
+        "id": 3,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「原因」= အကြောင်းရင်း။"
+      },
+      {
+        "id": 4,
+        "text": "ရည်ရွယ်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရည်ရွယ်ချက် = 「目的」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 原因 = အကြောင်းရင်း · 結果 = ရလဒ် · 影響 = သက်ရောက်မှု"
+  },
+  {
+    "id": 1794435626221,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けっか」の いみは どれですか。",
+    "question_my": "「けっか」(結果) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」။"
+      },
+      {
+        "id": 2,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「結果」= ရလဒ်။"
+      },
+      {
+        "id": 3,
+        "text": "သက်ရောက်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သက်ရောက်မှု = 「影響」။"
+      },
+      {
+        "id": 4,
+        "text": "အခြေအနေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခြေအနေ = 「状況」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 結果 = ရလဒ် · 原因 = အကြောင်းရင်း · 状況 = အခြေအနေ"
+  },
+  {
+    "id": 1794435626222,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かんけい」の いみは どれですか。",
+    "question_my": "「かんけい」(関係) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」။"
+      },
+      {
+        "id": 2,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」။"
+      },
+      {
+        "id": 3,
+        "text": "ပတ်ဝန်းကျင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပတ်ဝန်းကျင် = 「環境」။"
+      },
+      {
+        "id": 4,
+        "text": "ဆက်စပ်မှု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「関係」= ဆက်စပ်မှု။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 関係 = ဆက်စပ်မှု · 原因 = အကြောင်းရင်း · 環境 = ပတ်ဝန်းကျင်"
+  },
+  {
+    "id": 1794435626223,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きこう」の いみは どれですか。",
+    "question_my": "「きこう」(気候) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရာသီဥတု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「気候」= ရာသီဥတု။"
+      },
+      {
+        "id": 2,
+        "text": "ပတ်ဝန်းကျင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပတ်ဝန်းကျင် = 「環境」။"
+      },
+      {
+        "id": 3,
+        "text": "နေရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နေရာ = 「場所」။"
+      },
+      {
+        "id": 4,
+        "text": "အခြေအနေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခြေအနေ = 「状況」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 気候 = ရာသီဥတု · 環境 = ပတ်ဝန်းကျင် · 場所 = နေရာ"
+  },
+  {
+    "id": 1794435626224,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ばしょ」の いみは どれですか。",
+    "question_my": "「ばしょ」(場所) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရာသီဥတု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရာသီဥတု = 「気候」။"
+      },
+      {
+        "id": 2,
+        "text": "ပတ်ဝန်းကျင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပတ်ဝန်းကျင် = 「環境」။"
+      },
+      {
+        "id": 3,
+        "text": "နေရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「場所」= နေရာ။"
+      },
+      {
+        "id": 4,
+        "text": "အခြေအနေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခြေအနေ = 「状況」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 場所 = နေရာ · 気候 = ရာသီဥတု · 状況 = အခြေအနေ"
+  },
+  {
+    "id": 1794435626225,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かんじょう」の いみは どれですか。",
+    "question_my": "「かんじょう」(感情) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အာရုံခံစားမှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အာရုံခံစားမှု = 「感覚」။"
+      },
+      {
+        "id": 2,
+        "text": "ခံစားချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「感情」= ခံစားချက်။"
+      },
+      {
+        "id": 3,
+        "text": "အတွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အတွေး = 「考え」။"
+      },
+      {
+        "id": 4,
+        "text": "စိတ်ကူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ကူး = 「アイデア」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 感情 = ခံစားချက် · 感覚 = အာရုံခံစားမှု · 考え = အတွေး"
+  },
+  {
+    "id": 1794435626226,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かんがえ」の いみは どれですか。",
+    "question_my": "「かんがえ」(考え) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခံစားချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခံစားချက် = 「感情」။"
+      },
+      {
+        "id": 2,
+        "text": "စိတ်ကူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ကူး = 「アイデア」။"
+      },
+      {
+        "id": 3,
+        "text": "မှတ်ဉာဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်ဉာဏ် = 「記憶」။"
+      },
+      {
+        "id": 4,
+        "text": "အတွေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「考え」= အတွေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 考え = အတွေး · 感情 = ခံစားချက် · 記憶 = မှတ်ဉာဏ်"
+  },
+  {
+    "id": 1794435626227,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きょうふ」の いみは どれですか。",
+    "question_my": "「きょうふ」(恐怖) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြောက်ရွံ့ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「恐怖」= ကြောက်ရွံ့ခြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "စိုးရိမ်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိုးရိမ်ခြင်း = 「心配」။"
+      },
+      {
+        "id": 3,
+        "text": "လေးစားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေးစားခြင်း = 「尊敬」။"
+      },
+      {
+        "id": 4,
+        "text": "မုန်းတီးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန်းတီးခြင်း = 「憎しみ」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 恐怖 = ကြောက်ရွံ့ခြင်း · 心配 = စိုးရိမ်ခြင်း · 尊敬 = လေးစားခြင်း"
+  },
+  {
+    "id": 1794435626228,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「よろこび」の いみは どれですか。",
+    "question_my": "「よろこび」(喜び) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဝမ်းနည်းခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝမ်းနည်းခြင်း = 「悲しみ」။"
+      },
+      {
+        "id": 2,
+        "text": "ကျေးဇူးတင်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျေးဇူးတင်ခြင်း = 「感謝」။"
+      },
+      {
+        "id": 3,
+        "text": "ဝမ်းသာခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「喜び」= ဝမ်းသာခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "စိတ်ပျက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ပျက်ခြင်း = 「失望」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 喜び = ဝမ်းသာခြင်း · 悲しみ = ဝမ်းနည်းခြင်း · 感謝 = ကျေးဇူးတင်ခြင်း"
+  },
+  {
+    "id": 1794435626229,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かなしみ」の いみは どれですか。",
+    "question_my": "「かなしみ」(悲しみ) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဝမ်းသာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝမ်းသာခြင်း = 「喜び」။"
+      },
+      {
+        "id": 2,
+        "text": "ဝမ်းနည်းခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「悲しみ」= ဝမ်းနည်းခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "စိတ်ပျက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ပျက်ခြင်း = 「失望」။"
+      },
+      {
+        "id": 4,
+        "text": "စိုးရိမ်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိုးရိမ်ခြင်း = 「心配」။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 悲しみ = ဝမ်းနည်းခြင်း · 喜び = ဝမ်းသာခြင်း · 失望 = စိတ်ပျက်ခြင်း"
+  },
+  {
+    "id": 1794435626230,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しっと」の いみは どれですか。",
+    "question_my": "「しっと」(嫉妬) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မုန်းတီးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မုန်းတီးခြင်း = 「憎しみ」။"
+      },
+      {
+        "id": 2,
+        "text": "လေးစားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေးစားခြင်း = 「尊敬」။"
+      },
+      {
+        "id": 3,
+        "text": "ကြောက်ရွံ့ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြောက်ရွံ့ခြင်း = 「恐怖」။"
+      },
+      {
+        "id": 4,
+        "text": "ငြူစူခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「嫉妬」= ငြူစူခြင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 嫉妬 = ငြူစူခြင်း · 憎しみ = မုန်းတီးခြင်း · 尊敬 = လေးစားခြင်း"
+  }
+]
