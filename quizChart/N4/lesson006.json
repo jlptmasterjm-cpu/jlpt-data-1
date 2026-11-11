@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794394252964,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「よしゅう」の いみは どれですか。",
+    "question_my": "「よしゅう」(予習) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပြန်လည်လေ့လာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြန်လည်လေ့လာခြင်း = 「復習」(ふくしゅう)။"
+      },
+      {
+        "id": 2,
+        "text": "ကြိုတင်လေ့လာခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「予習」= ကြိုတင်လေ့လာခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "သင်ခန်းစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်ခန်းစာ = 「授業」(じゅぎょう)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်စာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်စာ = 「宿題」(しゅくだい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 予習 = よしゅう (ကြိုတင်လေ့လာ) · 復習 = ふくしゅう (ပြန်လည်လေ့လာ) · 宿題 = しゅくだい (အိမ်စာ)"
+  },
+  {
+    "id": 1794394252965,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ふくしゅう」の いみは どれですか。",
+    "question_my": "「ふくしゅう」(復習) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကြိုတင်လေ့လာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုတင်လေ့လာခြင်း = 「予習」(よしゅう)။"
+      },
+      {
+        "id": 2,
+        "text": "သင်ခန်းစာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်ခန်းစာ = 「授業」(じゅぎょう)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြန်လည်လေ့လာခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「復習」= ပြန်လည်လေ့လာခြင်း။"
+      },
+      {
+        "id": 4,
+        "text": "စာမေးပွဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာမေးပွဲ = 「試験」(しけん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 復習 = ふくしゅう (ပြန်လည်လေ့လာ) · 予習 = よしゅう (ကြိုတင်လေ့လာ) · 試験 = しけん (စာမေးပွဲ)"
+  },
+  {
+    "id": 1794394252966,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しゅくはく」の いみは どれですか。",
+    "question_my": "「しゅくはく」(宿泊) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တည်းခိုခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「宿泊」= တည်းခိုခြင်း။"
+      },
+      {
+        "id": 2,
+        "text": "ခရီးသွားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခရီးသွားခြင်း = 「旅行」(りょこう)။"
+      },
+      {
+        "id": 3,
+        "text": "ထွက်ခွာခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ထွက်ခွာခြင်း = 「出発」(しゅっぱつ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆိုက်ရောက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိုက်ရောက်ခြင်း = 「到着」(とうちゃく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 宿泊 = しゅくはく (တည်းခို) · 旅行 = りょこう (ခရီးသွား) · 出発 = しゅっぱつ (ထွက်ခွာ)"
+  },
+  {
+    "id": 1794394252967,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かんこう」の いみは どれですか。",
+    "question_my": "「かんこう」(観光) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အလုပ်ခရီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အလုပ်ခရီး = 「出張」(しゅっちょう)။"
+      },
+      {
+        "id": 2,
+        "text": "ခရီးသွားလည်ပတ်ခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「観光」= ခရီးသွားလည်ပတ်ခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "တည်းခိုခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တည်းခိုခြင်း = 「宿泊」(しゅくはく)။"
+      },
+      {
+        "id": 4,
+        "text": "အိမ်ပြန်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိမ်ပြန်ခြင်း = 「帰宅」(きたく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 観光 = かんこう (ခရီးသွားလည်ပတ်) · 出張 = しゅっちょう (အလုပ်ခရီး) · 宿泊 = しゅくはく (တည်းခို)"
+  },
+  {
+    "id": 1794394252968,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「おんせん」の いみは どれですか。",
+    "question_my": "「おんせん」(温泉) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေပူစမ်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「温泉」= ရေပူစမ်း။"
+      },
+      {
+        "id": 2,
+        "text": "ရေကန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေကန် = 「池」(いけ)။"
+      },
+      {
+        "id": 3,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြစ် = 「川」(かわ)။"
+      },
+      {
+        "id": 4,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်လယ် = 「海」(うみ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 温泉 = おんせん (ရေပူစမ်း) · 池 = いけ (ရေကန်) · 海 = うみ (ပင်လယ်)"
+  },
+  {
+    "id": 1794394252969,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みやげ」の いみは どれですか。",
+    "question_my": "「みやげ」(土産) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အမှတ်တရလက်ဆောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「土産」= အမှတ်တရလက်ဆောင်။"
+      },
+      {
+        "id": 2,
+        "text": "အထုပ်အပိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အထုပ်အပိုး = 「荷物」(にもつ)။"
+      },
+      {
+        "id": 3,
+        "text": "လက်မှတ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လက်မှတ် = 「切符」(きっぷ)။"
+      },
+      {
+        "id": 4,
+        "text": "ငွေစက္ကူ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငွေစက္ကူ = 「お札」(おさつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 土産 = みやげ (အမှတ်တရလက်ဆောင်) · 荷物 = にもつ (အထုပ်အပိုး) · 切符 = きっぷ (လက်မှတ်)"
+  },
+  {
+    "id": 1794394252970,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くうこう」の いみは どれですか。",
+    "question_my": "「くうこう」(空港) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「駅」(えき)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆိပ်ကမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိပ်ကမ်း = 「港」(みなと)။"
+      },
+      {
+        "id": 3,
+        "text": "လေဆိပ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「空港」= လေဆိပ်။"
+      },
+      {
+        "id": 4,
+        "text": "ကားပါကင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကားပါကင် = 「駐車場」(ちゅうしゃじょう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 空港 = くうこう (လေဆိပ်) · 駅 = えき (ဘူတာ) · 港 = みなと (ဆိပ်ကမ်း)"
+  },
+  {
+    "id": 1794394252971,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みなと」の いみは どれですか。",
+    "question_my": "「みなと」(港) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လေဆိပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေဆိပ် = 「空港」(くうこう)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆိပ်ကမ်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「港」= ဆိပ်ကမ်း။"
+      },
+      {
+        "id": 3,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「駅」(えき)။"
+      },
+      {
+        "id": 4,
+        "text": "လမ်းဆုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းဆုံ = 「交差点」(こうさてん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 港 = みなと (ဆိပ်ကမ်း) · 空港 = くうこう (လေဆိပ်) · 交差点 = こうさてん (လမ်းဆုံ)"
+  },
+  {
+    "id": 1794394252972,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「えき」の いみは どれですか。",
+    "question_my": "「えき」(駅) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「駅」= ဘူတာ။"
+      },
+      {
+        "id": 2,
+        "text": "လေဆိပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေဆိပ် = 「空港」(くうこう)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆိပ်ကမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိပ်ကမ်း = 「港」(みなと)။"
+      },
+      {
+        "id": 4,
+        "text": "ကားပါကင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကားပါကင် = 「駐車場」(ちゅうしゃじょう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 駅 = えき (ဘူတာ) · 空港 = くうこう (လေဆိပ်) · 駐車場 = ちゅうしゃじょう (ကားပါကင်)"
+  },
+  {
+    "id": 1794394252973,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ちゅうしゃじょう」の いみは どれですか。",
+    "question_my": "「ちゅうしゃじょう」(駐車場) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကားပါကင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「駐車場」= ကားပါကင်။"
+      },
+      {
+        "id": 2,
+        "text": "လမ်းဆုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းဆုံ = 「交差点」(こうさてん)။"
+      },
+      {
+        "id": 3,
+        "text": "ဘူတာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘူတာ = 「駅」(えき)။"
+      },
+      {
+        "id": 4,
+        "text": "လေဆိပ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေဆိပ် = 「空港」(くうこう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 駐車場 = ちゅうしゃじょう (ကားပါကင်) · 交差点 = こうさてん (လမ်းဆုံ) · 駅 = えき (ဘူတာ)"
+  },
+  {
+    "id": 1794394252974,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こうさてん」の いみは どれですか。",
+    "question_my": "「こうさてん」(交差点) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "လမ်းဆုံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「交差点」= လမ်းဆုံ။"
+      },
+      {
+        "id": 2,
+        "text": "ကားပါကင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကားပါကင် = 「駐車場」(ちゅうしゃじょう)။"
+      },
+      {
+        "id": 3,
+        "text": "ဆိပ်ကမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆိပ်ကမ်း = 「港」(みなと)။"
+      },
+      {
+        "id": 4,
+        "text": "လမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လမ်း = 「道」(みち)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 交差点 = こうさてん (လမ်းဆုံ) · 駐車場 = ちゅうしゃじょう (ကားပါကင်) · 道 = みち (လမ်း)"
+  }
+]
