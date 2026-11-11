@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794439031617,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しぜん」の いみは どれですか。",
+    "question_my": "「しぜん」(自然) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ယဉ်ကျေးမှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ယဉ်ကျေးမှု = 「文化」(ぶんか)။"
+      },
+      {
+        "id": 2,
+        "text": "သဘာဝ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「自然」= သဘာဝ။"
+      },
+      {
+        "id": 3,
+        "text": "လူမှုရေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လူမှုရေး = 「社会」(しゃかい)။"
+      },
+      {
+        "id": 4,
+        "text": "သမိုင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သမိုင်း = 「歴史」(れきし)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 自然 = しぜん (သဘာဝ) · 文化 = ぶんか (ယဉ်ကျေးမှု) · 歴史 = れきし (သမိုင်း)"
+  },
+  {
+    "id": 1794439031618,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くうき」の いみは どれですか。",
+    "question_my": "「くうき」(空気) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေ = 「水」(みず)။"
+      },
+      {
+        "id": 2,
+        "text": "မီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မီး = 「火」(ひ)။"
+      },
+      {
+        "id": 3,
+        "text": "လေထု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「空気」= လေထု။"
+      },
+      {
+        "id": 4,
+        "text": "မြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြေ = 「土」(つち)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 空気 = くうき (လေထု) · 水 = みず (ရေ) · 火 = ひ (မီး)"
+  },
+  {
+    "id": 1794439031619,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「みず」の いみは どれですか。",
+    "question_my": "「みず」(水) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「水」= ရေ။"
+      },
+      {
+        "id": 2,
+        "text": "ရေခဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေခဲ = 「氷」(こおり)။"
+      },
+      {
+        "id": 3,
+        "text": "ရေနွေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေနွေး = 「湯」(ゆ)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆီ = 「油」(あぶら)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 水 = みず (ရေ) · 氷 = こおり (ရေခဲ) · 湯 = ゆ (ရေနွေး)"
+  },
+  {
+    "id": 1794439031620,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ひ」の いみは どれですか。",
+    "question_my": "「ひ」(火) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရေ = 「水」(みず)။"
+      },
+      {
+        "id": 2,
+        "text": "မီး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「火」= မီး။"
+      },
+      {
+        "id": 3,
+        "text": "လေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ = 「風」(かぜ)။"
+      },
+      {
+        "id": 4,
+        "text": "မြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြေ = 「土」(つち)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 火 = ひ (မီး) · 水 = みず (ရေ) · 風 = かぜ (လေ)"
+  },
+  {
+    "id": 1794439031621,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「つち」の いみは どれですか。",
+    "question_my": "「つち」(土) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျောက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျောက် = 「石」(いし)။"
+      },
+      {
+        "id": 2,
+        "text": "သဲ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သဲ = 「砂」(すな)။"
+      },
+      {
+        "id": 3,
+        "text": "ရွှံ့",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရွှံ့ = 「泥」(どろ)။"
+      },
+      {
+        "id": 4,
+        "text": "မြေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「土」= မြေ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 土 = つち (မြေ) · 石 = いし (ကျောက်) · 砂 = すな (သဲ)"
+  },
+  {
+    "id": 1794439031623,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いし」の いみは どれですか。",
+    "question_my": "「いし」(石) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျောက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「石」= ကျောက်။"
+      },
+      {
+        "id": 2,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်ပင် = 「木」(き)။"
+      },
+      {
+        "id": 3,
+        "text": "မြက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြက် = 「草」(くさ)။"
+      },
+      {
+        "id": 4,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်း = 「花」(はな)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 石 = いし (ကျောက်) · 木 = き (သစ်ပင်) · 花 = はな (ပန်း)"
+  },
+  {
+    "id": 1794439031624,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「き」の いみは どれですか。",
+    "question_my": "「き」(木) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြက် = 「草」(くさ)။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်း = 「花」(はな)။"
+      },
+      {
+        "id": 3,
+        "text": "အရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရွက် = 「葉」(は)။"
+      },
+      {
+        "id": 4,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「木」= သစ်ပင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 木 = き (သစ်ပင်) · 草 = くさ (မြက်) · 葉 = は (အရွက်)"
+  },
+  {
+    "id": 1794439031625,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「はな」の いみは どれですか。",
+    "question_my": "「はな」(花) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်ပင် = 「木」(き)။"
+      },
+      {
+        "id": 2,
+        "text": "မြက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြက် = 「草」(くさ)။"
+      },
+      {
+        "id": 3,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「花」= ပန်း။"
+      },
+      {
+        "id": 4,
+        "text": "အသီး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသီး = 「実」(み)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 花 = はな (ပန်း) · 木 = き (သစ်ပင်) · 実 = み (အသီး)"
+  },
+  {
+    "id": 1794439031626,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「くさ」の いみは どれですか。",
+    "question_my": "「くさ」(草) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သစ်ပင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သစ်ပင် = 「木」(き)။"
+      },
+      {
+        "id": 2,
+        "text": "ပန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပန်း = 「花」(はな)။"
+      },
+      {
+        "id": 3,
+        "text": "အရွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရွက် = 「葉」(は)။"
+      },
+      {
+        "id": 4,
+        "text": "မြက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「草」= မြက်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 草 = くさ (မြက်) · 木 = き (သစ်ပင်) · 花 = はな (ပန်း)"
+  },
+  {
+    "id": 1794439031627,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「やま」の いみは どれですか。",
+    "question_my": "「やま」(山) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မြစ် = 「川」(かわ)။"
+      },
+      {
+        "id": 2,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်လယ် = 「海」(うみ)။"
+      },
+      {
+        "id": 3,
+        "text": "အိုင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိုင် = 「湖」(みずうみ)။"
+      },
+      {
+        "id": 4,
+        "text": "တောင်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「山」= တောင်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 山 = やま (တောင်) · 川 = かわ (မြစ်) · 海 = うみ (ပင်လယ်)"
+  },
+  {
+    "id": 1794439031628,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かわ」の いみは どれですか。",
+    "question_my": "「かわ」(川) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "တောင်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တောင် = 「山」(やま)။"
+      },
+      {
+        "id": 2,
+        "text": "ပင်လယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပင်လယ် = 「海」(うみ)။"
+      },
+      {
+        "id": 3,
+        "text": "ကန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကန် = 「池」(いけ)။"
+      },
+      {
+        "id": 4,
+        "text": "မြစ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「川」= မြစ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 川 = かわ (မြစ်) · 山 = やま (တောင်) · 池 = いけ (ကန်)"
+  }
+]
