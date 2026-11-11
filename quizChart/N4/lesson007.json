@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794394306526,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けいかく」の いみは どれですか。",
+    "question_my": "「けいかく」(計画) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 2,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「計画」= အစီအစဉ်။"
+      },
+      {
+        "id": 3,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 4,
+        "text": "ပြဿနာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြဿနာ = 「問題」(もんだい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 計画 = けいかく (အစီအစဉ်) · 結果 = けっか (ရလဒ်) · 問題 = もんだい (ပြဿနာ)"
+  },
+  {
+    "id": 1794394306527,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けっか」の いみは どれですか။",
+    "question_my": "「けっか」(結果) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 2,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစီအစဉ် = 「計画」(けいかく)။"
+      },
+      {
+        "id": 3,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「結果」= ရလဒ်။"
+      },
+      {
+        "id": 4,
+        "text": "အကြောင်းပြချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းပြချက် = 「理由」(りゆう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 結果 = けっか (ရလဒ်) · 原因 = げんいん (အကြောင်းရင်း) · 理由 = りゆう (အကြောင်းပြချက်)"
+  },
+  {
+    "id": 1794394306528,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「げんいん」の いみは どれですか။",
+    "question_my": "「げんいん」(原因) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「原因」= အကြောင်းရင်း။"
+      },
+      {
+        "id": 2,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 3,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစီအစဉ် = 「計画」(けいかく)။"
+      },
+      {
+        "id": 4,
+        "text": "ပြဿနာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြဿနာ = 「問題」(もんだい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 原因 = げんいん (အကြောင်းရင်း) · 結果 = けっか (ရလဒ်) · 理由 = りゆう (အကြောင်းပြချက်)"
+  },
+  {
+    "id": 1794394306529,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「りゆう」の いみは どれですか။",
+    "question_my": "「りゆう」(理由) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 2,
+        "text": "အကြောင်းပြချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「理由」= အကြောင်းပြချက်။"
+      },
+      {
+        "id": 3,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 4,
+        "text": "အဓိပ္ပာယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဓိပ္ပာယ် = 「意味」(いみ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 理由 = りゆう (အကြောင်းပြချက်) · 原因 = げんいん (အကြောင်းရင်း) · 意味 = いみ (အဓိပ္ပာယ်)"
+  },
+  {
+    "id": 1794394306530,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「もんだい」の いみは どれですか။",
+    "question_my": "「もんだい」(問題) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဖြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖြေ = 「答え」(こたえ)။"
+      },
+      {
+        "id": 2,
+        "text": "မေးခွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မေးခွန်း = 「質問」(しつもん)။"
+      },
+      {
+        "id": 3,
+        "text": "ပြဿနာ/မေးခွန်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「問題」= ပြဿနာ/မေးခွန်း။"
+      },
+      {
+        "id": 4,
+        "text": "အကြောင်းအရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းအရာ = 「内容」(ないよう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 問題 = もんだい (ပြဿနာ/မေးခွန်း) · 質問 = しつもん (မေးခွန်း) · 答え = こたえ (အဖြေ)"
+  },
+  {
+    "id": 1794394306531,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しつもん」の いみは どれですか။",
+    "question_my": "「しつもん」(質問) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အဖြေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဖြေ = 「答え」(こたえ)။"
+      },
+      {
+        "id": 2,
+        "text": "မေးခွန်းမေးခြင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「質問」= မေးခွန်းမေးခြင်း။"
+      },
+      {
+        "id": 3,
+        "text": "ရှင်းလင်းချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရှင်းလင်းချက် = 「説明」(せつめい)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆွေးနွေးခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆွေးနွေးခြင်း = 「相談」(そうだん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 質問 = しつもん (မေးခွန်းမေး) · 答え = こたえ (အဖြေ) · 説明 = せつめい (ရှင်းလင်းချက်)"
+  },
+  {
+    "id": 1794394306533,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「こたえ」の いみは どれですか။",
+    "question_my": "「こたえ」(答え) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မေးခွန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မေးခွန်း = 「質問」(しつもん)။"
+      },
+      {
+        "id": 2,
+        "text": "အဖြေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「答え」= အဖြေ။"
+      },
+      {
+        "id": 3,
+        "text": "ပြဿနာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပြဿနာ = 「問題」(もんだい)။"
+      },
+      {
+        "id": 4,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 答え = こたえ (အဖြေ) · 質問 = しつもん (မေးခွန်း) · 問題 = もんだい (ပြဿနာ)"
+  },
+  {
+    "id": 1794394306534,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ないよう」の いみは どれですか။",
+    "question_my": "「ないよう」(内容) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းအရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「内容」= အကြောင်းအရာ။"
+      },
+      {
+        "id": 2,
+        "text": "အဓိပ္ပာယ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အဓိပ္ပာယ် = 「意味」(いみ)။"
+      },
+      {
+        "id": 3,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 4,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစီအစဉ် = 「計画」(けいかく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 内容 = ないよう (အကြောင်းအရာ) · 意味 = いみ (အဓိပ္ပာယ်) · 計画 = けいかく (အစီအစဉ်)"
+  },
+  {
+    "id": 1794394306535,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「いみ」の いみは どれですか။",
+    "question_my": "「いみ」(意味) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အကြောင်းအရာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းအရာ = 「内容」(ないよう)။"
+      },
+      {
+        "id": 2,
+        "text": "အသံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အသံ = 「音」(おと)။"
+      },
+      {
+        "id": 3,
+        "text": "အဓိပ္ပာယ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「意味」= အဓိပ္ပာယ်။"
+      },
+      {
+        "id": 4,
+        "text": "အကြောင်းပြချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းပြချက် = 「理由」(りゆう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 意味 = いみ (အဓိပ္ပာယ်) · 内容 = ないよう (အကြောင်းအရာ) · 理由 = りゆう (အကြောင်းပြချက်)"
+  },
+  {
+    "id": 1794394306536,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「ゆめ」の いみは どれですか။",
+    "question_my": "「ゆめ」(夢) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မျှော်လင့်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မျှော်လင့်ချက် = 「希望」(きぼう)။"
+      },
+      {
+        "id": 2,
+        "text": "အိပ်မက်/ရည်မှန်းချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「夢」= အိပ်မက်/ရည်မှန်းချက်။"
+      },
+      {
+        "id": 3,
+        "text": "အမှတ်တရ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အမှတ်တရ = 「思い出」(おもいで)။"
+      },
+      {
+        "id": 4,
+        "text": "အစီအစဉ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစီအစဉ် = 「計画」(けいかく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 夢 = ゆめ (အိပ်မက်/ရည်မှန်းချက်) · 希望 = きぼう (မျှော်လင့်ချက်) · 思い出 = おもいで (အမှတ်တရ)"
+  },
+  {
+    "id": 1794394306537,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか။",
+    "question": "「きぼう」の いみは どれですか။",
+    "question_my": "「きぼう」(希望) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မျှော်လင့်ချက်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「希望」= မျှော်လင့်ချက်။"
+      },
+      {
+        "id": 2,
+        "text": "အိပ်မက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်မက် = 「夢」(ゆめ)။"
+      },
+      {
+        "id": 3,
+        "text": "အမှတ်တရ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အမှတ်တရ = 「思い出」(おもいで)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြိုးစားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုးစားခြင်း = 「努力」(どりょく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 希望 = きぼう (မျှော်လင့်ချက်) · 夢 = ゆめ (အိပ်မက်) · 努力 = どりょく (ကြိုးစား)"
+  }
+]
