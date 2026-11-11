@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794439161570,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「きょういく」の いみは どれですか。",
+    "question_my": "「きょういく」(教育) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သင်ယူခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်ယူခြင်း = 「学習」(がくしゅう)။"
+      },
+      {
+        "id": 2,
+        "text": "ပညာရေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「教育」= ပညာရေး။"
+      },
+      {
+        "id": 3,
+        "text": "လေ့ကျင့်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လေ့ကျင့်ခြင်း = 「訓練」(くんれん)။"
+      },
+      {
+        "id": 4,
+        "text": "လမ်းညွှန်သင်ကြားခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းညွှန်သင်ကြားခြင်း = 「指導」(しどう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 教育 = きょういく (ပညာရေး) · 学習 = がくしゅう (သင်ယူခြင်း) · 訓練 = くんれん (လေ့ကျင့်ခြင်း)"
+  },
+  {
+    "id": 1794439161571,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぶんか」の いみは どれですか。",
+    "question_my": "「ぶんか」(文化) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အစဉ်အလာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အစဉ်အလာ = 「伝統」(でんとう)။"
+      },
+      {
+        "id": 2,
+        "text": "ဘဝနေထိုင်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘဝနေထိုင်မှု = 「生活」(せいかつ)။"
+      },
+      {
+        "id": 3,
+        "text": "ယဉ်ကျေးမှု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「文化」= ယဉ်ကျေးမှု။"
+      },
+      {
+        "id": 4,
+        "text": "အနုပညာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အနုပညာ = 「芸術」(げいじゅつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 文化 = ぶんか (ယဉ်ကျေးမှု) · 伝統 = でんとう (အစဉ်အလာ) · 芸術 = げいじゅつ (အနုပညာ)"
+  },
+  {
+    "id": 1794439161572,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「れきし」の いみは どれですか。",
+    "question_my": "「れきし」(歴史) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပထဝီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပထဝီ = 「地理」(ちり)။"
+      },
+      {
+        "id": 2,
+        "text": "စာပေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာပေ = 「文学」(ぶんがく)။"
+      },
+      {
+        "id": 3,
+        "text": "သင်္ချာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ချာ = 「数学」(すうがく)။"
+      },
+      {
+        "id": 4,
+        "text": "သမိုင်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「歴史」= သမိုင်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 歴史 = れきし (သမိုင်း) · 地理 = ちり (ပထဝီ) · 文学 = ぶんがく (စာပေ)"
+  },
+  {
+    "id": 1794439161573,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せいじ」の いみは どれですか。",
+    "question_my": "「せいじ」(政治) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သံတမန်ရေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သံတမန်ရေး = 「外交」(がいこう)။"
+      },
+      {
+        "id": 2,
+        "text": "နိုင်ငံရေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「政治」= နိုင်ငံရေး။"
+      },
+      {
+        "id": 3,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု = 「家族」(かぞく)။"
+      },
+      {
+        "id": 4,
+        "text": "ကျောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်း = 「学校」(がっこう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 政治 = せいじ (နိုင်ငံရေး) · 外交 = がいこう (သံတမန်ရေး) · 家族 = かぞく (မိသားစု)"
+  },
+  {
+    "id": 1794439161574,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しゃかい」の いみは どれですか。",
+    "question_my": "「しゃかい」(社会) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "မိသားစု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မိသားစု = 「家族」(かぞく)။"
+      },
+      {
+        "id": 2,
+        "text": "ကျောင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်း = 「学校」(がっこう)။"
+      },
+      {
+        "id": 3,
+        "text": "ကုမ္ပဏီ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကုမ္ပဏီ = 「会社」(かいしゃ)။"
+      },
+      {
+        "id": 4,
+        "text": "လူ့အဖွဲ့အစည်း",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「社会」= လူ့အဖွဲ့အစည်း။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 社会 = しゃかい (လူ့အဖွဲ့အစည်း) · 会社 = かいしゃ (ကုမ္ပဏီ) · 学校 = がっこう (ကျောင်း)"
+  },
+  {
+    "id": 1794439161575,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ほうりつ」の いみは どれですか。",
+    "question_my": "「ほうりつ」(法律) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "စည်းမျဉ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စည်းမျဉ်း = 「条例」(じょうれい)။"
+      },
+      {
+        "id": 2,
+        "text": "ဖွဲ့စည်းပုံအခြေခံဥပဒေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဖွဲ့စည်းပုံအခြေခံဥပဒေ = 「憲法」(けんぽう)။"
+      },
+      {
+        "id": 3,
+        "text": "ဥပဒေ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「法律」= ဥပဒေ။"
+      },
+      {
+        "id": 4,
+        "text": "စီရင်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စီရင်ချက် = 「判決」(はんけつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 法律 = ほうりつ (ဥပဒေ) · 憲法 = けんぽう (ဖွဲ့စည်းပုံအခြေခံဥပဒေ) · 判決 = はんけつ (စီရင်ချက်)"
+  },
+  {
+    "id": 1794439161576,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「へいわ」の いみは どれですか。",
+    "question_my": "「へいわ」(平和) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပျော်ရွှင်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပျော်ရွှင်မှု = 「幸福」(こうふく)။"
+      },
+      {
+        "id": 2,
+        "text": "ငြိမ်းချမ်းရေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「平和」= ငြိမ်းချမ်းရေး။"
+      },
+      {
+        "id": 3,
+        "text": "အငြင်းပွားမှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အငြင်းပွားမှု = 「争い」(あらそい)။"
+      },
+      {
+        "id": 4,
+        "text": "လွတ်လပ်ခွင့်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လွတ်လပ်ခွင့် = 「自由」(じゆう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 平和 = へいわ (ငြိမ်းချမ်းရေး) · 幸福 = こうふく (ပျော်ရွှင်မှု) · 争い = あらそい (အငြင်းပွားမှု)"
+  },
+  {
+    "id": 1794439161577,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せんそう」の いみは どれですか。",
+    "question_my": "「せんそう」(戦争) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ပဋိပက္ခ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ပဋိပက္ခ = 「紛争」(ふんそう)။"
+      },
+      {
+        "id": 2,
+        "text": "ရာဇဝတ်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရာဇဝတ်မှု = 「犯罪」(はんざい)။"
+      },
+      {
+        "id": 3,
+        "text": "စစ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「戦争」= စစ်။"
+      },
+      {
+        "id": 4,
+        "text": "အငြင်းပွားမှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အငြင်းပွားမှု = 「争い」(あらそい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 戦争 = せんそう (စစ်) · 紛争 = ふんそう (ပဋိပက္ခ) · 犯罪 = はんざい (ရာဇဝတ်မှု)"
+  },
+  {
+    "id": 1794439161578,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しゅうきょう」の いみは どれですか。",
+    "question_my": "「しゅうきょう」(宗教) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ယုံကြည်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ယုံကြည်မှု = 「信仰」(しんこう)။"
+      },
+      {
+        "id": 2,
+        "text": "အတွေးအခေါ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အတွေးအခေါ် = 「思想」(しそう)။"
+      },
+      {
+        "id": 3,
+        "text": "ဒဿန",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဒဿန = 「哲学」(てつがく)။"
+      },
+      {
+        "id": 4,
+        "text": "ဘာသာရေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「宗教」= ဘာသာရေး။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 宗教 = しゅうきょう (ဘာသာရေး) · 信仰 = しんこう (ယုံကြည်မှု) · 哲学 = てつがく (ဒဿန)"
+  },
+  {
+    "id": 1794439161579,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かがく」の いみは どれですか。",
+    "question_my": "「かがく」(科学) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သင်္ချာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သင်္ချာ = 「数学」(すうがく)။"
+      },
+      {
+        "id": 2,
+        "text": "ဆေးပညာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆေးပညာ = 「医学」(いがく)။"
+      },
+      {
+        "id": 3,
+        "text": "သိပ္ပံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「科学」= သိပ္ပံ။"
+      },
+      {
+        "id": 4,
+        "text": "စာပေ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စာပေ = 「文学」(ぶんがく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 科学 = かがく (သိပ္ပံ) · 数学 = すうがく (သင်္ချာ) · 医学 = いがく (ဆေးပညာ)"
+  },
+  {
+    "id": 1794439161580,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぎじゅつ」の いみは どれですか。",
+    "question_my": "「ぎじゅつ」(技術) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ကျွမ်းကျင်မှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကျွမ်းကျင်မှု = 「技能」(ぎのう)။"
+      },
+      {
+        "id": 2,
+        "text": "ကိရိယာ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကိရိယာ = 「道具」(どうぐ)။"
+      },
+      {
+        "id": 3,
+        "text": "စက်ပစ္စည်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စက်ပစ္စည်း = 「機械」(きかい)။"
+      },
+      {
+        "id": 4,
+        "text": "နည်းပညာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「技術」= နည်းပညာ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 技術 = ぎじゅつ (နည်းပညာ) · 技能 = ぎのう (ကျွမ်းကျင်မှု) · 機械 = きかい (စက်ပစ္စည်း)"
+  }
+]
