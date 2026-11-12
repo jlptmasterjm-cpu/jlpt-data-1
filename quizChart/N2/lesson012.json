@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794456050614,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「しんよう」の いみは どれですか。",
+    "question_my": "「しんよう」(信用) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သံသယ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ သံသယ = 「疑い」(うたがい)။"
+      },
+      {
+        "id": 2,
+        "text": "ယုံကြည်မှု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「信用」= ယုံကြည်မှု။"
+      },
+      {
+        "id": 3,
+        "text": "လျှို့ဝှက်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ လျှို့ဝှက်ခြင်း = 「秘密」(ひみつ)။"
+      },
+      {
+        "id": 4,
+        "text": "ငြင်းပယ်ခြင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ငြင်းပယ်ခြင်း = 「拒否」(きょひ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 信用 = しんよう (ယုံကြည်) · 疑い = うたがい (သံသယ) · 秘密 = ひみつ (လျှို့ဝှက်)"
+  },
+  {
+    "id": 1794456050615,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「ぎむ」の いみは どれですか。",
+    "question_my": "「ぎむ」(義務) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ခွင့်ပြုချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ခွင့်ပြုချက် = 「許可」(きょか)။"
+      },
+      {
+        "id": 2,
+        "text": "အခွင့်အရေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခွင့်အရေး = 「権利」(けんり)။"
+      },
+      {
+        "id": 3,
+        "text": "ဝတ္တရား",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「義務」= ဝတ္တရား။"
+      },
+      {
+        "id": 4,
+        "text": "ဆန္ဒ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆန္ဒ = 「希望」(きぼう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 義務 = ぎむ (ဝတ္တရား) · 権利 = けんり (အခွင့်အရေး) · 希望 = きぼう (ဆန္ဒ)"
+  },
+  {
+    "id": 1794456050616,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けんり」の いみは どれですか。",
+    "question_my": "「けんり」(権利) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အခွင့်အရေး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「権利」= အခွင့်အရေး။"
+      },
+      {
+        "id": 2,
+        "text": "ဝတ္တရား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝတ္တရား = 「義務」(ぎむ)။"
+      },
+      {
+        "id": 3,
+        "text": "တာဝန်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ တာဝန် = 「責任」(せきにん)။"
+      },
+      {
+        "id": 4,
+        "text": "စည်းမျဉ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စည်းမျဉ်း = 「規則」(きそく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 権利 = けんり (အခွင့်အရေး) · 義務 = ぎむ (ဝတ္တရား) · 責任 = せきにん (တာဝန်)"
+  },
+  {
+    "id": 1794456050617,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「せきにん」の いみは どれですか。",
+    "question_my": "「せきにん」(責任) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဝတ္တရား",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဝတ္တရား = 「義務」(ぎむ)။"
+      },
+      {
+        "id": 2,
+        "text": "တာဝန်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「責任」= တာဝန်။"
+      },
+      {
+        "id": 3,
+        "text": "အခွင့်အရေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခွင့်အရေး = 「権利」(けんり)။"
+      },
+      {
+        "id": 4,
+        "text": "ဆုံးဖြတ်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆုံးဖြတ်ချက် = 「決定」(けってい)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 責任 = せきにん (တာဝန်) · 義務 = ぎむ (ဝတ္တရား) · 決定 = けってい (ဆုံးဖြတ်)"
+  },
+  {
+    "id": 1794456050618,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「たいど」の いみは どれですか。",
+    "question_my": "「たいど」(態度) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "သဘောထား/အမူအရာ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「態度」= သဘောထား/အမူအရာ။"
+      },
+      {
+        "id": 2,
+        "text": "စိတ်ခံစားချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ခံစားချက် = 「感情」(かんじょう)။"
+      },
+      {
+        "id": 3,
+        "text": "အတွေးအခေါ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အတွေးအခေါ် = 「考え」(かんがえ)။"
+      },
+      {
+        "id": 4,
+        "text": "ရည်ရွယ်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရည်ရွယ်ချက် = 「目的」(もくてき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 態度 = たいど (သဘောထား) · 感情 = かんじょう (ခံစားချက်) · 目的 = もくてき (ရည်ရွယ်ချက်)"
+  },
+  {
+    "id": 1794456050619,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いしき」の いみは どれですか。",
+    "question_my": "「いしき」(意識) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အိပ်မက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အိပ်မက် = 「夢」(ゆめ)။"
+      },
+      {
+        "id": 2,
+        "text": "အသိစိတ်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「意識」= အသိစိတ်/သတိရှိမှု။"
+      },
+      {
+        "id": 3,
+        "text": "မှတ်ဉာဏ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ မှတ်ဉာဏ် = 「記憶」(きおく)။"
+      },
+      {
+        "id": 4,
+        "text": "စိတ်ကူး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စိတ်ကူး = 「想像」(そうぞう)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 意識 = いしき (အသိစိတ်) · 記憶 = きおく (မှတ်ဉာဏ်) · 想像 = そうぞう (စိတ်ကူး)"
+  },
+  {
+    "id": 1794456050620,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「かち」の いみは どれですか。",
+    "question_my": "「かち」(価値) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဈေးနှုန်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဈေးနှုန်း = 「値段」(ねだん)။"
+      },
+      {
+        "id": 2,
+        "text": "အရေအတွက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရေအတွက် = 「数量」(すうりょう)။"
+      },
+      {
+        "id": 3,
+        "text": "တန်ဖိုး",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「価値」= တန်ဖိုး။"
+      },
+      {
+        "id": 4,
+        "text": "အရည်အချင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အရည်အချင်း = 「資質」(ししつ)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 価値 = かち (တန်ဖိုး) · 値段 = ねだん (ဈေးနှုန်း) · 資質 = ししつ (အရည်အချင်း)"
+  },
+  {
+    "id": 1794456050621,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「いぎ」の いみは どれですか。",
+    "question_my": "「いぎ」(意義) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ရလဒ်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရလဒ် = 「結果」(けっか)။"
+      },
+      {
+        "id": 2,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 3,
+        "text": "နည်းလမ်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ နည်းလမ်း = 「方法」(ほうほう)။"
+      },
+      {
+        "id": 4,
+        "text": "အဓိပ္ပာယ်/အရေးပါမှု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「意義」= အဓိပ္ပာယ်/အရေးပါမှု။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 意義 = いぎ (အဓိပ္ပာယ်) · 結果 = けっか (ရလဒ်) · 方法 = ほうほう (နည်းလမ်း)"
+  },
+  {
+    "id": 1794456050623,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「こうか」の いみは どれですか。",
+    "question_my": "「こうか」(効果) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဘေးထွက်ဆိုးကျိုး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဘေးထွက်ဆိုးကျိုး = 「副作用」(ふくさよう)။"
+      },
+      {
+        "id": 2,
+        "text": "အကျိုးသက်ရောက်မှု",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「効果」= အကျိုးသက်ရောက်မှု။"
+      },
+      {
+        "id": 3,
+        "text": "အကြောင်းရင်း",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အကြောင်းရင်း = 「原因」(げんいん)။"
+      },
+      {
+        "id": 4,
+        "text": "ရည်ရွယ်ချက်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ရည်ရွယ်ချက် = 「目的」(もくてき)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 効果 = こうか (အကျိုးသက်ရောက်မှု) · 副作用 = ふくさよう (ဘေးထွက်ဆိုးကျိုး) · 原因 = げんいん (အကြောင်းရင်း)"
+  },
+  {
+    "id": 1794456050624,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「けいけん」の いみは どれですか。",
+    "question_my": "「けいけん」(経験) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "အတွေ့အကြုံ",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「経験」= အတွေ့အကြုံ။"
+      },
+      {
+        "id": 2,
+        "text": "ဗဟုသုတ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဗဟုသုတ = 「知識」(ちしき)။"
+      },
+      {
+        "id": 3,
+        "text": "စွမ်းရည်",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ စွမ်းရည် = 「能力」(のうりょく)။"
+      },
+      {
+        "id": 4,
+        "text": "ကြိုးစားမှု",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ကြိုးစားမှု = 「努力」(どりょく)။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 経験 = けいけん (အတွေ့အကြုံ) · 知識 = ちしき (ဗဟုသုတ) · 能力 = のうりょく (စွမ်းရည်)"
+  },
+  {
+    "id": 1794456050625,
+    "category": "Vocabulary Quiz",
+    "mondai": "「　」の いみは どれですか。",
+    "question": "「のうりょく」の いみは どれですか。",
+    "question_my": "「のうりょく」(能力) ရဲ့ အဓိပ္ပာယ်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ဆန္ဒ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ ဆန္ဒ = 「願望」(がんぼう)။"
+      },
+      {
+        "id": 2,
+        "text": "အတွေ့အကြုံ",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အတွေ့အကြုံ = 「経験」(けいけん)။"
+      },
+      {
+        "id": 3,
+        "text": "အခွင့်အရေး",
+        "romaji": "",
+        "is_correct": false,
+        "explain_my": "❌ အခွင့်အရေး = 「機会」(きかい)။"
+      },
+      {
+        "id": 4,
+        "text": "စွမ်းရည်",
+        "romaji": "",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「能力」= စွမ်းရည်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 能力 = のうりょく (စွမ်းရည်) · 経験 = けいけん (အတွေ့အကြုံ) · 機会 = きかい (အခွင့်အရေး)"
+  }
+]
