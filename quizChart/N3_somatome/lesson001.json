@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1794565538885,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしは まいにち あさ 6じに おきます。それから ごはんを たべて、7じに いえを でます。」\nこの ひとは なんじに おきますか。",
+    "question_my": "「ကျွန်တော် နေ့စဉ် မနက် ၆ နာရီ ထတယ်။ ပြီးရင် ထမင်းစားပြီး ၇ နာရီ အိမ်က ထွက်တယ်။」\nဒီလူက ဘယ်အချိန် ထသလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "5じ",
+        "romaji": "goji",
+        "is_correct": false,
+        "explain_my": "❌ 5じ မဟုတ်ပါ။ စာပိုဒ်မှာ 6じ လို့ ရေးထားတယ်။"
+      },
+      {
+        "id": 2,
+        "text": "7じ",
+        "romaji": "shichiji",
+        "is_correct": false,
+        "explain_my": "❌ 7じ က အိမ်က ထွက်တဲ့အချိန်။ ထတဲ့အချိန် မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "6じ",
+        "romaji": "rokuji",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「あさ 6じに おきます」= မနက် ၆ နာရီ ထတယ်။"
+      },
+      {
+        "id": 4,
+        "text": "8じ",
+        "romaji": "hachiji",
+        "is_correct": false,
+        "explain_my": "❌ 8じ မဟုတ်ပါ။ စာပိုဒ်မှာ မပါပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜じにおきます」= ~နာရီ ထတယ်။ 「〜じにいえをでます」= ~နာရီ အိမ်က ထွက်တယ်။"
+  },
+  {
+    "id": 1794565538886,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしの かぞくは 4にんです。ちちと ははと あねと わたしです。いぬも います。」\nかぞくは なんにんですか。",
+    "question_my": "「ကျွန်တော့် မိသားစုက ၄ ယောက်ပါ။ အဖေ၊ အမေ၊ အစ်မနဲ့ ကျွန်တော်။ ခွေးလည်း ရှိတယ်။」\nမိသားစုက ဘယ်နှယောက်လဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "4にん",
+        "romaji": "yonin",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「かぞくは 4にんです」= မိသားစုက ၄ ယောက်။ ခွေးက မိသားစုဝင် မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "3にん",
+        "romaji": "sannin",
+        "is_correct": false,
+        "explain_my": "❌ 3 ယောက် မဟုတ်ပါ။ အဖေ၊ အမေ၊ အစ်မ၊ ကိုယ် = ၄ ယောက်။"
+      },
+      {
+        "id": 3,
+        "text": "5にん",
+        "romaji": "gonin",
+        "is_correct": false,
+        "explain_my": "❌ 5 ယောက် မဟုတ်ပါ။ ခွေးကို မရေတွက်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "2にん",
+        "romaji": "futari",
+        "is_correct": false,
+        "explain_my": "❌ 2 ယောက် မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜にん」= ~ယောက် (လူ)။ 「いぬ」= ခွေး (မိသားစုဝင် မရေတွက်)"
+  },
+  {
+    "id": 1794565538887,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「きのう ともだちと えいがを みました。とても おもしろかったです。それから レストランで ごはんを たべました。」\nきのう なにを しましたか。",
+    "question_my": "「မနေ့က သူငယ်ချင်းနဲ့ ရုပ်ရှင် ကြည့်တယ်။ အရမ်း စိတ်ဝင်စားဖို့ကောင်းတယ်။ ပြီးရင် စားသောက်ဆိုင်မှာ ထမင်းစားတယ်။」\nမနေ့က ဘာလုပ်ခဲ့လဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ほんを よみました",
+        "romaji": "hon wo yomimashita",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ် ဖတ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "テニスを しました",
+        "romaji": "tenisu wo shimashita",
+        "is_correct": false,
+        "explain_my": "❌ တင်းနစ် ကစားတာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "かいものを しました",
+        "romaji": "kaimono wo shimashita",
+        "is_correct": false,
+        "explain_my": "❌ ဈေးဝယ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "えいがを みて、ごはんを たべました",
+        "romaji": "eiga wo mite, gohan wo tabemashita",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「えいがを みました」+「ごはんを たべました」= ရုပ်ရှင်ကြည့်ပြီး ထမင်းစားတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜て、〜」= ~ပြီး ~။ လုပ်ဆောင်မှု ၂ ခု ဆက်တွဲပြတယ်။"
+  },
+  {
+    "id": 1794565538888,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしは くだものが すきです。とくに りんごが すきです。まいにち ひとつ たべます。」\nこの ひとの いちばん すきな くだものは なんですか。",
+    "question_my": "「ကျွန်တော် သစ်သီး ကြိုက်တယ်။ အထူးသဖြင့် ပန်းသီး ကြိုက်တယ်။ နေ့စဉ် တစ်လုံး စားတယ်။」\nဒီလူ အကြိုက်ဆုံး သစ်သီးက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "みかん",
+        "romaji": "mikan",
+        "is_correct": false,
+        "explain_my": "❌ လိမ္မော်သီး မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "りんご",
+        "romaji": "ringo",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「とくに りんごが すきです」= အထူးသဖြင့် ပန်းသီး ကြိုက်တယ်။"
+      },
+      {
+        "id": 3,
+        "text": "バナナ",
+        "romaji": "banana",
+        "is_correct": false,
+        "explain_my": "❌ ငှက်ပျောသီး မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "いちご",
+        "romaji": "ichigo",
+        "is_correct": false,
+        "explain_my": "❌ စတော်ဘယ်ရီ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「とくに〜がすき」= အထူးသဖြင့် ~ကို ကြိုက်တယ်။"
+  },
+  {
+    "id": 1794565538889,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「あしたは にちようびです。わたしは こうえんへ いきます。そこで テニスを します。」\nあした なにを しますか。",
+    "question_my": "「မနက်ဖန်က တနင်္ဂနွေ။ ကျွန်တော် ပန်းခြံ သွားမယ်။ အဲဒီမှာ တင်းနစ် ကစားမယ်။」\nမနက်ဖန် ဘာလုပ်မလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "べんきょうします",
+        "romaji": "benkyou shimasu",
+        "is_correct": false,
+        "explain_my": "❌ စာလုပ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "えいがを みます",
+        "romaji": "eiga wo mimasu",
+        "is_correct": false,
+        "explain_my": "❌ ရုပ်ရှင်ကြည့်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "テニスを します",
+        "romaji": "tenisu wo shimasu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「こうえんで テニスを します」= ပန်းခြံမှာ တင်းနစ် ကစားမယ်။"
+      },
+      {
+        "id": 4,
+        "text": "ほんを よみます",
+        "romaji": "hon wo yomimasu",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်ဖတ်တာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜で」= ~မှာ (လုပ်ဆောင်မှု နေရာ)။ 「こうえんで テニスをします」"
+  },
+  {
+    "id": 1794565538890,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしの ねこは しろいです。とても かわいいです。なまえは ミミです。」\nねこの なまえは なんですか。",
+    "question_my": "「ကျွန်တော့် ကြောင်က အဖြူရောင်။ အရမ်း ချစ်ဖို့ကောင်းတယ်။ နာမည်က မီမီ။」\nကြောင်ရဲ့ နာမည်က ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "ミミ",
+        "romaji": "Mimi",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「なまえは ミミです」= နာမည်က မီမီ။"
+      },
+      {
+        "id": 2,
+        "text": "シロ",
+        "romaji": "Shiro",
+        "is_correct": false,
+        "explain_my": "❌ ရှီရို (အဖြူ) က အရောင်။ နာမည် မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "タマ",
+        "romaji": "Tama",
+        "is_correct": false,
+        "explain_my": "❌ တာမာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "クロ",
+        "romaji": "Kuro",
+        "is_correct": false,
+        "explain_my": "❌ ခုရို (အမည်း) မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「なまえは〜です」= နာမည်က ~။ 「しろい」= အဖြူရောင်"
+  },
+  {
+    "id": 1794565538891,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「きょうは あめです。だから わたしは かさを もって がっこうへ いきます。」\nなぜ かさを もって いきますか。",
+    "question_my": "「ဒီနေ့ မိုးရွာတယ်။ ဒါကြောင့် ကျွန်တော် ထီးယူပြီး ကျောင်းသွားမယ်။」\nဘာကြောင့် ထီးယူသွားတာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "あついから",
+        "romaji": "atsui kara",
+        "is_correct": false,
+        "explain_my": "❌ ပူလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "さむいから",
+        "romaji": "samui kara",
+        "is_correct": false,
+        "explain_my": "❌ အေးလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "はれだから",
+        "romaji": "hare dakara",
+        "is_correct": false,
+        "explain_my": "❌ နေသာလို့ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "あめだから",
+        "romaji": "ame dakara",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「きょうは あめです。だから かさを もって いきます」= မိုးရွာလို့ ထီးယူသွားတယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「だから」= ဒါကြောင့်။ အကြောင်းရင်း → အကျိုးဆက်။"
+  },
+  {
+    "id": 1794565538892,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしは がくせいです。まいにち でんしゃで がっこうへ いきます。でんしゃは 30ぷん かかります。」\nがっこうまで なにで いきますか。",
+    "question_my": "「ကျွန်တော် ကျောင်းသား။ နေ့စဉ် ရထားနဲ့ ကျောင်းသွားတယ်။ ရထားက မိနစ် ၃၀ ကြာတယ်။」\nကျောင်းကို ဘာနဲ့ သွားသလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "バス",
+        "romaji": "basu",
+        "is_correct": false,
+        "explain_my": "❌ ဘတ်စ်ကား မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "でんしゃ",
+        "romaji": "densha",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「でんしゃで がっこうへ いきます」= ရထားနဲ့ ကျောင်းသွားတယ်။"
+      },
+      {
+        "id": 3,
+        "text": "くるま",
+        "romaji": "kuruma",
+        "is_correct": false,
+        "explain_my": "❌ ကား မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "あるいて",
+        "romaji": "aruite",
+        "is_correct": false,
+        "explain_my": "❌ လမ်းလျှောက် မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「〜で」= ~နဲ့ (သယ်ယူပို့ဆောင်ရေး နည်းလမ်း)။ 「でんしゃで」「バスで」"
+  },
+  {
+    "id": 1794565538893,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「この ほんは とても おもしろいです。わたしは まいばん ねる まえに よみます。」\nいつ この ほんを よみますか。",
+    "question_my": "「ဒီစာအုပ်က အရမ်း စိတ်ဝင်စားဖို့ကောင်းတယ်။ ကျွန်တော် နေ့တိုင်း အိပ်ရာမဝင်ခင် ဖတ်တယ်။」\nဒီစာအုပ်ကို ဘယ်အချိန် ဖတ်သလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "あさ",
+        "romaji": "asa",
+        "is_correct": false,
+        "explain_my": "❌ မနက် မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "ひる",
+        "romaji": "hiru",
+        "is_correct": false,
+        "explain_my": "❌ နေ့လယ် မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "ねる まえ",
+        "romaji": "neru mae",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「ねる まえに よみます」= အိပ်ရာမဝင်ခင် ဖတ်တယ်။"
+      },
+      {
+        "id": 4,
+        "text": "がっこうで",
+        "romaji": "gakkou de",
+        "is_correct": false,
+        "explain_my": "❌ ကျောင်းမှာ မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「V-る + まえに」= ~မလုပ်ခင်။ 「ねるまえに」= အိပ်ရာမဝင်ခင်"
+  },
+  {
+    "id": 1794565538894,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「わたしの しゅみは おんがくを きくことです。まいにち うちで CDを ききます。」\nしゅみは なんですか。",
+    "question_my": "「ကျွန်တော့် ဝါသနာက ဂီတ နားထောင်တာ။ နေ့စဉ် အိမ်မှာ CD နားထောင်တယ်။」\nဝါသနာက ဘာလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "おんがくを きくこと",
+        "romaji": "ongaku wo kiku koto",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「しゅみは おんがくを きくことです」= ဝါသနာက ဂီတနားထောင်တာ။"
+      },
+      {
+        "id": 2,
+        "text": "えいがを みること",
+        "romaji": "eiga wo miru koto",
+        "is_correct": false,
+        "explain_my": "❌ ရုပ်ရှင်ကြည့်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "ほんを よむこと",
+        "romaji": "hon wo yomu koto",
+        "is_correct": false,
+        "explain_my": "❌ စာအုပ်ဖတ်တာ မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "スポーツを すること",
+        "romaji": "supootsu wo suru koto",
+        "is_correct": false,
+        "explain_my": "❌ အားကစား မဟုတ်ပါ။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「しゅみは 〜ことです」= ဝါသနာက ~။ 「こと」က ကြိယာကို နာမ်ဖြစ်စေတယ်။"
+  },
+  {
+    "id": 1794565538895,
+    "category": "Reading Comprehension",
+    "mondai": "ぶんしょうを よんで、しつもんに こたえてください。",
+    "question": "「きょうは とても あついです。わたしは つめたい みずを のみます。」\nなにを のみますか。",
+    "question_my": "「ဒီနေ့ အရမ်း ပူတယ်။ ကျွန်တော် ရေအေး သောက်မယ်။」\nဘာသောက်မလဲ?",
+    "options": [
+      {
+        "id": 1,
+        "text": "あつい おちゃ",
+        "romaji": "atsui ocha",
+        "is_correct": false,
+        "explain_my": "❌ လက်ဖက်ရည်ပူ မဟုတ်ပါ။"
+      },
+      {
+        "id": 2,
+        "text": "コーヒー",
+        "romaji": "koohii",
+        "is_correct": false,
+        "explain_my": "❌ ကော်ဖီ မဟုတ်ပါ။"
+      },
+      {
+        "id": 3,
+        "text": "ジュース",
+        "romaji": "juusu",
+        "is_correct": false,
+        "explain_my": "❌ ဖျော်ရည် မဟုတ်ပါ။"
+      },
+      {
+        "id": 4,
+        "text": "つめたい みず",
+        "romaji": "tsumetai mizu",
+        "is_correct": true,
+        "explain_my": "✅ မှန်ပါတယ်! 「つめたい みずを のみます」= ရေအေး သောက်တယ်။"
+      }
+    ],
+    "summary_my": "မှတ်ချက်: 「つめたい」= အေး · 「あつい」= ပူ · 「のみます」= သောက်တယ်"
+  }
+]
